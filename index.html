@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CBMMG Live - Monitor de Ocorrências</title>
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; height: 100vh; background: #0f1015; }
+    
+    /* Barra Lateral */
+    #sidebar {
+      width: 400px;
+      background-color: #16171d;
+      color: #e1e1e6;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      border-right: 1px solid #23242c;
+      z-index: 1000;
+    }
+
+    .header-panel {
+      padding: 20px;
+      background: linear-gradient(180deg, #1f2029 0%, #16171d 100%);
+      border-bottom: 1px solid #282a36;
+    }
+
+    .header-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: #ff3b30;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      letter-spacing: 0.5px;
+    }
+
+    .header-subtitle {
+      font-size: 12px;
+      color: #8c8d99;
+      margin-top: 6px;
+    }
+
+    .status-bar {
+      margin-top: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #111217;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 11px;
+    }
+
+    .status-live {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #00d68f;
+      font-weight: 600;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background-color: #00d68f;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00d68f;
+    }
+
+    #news-list {
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .news-card {
+      background-color: #1e1f26;
+      padding: 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      border-left: 4px solid #ff3b30;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: all 0.2s ease;
+    }
+
+    .news-card:hover {
+      background-color: #272833;
+      transform: translateY(-2px);
+    }
+
+    .news-card.active {
+      background-color: #2c2d3a;
+      border-left-color: #00d68f;
+    }
+
+    .card-badge {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      color: #ff5c5c;
+      background: rgba(255, 59, 48, 0.12);
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-bottom: 8px;
+    }
+
+    .news-card h4 {
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.45;
+      color: #f1f1f4;
+      margin-bottom: 8px;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      color: #7b7c88;
+    }
+
+    .card-link {
+      color: #5ac8fa;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .card-link:hover { text-decoration: underline; }
+
+    /* Mapa */
+    #map { flex: 1; height: 100%; }
+
+    /* Estilização dos Popups do Leaflet */
+    .leaflet-popup-content-wrapper {
+      background: #1a1b24;
+      color: #f1f1f4;
+      border-radius: 10px;
+      padding: 4px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+      border: 1px solid #2e303d;
+    }
+
+    .leaflet-popup-tip {
+      background: #1a1b24;
+    }
+
+    .custom-popup-header {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #ff3b30;
+      margin-bottom: 6px;
+    }
+
+    .custom-popup-title {
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.4;
+      color: #ffffff;
+      margin-bottom: 10px;
+    }
+
+    .custom-popup-btn {
+      display: block;
+      text-align: center;
+      background: #ff3b30;
+      color: #ffffff;
+      padding: 6px 12px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+
+    .custom-popup-btn:hover {
+      background: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="sidebar">
+    <div class="header-panel">
+      <div class="header-title">
+        <span>🚒</span> CBMMG LIVE
+      </div>
+      <div class="header-subtitle">Central Integrada de Ocorrências em Minas Gerais</div>
+      <div class="status-bar">
+        <div class="status-live">
+          <div class="status-dot"></div> MONITORANDO FEED
+        </div>
+        <div id="count-label" style="color: #a0a0b0;">0 ocorrências</div>
+      </div>
+    </div>
+    <div id="news-list">Carregando dados...</div>
+  </div>
+
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    const map = L.map('map').setView([-18.8, -44.5], 7);
+
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const newsList = document.getElementById('news-list');
+    const countLabel = document.getElementById('count-label');
+    const cardElements = [];
+
+    fetch('ocorrencias.json')
+      .then(res => res.json())
+      .then(ocorrencias => {
+        newsList.innerHTML = '';
+        countLabel.innerText = `${ocorrencias.length} registradas`;
+
+        ocorrencias.forEach((item, index) => {
+          const marker = L.marker([item.lat, item.lng]).addTo(map);
+
+          // Conteúdo formatado do popup escuro
+          const popupHtml = `
+            <div style="min-width: 220px; max-width: 280px; padding: 4px;">
+              <div class="custom-popup-header">🚨 ${item.local}</div>
+              <div class="custom-popup-title">${item.titulo}</div>
+              <a href="${item.link}" target="_blank" class="custom-popup-btn">Ler Notícia Completa ↗</a>
+            </div>
+          `;
+          marker.bindPopup(popupHtml);
+
+          // Card lateral
+          const card = document.createElement('div');
+          card.className = 'news-card';
+          card.innerHTML = `
+            <div class="card-badge">📍 ${item.local}</div>
+            <h4>${item.titulo}</h4>
+            <div class="card-footer">
+              <span>CBMMG • ${item.hora}</span>
+              <a href="${item.link}" target="_blank" class="card-link">Fonte ↗</a>
+            </div>
+          `;
+
+          const ativarOcorrencia = () => {
+            cardElements.forEach(c => c.classList.remove('active'));
+            card.classList.add('active');
+            card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            map.flyTo([item.lat, item.lng], 12, { duration: 1.2 });
+            marker.openPopup();
+          };
+
+          card.addEventListener('click', ativarOcorrencia);
+          marker.on('click', () => {
+            cardElements.forEach(c => c.classList.remove('active'));
+            card.classList.add('active');
+            card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          });
+
+          cardElements.push(card);
+          newsList.appendChild(card);
+        });
+      })
+      .catch(erro => {
+        newsList.innerHTML = '<p style="color: #ff6b6b; padding: 15px;">Falha ao carregar ocorrencias.json.</p>';
+        console.error(erro);
+      });
+  </script>
+</body>
+</html>
