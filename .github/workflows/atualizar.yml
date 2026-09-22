@@ -1,15 +1,14 @@
-name: Atualizar Ocorrencias CBMMG
+name: Atualizar Ocorrencias
 
 on:
   schedule:
-    # Executa a cada 2 horas de forma automatica
-    - cron: '0 */2 * * *'
-  # Permite disparar manualmente pelo painel
+    # Executa a cada 5 minutos de forma automatica
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   coletar-e-atualizar:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Baixar arquivos do repositorio
@@ -25,7 +24,7 @@ jobs:
 
       - name: Salvar e publicar atualizacoes
         run: |
-          git config --global user.name "Robo CBMMG"
+          git config --global user.name "Robo Alerta"
           git config --global user.email "bot@github.actions"
           git add ocorrencias.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizacao automatica de ocorrencias" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizacao continua (5 min)" && git push)
