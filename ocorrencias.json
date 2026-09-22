@@ -1,5 +1,115 @@
 [
   {
+    "id": 16,
+    "titulo": "Colisão entre ônibus e caminhão deixa seis mortos e mais de 40 feridos em Minas Gerais - estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTFIbUg0R01lT0Z1SmY1WHZxaW5oSE5CVFNhS2lPZHFsTTloODYxR3hZakZNMUZRdDhSanRGTF9sa1dTWUVCMDFaamNlU0VyVFdJLUlaZ2JYQ1cwcXZJSnlLT2tSZzdwalB1MmQ1VEg3aExiRkk2TUxrQjlkR192N0N3UlYxOWNISTdjV0tsMXF5cVZhVGJqWlVwWkpITDBuVlgwdnhfay1yUdIBrwFBVV95cUxOZm9ERHBtWEtYZVlOMURUek5pSWhsV2Q0a2prODlpbnVISnFXUHFZX0lDczV2TGQ1UUd1Y2FJVGlZM05pNWhvUlFNSjRIZkNMZWl4dmF5T1lJdXhCTHA1R0ZJa1RyN25IcjlxR05rQkJrcTRpUUlwLUdKQkpkell0V0xPNThwbDYzLTQ2dFI4SWlBaGI3M1h5bWZyb3E3cnBDQk12VXdFdW83UVBlandJ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92101,
+    "lng": -43.9469,
+    "hora": "Recente"
+  },
+  {
+    "id": 17,
+    "titulo": "Corpo de Bombeiros localiza homem morto por afogamento em represa de fazenda - Clarim Araxá",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE3aUN2dk1uZ0tiYml0c3ExTEs5XzRBX1JtRFlYUlVNV3hST0N5M2NibTBmd0tJV3EtcjV5cUFBczBRdXhrT1lQUDh0N1gzdUpwWDM5VFk5ZjExWXNhZndwLXVzSGhJLWVQZkJGS3c1LXhKRlhfNDFDQVNvVDBUZTY3ZG9rZmRFVGtsYTl2V0JlalpxaWwyTmVUSTVMUXFP?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92457,
+    "lng": -43.94392,
+    "hora": "Recente"
+  },
+  {
+    "id": 18,
+    "titulo": "Colisão entre ônibus e carreta deixa seis mortos e mais de 40 feridos em MG - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFk4djVLRF9pbDc0UDdsaWhlTC1XT1NkTnRxSnVaSGpfWm1uLUJ0Tnh1Z2NlY3ZKa0FkOXVLSnBub1BhQjZiTUVYclp0ckJMMFZoNVYya1l1ODFBYUJTN3E5OFAySXJ6TDRjdGFQaDdPMFpRbjg3WEcwamNod2lfd19VQ3dTbnc5d2h4TlI4RjREcXFZdm5RSDU3SVN0OUx4UF81anAtNXZpTldyRXN5RXA0d1dhRkdXTmlaZWtQMEhaZ0k?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92521,
+    "lng": -43.94278,
+    "hora": "Recente"
+  },
+  {
+    "id": 19,
+    "titulo": "Defesa Civil interdita casas após risco de desabamento em rua de Nova Lima - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUlELWxJaFZLbzZUQk5idGRWeURnNzZVZU8yclJvdWthZTNmYlBRakJ4STJwMHFKTFh4cGNBa2dlOUM3a0djcGMzZ0RKcDNnYV9IX1NuM0ppX1l0bGRrd3Nsd296c0VEbXo3QVA3elhNcWNhUkczQmRXV2dSUHJVQTZIcThKdkJwY3pQdmZsNFUwQ3RfQW1MazF4V0RZbW9RWjBzZ1pObk12b296a0JXdHB2TTBjTHI1UkpnbVVB?oc=5",
+    "local": "Nova Lima",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.98465,
+    "lng": -43.84989,
+    "hora": "Recente"
+  },
+  {
+    "id": 20,
+    "titulo": "Incêndio em mata atinge loja de móveis e mobiliza bombeiros em BH - metropoles.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHdHRmpGd1h3aDU1VTctS1ZfU1hsYTdrUzRZUkMwRkdkZXFWQ0hNVlhwa0V1V09kZ1hIdmlfZzNqTmJVRzd2Tmd0TEtabTJkWWxsVHVDY2FvRjQ0anl6N2JMbEI0LUZaR2xfWFBjUkpYZUloVFMyRWxSQTRkUkxyMEgzOERMaHZYc1NVa1JFUWxacWVOT1FtakdOQnBNekI4OFNXSWYtbTg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92334,
+    "lng": -43.94756,
+    "hora": "Recente"
+  },
+  {
+    "id": 21,
+    "titulo": "Incêndio em galpão de móveis é combatido há 3 dias pelos bombeiros em BH - metropoles.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzU3T0JJTmplR1ZxZVpmcVB4MzBjWUZGOUJRN21TNVdhZk45eUdCNTdabEdnVmRGRDZpQ2FiS1JLWWV1eTk0QVlOV1VTTl9rMDE1RTB0dGZCMHdiNllQQmd2NFU0Wnp2cUpjZ1c4b3hfOVlPS3JmSTVJY2c3eHExeUc5ajZJMXVHZW5QZU1HT1NReDZLcXhZUmVuWmlmQVhVY183ZE5RakVOVlY3c1c2Y3BB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92159,
+    "lng": -43.94357,
+    "hora": "Recente"
+  },
+  {
+    "id": 22,
+    "titulo": "Incêndio que começou na terça-feira, ainda mobiliza Bombeiros em BH - g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVfSFFCNEZlMTRjU0NjVExiZWRsTUszT25CNVF5akczMWQ4YVRkbS1OTWxrUXpsVGZwWlNZcXA0c3NIR3dleFNmYVdKdmMwaURFSExXZFU3Tjh3SkdpaXg1WFhtcUowRXhlQ2x0RGF6SnlycnZPRVZRQXR5ZmlSV0M4N0RObV9PQzBYX2JDRWJJSFgzZDRzemRMa3JoU0t5eW9WRFdqb3FDMjVIeHlKSE1peHQ2Mkp3ZnFoMklZbEc3dTkzbDdpem10VFNERlhQbXhkSNIB4wFBVV95cUxOaW1xai1CVEVKdDM3X0RnVmhDeG4zY2JDa2NfVm1odDFVVkhtWlNoczZrckVWMkh1TTI4UVFZQjlOUUFYVnhKS3FKS0J3MHF6WXpwbm5IakNKTWdWQ01pcWNfclp1MkNPdlYtWXNLaGdmc0ZYYWwydXUzaWJXUjZ3S1p2MDZuMlBpVE9DZjhUd0U1bFp4c1lCODNfVHhwSERTSTI5YXJDVGlyb0pWRHhzTGdyNTJfRFB0dnpxX2VxWkNXRUFlamdjcjNJZUFpakJiMzNXWlN5U3FVb3NLb0pfVFZmMA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92019,
+    "lng": -43.94395,
+    "hora": "Recente"
+  },
+  {
+    "id": 23,
+    "titulo": "Incêndio em área de mata mobiliza bombeiros no Buritis, em BH - metropoles.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDd4WmFTc0t6M3VKSEpvM1Bmb1hkMGp1THFNWW43dmhUZXROS1hKM3lUWms2Qkh3a1IyN0pIWElxRjFhM0ktNXFIbm5vY2VsbXB2dE10SGpRMHdQS0RsLXJLUTRlV2l5bHp2c0NXS0pIU19QM0x2MnNjaUVkaFdUTFk2YWxXbWNDYlNYMVMyNG8wNUE1SnFLc05TbHhjWGtxb0E?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92563,
+    "lng": -43.94544,
+    "hora": "Recente"
+  },
+  {
+    "id": 24,
+    "titulo": "Após incêndio de seis dias, Defesa Civil interdita depósito de móveis na Grande BH - g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXQ4UWU3UGljZktKZzlJakhvNWNjWktLWmFSb1EydkhfbFZsOGNHbkJHQWVDWnQ0M0FtbEcwdGJNX25uZUZzNjl5aDJYUTJveVJRVGozS3JQOEtsaVREQm93Z2VDTTE5SGJhOW9GU3lwLUhHOEhWWjdFZmtEeEtMTXFwaUFUUG5zcmxDRnQ2eXZ4R0xjMzZkMENnNERqYzdXSWxfMk5SLUJaeTBKV2x2RkplNklyMHFieDlxc05tZHNsSE8wSlN0VnlUS2liaVpGSGs5OVJ2TFVwX2vSAeoBQVVfeXFMT2o5NjJwbTlmUkhXSUJfcDc2VUxnMzU5QTBpeTZ0LXRDMDB1bkpvSmpVZDZ2b1BESm9ocGwxSlF6UWxVaTFwVmlDWjM1ZVpiMC1yc2ZNTk85NHJpNjhKQUdjYnVsMDZoS3otdFpHbVJiLVZCVjhVX1kyOUlxTWhTaVJmQmdhaDVla2JfaFZPc3UtUTZNUWRWTENqT3k3aEVuQU04dXI5VE5YOU9PcTNIdmZjZEhZQmFGVVo2MTFkWjE3Vkc1bzE1d1dsYUFnTHVtWDZyRGZaWExVR05XQmJJUUluTnVFay1Rd2Rn?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92429,
+    "lng": -43.94678,
+    "hora": "Recente"
+  },
+  {
+    "id": 25,
+    "titulo": "Bombeiros apagam incêndio em mata no Buritis após 7h de combate e 25,6 hectares queimados - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnNjeGZjR0lndHJMYXFuV0U4Zm84eVZRZjNrbUNwOXhKNWp4dXBjcnlPQ01KZjR3ZVd6aU9TY3NGM3BJRjdjWHlmS1VKcDNlc2xhcENCSXBxUHd2a3loZkVHRTFTYzJsUXJtclpNMjMwQnRJY3lJdVNMcjRDN2NBQ0RBTlFRSVI0Wi1obEI1MmFKaUxweTRud0M4YkI3c0QxSDhuR01DQU9YbjBpazgtOHl5OXRIR0JoeXYwcU53Z25HNlhpaktLLWtaejFRUl9z?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92565,
+    "lng": -43.94696,
+    "hora": "Recente"
+  },
+  {
     "id": 1,
     "titulo": "Bombeiros resgatam ouriço-cacheiro acuado por cães em Formiga (MG) - metropoles.com",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjVsYkM4M3RQRlNQaS1zellnVnBZLWhnSllvdG1BT3JYX0FpUlFtWC0yMFNUaFhqVjBrQ3ZzeklOcEVGMmRhdGNENkgxMDNJNzRXMVBXNktWRUFsVEI1M1ljWjhKbDllZUFkVURWcmVEb3YyQ2hoSDZkVTJVQ3dHNkxXYVM4N2xFNndyZXhfZzRqY1REbWZJNW9ZSTY5SklWeV9uREsxTQ?oc=5",
