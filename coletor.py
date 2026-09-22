@@ -29,12 +29,13 @@ CIDADES_MG_REFERENCIA = [
     "Itaobim", "Catuji", "Padre Paraíso", "Ponto dos Volantes", "Capelinha"
 ]
 
-def formatar_data_relativa(data_rfc):
+def formatar_data(data_rfc):
+    agora = datetime.now(FUSO_BRASILIA)
     if not data_rfc:
-        return "Recente", 999
+        return agora.strftime("%Y-%m-%d"), "Recente", 999
     try:
         dt = parsedate_to_datetime(data_rfc).astimezone(FUSO_BRASILIA)
-        agora = datetime.now(FUSO_BRASILIA)
+        data_dia = dt.strftime("%Y-%m-%d")
         diferenca = agora - dt
         horas = int(diferenca.total_seconds() // 3600)
         minutos = int((diferenca.total_seconds() % 3600) // 60)
@@ -45,9 +46,9 @@ def formatar_data_relativa(data_rfc):
             texto = f"Há {horas}h"
         else:
             texto = dt.strftime("%d/%m %H:%M")
-        return texto, horas
+        return data_dia, texto, horas
     except Exception:
-        return "Recente", 999
+        return agora.strftime("%Y-%m-%d"), "Recente", 999
 
 def classificar_categoria(texto):
     texto_l = texto.lower()
@@ -67,7 +68,7 @@ def buscar_coordenadas(termo_busca):
     try:
         query = f"{termo_busca}, Minas Gerais, Brasil"
         url = f"https://nominatim.openstreetmap.org/search?q={urllib.parse.quote(query)}&format=json&limit=1"
-        req = urllib.request.Request(url, headers={'User-Agent': 'MinasAlertaBot/4.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'MinasAlertaBot/5.0'})
         with urllib.request.urlopen(req, timeout=5) as resp:
             dados = json.loads(resp.read().decode('utf-8'))
             if dados:
@@ -106,18 +107,20 @@ def extrair_detalhes_localizacao(texto):
         return f"Trecho {rodovia}", f"{rodovia}, Minas Gerais", None
     return "Minas Gerais", "Belo Horizonte", "Belo Horizonte"
 
-# Carregar histórico anterior
 historico = []
+links_existentes = set()
 titulos_existentes = []
+
 if os.path.exists(ARQUIVO_JSON):
     try:
         with open(ARQUIVO_JSON, "r", encoding="utf-8") as f:
             historico = json.load(f)
-            titulos_existentes = [item.get("titulo", "").lower()[:40] for item in historico]
+            links_existentes = {item.get("link") for item in historico if "link" in item}
+            titulos_existentes = [item.get("titulo", "").lower()[:35] for item in historico]
     except Exception as e:
-        print(f"Aviso ao ler histórico: {e}")
+        print(f"Aviso ao carregar histórico: {e}")
 
-novas_ocorrencias = []
+novas = []
 req = urllib.request.Request(FEED_URL, headers=HEADERS)
 
 try:
@@ -133,17 +136,18 @@ try:
         pubdate = item.find("pubDate").text if item.find("pubDate") is not None else ""
         descricao = item.find("description").text if item.find("description") is not None else ""
 
-        # Filtro de similaridade (evita reportagens redundantes do mesmo evento)
-        titulo_chave = titulo.lower()[:40]
+        # Impede reprocessar o mesmo link ou notícia idêntica
+        if link in links_existentes:
+            continue
+        titulo_chave = titulo.lower()[:35]
         if any(titulo_chave in t or t in titulo_chave for t in titulos_existentes):
             continue
 
         texto_completo = f"{titulo} {descricao}"
         cat_id, cat_nome = classificar_categoria(texto_completo)
         rotulo, termo_geo, cidade_ancora = extrair_detalhes_localizacao(texto_completo)
-        tempo_str, horas_decorridas = formatar_data_relativa(pubdate)
+        data_dia, tempo_str, horas_decorridas = formatar_data(pubdate)
 
-        print(f"Geocodificando: {rotulo} ({termo_geo})...")
         lat, lng = buscar_coordenadas(termo_geo)
         time.sleep(1)
 
@@ -157,8 +161,9 @@ try:
         lat += random.uniform(-0.003, 0.003)
         lng += random.uniform(-0.003, 0.003)
 
-        nova = {
-            "id": len(historico) + len(novas_ocorrencias) + 1,
+        item_novo = {
+            "id": len(historico) + len(novas) + 1,
+            "data_dia": data_dia,
             "titulo": titulo,
             "link": link,
             "local": rotulo,
@@ -169,18 +174,20 @@ try:
             "hora": tempo_str,
             "recente": horas_decorridas <= 3
         }
-        novas_ocorrencias.append(nova)
+        novas.append(item_novo)
+        links_existentes.add(link)
         titulos_existentes.append(titulo_chave)
 
-        if len(novas_ocorrencias) >= 12:
+        if len(novas) >= 10:
             break
 
-    dados_finais = (novas_ocorrencias + historico)[:100]
+    # Mantém o histórico cumulativo acumulando até 500 ocorrências
+    dados_totais = (novas + historico)[:500]
 
     with open(ARQUIVO_JSON, "w", encoding="utf-8") as f:
-        json.dump(dados_finais, f, ensure_ascii=False, indent=2)
+        json.dump(dados_totais, f, ensure_ascii=False, indent=2)
 
-    print(f"\nConcluído! {len(novas_ocorrencias)} novas ocorrências adicionadas.")
+    print(f"Sucesso: {len(novas)} novas adicionadas. Base total: {len(dados_totais)}.")
 
 except Exception as erro:
     print(f"Erro: {erro}")
