@@ -14,8 +14,8 @@
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; height: 100vh; background: #0f1015; color: #e1e1e6; }
 
     #sidebar {
-      width: 430px;
-      min-width: 330px;
+      width: 440px;
+      min-width: 340px;
       background-color: #16171d;
       display: flex;
       flex-direction: column;
@@ -39,18 +39,42 @@
       gap: 8px;
     }
 
-    .header-subtitle {
-      font-size: 11px;
-      color: #8c8d99;
-      margin-top: 4px;
+    .header-subtitle { font-size: 11px; color: #8c8d99; margin-top: 4px; }
+
+    /* Barra de abas por data */
+    .date-tabs-bar {
+      display: flex;
+      gap: 6px;
+      padding: 10px 16px;
+      background: #12131a;
+      overflow-x: auto;
+      border-bottom: 1px solid #23242c;
     }
 
-    /* Métricas rápidas no topo */
+    .date-tab {
+      background: #1d1e28;
+      border: 1px solid #2f3140;
+      color: #a4a6b5;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 11px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+    .date-tab:hover, .date-tab.active {
+      background: #ff4747;
+      color: #ffffff;
+      border-color: #ff4747;
+    }
+
+    /* Métricas */
     .metrics-row {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 6px;
-      margin-top: 12px;
+      margin-top: 10px;
     }
     .metric-card {
       background: #111217;
@@ -63,7 +87,7 @@
     .metric-name { font-size: 9px; color: #7f808e; margin-top: 2px; }
 
     .controls-panel {
-      padding: 12px 16px;
+      padding: 10px 16px;
       border-bottom: 1px solid #23242c;
       background: #191a22;
       display: flex;
@@ -159,7 +183,7 @@
 
     #map { flex: 1; height: 100%; position: relative; }
 
-    /* Marcador com Radar Pulsante para eventos recentes */
+    /* Radar pulsante */
     .radar-wrapper {
       position: relative;
       display: flex;
@@ -200,14 +224,6 @@
     .icon-animal { background: #2a9d8f; }
     .icon-geral { background: #e76f51; }
 
-    /* Customização dos Clusters */
-    .marker-cluster-small { background-color: rgba(254, 202, 87, 0.4); }
-    .marker-cluster-small div { background-color: rgba(243, 156, 18, 0.8); color: #fff; font-weight: bold; }
-    .marker-cluster-medium { background-color: rgba(230, 126, 34, 0.4); }
-    .marker-cluster-medium div { background-color: rgba(211, 84, 0, 0.85); color: #fff; font-weight: bold; }
-    .marker-cluster-large { background-color: rgba(231, 76, 60, 0.4); }
-    .marker-cluster-large div { background-color: rgba(192, 57, 43, 0.9); color: #fff; font-weight: bold; }
-
     /* Popups Dark */
     .leaflet-popup-content-wrapper {
       background: #16171d;
@@ -231,7 +247,6 @@
       font-weight: 600;
     }
 
-    /* Botão Flutuante Reset Zoom */
     .reset-zoom-btn {
       position: absolute;
       bottom: 24px;
@@ -246,10 +261,6 @@
       cursor: pointer;
       z-index: 1000;
       box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      transition: background 0.2s;
     }
     .reset-zoom-btn:hover { background: #232530; }
 
@@ -289,6 +300,11 @@
       </div>
     </div>
 
+    <!-- Abas dinâmicas de datas -->
+    <div class="date-tabs-bar" id="date-tabs">
+      <button class="date-tab active" data-date="all">📅 Todos os Dias</button>
+    </div>
+
     <div class="controls-panel">
       <input type="text" id="search-box" class="search-input" placeholder="🔍 Filtrar por município ou rodovia..." />
       <div class="category-pills">
@@ -304,14 +320,13 @@
   </div>
 
   <div id="map">
-    <button class="reset-zoom-btn" id="btn-reset">📍 Enquadrar Minas Gerais</button>
+    <button class="reset-zoom-btn" id="btn-reset">📍 Focar Minas Gerais</button>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 
   <script>
-    // 1. Definição das Camadas do Mapa
     const ruasLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 18, attribution: 'Tiles &copy; Esri'
     });
@@ -325,8 +340,9 @@
     });
 
     const map = L.map('map', {
-      center: [-18.8, -44.5],
-      zoom: 7,
+      center: [-18.5, -44.4],
+      zoom: 6,
+      minZoom: 5,
       layers: [ruasLayer]
     });
 
@@ -336,6 +352,22 @@
       "🌙 Modo Tático Escuro": darkLayer
     }, null, { position: 'topright' }).addTo(map);
 
+    // Efeito Spotlight: Destaque de Minas Gerais através da malha do IBGE
+    fetch('https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-31-mun.json')
+      .then(res => res.json())
+      .then(mgGeo => {
+        L.geoJSON(mgGeo, {
+          style: {
+            color: '#ff4747',
+            weight: 1.2,
+            opacity: 0.7,
+            fillColor: '#ff4747',
+            fillOpacity: 0.03
+          }
+        }).addTo(map);
+      })
+      .catch(e => console.log('Borda de MG não pôde ser carregada:', e));
+
     const clusterGroup = L.markerClusterGroup({
       showCoverageOnHover: false,
       maxClusterRadius: 40
@@ -343,10 +375,12 @@
     map.addLayer(clusterGroup);
 
     const newsList = document.getElementById('news-list');
+    const dateTabsContainer = document.getElementById('date-tabs');
     const searchBox = document.getElementById('search-box');
     const pills = document.querySelectorAll('.pill');
 
     let todasOcorrencias = [];
+    let filtroData = 'all';
     let filtroCategoria = 'all';
     let filtroTexto = '';
 
@@ -371,9 +405,43 @@
       });
     }
 
-    function atualizarMetricas() {
+    function montarAbasDatas() {
+      // Coleta todas as datas únicas ordenadas da mais recente para a mais antiga
+      const datas = [...new Set(todasOcorrencias.map(o => o.data_dia).filter(Boolean))].sort().reverse();
+      
+      dateTabsContainer.innerHTML = '<button class="date-tab active" data-date="all">📅 Todos os Dias</button>';
+      
+      datas.forEach((d, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'date-tab';
+        btn.setAttribute('data-date', d);
+        
+        // Formata data amigável (DD/MM)
+        const partes = d.split('-');
+        const dataFormatada = `${partes[2]}/${partes[1]}`;
+        btn.innerText = (idx === 0 ? `Hoje (${dataFormatada})` : dataFormatada);
+
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.date-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          filtroData = d;
+          renderizar();
+        });
+
+        dateTabsContainer.appendChild(btn);
+      });
+
+      dateTabsContainer.querySelector('[data-date="all"]').addEventListener('click', (e) => {
+        document.querySelectorAll('.date-tab').forEach(b => b.classList.remove('active'));
+        e.target.classList.add('active');
+        filtroData = 'all';
+        renderizar();
+      });
+    }
+
+    function atualizarMetricas(ocorrenciasVisiveis) {
       const contagem = { acidente: 0, incendio: 0, aquatico: 0, animal: 0 };
-      todasOcorrencias.forEach(o => {
+      ocorrenciasVisiveis.forEach(o => {
         if (contagem[o.categoria] !== undefined) contagem[o.categoria]++;
       });
       document.getElementById('metric-acidente').innerText = contagem.acidente;
@@ -387,11 +455,14 @@
       newsList.innerHTML = '';
 
       const filtradas = todasOcorrencias.filter(item => {
+        const bateuData = (filtroData === 'all') || (item.data_dia === filtroData);
         const bateuCat = (filtroCategoria === 'all') || (item.categoria === filtroCategoria);
         const termo = filtroTexto.toLowerCase();
         const bateuTexto = item.local.toLowerCase().includes(termo) || item.titulo.toLowerCase().includes(termo);
-        return bateuCat && bateuTexto;
+        return bateuData && bateuCat && bateuTexto;
       });
+
+      atualizarMetricas(filtradas);
 
       filtradas.forEach(item => {
         const marker = L.marker([item.lat, item.lng], { icon: criarIcone(item.categoria, item.recente) });
@@ -437,7 +508,7 @@
       });
 
       if (filtradas.length === 0) {
-        newsList.innerHTML = '<p style="padding: 16px; color: #8c8d99; font-size: 13px;">Nenhuma ocorrência encontrada com estes filtros.</p>';
+        newsList.innerHTML = '<p style="padding: 16px; color: #8c8d99; font-size: 13px;">Nenhuma ocorrência encontrada para esta data ou filtro.</p>';
       }
     }
 
@@ -456,14 +527,14 @@
     });
 
     document.getElementById('btn-reset').addEventListener('click', () => {
-      map.flyTo([-18.8, -44.5], 7, { duration: 1.2 });
+      map.flyTo([-18.5, -44.4], 6.5, { duration: 1.2 });
     });
 
     fetch('ocorrencias.json')
       .then(res => res.json())
       .then(dados => {
         todasOcorrencias = dados;
-        atualizarMetricas();
+        montarAbasDatas();
         renderizar();
       })
       .catch(erro => {
