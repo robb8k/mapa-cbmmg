@@ -3,28 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CBMMG Live - Monitor de Ocorrências</title>
+  <title>Minas Alerta - Monitor de Emergências em Tempo Real</title>
   
+  <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Leaflet MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
 
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; height: 100vh; background: #0f1015; }
-    
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; display: flex; height: 100vh; background: #0f1015; color: #e1e1e6; }
+
     /* Barra Lateral */
     #sidebar {
-      width: 400px;
+      width: 420px;
+      min-width: 320px;
       background-color: #16171d;
-      color: #e1e1e6;
-      overflow-y: auto;
       display: flex;
       flex-direction: column;
       border-right: 1px solid #23242c;
       z-index: 1000;
+      height: 100%;
     }
 
     .header-panel {
-      padding: 20px;
+      padding: 16px;
       background: linear-gradient(180deg, #1f2029 0%, #16171d 100%);
       border-bottom: 1px solid #282a36;
     }
@@ -32,26 +36,25 @@
     .header-title {
       font-size: 18px;
       font-weight: 700;
-      color: #ff3b30;
+      color: #ff4747;
       display: flex;
       align-items: center;
-      gap: 10px;
-      letter-spacing: 0.5px;
+      gap: 8px;
     }
 
     .header-subtitle {
-      font-size: 12px;
+      font-size: 11px;
       color: #8c8d99;
-      margin-top: 6px;
+      margin-top: 4px;
     }
 
     .status-bar {
-      margin-top: 12px;
+      margin-top: 10px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       background: #111217;
-      padding: 6px 12px;
+      padding: 6px 10px;
       border-radius: 6px;
       font-size: 11px;
     }
@@ -72,8 +75,57 @@
       box-shadow: 0 0 8px #00d68f;
     }
 
+    /* Barra de busca e filtros */
+    .controls-panel {
+      padding: 12px 16px;
+      border-bottom: 1px solid #23242c;
+      background: #191a22;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .search-input {
+      width: 100%;
+      background: #0f1015;
+      border: 1px solid #2e303d;
+      color: #fff;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      outline: none;
+    }
+    .search-input:focus { border-color: #ff4747; }
+
+    .category-pills {
+      display: flex;
+      gap: 6px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    .pill {
+      background: #23242e;
+      color: #b0b1bd;
+      border: 1px solid #2f303d;
+      padding: 4px 8px;
+      border-radius: 12px;
+      font-size: 11px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+    .pill:hover, .pill.active {
+      background: #ff4747;
+      color: #fff;
+      border-color: #ff4747;
+    }
+
+    /* Lista de notícias */
     #news-list {
-      padding: 15px;
+      padding: 12px;
+      overflow-y: auto;
+      flex: 1;
       display: flex;
       flex-direction: column;
       gap: 10px;
@@ -81,110 +133,94 @@
 
     .news-card {
       background-color: #1e1f26;
-      padding: 14px;
+      padding: 12px;
       border-radius: 8px;
       cursor: pointer;
-      border-left: 4px solid #ff3b30;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      transition: all 0.2s ease;
+      border-left: 4px solid #ff4747;
+      transition: all 0.2s;
     }
+    .news-card:hover { background-color: #272833; transform: translateX(2px); }
+    .news-card.active { background-color: #2b2d3c; border-left-color: #00d68f; }
 
-    .news-card:hover {
-      background-color: #272833;
-      transform: translateY(-2px);
-    }
-
-    .news-card.active {
-      background-color: #2c2d3a;
-      border-left-color: #00d68f;
-    }
-
-    .card-badge {
-      display: inline-block;
-      font-size: 11px;
-      font-weight: 700;
-      color: #ff5c5c;
-      background: rgba(255, 59, 48, 0.12);
-      padding: 2px 8px;
-      border-radius: 4px;
-      margin-bottom: 8px;
-    }
-
-    .news-card h4 {
-      font-size: 13px;
-      font-weight: 600;
-      line-height: 1.45;
-      color: #f1f1f4;
-      margin-bottom: 8px;
-    }
-
-    .card-footer {
+    .card-top {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-size: 11px;
-      color: #7b7c88;
+      margin-bottom: 6px;
     }
 
+    .badge-cat {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .cat-incendio { background: rgba(255, 68, 68, 0.15); color: #ff5252; }
+    .cat-acidente { background: rgba(255, 140, 0, 0.15); color: #ff9f43; }
+    .cat-aquatico { background: rgba(0, 150, 255, 0.15); color: #48dbfb; }
+    .cat-animal { background: rgba(46, 204, 113, 0.15); color: #2ecc71; }
+    .cat-geral { background: rgba(255, 204, 0, 0.15); color: #feca57; }
+
+    .card-location { font-size: 11px; color: #a4a5b3; font-weight: 600; }
+    .news-card h4 { font-size: 13px; line-height: 1.4; color: #f1f1f4; margin-bottom: 6px; }
+
     .card-link {
+      font-size: 11px;
       color: #5ac8fa;
       text-decoration: none;
       font-weight: 600;
     }
-    .card-link:hover { text-decoration: underline; }
 
     /* Mapa */
     #map { flex: 1; height: 100%; }
 
-    /* Estilização dos Popups do Leaflet */
-    .leaflet-popup-content-wrapper {
-      background: #1a1b24;
-      color: #f1f1f4;
-      border-radius: 10px;
-      padding: 4px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.6);
-      border: 1px solid #2e303d;
-    }
-
-    .leaflet-popup-tip {
-      background: #1a1b24;
-    }
-
-    .custom-popup-header {
+    /* Estilos dos Marcadores Personalizados */
+    .custom-icon {
       display: flex;
       align-items: center;
-      gap: 6px;
-      font-size: 11px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: #ff3b30;
-      margin-bottom: 6px;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      color: white;
+      font-size: 16px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+      border: 2px solid #ffffff;
     }
+    .icon-incendio { background: #e63946; }
+    .icon-acidente { background: #f3722c; }
+    .icon-aquatico { background: #0077b6; }
+    .icon-animal { background: #2a9d8f; }
+    .icon-geral { background: #e76f51; }
 
-    .custom-popup-title {
-      font-size: 13px;
-      font-weight: 600;
-      line-height: 1.4;
-      color: #ffffff;
-      margin-bottom: 10px;
+    /* Custom Popups */
+    .leaflet-popup-content-wrapper {
+      background: #16171d;
+      color: #f1f1f4;
+      border-radius: 8px;
+      border: 1px solid #2e303d;
     }
-
-    .custom-popup-btn {
+    .leaflet-popup-tip { background: #16171d; }
+    .popup-box { padding: 4px; min-width: 220px; }
+    .popup-badge { font-size: 10px; font-weight: bold; text-transform: uppercase; margin-bottom: 4px; }
+    .popup-title { font-size: 13px; font-weight: 600; line-height: 1.4; margin-bottom: 8px; }
+    .popup-btn {
       display: block;
       text-align: center;
-      background: #ff3b30;
-      color: #ffffff;
-      padding: 6px 12px;
-      border-radius: 6px;
+      background: #ff4747;
+      color: #fff;
+      padding: 6px;
+      border-radius: 4px;
       text-decoration: none;
       font-size: 11px;
       font-weight: 600;
-      transition: background 0.2s;
     }
 
-    .custom-popup-btn:hover {
-      background: #d32f2f;
+    /* Responsividade para Smartphones */
+    @media (max-width: 768px) {
+      body { flex-direction: column-reverse; }
+      #sidebar { width: 100%; height: 50vh; }
+      #map { width: 100%; height: 50vh; }
     }
   </style>
 </head>
@@ -193,87 +229,162 @@
   <div id="sidebar">
     <div class="header-panel">
       <div class="header-title">
-        <span>🚒</span> CBMMG LIVE
+        <span>🚨</span> MINAS ALERTA
       </div>
-      <div class="header-subtitle">Central Integrada de Ocorrências em Minas Gerais</div>
+      <div class="header-subtitle">Monitor de Emergências e Ocorrências em Minas Gerais</div>
       <div class="status-bar">
         <div class="status-live">
-          <div class="status-dot"></div> MONITORANDO FEED
+          <div class="status-dot"></div> TEMPO REAL
         </div>
-        <div id="count-label" style="color: #a0a0b0;">0 ocorrências</div>
+        <div id="count-label">0 ocorrências</div>
       </div>
     </div>
+
+    <div class="controls-panel">
+      <input type="text" id="search-box" class="search-input" placeholder="🔍 Filtrar por município ou rodovia..." />
+      <div class="category-pills">
+        <button class="pill active" data-cat="all">Todas</button>
+        <button class="pill" data-cat="acidente">🚗 Acidentes</button>
+        <button class="pill" data-cat="incendio">🔥 Incêndios</button>
+        <button class="pill" data-cat="aquatico">🌊 Aquático</button>
+        <button class="pill" data-cat="animal">🐾 Animais</button>
+      </div>
+    </div>
+
     <div id="news-list">Carregando dados...</div>
   </div>
 
   <div id="map"></div>
 
+  <!-- Scripts: Leaflet + Plugin de Agrupamento (MarkerCluster) -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 
   <script>
     const map = L.map('map').setView([-18.8, -44.5], 7);
 
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    // Servidor Esri World Street Map (legível, com cidades e rodovias)
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 18,
-      attribution: '&copy; OpenStreetMap contributors'
+      attribution: 'Tiles &copy; Esri &mdash; Minas Alerta'
     }).addTo(map);
+
+    const clusterGroup = L.markerClusterGroup({
+      showCoverageOnHover: false,
+      maxClusterRadius: 40
+    });
+    map.addLayer(clusterGroup);
 
     const newsList = document.getElementById('news-list');
     const countLabel = document.getElementById('count-label');
-    const cardElements = [];
+    const searchBox = document.getElementById('search-box');
+    const pills = document.querySelectorAll('.pill');
+
+    let todasOcorrencias = [];
+    let filtroCategoria = 'all';
+    let filtroTexto = '';
+
+    const iconesEmoji = {
+      incendio: '🔥',
+      acidente: '🚗',
+      aquatico: '🌊',
+      animal: '🐾',
+      geral: '⚠️'
+    };
+
+    function criarIcone(cat) {
+      const emoji = iconesEmoji[cat] || '⚠️';
+      const classe = `icon-${cat || 'geral'}`;
+      return L.divIcon({
+        className: 'custom-div-icon',
+        html: `<div class="custom-icon ${classe}">${emoji}</div>`,
+        iconSize: [32, 32],
+        iconAnchor: [16, 16],
+        popupAnchor: [0, -14]
+      });
+    }
+
+    function renderizar() {
+      clusterGroup.clearLayers();
+      newsList.innerHTML = '';
+
+      const filtradas = todasOcorrencias.filter(item => {
+        const bateuCat = (filtroCategoria === 'all') || (item.categoria === filtroCategoria);
+        const termo = filtroTexto.toLowerCase();
+        const bateuTexto = item.local.toLowerCase().includes(termo) || item.titulo.toLowerCase().includes(termo);
+        return bateuCat && bateuTexto;
+      });
+
+      countLabel.innerText = `${filtradas.length} ativas`;
+
+      filtradas.forEach(item => {
+        const marker = L.marker([item.lat, item.lng], { icon: criarIcone(item.categoria) });
+        
+        const popupHtml = `
+          <div class="popup-box">
+            <div class="popup-badge cat-${item.categoria}">${item.categoria_label || 'Emergência'} • ${item.local}</div>
+            <div class="popup-title">${item.titulo}</div>
+            <a href="${item.link}" target="_blank" class="popup-btn">Ler Notícia Completa ↗</a>
+          </div>
+        `;
+        marker.bindPopup(popupHtml);
+        clusterGroup.addLayer(marker);
+
+        const card = document.createElement('div');
+        card.className = 'news-card';
+        card.innerHTML = `
+          <div class="card-top">
+            <span class="badge-cat cat-${item.categoria}">${item.categoria_label || 'Emergência'}</span>
+            <span class="card-location">📍 ${item.local}</span>
+          </div>
+          <h4>${item.titulo}</h4>
+          <a href="${item.link}" target="_blank" class="card-link">Ver fonte ↗</a>
+        `;
+
+        card.addEventListener('click', () => {
+          document.querySelectorAll('.news-card').forEach(c => c.classList.remove('active'));
+          card.classList.add('active');
+          clusterGroup.zoomToShowLayer(marker, () => {
+            marker.openPopup();
+          });
+        });
+
+        marker.on('click', () => {
+          document.querySelectorAll('.news-card').forEach(c => c.classList.remove('active'));
+          card.classList.add('active');
+          card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+
+        newsList.appendChild(card);
+      });
+
+      if (filtradas.length === 0) {
+        newsList.innerHTML = '<p style="padding: 16px; color: #8c8d99; font-size: 13px;">Nenhuma ocorrência encontrada com estes filtros.</p>';
+      }
+    }
+
+    searchBox.addEventListener('input', (e) => {
+      filtroTexto = e.target.value;
+      renderizar();
+    });
+
+    pills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        pills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        filtroCategoria = pill.getAttribute('data-cat');
+        renderizar();
+      });
+    });
 
     fetch('ocorrencias.json')
       .then(res => res.json())
-      .then(ocorrencias => {
-        newsList.innerHTML = '';
-        countLabel.innerText = `${ocorrencias.length} registradas`;
-
-        ocorrencias.forEach((item, index) => {
-          const marker = L.marker([item.lat, item.lng]).addTo(map);
-
-          // Conteúdo formatado do popup escuro
-          const popupHtml = `
-            <div style="min-width: 220px; max-width: 280px; padding: 4px;">
-              <div class="custom-popup-header">🚨 ${item.local}</div>
-              <div class="custom-popup-title">${item.titulo}</div>
-              <a href="${item.link}" target="_blank" class="custom-popup-btn">Ler Notícia Completa ↗</a>
-            </div>
-          `;
-          marker.bindPopup(popupHtml);
-
-          // Card lateral
-          const card = document.createElement('div');
-          card.className = 'news-card';
-          card.innerHTML = `
-            <div class="card-badge">📍 ${item.local}</div>
-            <h4>${item.titulo}</h4>
-            <div class="card-footer">
-              <span>CBMMG • ${item.hora}</span>
-              <a href="${item.link}" target="_blank" class="card-link">Fonte ↗</a>
-            </div>
-          `;
-
-          const ativarOcorrencia = () => {
-            cardElements.forEach(c => c.classList.remove('active'));
-            card.classList.add('active');
-            card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            map.flyTo([item.lat, item.lng], 12, { duration: 1.2 });
-            marker.openPopup();
-          };
-
-          card.addEventListener('click', ativarOcorrencia);
-          marker.on('click', () => {
-            cardElements.forEach(c => c.classList.remove('active'));
-            card.classList.add('active');
-            card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-          });
-
-          cardElements.push(card);
-          newsList.appendChild(card);
-        });
+      .then(dados => {
+        todasOcorrencias = dados;
+        renderizar();
       })
       .catch(erro => {
-        newsList.innerHTML = '<p style="color: #ff6b6b; padding: 15px;">Falha ao carregar ocorrencias.json.</p>';
+        newsList.innerHTML = '<p style="color: #ff6b6b; padding: 15px;">Falha ao carregar ocorrências.</p>';
         console.error(erro);
       });
   </script>
