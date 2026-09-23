@@ -1,5 +1,44 @@
 [
   {
+    "id": 118,
+    "data_dia": "2026-08-17",
+    "titulo": "Polícia investiga acidente de ônibus de turismo que deixou 10 mortos no RJ - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnBJWFRQWU0xaldxZzB3YW1lUi1YQU5wdlNSOGdZRjZTUy1YRGE3VTgzQ3REbmVtOTd3bVdjbkhyc3l5ZFA3NFNpVTJGZ1dfczg0bVNBVVZEdk5KR0dfZU9JclBLNVVUalJET2RpVW5fMm5LU0xnZUR2NUJ2RFdTaEhxZk10dDc2WkxGN0lLcXJ5QXN0Q3drUXUxMGpGU24zVlVXd1BkZmY3RjFxNHJkZnM5RFY0UFJZcExudTNwM2xxQQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92537,
+    "lng": -43.94454,
+    "hora": "17/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 119,
+    "data_dia": "2026-06-30",
+    "titulo": "Resgate na Venezuela: mais 18 bombeiros mineiros embarcam na missão - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2VfMHNRSEpsRzM0YmlGRnEyYW0zMHUzWWN4d0g2NlZYbWlVUmJDY0tjVW91dFo3UjdncmN3OTVMTXB5eXBta0Q0ZDNiWTVLQlNoZ1lDTXExMjZmY045QWNsZVVtM0IzMkpfdjViUTVkd3otY2U0QmVhVFg1U3RWR0V2NUg1TnNxVEE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92411,
+    "lng": -43.94726,
+    "hora": "30/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 120,
+    "data_dia": "2026-07-11",
+    "titulo": "Bombeiros de Minas Gerais enviados para missão de busca e resgate na Venezuela desembarcam em BH - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0xNUXExUzdCblpabkRGTUxXQUl5OE1KcVA0RW5renZVYmZIS01qdk90SnJGX2hhVGFTVlp4X3d2Vm5kYlM0cmM5Y3lLSE1LdWV3LW9rTVl6UWdZby00SGtKal9NbVY1bWNSSjBFUHpCalhrQUFQdkZuS1BaVTdPMW1iLWdUSFRRN1gwT3RiSHBrOWNQNVBGQnpMNU5IQmtHRXNwVXA5UkxEVE9UZ3I3RWhiX1RQeXRFQXJXeU0wR2hfQnhhOFZ0N0NZR3pSTnlZbjlsdHBlRdIB3AFBVV95cUxPTV9QR0RlWHVpWUs3TVRsdmtJV0xqbjg4aklab05BY2I2Y1NTc2NvRFhiekcybmRfTUhTUnFPTTBpS242UWFIVVpJTzNNcjJXckhRUzZTdmdhM2dfbzZGa2lsZmJzYmVUT2JIRXNyUHJJTnRBbl84Qy0tWGpzYU15Yjl2Q0hMdWNyWjR2WmxDS0Z3VWNTcjBBbWs2SnZlbVVJWE5INld4RklDb1dpdHg4T0tNNjc1TWQ1YXRraEhNWHNkenlXZ0dpdEYyTzlLSkVaT1R2Rmw3Rkx4RXU2?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9233,
+    "lng": -43.94412,
+    "hora": "11/07 04:00",
+    "recente": false
+  },
+  {
     "id": 108,
     "data_dia": "2026-03-06",
     "titulo": "Desabamento em casa de repouso: o que se sabe sobre tragédia que matou idosos em BH - G1",
