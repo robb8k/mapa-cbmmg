@@ -1,5 +1,57 @@
 [
   {
+    "id": 131,
+    "data_dia": "2026-06-26",
+    "titulo": "Avião da FAB decola de Guarulhos com bombeiros e cães de resgate para ajudar vítimas de terremotos na Venezuela - G1",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRE5CR3RTU1pLbE1NSmVkdU1NaHRyN3hfdlRiOXFSR05nNFRaUnRfQ28zUll3Y200YTRCb0lIVjdmbVNGbEt4UkkweFdCYllxNGR2Q0x4Yk83U0hvS3FBaXJ4MTdaWDQ0REtYUTVWdDl6R0k2OHJ2SlJDa2NYM0VIYm1ISkRKUjM2Umo3SWg5VkhwRlZGdEVUa1ZJNmZ1RVpZSEYxNTdDamJIaUk2c3dkRU1PNEVjWHRfOV9tNnExOGg0Q3pZdldPZjNQbUNhWG4xMlJzN3BMLWJldGtYTkZCS0RkcnVXT1d2Z204c2VPY3lZdElLY1hqMDBlUndmeTDSAY4CQVVfeXFMUE9lTTdfVUg5SGdUNGd0UkhVMFRLWmtENnNka0FjMkJMS0FYaEQwMWpkRkVjV2cxaEFPdXRuZUpCRFJkRU0tdEhjcWlsRVpVcGxjbXhpUmV6ektLS2FucGoyaURWMENSem1EUE5jN0xvTFViekhlZ2prNFN4ODJCSEkzOFZUZGFBX0FjYVlPbFl5bEtqTjFXVWdaRTYwZFVRX2tFZFNuM2NqN25hR1hSYW44QWVOd3FtOThoODRoNkFTamhVcVYtR2o2UVFjSWRuaUNMUDdBMWIxTjktNThCZ29YbWM1UEIxQ1BKdWlPQVM2SjVyWThocm85TThOQ1ZRTV9pR3M3YWlYQ1BhdkRn?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92092,
+    "lng": -43.94525,
+    "hora": "26/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 132,
+    "data_dia": "2026-09-03",
+    "titulo": "Com drone, bombeiros encontram rochas que ameaçam casas em cidade mineira - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFIzaXl4MTRHMHJQTmlZdERKUVZCQ2ZrNDE0QUZSTW11M0ZCRTJhbEREV3NZMmxzdVlJZVZRRnp3MHE1cU9fd1FRbGs5WmZJeVc4dVVxbFJvT2xFU0ZLLXkxUWIwaldUOFhrazlTWVFaYU9RSy1lN1FZT3ViM3F6VHlPdWVEOGJvX3QtcmJtdklNSGNzckhweWd4UWlqVkVJVmVndXY3eHpJSWFfUEx3UTB3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92006,
+    "lng": -43.94496,
+    "hora": "03/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 133,
+    "data_dia": "2026-08-30",
+    "titulo": "Duas pessoas ficam feridas em acidente em Montes Claros; motorista fugiu - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3VTbUlnLVVYMl9QcW1sQkNLN2NXbmw3Vzg5dlREZnVwb3FqU3BMN0kwcFI3TFBLYU1zLUs0eGFfcVIzNjUyTE1ObUV0UkltSTVqY2FMUTVtQm0xYjFIQ3pSMmdLOE90eHBJQVlNUWhtNDZsMzVtLWNoTGYzTlh5d2tjYklvSDRJVXJQZzUtVGI5eEJYRTN5cl93YVRlcEp5SnVtRkhuMUU1WUNtMS1wXw?oc=5",
+    "local": "Montes Claros",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -16.75215,
+    "lng": -43.87094,
+    "hora": "30/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 134,
+    "data_dia": "2026-05-24",
+    "titulo": "Ao menos 8 pessoas morrem em acidente em estrada de MG, dizem Bombeiros - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFJxRUxpTDVPRS02UllYM2poUEdfUTFLcTJCNlJTWF95TWNRaEt2RDhXNGE2S2N1c0NnWEt1RDZUMU9XZDVOUkJ3eFJITXMwYm5MeWk2dEgtMzZIT2pHaWZOU3BoSXc1VF9BZ2ZFZnAweU1zLU5rcy1qRHZLUkJUdmVDLVFnYWtvbTJlSkVVSTZsLWpabjIwWENuZkllZjF3TDRsVWZFOG9NZGPSAbABQVVfeXFMTW9rQWRmdV9MQ01TNzBmR09feFBWQmo4RFhmT2ZrQlUyOWFUQnd2bEQxRXIwSGdFMlloTmM0eW52SjVBTjVrTTZ2QkV5Tmd2R3NiVnZ1WFE0Q3JmUzg4c1JEbTZpYTBZWF9TT3NhLU5sNzY0eXRuWEFSNjF0em9NVEJPQmZ4cWZKTnhuck45RDBaMDNQalpuVUlfSlNDY0R5ZjVBNkoxd1c3dDV2U1hYa1Q?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92246,
+    "lng": -43.94434,
+    "hora": "24/05 04:00",
+    "recente": false
+  },
+  {
     "id": 121,
     "data_dia": "2026-09-23",
     "titulo": "Incêndio atinge residência e mobiliza bombeiros em Porteirinha - gazetanm.com.br",
