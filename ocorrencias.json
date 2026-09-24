@@ -1,5 +1,57 @@
 [
   {
+    "id": 159,
+    "data_dia": "2026-09-24",
+    "titulo": "Frigorífico onde teto desabou em Brumadinho não tinha vistoria dos Bombeiros - bhaz.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkRxQkZlWFc2M0dhalN6ckViazZDWGk4X1JOY3hYVGdISWRHMmZRWElfOWxBckpVT1N2M19sSDZnbHJpQUpyaDA5dEtNWXowQS05anRfNTFwRGtnVjJzb0lFOGpBX25qNjV5M2RzdXJnYTFpSThsd2JPdjQyZWJFMndsalhNQ196ME52czVoR3c5V0s2MnBlRlRxeFN3UWxZeldCQXdJNC1Dazk5eUNteFZyRnI0eVNHeVVj?oc=5",
+    "local": "Brumadinho",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.14313,
+    "lng": -44.20135,
+    "hora": "Há 46 min",
+    "recente": true
+  },
+  {
+    "id": 160,
+    "data_dia": "2026-09-24",
+    "titulo": "Incêndio atinge depósito de estabelecimento comercial em Montes Claros - Gerais News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHd3OEhfUkhJbkxEWGQ0elFfbGR5dzRSRFV2U0lsM0lFLXhlUlRMZ3RPeDV3dmhXXzN0ZVkxeTNqa2t6NE1yZXkwb3UtdkZmekYzOFZ3d24taEVJaXc0NHQzT3p1elZFMUZ3dlhEdmNRS0F6clpnTkx1VjJKX0VpOGdZMDJZSTZxYVBUT2czSm1QcUZQUDQwSGFObHk0YzRfT1kyUFAxMjFLTEE1?oc=5",
+    "local": "Montes Claros",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.75075,
+    "lng": -43.87043,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 161,
+    "data_dia": "2026-08-09",
+    "titulo": "Incêndio atinge prédio abandonado na Avenida Prudente de Morais, em BH - G1",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHplWVV5LXhsaVp2cjA0aVNYMzFpSk1uaG9tMTlHOV9JR1NtSXhlbnJfSl9BNUVPVFlzUktuSTZ1TE5ETU81NzNFaEprQ21jVVpoYnF4SC1ua1VYMS1JeXlXQnJfXzRkaTdmSDFlTkg1Q01GbW5MdThzNkQ4d24xYzZra0lHcnBHUDk4RnNXR19Cd0twWDZvMmdtNkkyVjhaYS1J0gGyAUFVX3lxTE9TM01pRDFMWTZQX3RaUVBaOEY5dmFYTnh1bmYwRjNfNzRPS3k3WkRZUWlNSWd1U1Z6S1ZOVlc1Rl9neVRmQzdBM3VsN1Rsc2F6OFc2LUtoejg1elBhRHVqLXpQdUFQbkRPTlp0a1JCWjFBVXNPT2h0TUt2alEyOE8zb0g5OS1INnFqdlBmSFNGRDBZdTZyWmpoZlJMYlVuam1LOFl4dnc3OERNV2RYOThqQ2c?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92096,
+    "lng": -43.9436,
+    "hora": "09/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 162,
+    "data_dia": "2026-08-04",
+    "titulo": "Incêndio toma conta de estabelecimento comercial em cidade do Oeste de Minas - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT291NTVTOG5tdEZVbEVtUXlRN21GVGxoQ0hKcy1DVmI0TXhubEpRejZDQUNSeUZLdU9jU05SMG0xTkxTb2JYR2NtVUR1NFI0QlpnNXVBa2kwelJaX1ZMMEJnWDQ3aWVpQVJTd1Nfdm9PdWtqMjlIYUd3UlR4OUowRWRSelJ1X3NZVmoyQVcxU3p5S05pRkFEVm55bTdGMV9xRFphTmtaWnhtN2xCS0pTWUphZE9admtZSDFzdg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92207,
+    "lng": -43.94346,
+    "hora": "04/08 04:00",
+    "recente": false
+  },
+  {
     "id": 158,
     "data_dia": "2026-04-26",
     "titulo": "Um incêndio em veículo na manhã deste domingo (26), mobilizou o Corpo de Bombeiros Militar de Minas Gerais (CBMMG) na região Oeste de Belo Horizonte. A ocorrência foi registrada na Rua A, altura do número 170, na marginal do Anel Rodoviário, no se - instagram.com",
