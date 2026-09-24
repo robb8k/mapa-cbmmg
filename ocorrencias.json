@@ -1,5 +1,31 @@
 [
   {
+    "id": 152,
+    "data_dia": "2026-09-24",
+    "titulo": "Duas Hilux batem de frente e deixam cinco feridos em rodovia de Minas - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUl8wQnUzc2Z4STJfZGhRQ29qOXMzbU9nMERYeEdtX0w5dWR0dVUzU3FtR3RuUmZRM21fNVY2WDNjbzlFVV9ISy1pVnA1QmdPZkFiZ2Z1dldibmkzX3NycVV2VkM2MXBFWF9BU0lPNk53SV9saFZ4ay1WS3lvN3VwZmFTMWtQdnJIQXloRE1sMzdsa0tVWDg1R0VRT0hOLTJycGhDd1lTaF9BS21fWmVXd1l4RlNTWkNNRWRV0gHAAUFVX3lxTE1IcXdSTUFPdjdic25tNEVSdFZwMVFUa1VBbjk2dFgxSG91VlhXVnJ4blJRWEFlLXBzSmVTa29wcERlMkxNOGlpZWRtdmhxcTF2aXZTa1c2RGtpZ3RFODUtQWtJc1lnOHJpTklrY0JYNjNzTzBDcEdwWUdYX3Z3em5idEw2akg0SFkta05XVmV4cVhnOFotbVkxSmZuUktwb1RBQTRrYXIxcER5Y1d4dXZ4THVfbmZkNmZQN0lYYmhiMw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92074,
+    "lng": -43.94488,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 153,
+    "data_dia": "2026-08-10",
+    "titulo": "Serra do Gandarela em BH volta a registrar incêndio após dez dias - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEs4LXVSS1V1WkZhTUNYZ2xpSHVkUDlGaGloMHBBV25fQjlLMkdmX3h0Ymw2d3pGbDdscDRJajZyS2NLa01BcC15Mm1nQlNUbk9Ka1kwN2dfM0YyMzRFVERrWExYRHl1QUswSTduRVdNRC10bjhnSU55a1dsdTFRTzNaQkM2YjBMSmxUWDk3VUN6bEZ6N0t1ajBEZnFSbUdhNGdyelZFcUY?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92112,
+    "lng": -43.94656,
+    "hora": "10/08 04:00",
+    "recente": false
+  },
+  {
     "id": 150,
     "data_dia": "2026-09-23",
     "titulo": "Bombeiros combatem incêndio em estabelecimento comercial em Patos de Minas - Folha Patense",
