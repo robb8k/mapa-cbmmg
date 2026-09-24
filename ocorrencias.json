@@ -1,5 +1,57 @@
 [
   {
+    "id": 154,
+    "data_dia": "2026-09-24",
+    "titulo": "Incêndio atinge duas fábricas em cidade do interior de Minas Gerais - G1",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFdlSHJhdENBWEs1MjdzVC1TZTBtZkRpeTdteWZyR1F3QTZfOWZ1U2RKRmxRVXBDMzI5bUhndWRqdjEtWjU3bVN1TDVRQ0p4ZWpYRm9FVUYzOFE4bk9STzczVXNic1lEOWphem5xUGdtZGRzVUZOcnhwdFZoUW11YmQtT3NZaGczSS14d3Z1dVAxUjJQSFZ2Y2NhaDFmeS1TNGhtbjNCdHhtWVNIOUh5aDdFRTlQcnVuVDlMUzRlcW1VNENGTEw5NdIB1wFBVV95cUxQZGVPdWJFS3dhQ2hteWpjZmxkOEJKYzJjNEJfb2JJbmdKUl9EZmpKWGZ3WlFiVUdLOV91cjNiQ2N5d19EWTdZNG8zZGEtcEtsWjUxTUJQWDVqbzFFRGMxejhrcG0zVjVVTFFvWXpoM0xEOWxwZ3RpWEZDSmpRRTFFZkdLVm9xSkxmZklHM2pMd0Q5em5VT245NmNIV0tKMHZoMk13bGlTYlNEd0htdVktOU1MX3RyekxiRzNKUWNwZVpSZUhpU3VZSXprbXBXVWZYRWtjUkZiRQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92302,
+    "lng": -43.94363,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 155,
+    "data_dia": "2026-09-24",
+    "titulo": "Acidente entre ônibus e dois carros deixa uma pessoa morta e duas feridas na BR-381 - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIVUVyTHo3Ymx6RE5PSFpJV2ZnTFg1RklGa0dHSDBYWE5OZ2RZZGpxYzNNU1JrUlBPX2NfRUUzbFdaTjdXUURRcTM3RHRUYlFtbWNtcll3TGl3WjhWRjBvLXUxWGpxUDRBaExld1RsbzZsX0dCaXVVaUpVWTQ?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.8734,
+    "lng": -43.95146,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 156,
+    "data_dia": "2026-09-24",
+    "titulo": "Duas Hilux batem de frente e cinco pessoas ficam feridas na MGC-179 - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlAyWHFqMmUxZzlMWmxxMGhaR1h3SHpKR0t5RWgxOXAtaVA4ajltZVpyYWUzZVJxS2pVYmlUMnlycENYWXVHME5DQUFWZ0llTWtjYTZGclJQRmFOY0JZUGtodWVJTkpHUGhVbzNZUmV4NVlBMG1YS2hCbVhuQjlSMm5zR0REMFd1VG1EMko0OFVBUFNaa0dqUHo2bkJOUXFQejJDWHFRN09VQjlLdU9xYXRXMkw?oc=5",
+    "local": "Trecho MGC-179",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.96986,
+    "lng": -43.94308,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 157,
+    "data_dia": "2026-08-15",
+    "titulo": "Briga termina em incêndio de grandes proporções em galpão de BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc183UlJnYmcxVENydXFnZzJGZ1pXNHdSeHEtbWlJWGZRZ3JDUy1jdUYzUDRPWDVQc2tmTG9GYy1LamFxRzVtUXdRLWhkRDhXRzdYTXh5ODFkSmRRb3NBczFxd0UxMW1IVDZYZlpyR3h2Wl9rLVRDQWhORllBT2NrTXNKRlk3aElxYTFBWTB1NWFwamtJV29mRzRhX1FmUmd6aURYS1h3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.9244,
+    "lng": -43.94276,
+    "hora": "15/08 04:00",
+    "recente": false
+  },
+  {
     "id": 152,
     "data_dia": "2026-09-24",
     "titulo": "Duas Hilux batem de frente e deixam cinco feridos em rodovia de Minas - Estado de Minas",
