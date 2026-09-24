@@ -1,5 +1,31 @@
 [
   {
+    "id": 150,
+    "data_dia": "2026-09-23",
+    "titulo": "Bombeiros combatem incêndio em estabelecimento comercial em Patos de Minas - Folha Patense",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaG1wMzhvOFk5cFFEay1UQlV6TTdJR0UwQ0R5ZXBIZEhvWUNpN3YyeVg2Y3kxam5NeWJsOUd4V09XZjYwaDQtdE5uZ0JhbUxGQU5BcWZWMElNREpUV3RCZ2RsRkJSS25Bamxiellkc2dHT3pnVUhtU2FYczc5bG84cUM2dWdTb3A2LTYyUXMydHJYRVNnYnhfejZoR0h6WEFIN2tZQ0tsM2dsZw?oc=5",
+    "local": "Patos de Minas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -18.60296,
+    "lng": -46.50962,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 151,
+    "data_dia": "2026-08-31",
+    "titulo": "Fim de semana tem dois mortos por afogamento em represas de Minas Gerais, saiba onde - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0lqSjYtdWFjcVBIbUQzVkNSZU5RQVFDbVRIT05EWHI5aEZoekpjSFhkUWpXUE5aTFJuM3dpWmVvM21fQUUxQmlVeWxYeEFQSFdfaVBpQ0Q5SGdwTnFGRW1Ra2xzSmxPaVNzSWdHVG5LcjAyUW03NGpFNXZKOS05Zk85ZDZQaU4yajVWeEFUWWVRS04yY0JzNGx6ZjZWQlUwR3VlQnBFSWxld3JMSXlXT3g5cjdJc0ZPVktRaWM0eTQ3UFV1S3BF0gHMAUFVX3lxTE1QU2pJbDY0MjRoQTB3RTFrN29Ba0xzTmt0TmRVNllRRzJHWU9NVEc0QVJpSDdYc0QtRHkxM25lQy1Tc0d0NlAzUEZ0eDNiRi1rWEFrRk9IQU5MX01pNkNlWkwxajlOaG5lMXFoWEhiLXV0aldjTGdMTkhSY0o5OWFnbjdMSWhvRnFYWVhZQk00OFI1VHl2SmdKbGp0T1MwRGpXRjV1ZmY2Q29VTGFZcTNwdTYtMmhpZHJBTmxkYzVUaWlndVAxWTd1ZGIySQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92123,
+    "lng": -43.94464,
+    "hora": "31/08 04:00",
+    "recente": false
+  },
+  {
     "id": 149,
     "data_dia": "2026-09-23",
     "titulo": "MG: teto de fábrica desaba em Brumadinho e deixa oito soterrados - Metrópoles",
