@@ -1,5 +1,31 @@
 [
   {
+    "id": 170,
+    "data_dia": "2026-08-22",
+    "titulo": "Bombeiros atuam em ao menos nove incêndios em vegetação na Grande BH neste sábado (22) - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVJiQUQ5OExSeDdqcFNUc1B6Z3hfTWNiRm05djlOLWtSTjJEaThvX19Yd3ZTZ2lJNU92Q1prQzlmQTlKZWo5UVoycEw0cEQ2ME9wS1RPQVZHNGlfWWZxZzZHbTlJTUJkdHJVbUQ5ajhZNklWZlU0YVp4S1BZZm1mbW5kQ1lNYjhsdE9TQ2UwbzVnSndLX3ktWUlzenF0Tk1EMFpJaHlzckFLdGxmeDRBVk1ybDViWlYwQXkxeFRvdUtuYVFvU01oaTk2QQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92024,
+    "lng": -43.94743,
+    "hora": "22/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 171,
+    "data_dia": "2026-08-03",
+    "titulo": "Incêndio após queima de lixo danifica casa e imóvel vizinho em BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHBCd3puenBxR285QW5WdkQwYWhnTFZHemdUYnIzeEh5R0VhNEtXQW1DX2NRbF9xNnpPZGcxajh2Yzk3cW94VFczcTBTQ2dZb280aVZNOWEzbkkzVkVEY3dlNkg5QmtPOVE2ZHFUUEpkNTZUOTR6TkVQYzVIckhfRS03M0dMc0VjVzUzLV9aanVlYTRHQlVEWWFRMHIxbm9OTW5YZGpiZ0Q?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.91996,
+    "lng": -43.94421,
+    "hora": "03/08 04:00",
+    "recente": false
+  },
+  {
     "id": 167,
     "data_dia": "2026-03-10",
     "titulo": "Atuação de bombeiros civis e brigadistas em debate nesta quarta (11) - Portal CMBH |",
