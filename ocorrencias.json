@@ -1,5 +1,44 @@
 [
   {
+    "id": 164,
+    "data_dia": "2026-09-25",
+    "titulo": "Bombeiros combatem incêndio em depósito de estabelecimento comercial em Montes Claros - gazetanm.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzFWRGRUMFM2c0NwLUUxd2M1NmpSYWg3ejdZcXZGcUhqSVJWa3hZbVJLZTMzd3F3ZWJTZk56eWM5WkpxNGg0MGllSUs2UzJZenA3dFFDSHcxUnV4UkJDcnd2ejRUMGNsY0drUzk0WWNHS0E4bWFsWFV0WDhoWVN4UEcyVGE0eUlKUEkwVFA5cEdIYXg3YmR6bDc0QkZOdUtRWXRWNHJ6b2w3TWRQZXln?oc=5",
+    "local": "Montes Claros",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.75144,
+    "lng": -43.8664,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 165,
+    "data_dia": "2026-02-25",
+    "titulo": "Defesa Civil detalha situação em Minas Gerais no segundo dia de buscas - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF85UkJnLTY3eWo5M2lQbjF4SGJFNXFIVFk0akRpRHJFeHJHM2k4SWc3RUkzbEVRdGlpd1BwSmhNTklWbTdBRDZFY1RNMEhNeVcyM1EyanVDd0RybzhlUWEtSEZOQnBRM3hKem9VRkdqVTgtaDdZdXgxQ1A4N2dfOWpoeElodVNfaFQ0c29oMGN4MEllSWhrUFZZVWhvZG5ISk91RjZGN3o5eWlFNjZaRmdVMWJjQlhrdDY5Tw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92086,
+    "lng": -43.94619,
+    "hora": "25/02 05:00",
+    "recente": false
+  },
+  {
+    "id": 166,
+    "data_dia": "2026-06-26",
+    "titulo": "Bombeiros de Minas integram força-tarefa em operação de busca e salvamento na Venezuela - diariodeuberlandia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2Z4RmxBNnBaNEdZZHBTS01qSkVtdlZ6cEtIRE10N1N0ck55V0xhRTROd0xSa1hfSXZmSXJ1TVMxTm54bUM2LUR0akxzZ1lFZlFaVHpCTkVjT0ExQkZHcTFjOU5sVEhZZVpTWGQ4VG9MNE81Slp4czNDUU1qQUpBclYtWjgzdmJJcFQ3UHl3cENMVG5BMWNqNURhN2hSVktXRFkwVkhrdzBmcmFoWno2bDJxR1ZJZHpMLUtqQ1l0d3hRRmVYZnlENXB4SQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92275,
+    "lng": -43.94405,
+    "hora": "26/06 04:00",
+    "recente": false
+  },
+  {
     "id": 163,
     "data_dia": "2026-09-24",
     "titulo": "Uma pessoa morre e sete ficam feridas após desabamento de teto de fábrica em Brumadinho - rede98.com.br",
