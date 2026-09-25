@@ -1,5 +1,44 @@
 [
   {
+    "id": 167,
+    "data_dia": "2026-03-10",
+    "titulo": "Atuação de bombeiros civis e brigadistas em debate nesta quarta (11) - Portal CMBH |",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQanNUVDA5emsydEZtOFBjWC02c3FKdXhGTVNsOHkwTUlXelotczVuNGF6bE9Pd3A4emlpTXV0VmtNSnlGdkI0UVJ6cmVPX0R5WkZlQW9KS2FnY2ZmSmJ1TjA3cXBEeWI4dkZaWkJHeDNGQ2ZmOGVabUM5dmhqZ3U2T0tzNGN3em9zXzNWandOOHVpS3BGVTNHU0hxZ2NWYU1DTW96LXNjckpjdVpOaHo3dzVEeENEZWszbjA0Tkt1ZC1ucTNLbDAydWpNMjRLNlp5SmxGYTYwQU81RzhUWE9yYg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92317,
+    "lng": -43.94384,
+    "hora": "10/03 04:00",
+    "recente": false
+  },
+  {
+    "id": 168,
+    "data_dia": "2026-07-19",
+    "titulo": "Prédio desaba parcialmente e deixa feridos em Governador Valadares - G1",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHhNMHMzNnlrVmdhTXU3SEJHcWVWcG9XTE5weVpfSlNPb21WeGxnYXk4cklQWG93NDFpVUxkb3BtQzJuNzdYZE1ldzRzdjAyU1pIRXVOMjFud3dWUXhveTVWbnd2SlBwb1dmRmtPck9tQXJsSnh5QVJVMEJ0VU5rTUlEMHFubFZzazN4T0lrWHpjSHpmRGRWSzJBTjU5Z3ZINHl5ZXlydmZyQjhQcTZMZ2lMeWQzbHpuSW9FNUpJdkVvZ9IB0AFBVV95cUxNcWhDWmxjQWdGQnMyblJydmV6WkhoeW1XZmZrY0xZTmpJbnVvclhrQ05mX0kxNlV3VExLTTFrZXlXeDhUQ2V3aXo3TXBQa3h4SktFbUd2UnJpNWU5SDMzay01RV85bDNUaFN2VEk1RkdfSV82VWJ2WFFjUkhZWVhjWkd3b1g3blFNUkdzZVZsSEtoeC1LTW41SEhmM2doZkVHTElDR1o2OFYxVzZ3LUVlQm9zR2d5MTdaT2ZhVC1sVnBvYk00MjMtUnRrazlrQjZU?oc=5",
+    "local": "Governador Valadares",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -18.85958,
+    "lng": -41.94687,
+    "hora": "19/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 169,
+    "data_dia": "2026-05-24",
+    "titulo": "Ferragens retorcidas dificultam acesso às vítimas em acidente em MG - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDByRHplSm93ZkxzdlAzNmJtT1pzMnhQeThwZnlwbVJHTGpTa0kwTHduWUxVZHFmdDZnRmN6bVh5TjFKZkdndjlZSFJJUHlDcFhMYTQxd19XdVJ2aUQwX29kaVQzTllvVEV3TmVLaXFhQVloY3loOWxWcm5xY1RLNjlsd3VJVkhINWRyMERDbTVLdkVBSXgwU1VrTUl0dUVqdTdqMEptT3dIbHRoN01zbDlmQy1sV0tk?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.9244,
+    "lng": -43.94567,
+    "hora": "24/05 04:00",
+    "recente": false
+  },
+  {
     "id": 164,
     "data_dia": "2026-09-25",
     "titulo": "Bombeiros combatem incêndio em depósito de estabelecimento comercial em Montes Claros - gazetanm.com.br",
