@@ -1,5 +1,18 @@
 [
   {
+    "id": 181,
+    "data_dia": "2026-09-04",
+    "titulo": "Bombeiros combatem incêndio por quase nove horas consecutivas em uma plantação de bananas - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmgxdnpaSGoxVmNkTDVwVVFDWEZDa0syOENVSW85dFhzQVhlenZsNUxnMnI5WTFYM0NZMmtYOEI3ZWZ1eWNISzVQVzlrUzd2a2dHUEktbndMcXluUFlYOG1TZmtsMHJEdzg4bGdTeWFSWjN6MVowOEx2cm5Rc0VidjNSTkU3UFYybWdSWlVmWS0zNHhkQkx3UmM1RWNCQlUtN0hXUWZ4bVlOSllrTzFiTThCS2lmVldoTmF6cUhWM045Y0wtM1QyQTlMb3RrUQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92166,
+    "lng": -43.9473,
+    "hora": "04/09 12:44",
+    "recente": false
+  },
+  {
     "id": 180,
     "data_dia": "2026-06-27",
     "titulo": "Bombeiros combatem incêndio em Contagem - G1",
