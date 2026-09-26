@@ -1,5 +1,31 @@
 [
   {
+    "id": 175,
+    "data_dia": "2026-07-02",
+    "titulo": "Bombeiros de MG relatam desafios em missão de resgate após terremotos - Correio Braziliense",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEU5S25SMWZra3hJU3VjUFA0QVQ3Tmg1MHQ3bjZYZkhYbzR3VmlFN2ZWS0Joc3pqUGE1c0VadWFLMi1pSWNvam10MnFjeVVRTFpDTlpNcy1rVU9lYm1LRFFnN1dHRDBpN1gzaUhVM1ZGYWtsUlJmSDgwSW1sQzZtdTNtVVpwSVZHcDB0djJtckNNOFRxdnFXb05UTWpLX0dnZDRScFNacDZCeEstcGJoMU4yX0cyMVhxNVREUTZvcUlZZXdLdTIyMXdsMS1Od2_SAdQBQVVfeXFMTnpONUlrcTR2MlU2U0J5UXhCRHJnNlBQcldfNl9ic1ZHVkpSQkNydExHRkRuUTNYbVhSX0dKTXlsLXZuRDhOREpfNmFkMUJjZUE5YmFrZzBiY1lxQWFFRE8xWk1lamtmd3VUcjZXUjFfZk03ZjZ1SjVkNGJsSmQxeGJZd1NjRVZRdVBEU3htTFRDdkhjYnZ6aHVRQkhaWVNUMkJXeGZ2RkhINnlNd3dPeDgwb2V3UHEzWG9BV0F4cjFWRFpxNURjZFNMSlM5eERzMGpTNnI?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92511,
+    "lng": -43.94607,
+    "hora": "02/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 176,
+    "data_dia": "2026-08-05",
+    "titulo": "Trote mobiliza Corpo de Bombeiros para falsa ocorrência de incêndio em caminhão na BR-354 - patosja.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFhGRjZlcDRiakxIQWJPXzAxMTM3NXRQQVBvRldqdGhweWlDcmdQZUVOMzVobG9ucFYxRFU2a0w1SGxRcERqTmlFZFJCNjdTenlnbVBqLUFLaXl2eUdzX2I1Z05XY1J4QjY3bElQZUJ4YVY3eU12eUZzSXJRWEhqVnA3VC1paExKNVhwNzNLdWpqeTV6Qnk5dHRmbm5UeDhGbUNobDZXRXYyYXNBajBVR1RkNnhNZlpNR0lpZElXNA?oc=5",
+    "local": "Trecho BR-354",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.44297,
+    "lng": -45.39231,
+    "hora": "05/08 04:00",
+    "recente": false
+  },
+  {
     "id": 172,
     "data_dia": "2026-06-27",
     "titulo": "Bombeiros de Minas Gerais embarcam em missão humanitária após terremotos na Venezuela - Clarim Araxá",
