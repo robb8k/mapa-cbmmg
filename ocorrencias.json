@@ -1,5 +1,44 @@
 [
   {
+    "id": 177,
+    "data_dia": "2026-08-08",
+    "titulo": "Acidente interdita BR-251 e deixa cinco mortos em Minas Gerais - CBN",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2tPdmlsc2Q0bEhYeHJIZVQtajJUUE5pcjZMRXZhYnVGaVdEOWxVRHY4Z3hvX1JTS0t3c19wZHNWRGtIRzJ3d3VlUG1UZ0UtSGFzbkxNb0d2dFZPZ1NjVVRUS3JrME5NOEFWanVlcFktbUtWSmdUMEhJZ25tT0VHV1RKTmpoTVN6NEdfcnk2eFVVZTRpSkFPTDhNdGdVZTZyb1hqZThFSVA0THpVTi1r0gG-AUFVX3lxTE9MZFdXbUU4eFdoX3EweTZGNy13cFhGLXBwYnd5T01ZQUt2Q3Boenp2bDRmazd6YW1iM0Q1S2UybEZ1cVlDVUM5MnRJQ254SmRUTzdrYzFkZTFOSHAtYjA3U1VhQTh2cU1iNGJJc3BVMHBfNlRhNXJXZEdwY0x3XzFpS3ExRWEwWm1CbTN0ZW9sRTVzTkFQYVBXSE9BT09FQnE0V1lQQkVRRTUxUWJsZl9DelZnakh6Y2FoaEpvQnc?oc=5",
+    "local": "Trecho BR-251",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -16.58077,
+    "lng": -46.84315,
+    "hora": "08/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 178,
+    "data_dia": "2026-07-02",
+    "titulo": "Bombeiros brasileiros enfrentam calor, riscos e estruturas instáveis em missão de resgate na Venezuela - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWFwaXVocDFjb2w3SmJBNU0takdvUUNJQVNOUWNuaV96V0htenVvZjF3OC1QWEtPbmhUVUpOT3lhVjlOSVBCQ1dVV2xIQ1BBaVp5U0ptS0VBTkIxM0huaHAxRjE3TGJVMk95WVF1WEpmMnFnSjRxMWNYMzNISS1SMVBoRkUtb3FfMURJckxsRjFHZ3VsbERJd25vNEZYdE5LUjJVSWNoamt1VnBkd1dGa3g5MXpoTHh1eGM4b1VuTm1RVUM4NEx3RkV6bERVaEhjTmRvSGhVTTFERDdMQmc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.91987,
+    "lng": -43.94518,
+    "hora": "02/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 179,
+    "data_dia": "2026-05-29",
+    "titulo": "Acidente entre ônibus e carreta deixa ao menos oito mortos em rodovia de MG - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTdUN29lb0pyQ0NwcmV5OGU1N3FsNnhmUjd3MERhNTZQNjhraGktb2otblNEU1hpRjE4ano2bmRNNlAtOUJWQXVQZzhmZUo3eTljYUdXRktodWhCbUUyc2tsYlRYUXpiSVQ3ZXZ6YzV6Z052R3VueWR5bERCUENKTHY2a1E5ZVFjTkpubkg3aUtOS2l3TXVaMjhBTDdhbnFTY2VYRko5cFd2Slh1X0pjeXZaUTZJMlk?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92529,
+    "lng": -43.94582,
+    "hora": "29/05 04:00",
+    "recente": false
+  },
+  {
     "id": 175,
     "data_dia": "2026-07-02",
     "titulo": "Bombeiros de MG relatam desafios em missão de resgate após terremotos - Correio Braziliense",
