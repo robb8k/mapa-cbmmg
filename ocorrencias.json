@@ -1,5 +1,18 @@
 [
   {
+    "id": 180,
+    "data_dia": "2026-06-27",
+    "titulo": "Bombeiros combatem incêndio em Contagem - G1",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaG5jdklFMjVnRVY2NVVIRWNCeGJGajBxWHpQaEw3Z2x4aU5kbVFhY2hLSXR4Zm80cnd2ODVaX29GdmVyV1FjUmJnbEdNSTBHbEVCbkF3LTVBcjJ4Zk9YMnlsVmhwVDZYR3czUm01OFpKa3l5Qkw5d1ctZnY4bzV1cFp5QWdKMno4OG5YQ2VjNVJhYmYtNWt0R3BIVVV5Qm14T1Rv0gGyAUFVX3lxTE9oQy1UTjZlS3RpaHZXVGZVSHAzbVd1OEhjdFo5ejJXSG84SnItczZTQl9Jc0hRRFltNXRINjJ4Ry1LRmxveGN0NGFDQ2Qya3B5Z3FaeFRHT3lNLWtTOUJxZk1vYnZKalVQbFlLOHNrWjIzaXgxUHlIdlVvcFMzT2JZRmU0Z01WMkxxSGtvVmJfaGZDTDFVbkxRX2tzQURHM3Z3MkpvRWFMdWYxdnRGR0lTVkE?oc=5",
+    "local": "Contagem",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.91404,
+    "lng": -44.08424,
+    "hora": "27/06 04:00",
+    "recente": false
+  },
+  {
     "id": 177,
     "data_dia": "2026-08-08",
     "titulo": "Acidente interdita BR-251 e deixa cinco mortos em Minas Gerais - CBN",
