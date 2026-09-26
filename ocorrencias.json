@@ -1,5 +1,44 @@
 [
   {
+    "id": 172,
+    "data_dia": "2026-06-27",
+    "titulo": "Bombeiros de Minas Gerais embarcam em missão humanitária após terremotos na Venezuela - Clarim Araxá",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSERQMl9RUGFOamZqeVBmeTNUbVFwUlR1Szh4X2ozaXNaWWdPRU9fLU8zU0tHYW1SVVNzSTVfQTJXdTVuTjVuXzB1eUhNYkN2cEZXZkF4djBVR1QzTk5YY2hDTDUxWEU1NVpVQkdhdk9BS1JYTlVtU1EtVzg2QWRJM1RDRkdBWGxSWEdmbkY3Y2d0RHNCVkE3MUw0dl9tUG5mWm1CUWtSR0UzSFo2?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92311,
+    "lng": -43.94585,
+    "hora": "27/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 173,
+    "data_dia": "2026-08-14",
+    "titulo": "Sargento do Corpo de Bombeiros morre em acidente na BR 262, em Iúna - A Gazeta",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzg2ZkVmcmloZzFFam9Bb0NjQjNGQ25ZUm1KTVRYMjFCWjNNZmhHdVU1dFIxMmxnWXRjTF9DMGxWTHNLV1lUUUlnTXpsTmZabFdSdzVJYzZpT2VMaGFKM1l3OWZlQzhVQXVKVUFzaVV2TGxrdmZadFZhd1M2RFM2MVNCWEJBNXF5SVBqWnlyVEZIN1dNek1VYUpfTFNpeWVVeVNTaVRwcFJYSGE0Y1Bv?oc=5",
+    "local": "BR-262 • Iúna",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.27948,
+    "lng": -41.78116,
+    "hora": "14/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 174,
+    "data_dia": "2026-07-10",
+    "titulo": "Após resgate de 23 pessoas na Venezuela, bombeiros mineiros deixam o país - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXJxN0MwZjhScVM2cnZGQjZ2eG5sbURDTlhvVXNvbDJDTnhkS3Ztc3NzLWJ3YnI4ODU5MDM4dmVJMkZMc2F2NUJBd3pyWHdLYm94NmI5OFNwMUFpdTdibWwzUVNXLVJYZHdUSTQ2eHZqZXRVU1JIZlk3TVFBRk1Kb2ZXcXM5cTZ4SXdpb3dzY3JKUmdiN1ZiNGNvYlNMYzU1QjZGdzRPckRJR0tfRkZJNEtVdUpmNDZZWlFDenVzNNIBxAFBVV95cUxNS2tBX1B0TmxkQ2s2dHU0SzN2Yjh0VEZ1R01mZmY3WWlOaWpvY3BieHRBMG9VNVU5Uk90VFU4V2lERkJCaW1Gd0JDLW94VkVLaUhqNGZKNFhYbktJamdTWkhKZlZubU1lTDdnd2wxRTdiRzkya0dWRHpHbFlFaFNfMzhNcjNLTzVfVk1YRi1sTGcxSXJPbU9hcnJmUjY2c1h6Z1NCeWljYVJCVElLdElUNk5XWm5DT3JiNzVlNlNZdVVSVXhE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92114,
+    "lng": -43.94234,
+    "hora": "10/07 04:00",
+    "recente": false
+  },
+  {
     "id": 170,
     "data_dia": "2026-08-22",
     "titulo": "Bombeiros atuam em ao menos nove incêndios em vegetação na Grande BH neste sábado (22) - Rádio Itatiaia",
