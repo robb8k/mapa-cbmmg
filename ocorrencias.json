@@ -1,5 +1,44 @@
 [
   {
+    "id": 188,
+    "data_dia": "2026-09-27",
+    "titulo": "MG: bombeiros de Formiga resgatam cães feridos por espinhos de ouriço - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3B6MkRnRXN2SU9MMWk1Q3R2Vnh2Ui1RNUliSWR5THJfSzdPRUZfZEQ3aDBjTU1lNW83Z094QlNqM2JKNXZzZjhNV1MtdkV5YW5qUEVQU3JfUkJxMk4xa2VoTUhhNk9VOFdFcnhBZzNpbk81MU1jSHBSS0RjR1Y0dlBlM3Q4LUFJazJQRjQ4ZVdvOU5Kak1XUnMtN2FGdTNOdjVsNVZXX2tOLTNG?oc=5",
+    "local": "Formiga",
+    "categoria": "animal",
+    "categoria_label": "🐾 Resgate Animal",
+    "lat": -20.46518,
+    "lng": -45.42901,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 189,
+    "data_dia": "2026-09-27",
+    "titulo": "Batida frontal deixa mulher morta e quatro feridos na BR-040, em Minas - ncnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3pzeVhfY3diN04yWmF0V0lWWktrZjFFN3d3MS1QRUpRQ2dURU1idW1rNzhFU2Qxb0l4dTg1QVYyQmxxV0QtRFFWNXE5RkJNclhTQVVPUFIweHhORHJ4YWlsNDJsTlJJR01zRDFHMEZuNldxWXBQWFFaY1RhNTk1aVlvbTBGcENRUVhTNnlNdExRc2NPTmlVN2N3Y1FSQXlDWmcxZVl3?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -17.20264,
+    "lng": -46.90476,
+    "hora": "Há 21 min",
+    "recente": true
+  },
+  {
+    "id": 190,
+    "data_dia": "2026-09-27",
+    "titulo": "Em meio à onda de calor, incêndio de grandes proporções atinge a Grande BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaklSRXBXNHBSUVNLbGVKTlRsWGtCc2ZGUTBEMk90dGhPbUVIWW5ZWG1TcU1VWWZSQmZGcTNIWXBNNEYxczVELW9rVEVyY3M3M2ZJcExnTXpqMjZsVm5Rd0lfSTV2VjJ0LUpYQVNta0hzcGNtRWxrdl9WTTdmenRaMk9lRjVkeGZaQXYwZkItWnBpQnhuUlM4eVdSNUlqazlYclZENm40SzEyd1lXTGh0OWlRaw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92554,
+    "lng": -43.94655,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 185,
     "data_dia": "2026-09-27",
     "titulo": "Grave acidente deixa um morto e trava o trânsito na BR-040 em Minas - Rádio Itatiaia",
