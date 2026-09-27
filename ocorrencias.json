@@ -1,5 +1,31 @@
 [
   {
+    "id": 183,
+    "data_dia": "2026-03-06",
+    "titulo": "Vídeo: desabamento em prédio que abrigava lar para idosos deixa 8 mortos em BH; há soterrados - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3FsYlJfNXFvTkZUa0hzdWZUWVpYbU9rM3Zoa3NOU3JCeG1KZTFRb0Q5SWEzUnRFRUxkOXEzYXpfcFBHRElELVUyckhNaDctaE4yQ3pYNC1xR1VDamlJQXdvWm5QMHNEWFVOZVFSNFBXNzV6UGlEWENJQUNaMmpnQmJuT3dVeEtDZkNkTXdXcDc4N0w1U1psYU5pWDZrU3BMcWg00gGoAUFVX3lxTE5LVHl0QW1ZVzMtNm12ZWRJdXgxbC1aVHZVTkd5dGFUQWh2Skh2VUt5aEM1Yld1NVdteEpNS3N5Y1FUT0hBOXpuRVlYSnFjekV3c3JTT1IyaWZNYnRmcjJkYnl2MmhsS18tMTBkcTdNSnNpa2RvdVlmYkM5LWZDbDdXQ3NfQ0QtU1phTzV6SG93S1FEaVVXRFZoLWhYRXhLSjFTMkNxWDJ5SQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92421,
+    "lng": -43.94781,
+    "hora": "06/03 05:00",
+    "recente": false
+  },
+  {
+    "id": 184,
+    "data_dia": "2026-06-19",
+    "titulo": "Obras da nova Companhia de Operações Aéreas dos Bombeiros de Minas Gerais alcançam 92% de execução - AEROIN",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVpiYTZ4aHBGNGZVZFhNSmJrNFR0U2U2WGRRaTBzN2U3MWRNekVnN2E1NDlfSG9zZjNDQUprZk9FWlRUVF9qSzg4bEZHMHJGX21FYTFhVUREcmFTd3ZwajAtMC1GQ01udXBXZEh1V0lJakVTeGVrZS00Q2RjNnFGZFhnNnNVNkR4N1E2VGUyeDdDT1c5aDVlNm81V3d4dnhDMUNJX2wwNTdmUWtGWHhTenB4U01ETTFF0gG4AUFVX3lxTE5xWmJhNnhocEY0ZlVkWE1KYms0VHRTZTZYZFFpMHM3ZTcxZE16RWc3YTU0OV9Ib3NmM0NBSmtmT0VaVFRUX2pLODhsRkcwckZfbUVhMWFVRERyYVN3dnBqMC0wLUZDTW51cFdkSHVXSUlqRVN4ZWtlLTRDZGM2cUZkWGc2c1U2RHg3UTZUZTJ4N0NPVzloNWU2bzVXd3h2eEMxQ0lfbDA1N2ZRa0ZYeFN6cHhTTURNMUU?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92305,
+    "lng": -43.94522,
+    "hora": "19/06 04:00",
+    "recente": false
+  },
+  {
     "id": 182,
     "data_dia": "2026-03-15",
     "titulo": "Governo de Minas abre 342 vagas em concurso para Corpo de Bombeiros - Metrópoles",
