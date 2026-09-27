@@ -1,5 +1,44 @@
 [
   {
+    "id": 185,
+    "data_dia": "2026-09-27",
+    "titulo": "Grave acidente deixa um morto e trava o trânsito na BR-040 em Minas - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFRwQjhackZQVTFuZW45NDVsNTYtcGUzZHlhTVlfN2hfV3U0dmtBM0JJdTc0eWNHckFleWthMWczVlFrMzVzSWZmeGk2ZjFsVFNYbW82SVBwaU9lVDRjSnBLNjB1NUNXYUJMQnJ3S0VZQlUzMFMwekJhMGVVd24xdkg2UHR2NTdPNC1nbzE2U3N2bE1yVUoxenNpVW1lVFhVNG02X3BaM1FnYzJ5aFFJTF9mN3E?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -17.19986,
+    "lng": -46.90606,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 186,
+    "data_dia": "2026-07-23",
+    "titulo": "Bombeiros atuam há 15 horas em incêndio em fábrica de EVA em MG - G1",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVzVVMVJwTGt2WjUyal9aWDNaVDUwVHZCTVRrcUhWSzloZjgtX1VjZGhIYzJZclQyQkZSLWp6Mi13ZzdrV2kwVmpheWhiY3Y4MzFFbFJlUUdIajFaZ1FmTUFQeEJaallqWFh4X2ktd0ZncHEtdDBvTi1vVW9OQmQ0WnFRM2VCTVIzdHRSdnliQ1kzVzhoSF8zUmNvdVJMTXF0RFJhcjVxTDRCVWt5OE55RHE0ZHZVelJMRGJhLTlYa3lmemtidkFPSUZ6U0wxb29rak9hYldsWnQzNE9IUC1WRzkwQzN3d2JacW5TajktTS1DOG9TWlB2V29YYXRVN1luNnc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92156,
+    "lng": -43.94293,
+    "hora": "23/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 187,
+    "data_dia": "2026-06-08",
+    "titulo": "Incêndio que destruiu 27 ônibus em Belo Horizonte pode ter sido criminoso - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOei1aSmlYWkptRzN0OU9MWk1Kc205MTk5ZEpqQXpvaVQyQWRvc1I5MXJsRzh1VDQtR05mYi1yeVk3TTNPbGJUcFE2UVB5d1YxUWVaUFFGdGsySVVocjNaNXJlUnYxV1dQQVBJekluSkdvS19qV1NnNThfN1RDVXRjUmFHWE4weGRFenZHdWZhdEJadU9JOWEtQUVlWmZSSlBfbThSZ2d4N0FvWEN3TElkeTNpdXg3NXE5OUNYUDkyNUo?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92217,
+    "lng": -43.94417,
+    "hora": "08/06 04:00",
+    "recente": false
+  },
+  {
     "id": 183,
     "data_dia": "2026-03-06",
     "titulo": "Vídeo: desabamento em prédio que abrigava lar para idosos deixa 8 mortos em BH; há soterrados - Estadão",
