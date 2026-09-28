@@ -1,5 +1,44 @@
 [
   {
+    "id": 193,
+    "data_dia": "2026-09-27",
+    "titulo": "Batida entre caminhões deixa motorista morto na BR-116, em Mathias Lobato - G1",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmlVYThHWFdEY09Ealp1YTFmaGxzOV9JV3dTXzBpMWozR09jQkNHcnY4MGRBTkpFdzgzS0N2VEFENnlLcFBIdDlOV3ZBblg4VTEtZHlSbmlabG45SGlqdUNna3RXSGl5N0p4U3pUeGVmRGJhM2Nmd1JBVndBTU12NXp6eUtPSF9FME9TeTV0Snh4N2JxSUl1UEJrY3BBeThVMjkwRlZLRE85SXUyS3hsYm5yU2R5VmRrcnd1SlVQTEJpLWN5VHVZNtIB1wFBVV95cUxPUGdnbkN4cFVEV0RDbnlPOEQ3QzZkT0tZaGVNelpzbUIwWnd6NGVvTHVYSnQ4S3FIT3dMaXdVUlZMQ245cW5ITGJMNGtnYk1JdnBGQ18xRkljSWVsTEoxdWtVU3BGZGJKWkE4UFJ4NTREakZaYTZ6eklrYzNpQnpfc3VUa0FDUTlCS3ZndndSMkNaYTBUak9EaWVBSEJ3WjVZbzVURHFSaXBKU1QwdU03WmE4OEVIc0FYNWFvbk8xN1oxa0lFbThCakF6TWhGNFdyVkwwaEYtTQ?oc=5",
+    "local": "BR-116 • Mathias Lobato",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -18.57353,
+    "lng": -41.91679,
+    "hora": "Há 19h",
+    "recente": false
+  },
+  {
+    "id": 194,
+    "data_dia": "2026-02-26",
+    "titulo": "Chuva mata 55 pessoas e mobiliza oito frentes de resgate em Minas - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUU1RVVIdGxrU0JEc01HaHpPVWJBTWRtWWFIcW51U3BNemFxU2ZlZVZaTnFDeFBkUXFlaTlVaURValA0MEtyRWFUcHZnUlNDaldjZ0l4T0N2VE5fdVBuaFgtNzVnNXJIWXZfZVFqTURwdGNycUFUd1NuNmJJSGtmcTk2LVNmS0E4blRwWjZMTHZFOWxBUmY0SjNpemJ3MU1qT0wzSWRTWWRIbmVpLS1MS1Jpdi02b0U4dG1Eaw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92033,
+    "lng": -43.94276,
+    "hora": "26/02 05:00",
+    "recente": false
+  },
+  {
+    "id": 195,
+    "data_dia": "2026-07-25",
+    "titulo": "Incêndio em casa mobiliza cinco viaturas dos bombeiros em BH - G1",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNREFzM1VCU0ZJQkk3U2Z5RWwtb2g0NWJPMWlnVGtaYjZacFNnc3VESHg4MmVsb2p1SmRsNjNiYm16UXEwVDJOWWljalpjM0hjZ1M5UzVDUldGZjRLMnRLbzRGN2xCeTZ0SGtlajBUbk82dklSSFJ6WEVGbFdJY3M5dEpDQXl1YXB3aTdoWkFsNEN6YXJ3andIRUoxNE5NSWUtejRTOEFjQTRramJ0WWVqOUk0REU4b3h3MlHSAcgBQVVfeXFMTzVqWldOWWFiUlZTbUp4N1F0MGdkQXNIR0pQQmg3Zk1KMmdGT1ZQVGd6OUdfTF9IQlVycGJPTVZEUU5DRlRpekM1WTBqNEZMLWhMOHVRZ0tLQjJSc1p5MWpFVjhxaEx0RXVqdHowamlOdlVWZl9PSlBHZXJ6MGpmRXdObVN0emwzRU5fVFRIbE9KcnlndlVpYVVva1pMNWhXelVxYzhXbmVReFA2LThYTlhQb0RObUpsWVZ0NG9TWmxNNWtfR0paUmk?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92328,
+    "lng": -43.94442,
+    "hora": "25/07 04:00",
+    "recente": false
+  },
+  {
     "id": 192,
     "data_dia": "2026-09-27",
     "titulo": "Mulher morre em colisão entre carros em rodovia de Minas Gerais - boca.com.br",
