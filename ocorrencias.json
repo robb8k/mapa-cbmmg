@@ -1,5 +1,18 @@
 [
   {
+    "id": 192,
+    "data_dia": "2026-09-27",
+    "titulo": "Mulher morre em colisão entre carros em rodovia de Minas Gerais - boca.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDJtUmhDSDZLZmlqcGlXQTJRaWRwQ1k2elpxaGdCZTZCa2t4akstQTgtLTdtTEQ1cVNRZXhSVGlBODVNN0V2WUlrMDlrMl9vQzJyV1RPcHQzQUhuaHlMTzY0WGNqZVE4eVpkeklPTTgwWnhrSVpKMmFINHRnd080TUZTYw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92131,
+    "lng": -43.94466,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
     "id": 191,
     "data_dia": "2026-08-12",
     "titulo": "Bombeiros de MG e ES resgatam policial militar após acidente no Pico da Bandeira - Diário de Caratinga",
