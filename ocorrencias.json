@@ -1,5 +1,57 @@
 [
   {
+    "id": 204,
+    "data_dia": "2026-09-28",
+    "titulo": "Bombeiros atuam em ao menos três ocorrências de incêndio em diferentes regiões de BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXp4SVJRcU9kM1VncUhlY3owRl9YSm1kVExDX0Rwb09yOFBLTF83bTYySFRtYURXTTZSZUxVQmp3dXdkbkgtbHFEYmFodGJpODdra1d6cTE4ZWt6SnR0bjhaSGRTNm5QU0lLb3MzSWt2ckVZQTc0ME1HS3c1QjVOSjhzXzlTUFY5X3MxSE5WbTQ2b1RhMExXNlItV3VNal9YWS1GZ0ZBdHVXSXhMMHNSbGRzUVBJM3BGQktiNFZUVU9OaEY0LWo1VWE5MA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92076,
+    "lng": -43.94618,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 205,
+    "data_dia": "2026-09-28",
+    "titulo": "BR-262: veja quem são as vítimas do acidente com ônibus no ES - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTU5Ty1NZHRsTURMRHlBcWFWRWdsZkpIVy1nc0lwUFBCbW5ablhjSXdzdlY4ZDg5b1ljQjVIdGN5WGhROTBZX2ZrNU55eVp0YjZMbVdTcTBmOEo2N0FsMUhaRnVNeDVONlE2ejc1MXotRlRFSk9TNVg4SHdZNWNSQUZXVDdnemV0VUJ1S2RCazJCbEVtb2E0b0FPVEVlZFYwVUNGM1Vqd041dTQ?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.87128,
+    "lng": -43.90582,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 206,
+    "data_dia": "2026-09-28",
+    "titulo": "Vítimas de acidente com ônibus de turismo na BR-262 serão velados na Grande BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQampyRkJrUnd6YkFabzZNNUxqOGM4ZWNNOE85MFZHczAyMWtSV3BSNmQtMzBOcTE2cktzbG9PTkdhamhsS1JDN2tlM1dzZ0pGNzRkb0RXb3JqLVYzUDFzLS1qcFpXRjc0RGZQMVJ5TUxhQXFOdFd0d0NBV2pveXRwLW9jUnBMcG9zb2V2dENfMUg2LWlBZk5kR0U4VHJ3eWVfYWw2N0hXRy1ieWpYbUJlZzJkNUZqSW1EVGdnaTRjcEpuakU?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.87147,
+    "lng": -43.90306,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 207,
+    "data_dia": "2026-09-13",
+    "titulo": "Bombeiros combatem incêndio em residência no bairro Madre Gertrudes; veja o vídeo - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemI5d3RVZU04R0lia3RNdS1wekdIZU1SRFJ6S2xhNlUySW1yNmNOLVNSMFFMMmFzaEJyYzJNT1hGcEtQN1ZoQ09rcGVmOW5rU0xTZXRGVGpDVTBkakxma25uVWNHa0FGS1pYaXlFR3dnYUtfUzJzMjYwSG81MTZpX2JEdDd4OERaZC1VV0MzU2JMdTRaQVVCdHZPWFdYZ2pXMEYwV0RlUlhjOFdNLWdzY2ZpOWV6VHJFOWdnZmJmMl9MUQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92399,
+    "lng": -43.94505,
+    "hora": "13/09 04:00",
+    "recente": false
+  },
+  {
     "id": 203,
     "data_dia": "2026-08-22",
     "titulo": "Acidente com 4 carretas deixa 1 morto e 2 feridos em MG - SBT News",
