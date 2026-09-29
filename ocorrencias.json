@@ -1,5 +1,31 @@
 [
   {
+    "id": 211,
+    "data_dia": "2026-09-29",
+    "titulo": "Incêndio em apartamento no Centro de Juiz de Fora mobiliza Bombeiros e deixa nove moradores intoxicados por fumaça - RCWTV",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMjhvcE9GQ3Z4NzRmcUlVQ2pONVIyVXktWFB1M0JQcUpqY29aS1F4Q21fMnBramRMM0F3Znd6cmZtZVl4aWFMZEJlYzdndV9sVnV6LTNVMHJKa1dFVE1xUGZFcFBMRHFrbnloMzhPRG9fY2ZrQ24wcHEyUzNNUllMaDFaU1VjXy1hN2M1M0NzZDZFSFAwbFRWNm95UTFlLS1wYlctdnFadjdXX3hwOGNkazRILVVvb3pXXzZCSlMzMmJtSDNnbjdSd25MWnJmR2pLMEstYlNNanN0OGpRSGdfYw?oc=5",
+    "local": "Juiz de Fora",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.76201,
+    "lng": -43.34873,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 212,
+    "data_dia": "2026-09-28",
+    "titulo": "Quem eram os mortos em acidente com ônibus de turismo na BR-262 no Espírito Santo - g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSaFYwUVN5c1U1UXpVRUJQYTRMclRkbEloM2pMejc2T0J2dEpsdS0zS2tqaTAyQm5TaFNodGg3ZVpUaERBZUMwX2VvQ2lCZjhDS196aEZtTXo3d3lJbkM4RXFFZkRxVzBreHlzblI0aFFlRWZNQ0tERWlVa2Z2RXhTcE9lb1FqRGtQdWRpQlhUS25lRUJ2bklhOE9lTWhHM3o0c0dIQWxJX001dFFoa2l0WElWcERYYVk0RE5n0gHMAUFVX3lxTFB5T3JvUGF4QU52UWJBek5Bb2t2X09uTC1nX2tPekx1Uzdxbkc2cnVaenYwQ0Z5WEZVcVRPaDZQTzlGNXNFY0x0azdhUHhBUkR5R09TOGwzd3F2U1NPQ21CMlBnMUVJdE83R1hRalpXWlBTeEtCcHdHWjhWc3ZOWlRacHBvOGMyRGVkeXZjbG9sYUV0WkFZUVJ4czlnSDRqaDh2TS1YRmpCMVJreWRucExxMUZmOFJISjhuc194a1FPbDZIcWZYQlYxb3g1ZQ?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.85793,
+    "lng": -43.89149,
+    "hora": "28/09 09:57",
+    "recente": false
+  },
+  {
     "id": 210,
     "data_dia": "2026-09-29",
     "titulo": "Bombeiros combatem incêndio que ameaçou residências na zona rural de Lagoa Formosa - Correio Regional",
