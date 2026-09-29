@@ -1,5 +1,31 @@
 [
   {
+    "id": 208,
+    "data_dia": "2026-09-29",
+    "titulo": "Bombeiros combatem incêndio em área rural de Lagoa Formosa e alertam para perigos do tempo quente - Rede 98",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXJCZGc1X182aUVBbk91ZHVPSXk1eTMtLTdDWjQ3WDBqQzcwcUNVM0s2d0x3UVFRWUN5VXBaV3VGc2dfaWR0ZmYyZUFFa2ZPNkZFV3VfZ0hJZmVGb0kxNmVNWVhlRm9JQk9FcWRnM3RqSG8ybVcxeDFaTlV1WWExc1RLaGcwd29tOERfNU1qT3RuYlEtRUlBZ1h0MnZ3Y1VLanhrYkd6VU9BOXkzY3VLamVCT3gyWUp3VlFlcHlEVjZaZURybmY4dlpldWV1dzJjMlU3REVJY1JRZw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92324,
+    "lng": -43.94404,
+    "hora": "Há 44 min",
+    "recente": true
+  },
+  {
+    "id": 209,
+    "data_dia": "2026-09-09",
+    "titulo": "Garagem de veículos pega fogo no interior de Minas; carro e três motos são destruídos - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOblhXVVJ0QUN1QkU0TDg1YkdqWGJuYUowVEN5U1RScWZWTThaMTRaUGZCdFFuaklBbUNzeHU5YWFTZE9vVy1yZDRGOFZyZGR0U1FlelZMMm9EYmdoa0tQTEVDV3ZVUzRQNW1RX1VvTlF3V0I1REFadWl6RmNCR1dISnFjV2F1YWNGbElnVkR5andYR3BKUnAwbmltaUlvUFFMcFplMXgtN0pzZE5RVlB2UDFUOWF2bmNsNk40cWN4QlhqR3RLUFFZNEQzazJaUQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92443,
+    "lng": -43.94452,
+    "hora": "09/09 04:00",
+    "recente": false
+  },
+  {
     "id": 204,
     "data_dia": "2026-09-28",
     "titulo": "Bombeiros atuam em ao menos três ocorrências de incêndio em diferentes regiões de BH - Rádio Itatiaia",
