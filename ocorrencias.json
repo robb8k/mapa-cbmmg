@@ -1,5 +1,18 @@
 [
   {
+    "id": 203,
+    "data_dia": "2026-08-22",
+    "titulo": "Acidente com 4 carretas deixa 1 morto e 2 feridos em MG - SBT News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzA1R0VheXBQNFJ5V0lQTVBzMGkybDZ6RU51cEJKdENIODFLQXA3MGQzQlcwbmdqQXpVdHJXT1dUekJQX1FzQ2pHX29GbkV2NFFqaXBweHZCWGtjUTdOOXdhSzlDdFdTWnloclJCQ2FVV2l2NkU1TnpZN2tKeGVkampmbXZ5OVRfRktXdk9nelRlcnZIenZGWVBXQkp3dw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92318,
+    "lng": -43.94429,
+    "hora": "22/08 04:00",
+    "recente": false
+  },
+  {
     "id": 196,
     "data_dia": "2026-09-28",
     "titulo": "VÍDEO: Incêndio atinge galpão de reciclagem na Grande BH - G1",
