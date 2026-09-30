@@ -1,5 +1,57 @@
 [
   {
+    "id": 221,
+    "data_dia": "2026-09-30",
+    "titulo": "Incêndio na Grande BH expõe salto de 48% nas queimadas em Minas Gerais - RibeiraoDasNeves.net",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJVTWNiTV9vYXNKQkt3RFJZc2xySGNPeDUtUGluU043QVBMUTlhRE1femtIWnVMaXB1SGRRSVZhUFBxWTdsTk55ZWJDM3llYXV1NVpjMXh2T3FIRW9jVzB1T2pVM05QdUFDR1dNUHFCTzgzUEVGbGRrbUZ2SEVwd3R5RjRuajFrcHRaSUFGSDJzTXV2N2dQaUdnMGZmUVRZOTJ2RzE0eVJMcXpBb1FDcEd1cFI5b2FkZkhMbXh6cUQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92425,
+    "lng": -43.94765,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 222,
+    "data_dia": "2026-09-30",
+    "titulo": "Celular superaquece durante carregamento e provoca incêndio em casa em MG - ncnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmZUdVZBdHFISnhxVkxOWDJ1aklqSnY5Q09PZVp4VzJlako0Rm5JQXIyYTVwYTRoMkh6c3Y3aVJ0TFlvX1h2aEZ4UDNiRkVHOWlETlRvb0lKY2V5UEdYbGdIUFFraHQ0Yy1MaThiUXBxU0Q0R01PaDRFVWhmSF9mbDN4WFc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92241,
+    "lng": -43.94623,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 223,
+    "data_dia": "2026-08-30",
+    "titulo": "Bombeiros resgatam com rapel homem que caiu no Ribeirão Arrudas - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhVRDlyWGZKMkxkQTR5dnNEeUV3cUxiaFU0V0hVWHA4c1A0a3NJV1AzVm5CRnRmOEE0ZE1MNF9HRXpfd0pLaUYtdjBwNjVMWFZZT1pkc3lIZkp6ZjZ6WFN0SF9GWHJZZXRMRFdtSDNSUlZILVpSZGk5TGg0bHQ1RW1ZLUx2YnRVaDI3bGZXWkltYmRSWk1Db3VMdkdIeVdrcXloSGV3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9246,
+    "lng": -43.94334,
+    "hora": "30/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 224,
+    "data_dia": "2026-06-26",
+    "titulo": "Bombeiros do Paraná integram missão internacional de busca e resgate n - jornaluniao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRGpvLUxfTXZjbEF0MlBwOTNhS1dVQjYwWm1nUVlQQnI2ZE5IRHkzSWxQcmpQaU5rbFlOX2VVQnV3dUdvQjRBRUVmcWlHckhnYWpDS2xRN1VaYkVCRmNyRDlCeU1lMkRzN2JRWTJHZ1liNlQzNmJuYlZwTkp0a0ZQTVNZdmhBaUlkVU5DLW9GclVxTnJDZlZTVGNSaXlNdjNneDNyYlhMdXdFVjBKTVlIRWFGNkJnMXdENnpBMGdTQmpCQ2xnakZlSlRkVUlJSHZ2WjdkeVRTd00wU1U?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92208,
+    "lng": -43.94489,
+    "hora": "26/06 04:00",
+    "recente": false
+  },
+  {
     "id": 218,
     "data_dia": "2026-09-30",
     "titulo": "Corpo de Bombeiros de Unaí atua em incêndio em edifício - portal iluminar",
