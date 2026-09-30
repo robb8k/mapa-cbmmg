@@ -1,5 +1,31 @@
 [
   {
+    "id": 216,
+    "data_dia": "2026-09-29",
+    "titulo": "Bombeiros resgatam filhote de pastor alemão preso em portão em Montes Claros, no Norte de Minas - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHJTSld3dVRieXg0S2lxODh5V29SRlJZdlNqczhLeGdMVDViVndodUZ4TzN4TDgtaFBfWm4yLUktNnQyQnlrYkZnNzRqb2d0cU5zeGdYdWJ1SGwtdGxOaUI1aWVOb1FTNzdvOFR4a0xLUGM4a1ZpSzY1aThBaDZnOGdIdVBQLVZxeXk5eTVvNXU1TWNOa0t4YlZnSUhKdnN6aC1qb1BWY0Mzc2RDVGhvM053NGlURmtDWFkxZ2J0QVd4b3BxU0I1NXNTenVoSm5JMDhUdW9fOHI?oc=5",
+    "local": "Montes Claros",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -16.75027,
+    "lng": -43.8679,
+    "hora": "Há 22h",
+    "recente": false
+  },
+  {
+    "id": 217,
+    "data_dia": "2026-09-28",
+    "titulo": "Duas vítimas foram ejetadas em acidente com ônibus na BR-262, diz bombeiro - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd3dlNkpVY2VSS215TW0xWXRmNUJZX3c4VnpjWERrdWZicGZXQWZLUHJpeDV2NDZqMlZvVlpHYXBNbldkMTVlVHdBTnZpMUQ5OE5WazdjcEFoLWlfUEhRSjV5dHF4RjNXd3RDQzRsUDU1ck5yOFJERmdjR0Q5NXdEbjdZNW5GUXF4VFpwb3pxM1cwRmRVeWJhOUQ0bVRyX0xuQy10U0cwM25VZ1VCMmtqV05PN3U1UGMyem5WZg?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.86643,
+    "lng": -43.93322,
+    "hora": "28/09 08:21",
+    "recente": false
+  },
+  {
     "id": 215,
     "data_dia": "2026-08-07",
     "titulo": "Incêndio em fábrica de BH: Defesa Civil interdita imóveis no entorno - Rádio Itatiaia",
