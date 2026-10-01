@@ -1,5 +1,18 @@
 [
   {
+    "id": 227,
+    "data_dia": "2026-04-20",
+    "titulo": "VÍDEO: Supermercado é destruído por incêndio em Pouso Alegre e Defesa Civil interdita imóvel - G1",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWMxVl9LRjl3d3BVUGt3M1JlcDQ3WGFOZHJ4czVYdXp4Y1BnSHNKaXo0UGZ1WU01dno1WGw1VF9yeFhfM09MRm82VC1yRzVwYW51XzhzQ29mRFczZ1E5b25ibXlqbnRIemlud2lxSXg2SzBLNVpzY21xdjhrTWFqX05aakZNYV92NG9CV01EaHRlZmptVERfNlZWVkbSAasBQVVfeXFMUC0xd0lrSFlEU3RwN2N0OVA0cUdmbDZ4QS1CN0ZVV2lXSzl0ZmdoVGpKMVZCR1kyUERtSkxMV2pOQmxSZXFVOFd4YW91VVZuRFhUZ1JUUXptbURBU2laa0hSNFdLRnpRa2dFb2JxcGVWbzY2ZlNubFU1d0hXanZzdHZXQWdfWWE2RFZCOVpIaWFTRHZIeFJld3dwaC1Oa0gtX0gyTDNyOGw2azdv?oc=5",
+    "local": "Pouso Alegre",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -22.23546,
+    "lng": -45.93351,
+    "hora": "20/04 04:00",
+    "recente": false
+  },
+  {
     "id": 225,
     "data_dia": "2026-09-14",
     "titulo": "Colisão frontal entre carros deixa dois mortos e dois feridos em MG - Metrópoles",
