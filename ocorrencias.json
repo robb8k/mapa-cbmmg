@@ -1,5 +1,31 @@
 [
   {
+    "id": 225,
+    "data_dia": "2026-09-14",
+    "titulo": "Colisão frontal entre carros deixa dois mortos e dois feridos em MG - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXNMWG9TaUVkbHFMYnFBc2cyZ1hoc2ZYQWMwSEs2Z1Y5Q25ZNGFHS3JEODI2YS1MVlBQaVk3VDBWVzlrV1RRVUZCRmNYRUg3OGlOc1dObHVQMy1ZbEdwb0tQaVFrOGsxZFl6TTZRUC0wNGtXSEZOdnNsOWNONnJqNFE2NUo3Qi1CdjlQaV8tY3BJZk1ZZFR2LWlzWGp0dS1SdWpjenZ6dndLSzQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92052,
+    "lng": -43.94417,
+    "hora": "14/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 226,
+    "data_dia": "2026-08-24",
+    "titulo": "MG: acidente entre ônibus e caminhão deixa 2 mortos e interdita BR-040 - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZndzT19nRi1SZDB3QmhVeWp4bTFXTnI1YkgyclZMeDNLSzhhdEhtR2VYLTBLMWdEY2NkNUo0aHF0cFNDd2E2N1liY3l1MkliMUp1dk8tS2VYZnl5Mm5DOHVjTTI2b2NPY214Nk1rYlBnNmt6ZDkyQkZsZzBxRGN1a1RnRDdEM2FqQnhEWWJTWmxDLV81aU9DVDFqMWRtM3FON3BxMmxkQ1NGdjBiclE?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -17.19857,
+    "lng": -46.90948,
+    "hora": "24/08 04:00",
+    "recente": false
+  },
+  {
     "id": 221,
     "data_dia": "2026-09-30",
     "titulo": "Incêndio na Grande BH expõe salto de 48% nas queimadas em Minas Gerais - RibeiraoDasNeves.net",
