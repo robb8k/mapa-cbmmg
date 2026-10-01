@@ -1,5 +1,57 @@
 [
   {
+    "id": 228,
+    "data_dia": "2026-06-28",
+    "titulo": "Quarto voo brasileiro para Venezuela decola com bombeiros e donativos - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTZHVDR0dVRodlhHV3V5R0NSVW5uNDNqSkYtMzd6ek1HNm9vLVc0Y0lZUGdOZWRRR0ZFQlZHRHk2TmE0VUdxZDE5VkRrRUNtcUNIdXdSZTAzdmh0Tno1WGZPTk1WcHV2Sy00dDEyZmM0Y3ZoMENxOFk1OHN6RTJGZ3NwU3NZU3ZZZnpDYllYSUlsbURrMHFaYWp0d2M1M1E3dUlMMkpvck9JZlBQbzdhS0Z1UVJKQnROZmg0RjNUbjhNZUFZQ1RXMnJyTjA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92391,
+    "lng": -43.94698,
+    "hora": "28/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 229,
+    "data_dia": "2026-08-19",
+    "titulo": "Incêndio destrói casa e deixa dois feridos após desabamento em Votuporanga - A Cidade de Votuporanga",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1Nrcm1ycHQ5Y211SnpWQUROLVo1TUVPZ0dkNHZxZnNHSGtTX2ZCYURlWUxoQ1dnNm5pU2VBT3g1WF9sOTlGWFNXXy1Md184SlZaVmtEMFY5VUNkMmt4SXpXSE03eGd0VENkYWZlREk2Q3NPRVVqblhqcE5obXlucDB2azJlMllJTkdkMExtVFE0azJWaE1USi1BeTZ6VlZhVTl6MGVDekRORk0xZENodXIxLVdBajNPYjhjU2RrRW9sNWlQbFZwSF9HT0w3blk?oc=5",
+    "local": "Votuporanga",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.42427,
+    "lng": -49.97707,
+    "hora": "19/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 230,
+    "data_dia": "2026-08-09",
+    "titulo": "Bombeiros alertam vizinhos a não dormirem em casa após incêndio em prédio abandonado em BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmFfR2UxVmxUekFUZTh6ZGJGNk54ZUJaODhFejdJSXpJakNmRW5GV3I4Sm9FbG5jbVFQU1gxc0JoTHp0N3R6TGMzb2NYdkNQQjJTRzFGcWFRZVhQbWZ4Rkh1cVNXdEZ2VzlEREF1RTllRE5QeFl5WUFlTjh2VjNiNnpLckJ1SEhqVWo2dktvQzlCNWtnUlRXcXlzazJDSXduOHY3WUlkX3VRNFJQeWU5WGtiTkp6b01zc3lYaGVkU00yZEdXNm5wd3J6Slh1TzNmcm1R?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92376,
+    "lng": -43.94296,
+    "hora": "09/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 231,
+    "data_dia": "2026-06-05",
+    "titulo": "Homem segue internado após incêndio em apartamento; Defesa Civil fará nova vistoria em Pouso Alegre, MG - G1",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZWlweGlCam1ZSFhvWFBIajJ2bXV1S08xeG9nWFF4LWdRWnJna0JJUXZLUXhzVGxqV3ZpMnhjb09CaWdpZENpY0hnd0tGR1IzTC1Zd0VNWGhJdzd2aWhOeVFodWwtVWlUdTZDQUZ6SXMzY3JaWlBybUtkb1VBWkE5MHM2VmJTZEFicDJmemRKMWo4U0dpN2U1M0pKWlR2bDdUNnhTLXJfRTgzR1hlbV9DNnRQWVFpZUxCV3N5LS1NZERVRGFKdlZmOXFIcGZCei1GbmU2YlBUdUZlMEJXeWNmZFlLUGdPY0hLOEcyX1VpbUxid05PRWfSAYQCQVVfeXFMT1F4d1p2cGphU3VZYl81RWZxeE9FNTJleS1ZMjl0eGl5aUtUel92R2ZUOHRid0Q0ZUY3X3NHajdSOVhhcEh0SjVSQ1RoNXdNQS1xa1hzYUVST1FYMEs3RGdUQU02cUZSbmoyX0pjWVBUaDVWNldEZk04TzZwUGZ6Q0xmSDlFSHJ3bHAwRGsxdVh5MjlYQ0MxWmJ2bmt4OUNkcHVkeVRBRl9RTEVQb2xVTHdmczVGRTRkakJyQ2ZsOEhPWkIyTlpJY0lnSlhmb1k1cE4xb05vVnVnRmdsdEFVWlN6bW8zSGplSEVxTUxxOWNDSDBKQzdGaXg0WDJENUpIRjJZdXE?oc=5",
+    "local": "Pouso Alegre",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -22.23304,
+    "lng": -45.93242,
+    "hora": "05/06 04:00",
+    "recente": false
+  },
+  {
     "id": 227,
     "data_dia": "2026-04-20",
     "titulo": "VÍDEO: Supermercado é destruído por incêndio em Pouso Alegre e Defesa Civil interdita imóvel - G1",
