@@ -1,5 +1,57 @@
 [
   {
+    "id": 232,
+    "data_dia": "2026-10-01",
+    "titulo": "Bombeiro de folga para e combate incêndio em carreta na BR-040, em Minas - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklCUU9TcGcxUnpCaHBUZ21vdm1EdFJqQXYxNEhSc292SFQxZlMwZERobDg4LThIcEc0Y19IeVc1Q3N1WE51QzVEa3dwY3hJMWpMdVN4Ykw3ODFkcFNZN3p2eEJCS1UtTjR0UDZkcUFEUFE3LXZGNFhmVEFOQnRBbUhUSU5YUFQzTXB1SnVxX2tnbU02eHJORk1QVjRzcVhRRlBHaU9iNTgzLXNHMkdJNQ?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -17.19978,
+    "lng": -46.91032,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 233,
+    "data_dia": "2026-08-15",
+    "titulo": "Incêndio em galpão em BH atinge associação de catadores no Prado - G1",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpNWjN1NHJmc1E4MmF5NDhHbndZZVBscDVQanJfYTc2SElsLUdralNwWHpBekFlaWwyQ3FnbzJRYnFDTDluZW8tRUxZSTdGMkxPT2ZOdUJnNllrV1h3cnd6ZmwzSTZpdGFyMm8xSzdkOXRQTjU2bHpGZjVyZ09RbDBwd2dkUWN0d2FtaTZLS2pUWlZUMS1JVHE5TWdyU0xQQ1E1cnZZYlpuUDMyQldXUkRxd1JlNzc5dm1fV0hDSWJFbTRoUmlyRk9IYnRoQjcxbUFoQ1hqZlNUdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92075,
+    "lng": -43.94491,
+    "hora": "15/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 234,
+    "data_dia": "2026-07-02",
+    "titulo": "Bombeiros de Minas enfrentam desafios em missão na Venezuela - Rede 98",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXRBaXNGbFBXZTI2M1BQdFhvMW94RE1LaWtkMEZSNlhCQ0FXQUJaT1VCaWtjdTRZM2VQMnhranFrV3hycC1jXzEtdmtZX05qOE5BMm5faHVvYU1ic1RPVlY4SENNanF6cV9NaDdLNlozSHdtTUpSTWphVzdyc3lUUGRuWWJoeHBVbThLTW03UGNqVEhRWlZ5WXhoMGE4QlRhdXVGVkRmRkg1Y0NPUlNhcjBOLUJDXzBOSjZTaGkwSEI5ZkhFa3lyempyMENwMF9hXzhKVEhxN08tVkFwNkdJcWNUcHFpQQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9209,
+    "lng": -43.94479,
+    "hora": "02/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 235,
+    "data_dia": "2026-07-31",
+    "titulo": "Incêndio na Serra do Curral, em BH, mobiliza Corpo de Bombeiros - G1",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNFI0Q3BWNzlWSmxLLXZWbTVmZEpDSVl3NVl5Vk1CQjhRV0lFWU9iLW9RLWRJaXNENk9zR1JZQlVFWnQ2QW9EN3NzYjQwUXhoRGM3djd0WG1Gcm1WUlhOVmE1YVJzdzBBODNfMUlkTlVEV1QzNUZ0dWUwZ184QmRyUDBCUjlsbUFpM0MtSzZsN3hSOE5XOVJGWmdJWUR2aGtZNmRUWS1hNnNhdEpIbEc1bFh3N0pnazdmSldQU2MxTlRxYk9jT3hrOVpEUmNmLVBMdUhCNzRBcHBsT2I2dkE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92532,
+    "lng": -43.9449,
+    "hora": "31/07 04:00",
+    "recente": false
+  },
+  {
     "id": 228,
     "data_dia": "2026-06-28",
     "titulo": "Quarto voo brasileiro para Venezuela decola com bombeiros e donativos - Agência Brasil",
