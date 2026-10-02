@@ -1,5 +1,18 @@
 [
   {
+    "id": 243,
+    "data_dia": "2026-10-02",
+    "titulo": "Grave acidente deixa feridos e interdita BR-365 - Patos Notícias",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2xmOE1BNXRGQWxENzZObXMyMzQ4ZXloY0JjSDJOdGhiMmZieFNFMnpUQ0h2LWs1U2ZRbGNmUWVueng5bzZYLTZ3NFFKYk4ydWRaUnc5MWR6Tmh6bnpyUmJ6aGZnamJNUzg5a3JzenJoWlozSVRSWGZGOTh5M1pPRFg4Zw?oc=5",
+    "local": "Trecho BR-365",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.88449,
+    "lng": -48.48124,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 242,
     "data_dia": "2026-10-02",
     "titulo": "Carro capota na Via Expressa e deixa vítima presa às ferragens em BH - Metrópoles",
