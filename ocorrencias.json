@@ -1,5 +1,31 @@
 [
   {
+    "id": 236,
+    "data_dia": "2026-09-30",
+    "titulo": "Vídeo: Incêndio em apartamento mobiliza Bombeiros, SAMU e Polícia Militar em MG - tapiraimgtv.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMk1lT0VaeFZvTmtKdFFkWDZjREFXakF2eGRndGRTa2R2aVg0cW1WOHJmUzhYT0tQN3dMZnN1emlWQUpvWDF5SDF2Z01oaFdNRnJVNzUwc09rb2liVWlpVGRIcjMxNHlRVE1BaUlsRmp5LTBxZDdUT0ZyRjRYck9zUGNsUjY0TEZIS0tfMGVTY2xmWHcwT2VzLXljLXY5c1NfRjdfYmpnLVJieU9lUkFhbVJMM0gzdHBIRVgyYlk0Yw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92464,
+    "lng": -43.94548,
+    "hora": "30/09 22:49",
+    "recente": false
+  },
+  {
+    "id": 237,
+    "data_dia": "2026-06-26",
+    "titulo": "Bombeiros de Minas embarcam para missão de busca e salvamento na Venezuela após terremotos - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSE55UlE2UkdRNlZpeVFXV1dDczh5djM3YTdFRUV5VjdJZEJWUzJIbE9UMVBrQU8temZ6bDZJVzlORkhOcDFXQnpoUldqQ0NpVkI5dXZKOVkwbW83dzF0R0lsTUk0VW9SSVBtamNhQWw5OUxVR3ZhNHR2RHdSdWpjXw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92116,
+    "lng": -43.94304,
+    "hora": "26/06 04:00",
+    "recente": false
+  },
+  {
     "id": 232,
     "data_dia": "2026-10-01",
     "titulo": "Bombeiro de folga para e combate incêndio em carreta na BR-040, em Minas - Metrópoles",
