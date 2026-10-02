@@ -1,5 +1,57 @@
 [
   {
+    "id": 238,
+    "data_dia": "2026-10-02",
+    "titulo": "Acidente entre caminhonete e caminhão deixa um morto na BR-381, em MG - metropoles.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWxmNTRTSmVUQjJpSVR2MDZHQXBsajlVNjJROUdMYllTR2dvMExSV3Z4eENCVllxU1R5QWFyem1LbzJwdmlHLW5uU2xJVmp3OEhhcXl3OGF6YVRDcFlTSjZNTVZUVjB2TjBNXzFxT2x0enV6SlR6cjNGNmZqTFc4d3pfRzZjZDJCd2c0UDkwVXdQekZ4ejZCdFQ3N3VRNU9EMEhQa3pyVC1CU3pC?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.85377,
+    "lng": -43.8914,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 239,
+    "data_dia": "2026-10-02",
+    "titulo": "Bombeiros atendem vítimas de colisão de motocicleta contra muro em Goiânia - Tribuna do Planalto",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnM1SnMtczAyWWwxX2Q0VHRnSU1rV1dYZHhCdlBrZkp1dXA2TlExVFN3VFlVZkg0ZEZ2NnU3TkJlVVJITE9Ic00tUkptbnducXowdG1iU19ySlUwcHh2Tm1qUTE0TE8tdkU4WVVLaEZiS1NXb2NuNV9tZ21QOUdGRi1RaEJ4Vzc5M1RaQjE0UVJIWFdwdXp5cGU3Wkk4TmZYSWktaE1tMklVT0Qx?oc=5",
+    "local": "Goiânia",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.86756,
+    "lng": -43.90077,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 240,
+    "data_dia": "2026-10-02",
+    "titulo": "BR-381: acidente entre caminhão e caminhonete deixa um morto - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVy1hYk41LWt3eUNma1FlOWpkU3FvUUhWcnozZ2lOTHlTQzlUalBVMEdRLV9Fc04wUnp0MUhYTDM1WXBkTU9adThUVU1FMEttY0drVDVvWWt4VWw4cjE4VlRTcUNDeDlCUExVbXdWellvRTBFR2VqVF82Z2RnVE1KVC1YajZZb3dXclRVaDZNMk81Nlh3S0tpSE82MXRJU0h3NkFnLWQ3Z1k2ZmwzSmfSAbMBQVVfeXFMTmxIMFd3QVJCa3dnV1A2Mmktam4xZlRwQlZQWHo2alp6dWpLU0NTRlozeHpzZDJuaUZkNlJ1Y25ObDVXNzVmZHpzUGhXRVdwemlHVUhMVTNZb2lxWTZtMUVSQnFRZGExMUtHS20yZGM5WE5JREZTU0hVV2lvVHB4WFp2eDF3UlBsb1VyTjV0SUdveEIzbW9uX3J0b0k2VlBOWTR3ZjN0T2Q1Zk9YQ2puTkYzM1E?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.85457,
+    "lng": -43.88904,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 241,
+    "data_dia": "2026-10-02",
+    "titulo": "Vídeo: Acidente grave mobiliza bombeiros e helicóptero de resgate em Goiânia - dm.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkpiTFo3UFMyM0VGMExPT2dBakRIaW83RDJWenFoLVRNMTdiaW5NUW01V1VxSFk1WXRud1I1OElZREo2bGJyTFNDdElnaFhjNlJ5bXhzVDVYYnROSGl2NkJzOGlFMkFvUWZHbHBqOE5hdVlFUUI1X1NJWlZrMnpOay1URUZ6XzBhMWkxOUlFTURzMEJEUXBISFlrc1hrZTJoRy1kOVE0QUJJU0gy?oc=5",
+    "local": "Goiânia",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.864,
+    "lng": -43.90102,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 236,
     "data_dia": "2026-09-30",
     "titulo": "Vídeo: Incêndio em apartamento mobiliza Bombeiros, SAMU e Polícia Militar em MG - tapiraimgtv.com.br",
