@@ -1,5 +1,31 @@
 [
   {
+    "id": 249,
+    "data_dia": "2026-10-03",
+    "titulo": "Incêndio destrói casa e mata uma pessoa carbonizada em BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2ZIZFZYRjRvYm1uXzE5SWlDYUc1YTlBNklwd1dySEdneEVyOERxbEt4R0sxUjdXTmlhYjdJdFRjdXdxZ3dMcjdzWmhvVlBIR1pXQzhORlh6SGRVUEt3RFYyd04zUnZYbVlmTlI3d2V1V0ZPMEVPZ0lyWjBKY29rWmFiajhWa2wyd0dHVEZkSVNjQnpWcmxKcHJGUWpRdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92322,
+    "lng": -43.946,
+    "hora": "Há 29 min",
+    "recente": true
+  },
+  {
+    "id": 250,
+    "data_dia": "2026-10-03",
+    "titulo": "Homem morre carbonizado após incendiar a própria casa e agredir mãe e irmã - D24AM",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFhYZmcyQWFCUS1uYW9iN1Y0aGYyYU4yYUdaWEdDVHdDM3A0R0QwSzdCWVhkdXVvMGdCRWhlUnBzNXkxTy1mc3Yzamd3VWsyWFNLc18tLTlSQzVsMXlVRUltWDZUcHZ6NTNDa3RmNW1mcE5nNzd2S1hadWpxSUVsTHVDMVdJcWFmYzU1TjB0c2tOU2l3OXRuazBtcXZxRkRzRUE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92493,
+    "lng": -43.94514,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 245,
     "data_dia": "2026-10-03",
     "titulo": "Incêndio destrói cerca de 10 hectares em área rural de Bocaiuva - WebTerra",
