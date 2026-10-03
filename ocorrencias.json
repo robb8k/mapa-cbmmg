@@ -1,5 +1,31 @@
 [
   {
+    "id": 251,
+    "data_dia": "2026-10-03",
+    "titulo": "Mãe e filho de 2 anos morrem em acidente entre 4 veículos em Itaúna (MG) - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWlFlOUFrekZaa2RjRFFZUGlyZkRvaTlmY19UZjdGV2VJcnQ4bF9oUlFaM0FmN0dnOFgwcG9IZFV4dFprdFQ4WXV2RGlrbDVEc0hyT0pzRXBLRkpidGFnSFZOOWwwcVdqM0FXR01RMmFNSEltc0kwUXVUSTBIYmNDcEVfVFRWNm9hMDFCaWhuWUZPVXU2aFZfSjQybzl1OUZMTEYtXzI5TTR4N1lyTTNF?oc=5",
+    "local": "Itaúna",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.0767,
+    "lng": -44.57548,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 252,
+    "data_dia": "2026-09-23",
+    "titulo": "Acidente na BR-356 deixa uma pessoa morta e três gravemente feridas em MG - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlcyNDJmakxCcnpuYUxUU0xaMmRFdHVsd2JJR0tvaHBtLUtqd0Y4V1VlMFBOaDNkVDV5U3hKbTgwQWtBMnpUcmUxaEZUellKMkFIblFQX0lZMHcwWElRRTFxeE12VTl4VktSVnZLREo1RzlZU2FOY2IxY1cyM3lUS2F6TFdPQ2xmcVpYNFhjRnk4cjlwVWp0WWpNNi1aTFVBWmxBZmNrVFdOeVBXVEJEZjhvTQ?oc=5",
+    "local": "Trecho BR-356",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.99341,
+    "lng": -43.9586,
+    "hora": "23/09 04:00",
+    "recente": false
+  },
+  {
     "id": 249,
     "data_dia": "2026-10-03",
     "titulo": "Incêndio destrói casa e mata uma pessoa carbonizada em BH - Metrópoles",
