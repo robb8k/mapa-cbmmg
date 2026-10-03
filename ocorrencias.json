@@ -1,5 +1,18 @@
 [
   {
+    "id": 244,
+    "data_dia": "2026-10-02",
+    "titulo": "Acidente com morte interdita a BR-381 em João Monlevade nesta sexta-feira (2) - radioeducadoramg.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1EwREFYODZPY011X1U5TWtfTmc1MmN6UUluSy0yMFFWVzlHaVhBclZoNkNyd3luMVFFRmJESldkQ2ZDc2FrekY0R1d1bTk1eF9zQzlPUVNCenJaUWdWOXZOakdyRXI0Rmc1YmFnMzRENkxkLUdRYkJ2Qm45TmtDeXQ0cy1PTG1RMnZSN0JST3FZaEFYZVNLcUprOXREVzJyNUtHZ3VScGFhSzNa?oc=5",
+    "local": "BR-381 • João Monlevade",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.84575,
+    "lng": -43.1996,
+    "hora": "Há 13h",
+    "recente": false
+  },
+  {
     "id": 243,
     "data_dia": "2026-10-02",
     "titulo": "Grave acidente deixa feridos e interdita BR-365 - Patos Notícias",
