@@ -1,5 +1,57 @@
 [
   {
+    "id": 245,
+    "data_dia": "2026-10-03",
+    "titulo": "Incêndio destrói cerca de 10 hectares em área rural de Bocaiuva - WebTerra",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3R3QXFsSGhCYTNiaWRmZy1QYU5lQ0Q5ZnNETXkxTkZMVUF2OGdVdjMwRk9RUG5ueFBRaVczNV9hMmViVXVCQ2hHd2xjT3dIbHc4ZVJnSWVibi1TZkc5OElqZnM2SHVSZmd4TU4wWEdNSVB6YkVzMGJCc0tXSUNjN2pkblBLNnBnaGNJX0NibnFsSjFJZDlXTE14Z2FiZGEw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.9236,
+    "lng": -43.94675,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 246,
+    "data_dia": "2026-07-22",
+    "titulo": "Vídeo: incêndio em fábrica de palmilhas assusta moradores no interior de Minas - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3BFOXo2YmpBRVN3UFdJd2s0eFJvZVhQU0ZZLVpVVllYVzliQ2IwSWJBeVlLeHNITVg4MFJrNWNIckg4N0xWM1JEem1CNk1iUkprNng0aldXTkNYczFON21KYjFIT1BlSzV2ck5aWFJVQmtFN3ZvcTJ2Q2JSanBOaW5CaG4zelp0dmlwUm45SXZhRXZxa2xJcUx0eWNuVlpaVWNjR2JwQlhzSnlPQ0RBM1BEVDVGUXRTMjdCYUJWMERwdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92249,
+    "lng": -43.94632,
+    "hora": "22/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 247,
+    "data_dia": "2026-07-13",
+    "titulo": "Quatro pessoas morrem em grave acidente em Minas Gerais - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ25hUmtQWDBLbVRNaDVtOUFTbXRVdGpBRDRjZ3ZtN0Y0aFhnclpWbFFMblU4Qy1BX0lCX2thdkdfVmpDMHRBa2U4VmNqVWg3R3lBN3JENmEtbGdhaWRYMURKems4ZzZkTGctVFZOeHg2MzJCZktTMmw3YVExM0ttNGJNeDMzVXBHNHM0M19mdnhDWE01UDMyMFNTOGNCR2cwTkl6N2U4QXc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.9205,
+    "lng": -43.94808,
+    "hora": "13/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 248,
+    "data_dia": "2026-08-10",
+    "titulo": "Prédio atingido por incêndio em BH tem trincas e risco de queda de vidros, diz Defesa Civil - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdER6MHNNTjB5d0tjZ3h2VzF5VzdrZXV6S21KVzJSMHNxT04zTTRNVmctZmJtUkxHRnZLQ04wTV9palBYbUpiMGxVSmNVSllUeWdkbEhQMXF1c0FTZE5aWEhBWmtybUZfSGl3OVZ4Mi0tRk1wUlhyajhmcGVRNWE5TjZwdXRhUW5FYl9mM2hvVm9WZlA4RGExbVZJLVlGWUp0cGRuOUZoM3UtVjU5V2hpc2s4UUpPaERVbGJrdzVVMUdBOWJtSGNpVUZUZnkteTdJdERv?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92422,
+    "lng": -43.94604,
+    "hora": "10/08 04:00",
+    "recente": false
+  },
+  {
     "id": 244,
     "data_dia": "2026-10-02",
     "titulo": "Acidente com morte interdita a BR-381 em João Monlevade nesta sexta-feira (2) - radioeducadoramg.com.br",
