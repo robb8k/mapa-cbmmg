@@ -1,5 +1,44 @@
 [
   {
+    "id": 255,
+    "data_dia": "2026-10-04",
+    "titulo": "MG: Corpo de Bombeiros combate incêndio em local de votação - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkI5a1RkSnU1TjE1akFEbGFjcHJ2T2NDZUlfNUNXSmYxbzY3UVR2MER6VUdHOWIxTmwtT0RCMFp5NVlGd3ROdWVuekZ2bVI2ejFaQ28wVm5CSmtWTXFoNUJDZXMzel9EelluT2J5VHJTeHZzeXB2QnNLSHYwM1J0dU5Wa2QycmJlM2I0dXVKMkNadktxbHpJdU9INUJXSjE2RVRtalRFQ2g?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92299,
+    "lng": -43.94366,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 256,
+    "data_dia": "2026-10-04",
+    "titulo": "Local de votação nas eleições, escola pega fogo em Bom Despacho; bombeiros controlam incêndio - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2ZkVlB2MEdoSEJoZGZmUW9tekRXUHJnSTNVSHVYZzlqZHM1d1VhQ3BZOTB3Sld5TFJwQzJDNkFianpTMWFSWUc0bnA0YkgxVF9yQWNFVXNqcHpDdUduUU1HcFhNZDc5ZFpycnhwVmlNNlVfRTFtTTQ5T3cyY3RmbWhTYzNBRFhxVlVYQTVqUGx5bG9qX3JlUjlGN1pjOXRNM1ZaRG8wQnU4aGNzNnJFdC1GVVNiR3ZXenV5UDJha28zUVdCNFNHVDBJSHBUMHdS?oc=5",
+    "local": "Bom Despacho",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.74002,
+    "lng": -45.25025,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 257,
+    "data_dia": "2026-08-20",
+    "titulo": "Vídeo: incêndio em mata ameaça rede elétrica em BH e mobiliza o Corpo de Bombeiros - itatiaia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2h2XzhHNVZxX1dlZDRsbGFGRHJaV1RIZFhvLVpYbGdFaWRaNkxqaHhLUko1YkhKTjYtM1JYNW9NVVY2SjViZVNNc0xWdTdlM1l6QmRuQUNXVFdqQk1ZQzdVV2R4T1c4cUlEbW5vR3lHdS1SQWE1Ui1TYjRDVmdvN2JUVG5oVWFuMWlLWjVyZXZtemtFTWZNa0F5aTdzcW1uOHpwNEV0X3dpVUlMRGRubkF5Z3A3UUZyYjdnQTBMWGh3NnFGcUJB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92097,
+    "lng": -43.94758,
+    "hora": "20/08 04:00",
+    "recente": false
+  },
+  {
     "id": 253,
     "data_dia": "2026-08-25",
     "titulo": "Princípio de incêndio em relojoaria mobiliza Bombeiros no centro de Araxá - Clarim Araxá",
