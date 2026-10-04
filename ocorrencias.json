@@ -1,5 +1,31 @@
 [
   {
+    "id": 253,
+    "data_dia": "2026-08-25",
+    "titulo": "Princípio de incêndio em relojoaria mobiliza Bombeiros no centro de Araxá - Clarim Araxá",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQThBbGRYLU55MmFud1IydVBmalUtbC1GZjVKalRtbVhnMkprTkFoOGp3SG9GcTV5MC03aXhGWmJsWjMwNE5uU0l5a1U1Z2p0a195bmx0anBvVkpiUV9VbnpyNEYxWlBrajcyaXoyLU1kaEp5cWl0TmpraFA2NDY1VHR2RHFwNXZUUHBTNmVubWtNS0lrNlNUakZpWHE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.9205,
+    "lng": -43.94672,
+    "hora": "25/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 254,
+    "data_dia": "2026-08-17",
+    "titulo": "Bombeiros combatem incêndio em galpão de armazenamento de café - portalimpactto.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWE1UWZjZjR1MXJoR3kyVHp0ajU1VXlBdFdINTlja05vckZpelJfdk9KS3NSMnVKTlVPNnFTWmRuSjR2NWNSbFQ2SmhEd05RLUxkbm00OHF0V195d20xWWx2MmdYMGRoZzJuZzNCVllsanV6anYySHkzQkZ0Ni1KQVcwdWVWNklSMGpaWlI5N0EyTFM5RUxkV3BySUV0OEx1QjJTNldVVUgwdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92395,
+    "lng": -43.94339,
+    "hora": "17/08 14:19",
+    "recente": false
+  },
+  {
     "id": 251,
     "data_dia": "2026-10-03",
     "titulo": "Mãe e filho de 2 anos morrem em acidente entre 4 veículos em Itaúna (MG) - Metrópoles",
