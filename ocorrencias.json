@@ -1,5 +1,18 @@
 [
   {
+    "id": 258,
+    "data_dia": "2026-06-16",
+    "titulo": "Acidente entre viatura dos bombeiros e carro deixa dois mortos no RS - G1",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXJsWEhzSGVuWnVkLUs0dHlkRjJpdTNjSkF0NG5JQk83TlpUTGlBNEdoWnRHN2tiYThod0V4U1pGbUtva2dXc3lrQ21CcXJ0bXVESEdKUUJUUzI1Zkt2REhud3RmWmxMOGc4NlhBSXBKd2hNTDdvMmxpMmdLcnlkdFdNSVNzWklxak5iRWM3eklQS3h6RWp5elpGaGNyNHFxX3NmQzVLVm9CZ3Q4Ty13NS1sOW9nQWVmRTFuN1lMZlVlcUVhUGZ4ak1QTXJPUUFy0gHfAUFVX3lxTE9aZzVnZE8wZHNKdHU3VTY4b1NSa2lwU1JiVUlwQ250aFNfZG4tdFNmdGVNVmhKQjBXcEN6d3VDLWx2VFJQcHI5WExHTzUtYWhnMlF3VkxjMDI5RDJhN0JsRFNDblhhU1NsdXdKUUQwMTRMTENjZnlhRlNCdGZITTR4cjRHVldVOF83QkE4cHhfRnFaTGhnQ3RIeDk3SGF5NXd2VGktZ1JwZ3AwRk1BTlp0LVVVd0EzdHJvakR6TUh5c2Z0SWxjcGhiUVBGMDktTEtNbkNJNnJISERzSGtJV2M?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92435,
+    "lng": -43.94571,
+    "hora": "16/06 04:00",
+    "recente": false
+  },
+  {
     "id": 255,
     "data_dia": "2026-10-04",
     "titulo": "MG: Corpo de Bombeiros combate incêndio em local de votação - itatiaia.com.br",
