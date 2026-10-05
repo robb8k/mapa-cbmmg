@@ -1,5 +1,31 @@
 [
   {
+    "id": 259,
+    "data_dia": "2026-10-05",
+    "titulo": "Incêndio atinge depósito de recicláveis e mobiliza bombeiros no Nova Granada, em BH - R7",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3lJenZMTHhOaUNPRHFLV1pxbldWeVlvcm51ZjJ6RFJHb2NMNWlPanEzWFduTEhJd1RLSktyTU9jMEdyZ2ttMVRGUEFKa2NXTm1sejNBYXZMUTBGUGFHcVE5SEdiTlB4YW12NmFjdUNrZWdIbUczMEJpSXVBY05SWjVSemVoVV81RldkNWxxUnE5UHJocV9ZQ0xhSE4xSzQzSTFKSS1xMEsxdEdMaU9Ja2owQlF6ZEZaMk1QTnpNN1RUclZtejJEbw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92215,
+    "lng": -43.94618,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 260,
+    "data_dia": "2026-08-08",
+    "titulo": "Suggar dará suporte a moradores após incêndio em BH. Rescaldo continua - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlpkNklwb0VUY3VVYXktWU9IdVNKSllsZzJFR1U5OXYxb1NiX25kTDdjellCX1dzNHJPRTF3RS1RM2JhZDlGTXlfbUFBckoxblRlZGpOMkFpMGRpdjJvNlpFSWRHMnFMUXFCdGo1dFkyZk50c0RZZ2pLQzNPX25rdjlXZ1JMZ1ZRSUEtQ05XSGxKaGxmNHRJMkZfWmlEUkR4dFBjN3QzX2RWblJYX2c?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92286,
+    "lng": -43.94656,
+    "hora": "08/08 04:00",
+    "recente": false
+  },
+  {
     "id": 258,
     "data_dia": "2026-06-16",
     "titulo": "Acidente entre viatura dos bombeiros e carro deixa dois mortos no RS - G1",
