@@ -1,5 +1,31 @@
 [
   {
+    "id": 267,
+    "data_dia": "2026-10-06",
+    "titulo": "Bombeiros encontram duas crianças desaparecidas em mata de Itabira (MG) - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUk3Sm1XQ081VGtGNWtLbE9DSmVwT1lGdUNtS3lyNjB4NW5aZjVsd0tUYWdhTzJWWFlHOHdEZ3h0MjEzc2tSTW9DMkY3bDFLa3d3MkJUbWpGNzhwZEhsUnB2VFQ5U3FnOTZrVjIyQktnbWNjMzdPSnNtZUR6anlHOEdtM2RtbDgtNkMyZkVrWmxRRW1hemdXMDN6c2drTl96b0xuWlh2X3dOczBYckE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92284,
+    "lng": -43.94452,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 268,
+    "data_dia": "2026-10-06",
+    "titulo": "Vídeo: crianças entram em área de mata e precisam ser resgatadas pelos bombeiros em MG - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0FLamJpaElhaVdSaG9JS3BEUW1SdlBUMVJyR193UDRObnhJcFdBUElPWkFNSXdER0JWS2NTbUJLLWJZbUZSWXVLLVFoUlQ5UExHakVYNWpkc0JEQkNpZUlMVkxCcTBKd3pJZjRLc05NM2E3VkZEVlNHSTJRTmF5NmlNR3JPeFFKdWVGNElXZUN0Ri0yRUZPM3gtN1EyUkItaW1MWTBnTy04aHF3ZU1TYzBJV09wU28tVTZ0dTVOdkt1bC10M3c5Zw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92115,
+    "lng": -43.9454,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 266,
     "data_dia": "2026-06-26",
     "titulo": "Bombeiros de Minas serão enviados a Venezuela para ajudar em missão após terremotos - Rádio Itatiaia",
