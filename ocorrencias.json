@@ -1,5 +1,44 @@
 [
   {
+    "id": 261,
+    "data_dia": "2026-10-05",
+    "titulo": "Incêndio atinge galpão de materiais recicláveis na Região Oeste de BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdW9vWlp3cG8xa0FoNDJGTjB2MmVndU1IWkxlYkZnekhLcUphR3pKWlFpSTZpakhJaGExV1c1R25WN0JjRGVaLVpHTDZPSWxfNHBIVTNxajFYNGtubHllU1VQODhFd1NKUEcwX2NmQzNhVmtkSzVNdXpQbzQtdk1JMDhCQ3dFM0NqeVp2UVZBLWFhelhnRjhwUm9hMUlVajdOcUJhNmE2cm1WX3h1aXJxdEJMRkEzT28?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92547,
+    "lng": -43.94691,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 262,
+    "data_dia": "2026-10-05",
+    "titulo": "Caminhão perde freio e bate em ônibus e quatro carros na Grande BH - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pEUGNqYkJvSXN5QU1FanFsUGNHRTBTWHJSSVdQVTJ1dGU1UXZMV1dQU3BmRVpzbERuU01SeTNsbzBxY0NtYlNzbVczanhpZXlUX3U1UVk5cEhEXzNZLUdsYloyNjVtSGl1QmEzdnhHdFVxM3hMc0NmVFhkb0hlOW84UGI5cHVZTkhEaC1DM3RHTVN5anh1Sl9sRXlDMWV6N2N3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92174,
+    "lng": -43.94724,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 263,
+    "data_dia": "2026-10-04",
+    "titulo": "Motorista fica ferido após carro cair em ribanceira na MGC-491, em Alfenas, MG - G1",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVdDRnVwNngydHotXzA5enlsWWVjZHNBUE1sWDgxdmJtS0FOVkRtVHZuY3Nub2M0Qk50dXBkSVd6dGk5cHp0azBTVTZvVkE5bkZFTjFIQUlOYXRfU01WaFlZQWU3OXV3aTg5NVRYZWtKTTBwRUlaN2EweEFLZ0NXeEFXU0RRUDRLZFFz0gGaAUFVX3lxTE8yazM3V2VoOWY3UURxd05XeWlwbjRyX2VCR1ZXN0l4VmZpRDJxWkZjX2IwdVVyTmpINlhpOVdNWnNjT2Z3LTlGaUVhMkY2NjhzbVFpOXA0QjZrSzFiOVhZRlktM3hiLXl0Ni1fTXZ6c1NvQzJHWk5KVEhOQjBPWkNtTE5aQ0FBZTlmcHhscS1HYmxmYUs2WDlES2c?oc=5",
+    "local": "MGC-491 • Alfenas",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.42996,
+    "lng": -46.13368,
+    "hora": "04/10 13:21",
+    "recente": false
+  },
+  {
     "id": 259,
     "data_dia": "2026-10-05",
     "titulo": "Incêndio atinge depósito de recicláveis e mobiliza bombeiros no Nova Granada, em BH - R7",
