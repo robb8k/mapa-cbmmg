@@ -1,5 +1,31 @@
 [
   {
+    "id": 264,
+    "data_dia": "2026-10-05",
+    "titulo": "Acidente entre micro-ônibus com pacientes, carro e carreta deixa feridos na BR-251 - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzRiN3MzQ3FuTlJFbk5jX3JYUXJHa0FSdUJaMGViUUwzd1Q2TjVRalhkNTBNT25vcGZNVFNpR2l0Q1RaQkhjck9FWkgwbGE4YS1OUmpUOWhYRE9xZEpsSkdUNmxiMjB4S2RaNE1Fb1pPcl9fOVJnMHlpUWlkZXVCT1hDcUVVQXpCOWxfWHJpcHJxaUxqVmczTEFnRXRFcl80RDJkemkxdmZZdFZWZ1ozYkdQNkFzc0lhVGpHb2hoLTdIX01BTG9v?oc=5",
+    "local": "Trecho BR-251",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -16.32813,
+    "lng": -46.94285,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
+    "id": 265,
+    "data_dia": "2026-07-22",
+    "titulo": "Buscas por vítimas de afogamento em Araguari entram no terceiro dia - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1c2SjhmQ3pFNUVfeHNmTTBTRGQ5aV81c05WVTJaMHFGUGMxbjIzZlhpU2M5Z0NaOEp0c3hwOGc1NExJMnQyVUZmSFJIOFh4V3VTR1lyWG9rTEVmZjUyZDJlMHIxUUw0YXhqcWFKN3RadXBneGRycHAwQkR0ZzZ5TnRzdTFuTkdSQWgyazQ5RDlfcnBldnViNDhaS3RYZTF5anVwajQyeTI1MmpFMjllQw?oc=5",
+    "local": "Araguari",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -18.65139,
+    "lng": -48.19086,
+    "hora": "22/07 04:00",
+    "recente": false
+  },
+  {
     "id": 261,
     "data_dia": "2026-10-05",
     "titulo": "Incêndio atinge galpão de materiais recicláveis na Região Oeste de BH - Rádio Itatiaia",
