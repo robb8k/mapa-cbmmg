@@ -1,5 +1,44 @@
 [
   {
+    "id": 269,
+    "data_dia": "2026-10-04",
+    "titulo": "Motorista morre após ficar preso às ferragens em acidente na BR-259 - G1",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHB0WjdxSWFjRlRFNEVQbVNZT2RHUXVEVHNyUXl5Rl9STk50ZVhHZ2dlUjlWcXlZWVBuMUp2b0VJLS1pNFQxT2Jxb0diRE92V2dOc0RWOHRNcDVMV19HejJPWER1QlFhSTJZYWpRcTR6d2Ywd2g1M3NERHFMOUVSUEozcjlYOG0tMW4tZmdZTjJrTy1OaTUxUGc2TkhoVnRGdGkxYlJqMU5hVWFVNy1hMDc3YUhuSTNNUERlTGI1OHFiM0HSAdIBQVVfeXFMTVAzT1dadmJxQ2laNmtDYjZMaWsyNUpiby16U0FIUWRTbXRQRE1XZzhIb2pHZWJMSi1TbEJzdDdPQ0hWSnpFR3k5XzlfTWJfR01oYU5oZjQycUd5cWo1UGo3N2swcDU3MjVfZjRad2c5NEFMYUQtVlFHVlZLNXZ3dER1UlpFc1BTZzBMWlE4Ui1ZYTBJeENpaDI0ZTJKOEdEOVpZTmxxQU5PUkNkUFE4Sk1DQWlpMm1xR2dmU0dXcnpRbDNJb0FINkZNajJMd0hHU01R?oc=5",
+    "local": "Trecho BR-259",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.83427,
+    "lng": -41.89716,
+    "hora": "04/10 13:59",
+    "recente": false
+  },
+  {
+    "id": 270,
+    "data_dia": "2026-02-23",
+    "titulo": "Tecnologia amplia alcance e agiliza fiscalização do Corpo de Bombeiros contra incêndio e pânico - Agência Minas",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV1h2RjdrQ0dzazZ5QkR5LWVPZG9hWHozcWlDeTV4QzdUN3c5d21WSllsYkZyUl9TQ2E2SmZRRVNMVXVVWWs1M1IxMG9YaWdidzVjckNPem4tVkFMUUFVbDhBZ1c5WWl0a05WUlUtNG9UYVV3OXo4U000T25MSURYOHJQWkNabTlyenVfUHA5SmphVVZxaEFoMmNURGlEQXFuUHI2SDBVS3R5MmdKOWp5V2hQY1ZEZjJRUE80WDFkc0phcDNJOTdhMkV3c2p5S2MxZWpVYlVicXo2S2Y5RUE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92104,
+    "lng": -43.94653,
+    "hora": "23/02 05:00",
+    "recente": false
+  },
+  {
+    "id": 271,
+    "data_dia": "2026-06-17",
+    "titulo": "Um incêndio atingiu um caminhão baú na noite de terça-feira (16) na BR-381, em Pouso Alegre, no Sul de Minas. A ocorrência foi registrada por volta das 20h55, na altura do km 833 da rodovia, mobilizando equipes do Corpo de Bombeiros, da concessionári - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pWlFCNmpvOTlaTUxQZVVEaTE5VWF3RTNWLTAyY01nQTZsZ0VhSkFybnM0WGpBUEZac1Yxejh5cXdfN1F3WThOU2tlQkFPZ0FzUkE?oc=5",
+    "local": "BR-381 • Pouso Alegre",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -22.26068,
+    "lng": -45.89196,
+    "hora": "17/06 04:00",
+    "recente": false
+  },
+  {
     "id": 267,
     "data_dia": "2026-10-06",
     "titulo": "Bombeiros encontram duas crianças desaparecidas em mata de Itabira (MG) - Metrópoles",
