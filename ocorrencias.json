@@ -1,5 +1,31 @@
 [
   {
+    "id": 275,
+    "data_dia": "2026-10-07",
+    "titulo": "Carreta perde o freio e atinge 20 veículos na BR-040, em MG - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODktZWJBVXI4Y3IwZ1FyR01UMjFjNzNCeGYzTkZGSFlBYW9IR0ZpdnQ5TUxucmd6dy12TDFjSGQwY3c1MGFjVlNlV0kwYVAtUXhyUE1TWGNhalhuRUFzdnFQblZrMGhLN25kX1FyM3Nkay05RV9zVTNDRHRKcWRDYzZnUlE5My0zcWNKWlQ5WG9vX0h5alNOa0ZQXzF2N0hKUXd2UnRtUDU3LUF4?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -17.19929,
+    "lng": -46.90697,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 276,
+    "data_dia": "2026-10-06",
+    "titulo": "Caminhões batem de frente e pegam fogo na BR-497, em Uberlândia - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHNnWHZGdW1paUR4c29kRzVWRHYwUzRRUmhzT25HOGZVd0RLZ0Jld01FdDBlRVhCY0I1aC1hcnhURl9hTFAtTlFzdEdnMS1zT3VzSUt2bGtRTF9KczRvSGIwOFdwbmFkdXVmdGhBMXdNS3pCS0g1RW5hZWFMVnk5WXlyT09mSTVxSWdTREZWZlhnMExzSXZmd0xyTkhGXzZkUlpkRg?oc=5",
+    "local": "BR-497 • Uberlândia",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -18.95004,
+    "lng": -48.34291,
+    "hora": "06/10 14:05",
+    "recente": false
+  },
+  {
     "id": 272,
     "data_dia": "2026-10-07",
     "titulo": "Acidente com 28 veículos na BR-040: tenente dos bombeiros detalha quadro das vítimas - Rádio Itatiaia",
