@@ -1,5 +1,44 @@
 [
   {
+    "id": 272,
+    "data_dia": "2026-10-07",
+    "titulo": "Acidente com 28 veículos na BR-040: tenente dos bombeiros detalha quadro das vítimas - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUJJVUhGdUhxd3Z3OTVaOXFFUFkyT0tDME15U2RydHJKVFA1RzFqMWlvaTRkS0pmeEN2ZXNXMmlIbzRaenZfOUpiRlJ1ak04bWF6VHVjeXNzUGNVaE9DX3pHSkVZS3FhTW1YODVQTkk5Q3liZ0d5Zl8tdXVHMTQ3QTB1Qm1ycjVKbEVhdXpscDBpQ2FXSU8zWWlDNXlSdlh4UkpjcVRzN19hY1dSZV9UQkEwU0tpai1TbkVRRFdrSm5GS0l6NkdpU0t3?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -17.19856,
+    "lng": -46.9081,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 273,
+    "data_dia": "2026-10-07",
+    "titulo": "Acidente na BR 040 em Nova Lima mobiliza Bombeiros, PM e Samu - Jornal Voz Ativa",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjlsWE5hckQ4S1FXcUh4QWREWTB3Ym1JM3BBbE1lc0J0LVl1WFU4cW9Ud1F5UFF2Nk5zTHpsMGF6Z2M4YUd6OUgzd25jNlJmWlEyenozYzdWdmlmR2xwVHZsdThjSk5qZk9vRC1RSzE5Y1FzZFBnQk1Cd29fMWcyVUdR?oc=5",
+    "local": "BR-040 • Nova Lima",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.00788,
+    "lng": -43.96715,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 274,
+    "data_dia": "2026-10-07",
+    "titulo": "Carreta perde os freios e atinge vários veículos na BR-040 em Nova Lima - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLU5tWGVyWWNJaEl3Wk4ySl8wOTFKWlgybEZyR09PQ0ZBX0VETDlXYjZidW5XSFZmbGFpNThJT25xY0pSejk5MXJMellPeGdxZU5kWVBYdUo2d3JPZHByV3hEYWNXV1VNOHZxSmdPU3NoNjRyWDk0R1ZRYmZ6V0l5NVZ5YTB4Ni13MWZrT09pWHVjS3lWenpxaGJoRlQzbF92SDVFd1hyT2loTFVUeGRCTlhoUGpwU3J3elE?oc=5",
+    "local": "BR-040 • Nova Lima",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.01146,
+    "lng": -43.97007,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
     "id": 269,
     "data_dia": "2026-10-04",
     "titulo": "Motorista morre após ficar preso às ferragens em acidente na BR-259 - G1",
