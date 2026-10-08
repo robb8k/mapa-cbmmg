@@ -1,5 +1,57 @@
 [
   {
+    "id": 289,
+    "data_dia": "2026-10-08",
+    "titulo": "Carreta tomba, pega fogo e motorista morre na Fernão Dias, em MG - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmRhSF9FZUsyQzNseG9XWFVrUmdTUjd0N1dJa1JIZGZ3NDd5bW1rbW5hRXEtOXhmeENuOU4tUHcxakt5QUJPZGNkbTdSQWRxOGlFNG1rcGNpREFnVkptX25FTmgwbE84S294U1dxWk9QSzdNT3BJUWZfeUZGaTRaYUtZekVNUk5pVWtVa1hKalhSUTNsN1M5endHYmNSdUlYcTBmUw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92527,
+    "lng": -43.94806,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 290,
+    "data_dia": "2026-10-08",
+    "titulo": "Bombeiros confirmam liberação de prédio na Cidade Administrativa após susto - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSUlXeThLT0pVdmVjSm8zQ3JuLWtvcXBUekRhSXFQbURtX3VVdU9uSG1pT2d4YV9TeWlCUFpaX1kyeTRieVRXUVNPVTFhNzFBenBpSFNSRFVLUVd3Vkh1MGxrTV9hbDhaOTNCR011UXZsZHVZVy1uVTZ1Y0lJTkhPLXJKM3VucVJtZXUzQ3Z0a05fMnRZWFJaRDVKU21YbEhFM1ctSDFhSWFlMERuN1NfTS1haHphV2I0YkNNb0prb3c2NExjMHfSAcsBQVVfeXFMUDYwbTJUUFpoY1FUR3IxVzl1aXl0dEFvdEJzZlgtZEJJODdETjhUSC1hUUVpQ1pRS0Rfdmx1dDJPdXZFUE5acUVlTGtMbFBHS0JpQTVXVmR3S0lubk94Tkw0WktuVzFEUFJpelE3bHNFbXk0RjRMcEJETlBBU2xyN08xOXd1UmJtOW9ZZUpKczhZbzN2ZVV1U2ZPYzNHY20xSjJzSjZtdlkzcGhqTEhYOHloT3o1bTBIbDFJQks2a1R2d3pfSS0zY3JpVEE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9198,
+    "lng": -43.94566,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
+    "id": 291,
+    "data_dia": "2026-10-08",
+    "titulo": "Alarme de incêndio provoca evacuação na Cidade Administrativa deixa uma pessoa com traumatismo craniano após queda em Belo Horizonte - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS0pJZGJvMHd1N0lGblpuR3JuWHc5aFBaTVgxWnlWc2xwaFJTTEhadEhDd3kxMWdwQ2EtVFBrdWFhamtla0otMGMzNzdKT090RmNfaWJTaWg4OEdGZWpCU1pIRVhIQ0s5MHNUdGxsOWg1cFJvZERUNXp1ZGVheDFkZlBVMDhsOHdQNDgybFMxNFhSblF0Y2trOHFfTmVXTlRDLTZnZTF1LWtjNmQwajdPSnQxa21JRkx1YjRFV1BJSnZZRllRZlFnWXM2OUpQMEhhNnBxMEhZUU9Lb3BxLWFzRFRDTE5MTlo0a2ctYm9EdjdSYUhuYkNCcw?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92494,
+    "lng": -43.94779,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 292,
+    "data_dia": "2026-06-29",
+    "titulo": "As equipes do Corpo de Bombeiros Militar de Minas Gerais (CBMMG) iniciaram, na noite do último sábado (27), as operações de busca e salvamento nas áreas afetadas pelos fortes terremotos que atingiram a Venezuela. Os profissionais integram a missão - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HdVhzTkpiTERyeG9QNG9XMW1SdF81cnM2VllQZm9VdlpSaGk3cEtTWjB6bnU2YlJMeW94X00ydFBmczVXSy1vR2Qzeml5QmtOaTRrV0NB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92373,
+    "lng": -43.94332,
+    "hora": "29/06 04:00",
+    "recente": false
+  },
+  {
     "id": 279,
     "data_dia": "2026-10-08",
     "titulo": "Motorista de prefeitura de MG morre após acidente na BR-251: \"Grande amigo\" - Metrópoles",
