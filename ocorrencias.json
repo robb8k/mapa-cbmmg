@@ -1,5 +1,31 @@
 [
   {
+    "id": 277,
+    "data_dia": "2026-07-22",
+    "titulo": "Explosão em fábrica de EVA provoca incêndio e deixa feridos em MG - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlE2OTlpOU5lMmp0RXdMblBIZUUyb0diblA5WVE0Ny1MZnFGTlBaS3hTaTJ1ekR5NklmdGo0NzRreVJGME1YcWo3Rnp6Vl9pdmJiS3B4Q2NVZ19weVNXb1RQREdBNDR6QjFlb2xDTWpvNklJR2JsTzgxQzc2NmZtWjdoYWtMaVdid3Z4MW9FVElIWUdlaTVWdFBrUzBjaEFuOFFsRnQ4MXg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92345,
+    "lng": -43.94578,
+    "hora": "22/07 04:00",
+    "recente": false
+  },
+  {
+    "id": 278,
+    "data_dia": "2026-08-21",
+    "titulo": "MG: caminhão cai em ribanceira e mobiliza bombeiros em Itabirito - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0M5U01aUzN6TWJGaFRQd2hNYWx5RklUZ0pJUUNaR2s3MXg2Tk1LbEZ6V0hTemowTWgxWEV1RUdwRXRiUE1ESTBUVGhuaDZEa2VzQ3FmanEzQTI3ZGxXNk5jemR3akJyV2toWW0zMnRDQXhvY0paSlR5ZUtuVTFpTjV5UUlYT1Blc1BqcXhTS3ZZRjBHbW02RDNPR1o4RkJXQ0lzcFhn?oc=5",
+    "local": "Itabirito",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.25082,
+    "lng": -43.80219,
+    "hora": "21/08 04:00",
+    "recente": false
+  },
+  {
     "id": 275,
     "data_dia": "2026-10-07",
     "titulo": "Carreta perde o freio e atinge 20 veículos na BR-040, em MG - CNN Brasil",
