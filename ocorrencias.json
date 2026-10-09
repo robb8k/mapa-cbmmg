@@ -1,5 +1,31 @@
 [
   {
+    "id": 302,
+    "data_dia": "2026-10-09",
+    "titulo": "Avião cai perto do Aeroporto de Ipatinga, em Minas Gerais - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkpYQW9oN3d5V0xUSmJfWHN4Z3ljSkxMYWExanVlVDBQMUlZaXFlcVdxOUhlQ3VkWWptV19KOFIzUWhKY1RENjFVWTZBdWtEU2F0N21PYkoyY204TXFPZ1FSZG96bzVWYmpRMTEzUFl2YlJRZmpYRlVkcXZScV9Fd2pndXJYUElMSlZScEFZb0VGS19RaFJTRjl3MHNTMUdqSzNsV1VwTXJ2Zw?oc=5",
+    "local": "Ipatinga",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.47927,
+    "lng": -42.52482,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 303,
+    "data_dia": "2026-10-09",
+    "titulo": "Bombeiros controlam incêndio em área de mata na UnB - TNH1",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVlXUzVQZkVPMzVoMUhPdU9iVktTd28wT0todjZjTmdXUlpka0hRQW5oTXMtUWxjWkxxcDdkdmRua01iZjMxQnEtbGRhMnhJVHhDQzE0RGsxZnVtUXYtQzVybm1VZkR3TzJWRFQ5R2l1ZDhINkUxbTlWT3Z1X2E5RXJwN293WVBQQU9KTUxkTnBnQdIBjAFBVV95cUxNRGVKb2oyMTVwNm9IanF3UlNWSGs1djdjdDVPTXhaQzYzbXptRU5rRm5HWF9LcTNzRzI1d3lHUk55aTd1dUVqMDlibElPU2p4WXdkZjNfQXVkdDRuaHBnSmtvQlJGUjdENUFVR1FXaFJJRWFnLVJycUFrSFBUeElWSWZkNkRTVGVod3FCQQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92444,
+    "lng": -43.94658,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
     "id": 296,
     "data_dia": "2026-10-09",
     "titulo": "Piloto morre após queda de avião em pátio de manutenção do Metrô de BH - Agência Brasil",
