@@ -1,5 +1,31 @@
 [
   {
+    "id": 293,
+    "data_dia": "2026-10-08",
+    "titulo": "Colisão entre carro e moto mobiliza bombeiros no bairro Olaria - Portal Arcos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVFKRUszb09Bajk5dUV5bFBBVEFsWWsxMXdYT19YbFV4aHRVYUplUFJNNkdZNE1WUnlESjBJWEltY0R0MTdOcVU3NG93Q25Ea0RwUzNpZmc1NTR2VlJ3VGR6ZzlKZHFXVVZYT1N4WFdfSUQ4WkpqTTlqelctLTJEM1dTd2RGM1ppREh1WXMzVkl3NUZZY1lvR1E5amVTRkswNkdtSW05WWl1UGc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92411,
+    "lng": -43.94556,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
+    "id": 294,
+    "data_dia": "2026-10-08",
+    "titulo": "Explosão provoca a morte de um homem e o colapso parcial de imóvel em BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaThYYXk2bm05UDFpUnJNSkxjUjgyZkE0Y0IyRkpCWEtlSmRCd3JsbTBXaW5iTnd6UW8yZ3o2QUJGeWpGeTNkOXpxR1ZoTWlLbXFDSy1aZlBxSHJ5Q015N3NFSVpMeFhaaFptUmp3ZnJmZWFoMXpZcXV4NXZWV2NvUy11SEx5WDktdGdkVGJkb0tUQi1VNHJfb0xOSnpEVzFyamZfTmlzTmc5MjFtZlk0cktfNmwyeGZrZF9j?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92361,
+    "lng": -43.94646,
+    "hora": "Há 13h",
+    "recente": false
+  },
+  {
     "id": 289,
     "data_dia": "2026-10-08",
     "titulo": "Carreta tomba, pega fogo e motorista morre na Fernão Dias, em MG - Metrópoles",
