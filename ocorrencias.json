@@ -1,5 +1,44 @@
 [
   {
+    "id": 305,
+    "data_dia": "2026-10-09",
+    "titulo": "Avião da PM cai em Minas Gerais horas após acidente aéreo em BH - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0c2dUhoSDVnZFFKTklfdEEwejNFeVlRN19heG5XQWVSeDhZb3hNeTN5SndrWF9jczNJNU9xV1FSdHBxRlZ1QXBSX0FWczJSSmhiN3ZmbGY1VTJGNXZkampJYWd5bzh1S1FOZDJ4UXRYQXZQMG5iQmg3VGEwcGk4XzBCeDhPR1g1Ulg1OWIxSS1rZFAzMkVkSlRUVFNONi1vRjJFMG05NEE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92473,
+    "lng": -43.94727,
+    "hora": "Há 10h",
+    "recente": false
+  },
+  {
+    "id": 306,
+    "data_dia": "2026-09-13",
+    "titulo": "Bombeiros encontram corpo de criança desaparecida após desabamento de prédio em SP; 6 pessoas morreram - G1",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYVAtU1Q2T2hBM3VJaG9pRW9peWYtX3pFLTFhOEh4Sk1TQ1NoVXgxeGV5T1RuSVE1UW9uSnVqWFZIalFPMUlyY2ZvNmp4NTdRQlVCbHlXd1hoZVpjOGRFR1RnWkhUazBRZ1Q3MkpxVE9YQ0haWDBYRF85STBLaUdfeWtyM0VnYmFGWHRnM1JhQmZxeUZxU0RtTGFmVGF4VEF4TTZkaWVHSmRRTG5ZWlM0WnhXUlBWU1hQQXdIeW14Vl9HNkZiT3lIdWZrcnRTSGpGQWN2dTJjRnBqMnNOcUt3SGxTWURNUThFQmpj0gH6AUFVX3lxTFA0Si1wZ3k1WXdPY1RKcWtiRFFlckRWU1A1VXJjMjZ5LUxuM2RvZEF5aTR6ZlYyU3d6S3FKWEdOYUhQeV9Hemdka0ZaU2ZtaVRTcHVOZEMxR0FSVnNDSWhrS251UWxWUjVsa2gyYkRIV20xaTRoZWNXdmRqWlhuekZjemRzUENTMjQtQnhGNWMwQzFNVmZ4aGo3UHdjMG9uRTFtV1hYeFllcGQwaHdzT01VNy1ib2p3aFhTMTc0bWw4UHU4RGdQTVZFSDhsdHEwUmFPdzc4ODk4VUk5MjRuN0VIWElvWTlsenZwVG11WmZtNDN2NnhnTmEwZlE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92353,
+    "lng": -43.94703,
+    "hora": "13/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 307,
+    "data_dia": "2026-05-12",
+    "titulo": "Um incêndio em uma casa no bairro Planalto, na região Norte de Belo Horizonte, mobilizou o Corpo de Bombeiros na noite de segunda-feira (11). A ocorrência foi registrada na Rua Aloísio Nogueira Machado, onde o fogo exigiu atuação intensa das equipes - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcXJKNHRBOXgwN2xNMm05Z3N4aWItT0pGLTdXLVdJeEpLOGlnZy1hSnpEMkdkR3BodENFalVnY2NuWFgzMDV4czEwUUN5V3dPT1E?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92397,
+    "lng": -43.94459,
+    "hora": "12/05 04:00",
+    "recente": false
+  },
+  {
     "id": 304,
     "data_dia": "2026-10-09",
     "titulo": "A tenente Emília, da Polícia Militar de Minas Gerais (PMMG), é uma das três integrantes da corporação que morreram na queda de uma aeronave policial na tarde desta sexta-feira (9), em Santana do Paraíso, no Vale do Aço. Um dia antes do acidente, a milit - Instagram",
