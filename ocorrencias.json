@@ -1,5 +1,31 @@
 [
   {
+    "id": 308,
+    "data_dia": "2026-10-09",
+    "titulo": "Vídeo: Avião da PM cai em Minas Gerais e deixa três policiais mortos - Agenda do Poder",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUJkMmZDZDdzaDFER3ItbG9vN0l0Y3JJMURVQ3VrRXVrMXgzSG9ZdDVQNEpaZW80VzV0TmVMSUZqSlB3NE5aR2VCQVp4Q25KQy1NU2ZVeW1Hb0JFUVpyeEJ1eTROU2RHMEZNbXdQTmNFSHNadE43V2U5bEtJMG5oTHZOODVUc2UzMFdsMEstWXVQVWxFRzJOeGktSXRmUQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92525,
+    "lng": -43.94622,
+    "hora": "Há 15h",
+    "recente": false
+  },
+  {
+    "id": 309,
+    "data_dia": "2026-10-09",
+    "titulo": "Incêndio em fábrica de bolas mobiliza bombeiros e deixa feridos no presídio Guaxupé/Guaranésia - Correio Sudoeste",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjRwRHFfN1Y5bjA2ZDlEUF9Pd09aNGZLLS1pdkxJRnBTZ3RkRlJWUmVhNFM0RzlIdlhSdlh6NldIc3JfRDI4bFQ5YUxrLUowSmx2NnoyWExPWkUzUXJQX2p5azR4UmNOWmJoTDVkX0kyR3hyaVJtbEVJSnpzWHBZT3FQcDB0S0hZUDI3NHVNbjVMdHJoWC1uS2ZYMTBBV182aXdQd0k2Tjh3VVI2RENWckw0YTV1NDB1NmRxa2ZSTFI4dw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92171,
+    "lng": -43.94543,
+    "hora": "09/10 10:54",
+    "recente": false
+  },
+  {
     "id": 305,
     "data_dia": "2026-10-09",
     "titulo": "Avião da PM cai em Minas Gerais horas após acidente aéreo em BH - Poder360",
