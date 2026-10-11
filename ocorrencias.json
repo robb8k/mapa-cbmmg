@@ -1,5 +1,57 @@
 [
   {
+    "id": 319,
+    "data_dia": "2026-10-11",
+    "titulo": "Casal morre e bebê de 10 meses fica ferido em acidente na MG-252 - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmxsXy1DWTF1SW5JZTYweEl4YU84dG9aSDNVVTQzaDBRbkFwMnNJN00tS3hoemJvZHlVRXRCUWQ1MmxEV0tlZ0tkaXdCbjhBYk83REE3R1gwZTJnZHRoNFNGQ20tZTBhVkdhUkJsNlpac25OT1RKa3ZWZE9vMndoaEducW1KS1R5TVVjQ1BSV0ZMNzVwWjVSNFU3c1UwSGF6LV9qTGVKVktkV2xwTlBkRQ?oc=5",
+    "local": "Trecho MG-252",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.91706,
+    "lng": -43.9359,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 320,
+    "data_dia": "2026-10-11",
+    "titulo": "Casal morre em colisão frontal na MG-252 em perdigão e bebê de 10 meses fica ferido - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnEyR2tMVHExSUl1ZWtpbWhGZ2FvUVNBY2EwWUJwYVY1OGZOQ0FEYUJDQzZ3aEE4aHgxQlNIMEJHQ0JLUGRyZEpPVDhoZjJCMWdlb181ajczY0RaSHNPaTVzaVZma1llbHd1RFZXXzI2Z0RnZHFWMWJ0VFlRaE5nbThXdkJ1cWxhNDNLbnNXNXY1V0c3NlVmMlZTSER5bXhnN0djcTBUb0ZNdExDQjROcnlyMndwSFE?oc=5",
+    "local": "Trecho MG-252",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.99097,
+    "lng": -44.91471,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 321,
+    "data_dia": "2026-10-11",
+    "titulo": "Casal morre em acidente na MG-252, e bebê de 10 meses fica ferido - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3gtMnBRT0NCdHJ0ZVR2SFJoQUNBdmhzYTNXWTBwMkFEdU9VM05RVEVNazR2NVEwVkItUVNRM2o5dW5WcXEzMTUzWmw4TkQzQkxrVHJOd29rRUZwNFBJYXVBbHV5Rk5JV0tBbkp2Vk9vem5TeUdkZ1NsODhPTDBkeW9VRzNrbnVZdFdHcDE2YzkxdkdybWFHdkZIM2IzeGh3VjF5cmgwZlMySnZa?oc=5",
+    "local": "Trecho MG-252",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.99149,
+    "lng": -44.91581,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 322,
+    "data_dia": "2026-10-09",
+    "titulo": "Queda de helicóptero da PM deixa três mortos em MG; estado registra segundo acidente aéreo do dia - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmJEODA4dlMtdzJpZ21OYTg1N1ltVHpGWllUem5PQy03djkzZExXcHphTldfR2RXU09NeDZCWlJ5NF82Qi0tTDRMSUJzZjhSRUFHV24wS2Y4YXhQTTl3NWhneFdZZXhYdzhfWTdOdFM5U1pRU0pGRDZSNTZyaHgwWVdVOHo1NUwwTnFv?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92151,
+    "lng": -43.94773,
+    "hora": "09/10 18:03",
+    "recente": false
+  },
+  {
     "id": 318,
     "data_dia": "2026-07-01",
     "titulo": "Três pessoas ficaram feridas após um carro capotar na BR-251, entre os municípios de Salinas e Francisco Sá, no Norte de Minas, na tarde de segunda-feira (30/6). Segundo o Corpo de Bombeiros, o motorista perdeu o controle da direção e o veículo saiu d - Instagram",
