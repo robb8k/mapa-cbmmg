@@ -1,5 +1,44 @@
 [
   {
+    "id": 323,
+    "data_dia": "2026-10-11",
+    "titulo": "Incêndio em maquinário agrícola em MG mobiliza bombeiros - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbThzNUJHbDlTSXRHM2JIUGFod1FCajJ1MFI3RWxRR1RqY2dNVkMzd0ZfT2djSU1WRGQ0Mzl3dXB5M3gzSjVyd1pnZ1V6ZXlRWWx6Tm1fU2p5ZVIzcVdqYWlULURWMW45bDE5ci1OMzNIUzJCTzVLRWJzSGEyNVFMUEF5VU9PZ25OcmV4Z1h5cGJ4WGhwNERGRG5neWFPdE4wSmdOSHNyaDhkMDR4c05VLU9HZVRtOTNwQXc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92009,
+    "lng": -43.94704,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 324,
+    "data_dia": "2026-10-11",
+    "titulo": "Tragédia com helicóptero dos bombeiros de MG completa dois anos - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3BqMHFKazZTSDMwZk1XWlBJejFsVllfLWNLeU1wSGg4aTd4SF81eXN2TnZPdzhTRWZJdHdYbGdqRjNUbllzSHgzMWR4cHNXRzREYXJaRmVEZTdEM3B1dUJ5ejdrbVFISzhCYXpxZjNmckQ3azl4d1VLQjdGSWhfUWd5TFdYWm9EeElSei00WHBYUmNVUTJEWFR4UU9uaEhVSTY4LWV4M3RrVXdiMjM2Q1dpUdIBuAFBVV95cUxOQTVHYzV0VG5JRjRxU2owUnBmaDltZG5teWp1S3Z4RW5ZNjZVcWhuVVJ3clVtTGt2U3FJWHZOSkpFQTBTRTVzUU5hWGpvdG5hY0l1VVlwMDRrSnh4MVJzSHpNV1RlOUtvUmNudUJzd3lFc1I3Z2gwZENrZXZ1RVItRm50WVhtU3RlTDlxVjRwNUNyTVBaSXRqT28wb25WSWo1c1gtdENtUlhkbzRkQ1ktLXBhQkhrNTQ1?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92307,
+    "lng": -43.94528,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 325,
+    "data_dia": "2026-10-11",
+    "titulo": "Casal morre em grave acidente em rodovia e bebê de 10 meses sobrevive com fraturas; caso é investigado - Banda B",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVBfOHRnVVZKRmw5VUpOdkZrSjVnYURmdERzdE5FR0FuZHQ4c3ZxU0ZoZURYNWlDaHRHUkJBTWFQQnRZbC1CcWkwRkgtczZNTk5nOG5WMlZacFBzYkQyT0JFN25xMXhfZV9PTWRiSEh2c0s1M043T3VrcHRFMzduREdJS3pRZEnSAYwBQVVfeXFMTXVzdnlNd0FGMmhHUUdyZVpSaTNxeTVTSjk3b2FIc0RqLTZ2SndUc05DYXdNdTBRTTREbkpjdUx5UkZ3TWY3TUtzc0JkNkJWSWJGLXgzZ2xqSUFmclNEdlpIN2M2c0JJSmRoQ21kZ0x0M1I5MWdzNGpSa1NOZng2cXdmSTNBMjUyazVLMTM?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.9246,
+    "lng": -43.94634,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
     "id": 319,
     "data_dia": "2026-10-11",
     "titulo": "Casal morre e bebê de 10 meses fica ferido em acidente na MG-252 - Rádio Itatiaia",
