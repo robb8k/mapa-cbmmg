@@ -1,5 +1,31 @@
 [
   {
+    "id": 311,
+    "data_dia": "2026-10-09",
+    "titulo": "Acidente entre ônibus e ambulância deixa três feridos em BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONUoxZy1tbFc4SWlSMWtKNGRBVTRnMVZnN0NpbDEzeDVpMG5HbFB3bzNxR2l4c21ka0VncHIzcVZSMVdEOWZ0MFloeV9yX3k2LTliTUc0SXdicFg4ZGIzMWk0Y0ZoQl83a1ZrTjhkUEVaelh6azZsd1h2WVpyWlg2VFlrUm00ekpyVFktMHRVSHluR0RwekdoLUJFRHRDY3FJ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.9243,
+    "lng": -43.94251,
+    "hora": "09/10 08:38",
+    "recente": false
+  },
+  {
+    "id": 312,
+    "data_dia": "2026-10-09",
+    "titulo": "Saiba quem era tenente Alice, policial que morreu em acidente aéreo em MG - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1l5b2drQTNpTklQd0hjOVBheGdleDh1NEtPUjJ3V2ZXaklyb1R1VlRYbVYtbVFkb1EwS0JFTFl5ejFDQnNJLWk0TWhFUW1NUFdJclU1SGQtaHgzcU02R2xEM0xNZXBzUy1MV2dfbHZmU0lDWjMyZjNHUjNKT0prOElJNEZPWkcyY08wRnNpSTFabTByZFVIMGQ0WEk0ZUlOQzhvbmxSek16ZkI4cDVscUNFZWs0cFFk?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92556,
+    "lng": -43.9472,
+    "hora": "09/10 18:13",
+    "recente": false
+  },
+  {
     "id": 310,
     "data_dia": "2026-10-09",
     "titulo": "Vídeo mostra local onde caiu avião da PM em Minas Gerais; três militares morreram - G1",
