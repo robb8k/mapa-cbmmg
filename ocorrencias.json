@@ -1,5 +1,31 @@
 [
   {
+    "id": 346,
+    "data_dia": "2026-10-13",
+    "titulo": "Vídeo: incêndio atinge Terra Indígena Maxacali, em MG, e mobiliza o Corpo de Bombeiros - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFFTSFR1NzRHdlJuWjJETF9DeENKSlNieUxCTDRQZ2NXSlZzTTRqZGk5bDY5OERBWW1pZERlRzhsY1NIUi13TnFXRWVRcXl5MHpGNktxblFXTTYzZWxsY3U5ZjhuakhQZUNHZGk4Umg3LUc5ckNGS0RQa18xT2lTTW1VX0xKWUVEQzk5SExRelU5SC1fQ0VwR1oteklxVWNTLTc4OXpmV3NsdWNvRmRXWlUwSnQ3SkJTX19CcmNXU2FPUGo4MDZDUGF3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92336,
+    "lng": -43.94463,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 347,
+    "data_dia": "2026-10-13",
+    "titulo": "Dragão do Oiapoque aparece 'cuspindo fogo' em vídeo dos bombeiros após incêndio em ônibus do MOVE em BH - Rede 98",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOci14SkNnOVpxOHVoZVVCYTZNQmdjcW03SXg0MkNhWGNqTWNLZVFYWDFsRktpbEtCVUJlcDBZTDBOSmxUUnRVNzNVVWlmZ1FaNU92SEZHWE0zcU9BT3FjZkh2SEdZVUpVX0NQbTB1NTRuWGF6M3V6cEZBUGI2MEFRUWZsYmJrVjRYWllKejdvaG9lbUY2U2E0YVRNSmxsN0hrNkVJbEFUY21xUWVnalhtSHhXaDg1eFIxMFl2czVVUEtRV1QwNEE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92451,
+    "lng": -43.94403,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
     "id": 340,
     "data_dia": "2026-10-13",
     "titulo": "Bombeiros atualizam combate a incêndio na Terra Indígena Maxakali; fogo segue avançando - O TEMPO",
