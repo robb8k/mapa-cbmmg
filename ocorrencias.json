@@ -1,5 +1,44 @@
 [
   {
+    "id": 337,
+    "data_dia": "2026-10-13",
+    "titulo": "Incêndio em churrasquinho no Interlagos mobiliza bombeiros em Divinópolis - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHN3cm0zbEFlLUxoSW50eFNsQWdFUmtHLS1Rd1p4MDVIS0ZtbzZ2anpKX1NpeVNCWlc2S0F1RGlybnM3emVhRFNqVGo3dzNZbHp1Ry1vYjhnYnlQbEpRZm9xdU1aRi1YV2hVYnpUeldDbHZvR3d3SmlTU2hGaEhWRGRVeGsxX2plazFRSzhjbmIteW8xYi1nTXVNOFJQNjR4S0hBX1pVNVprdw?oc=5",
+    "local": "Divinópolis",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.16278,
+    "lng": -44.87206,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 338,
+    "data_dia": "2026-10-13",
+    "titulo": "Vídeo: ônibus do move pega fogo e mobiliza bombeiros no Centro de BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVJrVi1GR1oxeGpMWVpRaVA1MTRiMnZEOUhoYzBIYXE4alAzY2I1NE12YTdBYWZGUTFOd1pfYjNHMWhzUFFLekF2bVA3WncwdHlLZ1U3Vlc1S0hmZ1lOblQzd090c3d6ZUtmVUxrcDVXRzJCNHQzbm9qYmFfQ2d4U1RrZHoxTVR2M0w2emlfOVpFOVBLWE5iVFRhdlh4bDhhTURCcmptZEFUYWMyRVl6LW1mQV8?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92546,
+    "lng": -43.94355,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 339,
+    "data_dia": "2026-06-14",
+    "titulo": "Um cão da raça Husky Siberiano foi resgatado pelo Corpo de Bombeiros Militar de Minas Gerais (CBMMG) após ficar com a cabeça presa na grade de um portão residencial, no bairro Eldorado, em Formiga, no Centro-Oeste de Minas. A ocorrência foi registr - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YTlZsc2tDN3FZVW44S2J1SnhZaUNTcDA0TGtMVFZ5ZUJjRndqbE4tbVd4OHVZYUlmTWQ0MnJvVVdjNUR2aXRXWlRBVzdUektiQ2c?oc=5",
+    "local": "Formiga",
+    "categoria": "animal",
+    "categoria_label": "🐾 Resgate Animal",
+    "lat": -20.46517,
+    "lng": -45.42715,
+    "hora": "14/06 04:00",
+    "recente": false
+  },
+  {
     "id": 335,
     "data_dia": "2026-10-12",
     "titulo": "Incêndio em galpão com fertilizantes mobiliza bombeiros por mais de 12 entre Paraíso e São Tomás - Jornal do Sudoeste",
