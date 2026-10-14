@@ -1,5 +1,31 @@
 [
   {
+    "id": 348,
+    "data_dia": "2026-10-13",
+    "titulo": "Incêndio atinge Morro do Pires, em Nova Lima, e mobiliza bombeiros e brigadistas - G1",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZWhfUXQ2YVFwa3NGUHF6V1ZWcXo1RjdlSUhld253c25CVlFKZlp4VS1tdnkzS2I0eWhxekZGbWFOVS02T2NmWlllaFlQWkFUYnpWeVZwYUlVSS1sbVk5RlZpcDZleHdwSHFhNFE4RmdHYzVNQjhQX2JNeDJuRHlYV1RXU2pHTHY4eDhSV1ZGa0VVQVhlNHRWb19iYm1LT2dvaWZYMktQZGhPNk5SY0RyejFzbU1LTEdyVVV6Y0tnR3RheWg3QzFhV0V5RlB3SEFqRUVzVXA2Z9IB5gFBVV95cUxPVGpEbjVnS3pKaG55M0tZU1FkMnRUUHg0YVdDZUY2MElFT0pMYXV4Wm16SjZEMDVyTGpkSEYtcUR4a1JXT0NRYUpyTTRxRXlKVHpHZjdMQ2JTX0doMVZTb2NIRDRsdHhfcWVtTUQ0eDRjalVOR1I1MUVYeFk1RlRyRVFxNTF1MjQ5b3REZ2J1OFVrUV90anZaOGJNNzJJQktKUHBRdmp3aHNSR3V5WGhqeUc0Z3hBSzVrUUJST1l2XzFCTFNDWVdta3JvT21nV3ROUG9MRnZfN0ZvSzdGcURQaXNSZ0NCdw?oc=5",
+    "local": "Nova Lima",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.98715,
+    "lng": -43.84492,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 349,
+    "data_dia": "2026-10-13",
+    "titulo": "Incêndio atinge casa de três andares na Região de Venda Nova, em Belo Horizonte - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0FNYkRJZnMybW1fMWxFQmRpOGt1WXdmWUdueV8xQU1SWE52OEVzbFJpU1NuRzltR0xWcXFBU1NlcnFMcVlYYXhuMkd1T3VHRWpPSWV0MEZESW5hVE1paFprUTctOExDMFVKNWhrWFkwWEFUWmZBMENQNF9EZjQxOWx5M3JoV1FETDFpMVZ5RC1EejdUZWJ2aVpKZmZWQ2N0SnBwX09YTG9QOU1wVm0yMjJWeVVhQ2hnUmI5OFA5MktDLTg?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92179,
+    "lng": -43.94279,
+    "hora": "Há 40 min",
+    "recente": true
+  },
+  {
     "id": 346,
     "data_dia": "2026-10-13",
     "titulo": "Vídeo: incêndio atinge Terra Indígena Maxacali, em MG, e mobiliza o Corpo de Bombeiros - Rádio Itatiaia",
