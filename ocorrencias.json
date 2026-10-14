@@ -1,5 +1,57 @@
 [
   {
+    "id": 351,
+    "data_dia": "2026-10-14",
+    "titulo": "Incêndio em fábrica de móveis mobiliza bombeiros por três horas em MG; saiba onde - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHduOXpSU3AyLVdabFV3OWVveV9IbFRROTV4T2lmMktZckJ6ektCNEtPemFyV29wdXlYcmlqaHh6VUxZTXV6X19xZXB5NV9ncHFGY3pFdXZ5eWlQcU5Tb3A2ZWZUSi1wQmdYaXdqWHRQNmdScTJETi03R21nMVBKZG1VQS05NWd1YVZYV3BZenlHb0JwOE9zVWt3SDBsOXZEWnNwVm5TX2VxY2tVUXhudjl0OWF6Smw4Q2tsM3ZYdTVtOFU?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92329,
+    "lng": -43.94427,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 352,
+    "data_dia": "2026-10-14",
+    "titulo": "Motorista é carbonizado após colisão entre caminhões na BR-116, em Muriaé - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQi12VWVMOTBBbzRaSHo2X2RvVWpoaWdHdTF3bnRSNl9hc0wyZ3N3NTcya0xrelhUckE2Mjlpb3VZY2tNTkpzNXM0cnpobjYxd0pEUUN2ak1RckRwMXd2UjhlVU94XzhCRHVqdTNLeUhleGpQN3Z2LW95dWQ4ZVZQOTR3c0czeWFsRVdTRGxEcDBXMkhFWWZwNVRYZzc0V0JoT09hOTNLTmpJclYyODl2WnA1blNNVHBNSDZ3?oc=5",
+    "local": "BR-116 • Muriaé",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.05779,
+    "lng": -42.36612,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 353,
+    "data_dia": "2026-10-14",
+    "titulo": "Bombeiros combatem incêndio em fábrica de móveis rústicos e pallets em Divinópolis - Jornal Correio Centro Oeste Arcos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWtXM1dadFdNUEk0dTNqRjhmSnQyaWVZQ3JwMURDS2ZScWxhUjIyQXg5UE1xNVE1eHlJTHhnVEQ5bkhYMTQ5empWVUYxWkNDOWVEY05JTUF2aTlab0lnYWFlYnV4YS01bk5heS1yYUREZnZKbnkxWXY4a1BBZEtsa3Z3YVZrRExGSnlIWmQ4WWtfT1VrZVBNa2FOM19rbXZlZ3RJX1g4cWwzQjYwRldESw?oc=5",
+    "local": "Divinópolis",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.1585,
+    "lng": -44.87141,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 354,
+    "data_dia": "2026-10-14",
+    "titulo": "Vizinhos salvam idosa e cachorro de incêndio em Uberlândia (MG) - Patos em Destaque",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3STRUc0JfblNBQmE5NlBwZmIzUF9QM09wT2NNcVJtcVJYWFNDbnZPM0Y3cXF6WWFtS1dJdHl1cDN5RGx3V2owYi1RTXh6UXIxSVdaR1c1N2NhWXVkTjhsTUt2WQ?oc=5",
+    "local": "Uberlândia",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -18.91936,
+    "lng": -48.27972,
+    "hora": "Há 26 min",
+    "recente": true
+  },
+  {
     "id": 350,
     "data_dia": "2026-10-13",
     "titulo": "VÍDEO: mãe e filho ficam gravemente feridos em incêndio no bairro Prado, em BH - Hoje em Dia",
