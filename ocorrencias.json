@@ -1,5 +1,57 @@
 [
   {
+    "id": 362,
+    "data_dia": "2026-10-15",
+    "titulo": "Fofos e salvos! Filhotes de cachorro são resgatados de incêndio em residência no interior de Minas - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzdSUVRrWG5TanhOb1JPREdQTVJsc1BXUE83cWxIOGREZ1RlQWhyRzlkdEZvT0hhbExqZFFCbVEwOE1Ga3BobXZTZTc3dVBSQ2hFYnRnY3dWc0lYeUJ6X3M1OEZpTTZXZ1RzUFVkNWcySWZPMi15NElBNnpfNmtLX0gyWUtTcHQ3eVdaZURqOA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92471,
+    "lng": -43.94688,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 363,
+    "data_dia": "2026-10-15",
+    "titulo": "Bombeiros debelam incêndio em residência e resgatam oito filhotes de cachorro em Araxá - Clarim Araxá",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYlh3bzhRU3V3NGtHSkNsZEpmTEJXT1JlUHEwZ2t0Q2FtM3Q3MjVBLWg4LWkyLU5iRERFemxfWjlOTmtKOXlMWkJUTm1iSHBiUFBRSEtLWVQ2SWtsNHFma2FzU2xTVFFkRVNWbWdoWU5EdG0tMnZfeWNYTEppNjVvdmx4dG9BOFlXMDNlZWFvX1hVSUw5NjF0bGZ3RHFQLXNHal80SFZLMm5xWHdTYmc?oc=5",
+    "local": "Araxá",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.59813,
+    "lng": -46.93903,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 364,
+    "data_dia": "2026-10-15",
+    "titulo": "Bombeiros salvam ninhada de cães após animais serem encontrados durante combate a incêndio em MG - O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFVHWFVjS0lVTVM0RU45Z25RRkluQWwwcWdqMEFHMERnbGJlQjBjYVhjWGcwaG9KTm4tcldMazdmbldrMVh0Vk9fbk1fZ2dIWlZjdk5mdVgzMDhHVjJCZjJpQ2x5Vl84NjlnNTNHcHY5SVhwNjNlbmhRdW84MV95dUIzSUItTHJxT2JzT2JJM0lHN3lJQ3RRWk5kR2dMSC1fOU1ZV0xvUGxBQkpOektkRXpvaVYxTW4wQWpEUTdDQ0dHQmR3ZmJIWlNmQlF5c2FkSU5XMWMteWw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.9231,
+    "lng": -43.94276,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 365,
+    "data_dia": "2026-10-15",
+    "titulo": "BOMBEIROS DE ARAXÁ COMBATEM INCÊNDIO EM RESIDÊNCIA E RESGATAM OITO FILHOTES DE CACHORRO - Araxá Agora",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnNPdUVIcXN4VzBEQmJjYkdUVDdWc2F5U1BZektKbFE4aC01NDJBU2Z3aS1WMzRJdk0xYXJLdGNiSHUtdEFCXzBlRVM5Ml80YUNMUXllZHBFR3FWWDdPT1A1M2ZhbzM3dDNXSm9SeTBfOUh4bkx0VE5GSEdGNFFLSEg0cGdyQ3ZLVEx3NzE4dlJpallqbnRxT09rdG42TWtFM2lSbVJ0d2ttb1YycmlaS1pQblZfekEyQ2QwaUJwaDF1MG8?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92395,
+    "lng": -43.94779,
+    "hora": "Há 26 min",
+    "recente": true
+  },
+  {
     "id": 361,
     "data_dia": "2026-10-15",
     "titulo": "MG: dois morrem soterrados em obra de contenção de talude em Maripá - Metrópoles",
