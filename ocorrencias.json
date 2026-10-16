@@ -1,5 +1,31 @@
 [
   {
+    "id": 368,
+    "data_dia": "2026-10-16",
+    "titulo": "Caminhão-cegonha com 28 veículos pega fogo na BR-251 - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWd3aU1HSy1CbThNOTNRSGxaaF9DbmxNa0NZOFJsdXBNZkRQMy05cHZ5SW9mblNQZDNFbXFtZS1hdDlGQlJ6bFQ3dWhFSEd4MEJBVHVpRnpPUmVvY0lGRmlRWmY5bE1qRXVSVG9TZnZDdmhBUFU2UjBiSjVzSEhrRnpTV1dIZy0yWXVQWTQ1SjNNcldLbnZSd0UwaXduYW1DVTRnU9IBqgFBVV95cUxNMVI3OEVSNDRVeERlRV82VnMyVHpYQ1h3cVV6bTZBNm9jZE9YOXoxVV9EbDFyakhRZVpid3dWTUdja21IV1ZnQzlXS1N0Uy00ZENiMm1BUnFVVnJ1d1pTYUhraGVoNml2VlNOSFRMb2plTmlIZ0RmVTJEamxuSGtsQ1dxTWtrX3hKZjVrQ19mSW9VS0dPdnFiek02NEFPMzd2WXJfUkpNV015QQ?oc=5",
+    "local": "Trecho BR-251",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.68897,
+    "lng": -46.61492,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 369,
+    "data_dia": "2026-10-14",
+    "titulo": "Uma carreta carregada com equipamentos de academia pegou fogo, por volta das 5h desta quarta-feira (14), na BR-381, na altura do km 523, em Brumadinho, na Região Metropolitana de Belo Horizonte. O Corpo de Bombeiros Militar de Minas Gerais (CBM - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKU0tOME9fa1gxVlplNWp0TkJIaVJmMGNRNlI1a2xBNl9pN3diemZhd1BKblFnd1FYNzQ0WG0zU2htamx2Qi1mOENCRTZQWGN0SXc?oc=5",
+    "local": "BR-381 • Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.90684,
+    "lng": -43.99609,
+    "hora": "14/10 09:43",
+    "recente": false
+  },
+  {
     "id": 367,
     "data_dia": "2026-10-16",
     "titulo": "Ônibus pega fogo em BH; suspeita é que incêndio seja criminoso - Rádio Itatiaia",
