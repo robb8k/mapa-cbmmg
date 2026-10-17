@@ -1,5 +1,31 @@
 [
   {
+    "id": 380,
+    "data_dia": "2026-10-17",
+    "titulo": "Carros batem de frente, uma pessoa morre e 7 ficam feridos na MG-238 - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2pGTDEwWm4ydXM2c2g5ZXBZV2c5RnZjcnBRN1RSd1V1b0s0dnZBMzN5LTRFYVN4aFBUVEdWNmlFTFpjWU1qTExQaU95SlllMmU1OVpibjRRNDYxaEJlZkFGWHVNd185Zmpqa0gxWmZWMFgwMWNlQ1NZLWU0WlQwclZwVU9IRC1rZFdpUVQxUnFYbERvNkV5N19XZTZUZm1hR1YzLWVOT01WUjVEa3N6dFdzZUtCZlpy0gG-AUFVX3lxTFBLM0JyaVIyTDRzR2NDTXhsT1BaRXhueGctNVFaOE83UmlmLWpuMzY0QUFmcWdYdVk4WlctS1NYSjh4Z1ZmVVpXYU5OdHVWMmlvSExaM2tzWmlmOFZPbUprVzVzY1JwYmlWWko3U1pETC1hWlJDTkF4bzE2cG9CVDNjVUpzenlMbUd3QVFVa1BzTXBpZnB0d2RERldYajVaa0xLZHkxbEdjdklwdXZNeGlrZHd3YkpmS2M5VEJzOUE?oc=5",
+    "local": "Trecho MG-238",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.49095,
+    "lng": -44.31004,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 381,
+    "data_dia": "2026-10-17",
+    "titulo": "Caminhoneiro é resgatado após tombamento na BR-381, em Minas Gerais - ISTOÉ Independente",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHdldEpSaU1tcmxKUWRlUXdhc2pGbTgyMENyTWN0WTJjQTVSRWN3ak1CbHZEOUFFNWxRTHVXeHVFQ0FucS1FVGtUbGN6eDhMQm9vUlctNWlhbjVwcFlUY1BSZWdRa0dOdXVodXlvU0gzTEttaFJRWmlFamJ6cGRTQ2xn?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.86784,
+    "lng": -43.94107,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 377,
     "data_dia": "2026-10-17",
     "titulo": "Homem de 57 anos morre após colisão frontal de carros na Grande BH - Metrópoles",
