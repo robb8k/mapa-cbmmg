@@ -1,5 +1,44 @@
 [
   {
+    "id": 377,
+    "data_dia": "2026-10-17",
+    "titulo": "Homem de 57 anos morre após colisão frontal de carros na Grande BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk9yY0xVR3N6em90UW5RcjJkYWpEd0ZRTm1JMGluYzJ1elVmNC12a1NMWXB1eG8td0cxZ3MwMXdyMVNBU2gza3NOVmlsRVRaOXJFTFZHZ0dneEhoN2lpNmh6UENaY2xsVEtZQVdTdFlPWEhQSkZaMGlHUVJKS25kMF9YMHJXaW0wRUNoLVJZeEM4NjNoSjRCNkJyV2FyakU4UW5JeVhKUEhRdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92306,
+    "lng": -43.94319,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 378,
+    "data_dia": "2026-10-17",
+    "titulo": "Colisão entre duas carretas deixa motoristas feridos na BR-251, em Francisco Sá - WebTerra",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lINm5RSlM4X29DQ3loX2xJWm9ONkFZbWhWTkM2LUk4UWpQWXRPZ284Q3BQM3ZoVmtKMVZmckhPWDZUaTdvOFhQMWRDb0Q2UU03ZDlHOVplZGgwT2Y3d1NETlZjN2t3MHMtYktHZ2VPOXVoR2Rnc2s4cEJQeWJ2RXlPTzZlRmZSeVdzTnZCZ1RWYjhsTDdiU1Z5ZEFqTFZqdHltbzRtd1I5VUhubTIta0swN2M?oc=5",
+    "local": "BR-251 • Francisco Sá",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -16.38559,
+    "lng": -43.19038,
+    "hora": "Há 16 min",
+    "recente": true
+  },
+  {
+    "id": 379,
+    "data_dia": "2026-10-17",
+    "titulo": "Motorista morre e sete pessoas ficam feridas em acidente na MG-238, em MG - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXZRSVh2bmgtUV83bGQwSnZ2WTA5SW04Zlg1UFVibFBUY002X05WejN3QzVPeUV4NTl5aTRObm5WUVNIM3YyLThNVnJxWnRUTnE5YUQ3MFdIRkVyelBrZWhFcVFRdjBHNHQwVnNPT0dDQ3lvRnN6NHdUZ2p2a09FSzVpajVTSGJ6SmV0M0NfTVdZWGVVMW5CVmt3?oc=5",
+    "local": "Trecho MG-238",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.48943,
+    "lng": -44.31448,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
     "id": 376,
     "data_dia": "2026-10-16",
     "titulo": "Corpo de Bombeiros mobiliza duas viaturas para controlar incêndio em veículo no bairro Bom Clima em Juiz de Fora - RCWTV",
