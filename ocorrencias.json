@@ -1,5 +1,44 @@
 [
   {
+    "id": 373,
+    "data_dia": "2026-10-16",
+    "titulo": "Bombeiros e brigadistas arrombam cadeado de lote para combater incêndio em veículos em Rio Pardo de Minas - G1",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNjB3SlV6dnFFUlVSRnJJaWJfc001aHBNMW5uQk55d0VYbW1QV3ZuTEppOEE3cGVXSzVaaUZPX2hmRmNiRjJOZ05RNzl0MklDWFM3R1NtZEN6S1FSdzFNMW5wX0dySjg3czljZWpTMklsVklzZVNlNFpQTVZhak1tcnlmeVZHU1NORmdhc21XRlFHYTZOQ1lWWHNiTnIwOXhwSFVOZTBJdXNNZGEzcVpadm9wQ3FCcGJRM0wzX29JQTZjanlKZ0VVcjVZN3hUZl9fXzJJTXNYT2MzLWM5bzV3Y1pWUzZCN3hqcDViNFdjeFlzbnZJT1Uza2pDa9IBigJBVV95cUxOM1plelBibTJfLWQ3eXQtcVgyU00zbk1saWdqbjhnejNiNlp4UC03X1VKT2t2bGtXNzRWdkZHWnFZUDQ3REFmNTZ0ekNxaGNtTWNZeUZhYmdZZGFyd01TYVdvMGo3T01yeFdLZVh4ejJQU2t5UnhaWlNkRzlMLTdRSXF4Rk5CbDJXaDhNUFhoZ3lrSUJacThqTVJSUmk4RVJ1V3FNNEpVR3hOZWczQktBMWxiVXJQN0ZaQVh6bDhseGo4Q3Z5YlYxd1Nwd25RV214UzhpSkxlM05OSWpFU0VPQUtMQlpvamZicG1FNmV3TmRlMHRsUzdORjZEUUdUN1J0ZWVta01ZSzlVQQ?oc=5",
+    "local": "Rio Pardo",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.33964,
+    "lng": -47.40837,
+    "hora": "Há 15h",
+    "recente": false
+  },
+  {
+    "id": 374,
+    "data_dia": "2026-10-09",
+    "titulo": "Bombeiros Militares que participaram de resgate em Brumadinho foram homenageados em sessão especial - ba.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMl9pUzV4YURodTNSQlkzaEJRQ0R1VDE2OWZyeXg1ekl1eGYtbkEzTGdWYmZfYWNIOWNOVnhVR1BvcU1qb2VQQzNwYlE2Wk5FWnJhRjFoSC03Q25ELWM2LXY1SE5hUFFGMThfZkdOVHFqNzlfS2JTVTMwTmotTUV5eVpQMnZOc0x4czRMUThSTU5WU3BRSlptalQwVTU4YXNxY3NvYzF4Ykw4UE5HWTg1VkpzX1c3b0o0M3lwMDZuQkVpMGxqX2FOdDN3?oc=5",
+    "local": "Brumadinho",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.14143,
+    "lng": -44.20183,
+    "hora": "09/10 04:00",
+    "recente": false
+  },
+  {
+    "id": 375,
+    "data_dia": "2026-10-16",
+    "titulo": "Incêndio atinge caminhão-cegonha com 28 veículos na BR-251, em Grão Mogol - Gerais News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREM1MHZxek9ZaHFVYTFWSE9EOEFqVmJvZy1LRHg2c2cybTFMbldhQkFmVGJ4R094cnFFZVNkWVFLcGgydTVIb2dLZnhxck15c3RBRHdZWENIYzNDSUxDNlB3T1lQT1ZFWkt0NFQ2LXc3M3IzWXhaOFhvOGc4Z2d3RTE0QjU3LUdBSlc2TWRkRG9ReGpoZGlGMkhwUE0zcjJWNUlkSlZ1ajRhWUdnQTRF?oc=5",
+    "local": "BR-251 • Grão Mogol",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.40809,
+    "lng": -43.22607,
+    "hora": "Há 16h",
+    "recente": false
+  },
+  {
     "id": 370,
     "data_dia": "2026-10-16",
     "titulo": "Incêndio atinge loja de ferramentas em Ipatinga - Carta de Notícias",
