@@ -1,5 +1,31 @@
 [
   {
+    "id": 383,
+    "data_dia": "2026-10-17",
+    "titulo": "Incêndio atinge fábrica e assusta trabalhadores em Sete Lagoas; veja vídeo - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1VXTW44MEd6Ry1MMEFZU0xDNGtVU0trUGRqOHpucDNkbWtvVldvdTFoTkR5dU91NnRBMGIxbUh4ZkNJMUFPYTR2NkptQ3hjSWJuLTM1Sm5QM1dpdkQwMUx5NVRZOXRubFdHUG54QVltQ1pfYy03MzRNeDd1OEs0RTRrTWpRdXBXUzZ6Y0xjLW1WMC11cDgzRVdIZlVETGYzTVBPaXN3LVpLV0laRWlsS2V4dWtqYjV6eFRWSA?oc=5",
+    "local": "Sete Lagoas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.46864,
+    "lng": -44.24809,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 384,
+    "data_dia": "2026-10-15",
+    "titulo": "Dois homens, de 24 e 54 anos, morreram soterrados, na manhã desta quinta-feira (15), em um deslizamento de terra durante uma obra de contenção de talude em Maripá de Minas, na Zona da Mata mineira. O Corpo de Bombeiros Militar de Minas Gerais (C - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NeTV5ajljVy16a2FYODM1dnZaSnBhRlB4aVplM1M5YnZZbG9OLWhueGl1YlkyMVc2OVo0dlJ6aG1hUVNJX3RRRW83VHZPd1BibFE?oc=5",
+    "local": "Maripá",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.70343,
+    "lng": -43.00065,
+    "hora": "15/10 14:32",
+    "recente": false
+  },
+  {
     "id": 382,
     "data_dia": "2026-10-17",
     "titulo": "Batida entre dois carros deixa seis pessoas feridas em rodovia de Minas - Estado de Minas",
