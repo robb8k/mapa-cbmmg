@@ -1,5 +1,31 @@
 [
   {
+    "id": 386,
+    "data_dia": "2026-10-17",
+    "titulo": "Seis pessoas ficaram feridas em acidente na rodovia LMG-798 - JM Online",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3VtcUVyZmVkSDJGV2ZWSW5jU0lYcEZlZ1RtNTdRNmsxSS0wYllKWjJsUWNXNThIS18zSjRaYTdkdTV6c2ZBTDVJN2x5YXhfVzZfbEhPb2V2bXhnOUhvbVN3Q2dQd2szVHozYzdkb0JIUlBGanI0RklFNUZaMWEtSUFJYVZzLWRvTzhLVWhsTDBfRnZlMzg2Tm1raUt6aUlxV2fSAaoBQVVfeXFMTmlTQTNaaVNQX0hjSFFfazBncU9DVEtxZHBUZUgtYTBscnBFNXhBeFIySGNPdHRoYUhCZDJoUU82ZFpnWW5COTQ4blJ6UzI2WjZzZTRpbVM0cW9tOVlhYTVlaDYwT1hBWXVmbmRjQ1dOajlfQThpeV8wTzkyYmNSODVISEdmX3hhM2hYbjdDM0RBNGYwZkRiQTY5T1FMa1N5d0NRNDVCYlV1anc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92538,
+    "lng": -43.9461,
+    "hora": "Há 18h",
+    "recente": false
+  },
+  {
+    "id": 387,
+    "data_dia": "2026-03-06",
+    "titulo": "Bombeiros resgatam última vítima de escombros de lar de idosos em MG - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSjUyODQzNmItcDZnOW1UN2liZVctTFNIdFduaTJSZXJkcXNPODQtUkFSeUFkQm1wRVp6MWhIMHkwd1NReUJxM19RQTJvV1lzNzBlck5hS2RzNDM0dWI0TUE1b2trWHVMTHp4QmtlNjRqaFd3VHh0SWdpMm1VcnFwWnBWdHhkaW1rYWZ3bUo4RkF1VVN6QWRyZ1Vhc1N1cG9yOWRFNkNBY0dKQkxEWHB5WXVfcS1lQm9jZHhXaWc4ZXE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92518,
+    "lng": -43.94447,
+    "hora": "06/03 05:00",
+    "recente": false
+  },
+  {
     "id": 385,
     "data_dia": "2026-10-17",
     "titulo": "Incêndio atinge indústria de alimentos em Sete Lagoas - G1",
