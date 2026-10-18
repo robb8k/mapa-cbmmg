@@ -1,5 +1,18 @@
 [
   {
+    "id": 385,
+    "data_dia": "2026-10-17",
+    "titulo": "Incêndio atinge indústria de alimentos em Sete Lagoas - G1",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzZTYkRTTl9lVG9SWG5pZXAyM2JlVUF6bHNpSzJuNUZkRG9oWlAxRnVvSjg1RnFhY09SNUlPRWVGRHN6ZHczRGRLN3VRd1hzQW50N0xjSVJmbFB4WXpNZWVfSDBfclNla0VFX09Ja3JCZkJFWnd5aXJuSGFRbV9YV1M1T1I4RG40WnNoRVdXNE10MExmd1oyS195cnk3aHhVY3dlZVVUSW8xRGlMU3g2SS1KeEpTUdIBxAFBVV95cUxQdWFFR3hNaXRQTGVOYWlNX19qWVFiX21sVnY5cV9YTU9iUno2UzZ2Wkt4WFBRMzhXTFlxb2lwVlU0aUhzLUhxSm9FbktsSmJuZDQ3dnVJdGNyRXdWdE5mb3EwUm4tSjdxclZVSkRXSjJCUHhMeVFsOWE0dW52c05fbzJ2LXVZYnktZHZpbVJxYm1GSHZKRVlMQ2t6N3dLVHRRZjBkamx6MGhGQlgxeFBzbmtNVlk4VGJiY25Rb3V3NkstaGpO?oc=5",
+    "local": "Sete Lagoas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.46773,
+    "lng": -44.24511,
+    "hora": "Há 57 min",
+    "recente": true
+  },
+  {
     "id": 383,
     "data_dia": "2026-10-17",
     "titulo": "Incêndio atinge fábrica e assusta trabalhadores em Sete Lagoas; veja vídeo - Rádio Itatiaia",
