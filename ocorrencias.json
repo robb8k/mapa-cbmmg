@@ -1,5 +1,44 @@
 [
   {
+    "id": 406,
+    "data_dia": "2026-10-18",
+    "titulo": "Carreta carregada de diesel pega fogo e bloqueia trânsito na BR-251 em Salinas; vídeo - G1",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDM1aFFLWFhJbkU1S1BPYXl2YWRpdXZBa2RJUnhoYVNFdHl6ZXNfV0xnS21VXzFQMFltOG83WmR5ckhyTl9wMWl0TndOa3dXRzlOWVFzSDA2TWxKendxcnpUbDl2TzVvSFUtZDFXUlNRS2FGekdVVktSQm5YWjVlTnN4ZURRSlBrYUJOMlZkNU1LMDJEMXpiTk9MYk5KZG5UVXhsTHV3alpCbk9xY1dDU09tczhLa0RhX2E5THlIRWIzVWQ5RGJmNml5R0I2Qy1mdWQxQ0ZVaWNiU3NzSEdB0gHuAUFVX3lxTE05bFlUMnh3V1ZsWWloU3ZTVFhod0tzVmZEY2lMQ09YbHBuWHc1RWZhQW9fUW1kWG5KS3NWUjI3czNVQVRhbjRFakkxOF8yMldUT0hrNkNkR1AySUtpRzVOQXBYRWt3a3E3ckxPeDVYLTgwU1R1UjZxTjVPRkd6RWh1SlZNaG9kNzV2RFNFdERDaVlRRVpzYW82d0FvRFNjX3hQTmUzNnFHbFdRZTltYTJBelF4MEVScjZ6U3FlMTJsR0duZ3VoYVpLX2I1bkViamFhSmRhZ1o3XzlJemt0MmtUbmFZLTkwdXNtTzFDZUE?oc=5",
+    "local": "BR-251 • Salinas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.16302,
+    "lng": -42.31787,
+    "hora": "18/10 14:40",
+    "recente": false
+  },
+  {
+    "id": 407,
+    "data_dia": "2026-10-19",
+    "titulo": "Bombeiros resgatam idoso desorientado em local de difícil acesso durante a madrugada em Santo Antônio do Amparo - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUNIVkM0d1dUMGxDUWdsUVVFZ0ZWNGt0Qk53eWJuMXlrYmtRMlhDdlhBRDRFcWFKVjVnZWdCSFV6WFZCcmdZWkU1RlBjTEZ4cDBseU9vb0FHVW5sUzFybUhfQ3c4cDl6Z242TVJkWlhXZ2tSZ25Md1A4aXlMUmdBN2h1TnNRSWJlWDZ3Qm9tR2dIV3B3MDlpWEJsSE91ZWVzVDNjd3ZONW4wa005OEJGWTBKSmxsUE5mMGxCQlVRR01nck8wV3dfNU1vckhjMF9IT2l0bC1BZi1EUmJT?oc=5",
+    "local": "Santo Antônio",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.77044,
+    "lng": -43.3115,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 408,
+    "data_dia": "2026-07-22",
+    "titulo": "As buscas por duas vítimas de afogamento em Araguari, no Triângulo Mineiro, foram retomadas na manhã desta quarta-feira (22). Os trabalhos são realizados pelo Corpo de Bombeiros Militar de Minas Gerais (CBMMG) em uma área próxima ao km 33 da ro - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nRFRfb0lXNDRKQzVHY2FXZUJ5YndEVlRWVEJ4bnRFeWpFSzZzVDJveS05RVRHeHJzbFR6bHhaYklzQlFzQkRXSFB0cmpzOW1Ca2c?oc=5",
+    "local": "Araguari",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -18.65318,
+    "lng": -48.1912,
+    "hora": "22/07 04:00",
+    "recente": false
+  },
+  {
     "id": 400,
     "data_dia": "2026-10-19",
     "titulo": "Incêndio em casa no Igrejinha mobiliza Bombeiros e Defesa Civil - JF Informa",
