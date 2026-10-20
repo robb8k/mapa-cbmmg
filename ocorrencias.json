@@ -1,5 +1,31 @@
 [
   {
+    "id": 410,
+    "data_dia": "2026-10-20",
+    "titulo": "Incêndio destrói completamente casa em propriedade rural de Minas Gerais durante a madrugada: imóvel de madeira já estava tomado pelas chamas quando os bombeiros chegaram, e possível curto-circuito em freezer está entre as suspeitas para a origem - CompreRural",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQlVPNnh0Um8wVC0wQ2prRzdoLTFkb3prTVJlSndwYV9mRHlTUDhxaXM0OW82bEpHY0J5SUxQSWs3MEZQaFhUWXB4Yy0xcXd2VDVKSmdiU0VIQlkxODNlUlBibXZsbFlycm5JZkpQMzd6b2Q3djV5MzI3dzF1TnU5X1hnU0xmN1kzLWsxZ0w1aW1COHdPQVpGSEE5eWdRaWZUMThDX0daUm45dzBlYlUxTHMtN0JvcnhBN0RzQTJoLXJPbC1Qc1JhcW9NSkxRdFZiTWZ0bFB1Z1VtRFBrdkhwY1psWkxLRGljX2ZCc3FOMnNLYlM5YXkyTWtTRG5veUVLRTE1Z2U1WW9FSC1VbS1KZlZLZDZKdEtWZE93N01jamthbzdSMGpadzdoRXh3c0ZCVlN6MGJieWxkRDhJaEdxTFlaY291SU1LZEdGTzRxaS1DZmJWc2NXaVFacDB5d28zUFdYYkRDUTBUUVkwZGhIOEluZw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92063,
+    "lng": -43.94777,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 411,
+    "data_dia": "2026-10-20",
+    "titulo": "Incêndio atinge carreta carregada com granito na BR-251, em Salinas - Gerais News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0NvMm40VURqYmN3dlJrdk9DWl9BQ1FRb202ZFhXV0xIWk9uQzFpVlQwVW9TY25NVDk0N0FIUjNpaUhlWFlYU3MyR3Zjd2JmSnNETnp3N2FUbG9wOV9KcG80RXNkU2FkQnhWUnNtNGsyaXpuQ1VRNjJzaXgya2x2NHFJTlV6UjlnQ1c4LWptLUtvYVQ0Uzd0bGs2OVdBWnM4OHVtbjcxYw?oc=5",
+    "local": "BR-251 • Salinas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -16.14192,
+    "lng": -42.30595,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
     "id": 409,
     "data_dia": "2026-10-19",
     "titulo": "Três pessoas morrem afogadas em represas e rios de Minas no fim de semana - Metrópoles",
