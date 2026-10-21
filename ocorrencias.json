@@ -1,5 +1,44 @@
 [
   {
+    "id": 429,
+    "data_dia": "2026-10-21",
+    "titulo": "Imagem religiosa permanece intacta após incêndio atingir residência em Juiz de Fora - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkFMcTNZX2swZ3hHZTdEdW9SNjlpejluOUtGZV9Yd1ZZS1lDZGxsMnlBV0c3UEdvSGc3OWxsVEdZeU8zdkFUOE8yUlFMMlBzMkNfYmZLa0dEOV93VGw3UzlyLTBLRzdZVnZZWHVFY243UGtYU1lnRlpORXY1dU16S2M0Z2pEUjlkOEVRZUNCcWJKa0RzTjZsMmhyUDlZTGhJSVdzeE1pVnJlRmN2OG5jeWZlN1lyMms?oc=5",
+    "local": "Juiz de Fora",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.76169,
+    "lng": -43.3474,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 430,
+    "data_dia": "2026-10-21",
+    "titulo": "VÍDEO: Motociclista é arremessado após batida com carro e mulher é atropelada em BH - ncnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWRKbnh6MVhNVlNKdkJVMU1VS2piWEtMSzQ0RHZGM054TnMxdUFtSjg2RGxhLUNpZlktVm5WTDhWNWcxMnplZFdQZnBBaDJfWEpQalp0VlhEZjNJZjNVczFwSjUtM0RsOUNIWTU2ZF93YU1pWjFHd28zTU8xOV9MQlZHRVAzMUpK?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92398,
+    "lng": -43.94631,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 431,
+    "data_dia": "2026-07-05",
+    "titulo": "Incêndio atinge duas residências após homem agredir a esposa na Vila Minas Gerais, em Teodoro Sampaio - Ifronteira",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR0ViSXdBUXJ3QWNrbGtYWkR6eEpLLXF5UkxQdFF0elp4QmRtbmNFbnhJUnRoQklMbXpTbkpzaDlITHUzNkItVkJWUlhOVzh0REZSc3BqMjFKZVA0UHdZRll6TnlrTW01SWx0aUs1bWJ5eGtaNGpMVDlFZG9pVHJRcGVTUTZXR0w1cWNOS3R3NU5UckpKSDF1VFdQOUxlQ3FPZGtRT1FydGEyOE1BLTR2bFFNZ0E2bzlSU0pUVFNGYlp0c1pqVHZPdlVZX240LU9m?oc=5",
+    "local": "Teodoro Sampaio",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.91887,
+    "lng": -43.93169,
+    "hora": "05/07 04:00",
+    "recente": false
+  },
+  {
     "id": 419,
     "data_dia": "2026-10-21",
     "titulo": "Incêndio no bairro Ribeiro de Abreu mobiliza Bombeiros e destrói acervo de livros em porão - tmc.com.br",
