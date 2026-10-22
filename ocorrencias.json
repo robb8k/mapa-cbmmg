@@ -1,5 +1,31 @@
 [
   {
+    "id": 432,
+    "data_dia": "2026-10-21",
+    "titulo": "Incêndio em casa no Ribeiro de Abreu é controlado após 3 horas - G1",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2FoWkJhdmRlSUVEb0FKVWt6ZElpV0c4XzJOWm5CVDZZNGJRNktRQ1NWMlNEcW4wYk14b0pwbXpvejNNUDdfWWNqa01Ma1RELTBzb0ZzbkZIRHlMZEMzcVNZdVZFajFndFlxcklxXzJUdVJlU3RWeUFESFVkZ1pnWGlUZ0d6UmluMXpsaFNYNWdBMWVRNG82WE9rVldnYkVnQlFMWlA1RG1UMzJSSi1sSUdTd0V2V3AxTGZyaHE2NE0wZ9IB0AFBVV95cUxOUFltVzVsSHdkemJHV1ZPZXFQMGdkaWQ2TnVRZUtzVVdjczgwc3B1NHY4ZjRlaVlwSnBKSDZrX0NRdmI4UGNUeUhjRDNKT1VoazFLQWVFVnZwMFNRdUM1Z1BlVGRvOFVHWFVjYkRPTTAtMHNvRjBXXzFyTmtkYUo4WEV3b1BNUklZS2h0WGJDQUxZQk5NYllrOHFZRGlfZ3h6alc5Wks5LXVOV3duNW45VTBOd3lMOXlNbDdLZ1ZsQkJzeTVYMTZIUlZBYkJKbzdu?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92355,
+    "lng": -43.94232,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 433,
+    "data_dia": "2026-10-21",
+    "titulo": "Incêndio atinge área da Usiminas em Ipatinga e funcionários são evacuados - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUU5ZbVB5V1ZUVXZFRS1BeGMwVEpKbGZaY01tb0s0NGpSc3NLX1I4SmRrTHVYR09UUTB5MVlQd05GVUxrZlVnY2o0SVl2eWQzSTY4TzlZaEIxbnFRS1k5SC1FaFY0UG9YTnRUVTQ4QzdRUW1tQkY3QTRFVEV2aFRDa1UxUlhlZEY4Y3VuWWVOZlBjWi1hYjdTRQ?oc=5",
+    "local": "Ipatinga",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.47561,
+    "lng": -42.5273,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
     "id": 429,
     "data_dia": "2026-10-21",
     "titulo": "Imagem religiosa permanece intacta após incêndio atingir residência em Juiz de Fora - DiviNews",
