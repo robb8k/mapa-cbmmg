@@ -1,5 +1,31 @@
 [
   {
+    "id": 435,
+    "data_dia": "2026-10-23",
+    "titulo": "Bombeiros resgatam corpo de adolescente após afogamento em Nazareno e atendem colisão na BR-040 em Congonhas - RCWTV",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUW5DNkx0bmEwc3Mtbi02S0JwUDREaWVzN29mN0owRGZERXg1aUd0Nl9PcHVPOHh2Y1BpMS1KaU5ySlRSSUMxaWdRTmcyWXd1TWx1VEswajN4aVIzakpmN2MyU2RVdVJ5S3NmRS1OVWx5VUhCUFdRS1pQM1NNbkpPQlVSU3pQUElONy1WLU9wYlVuTUx6TVpjOWdDbXFnMFh6aW51aE9zeGpvbTJKZjhtWmRWaGZ2UHFWclF1Tm81QmtfNDRqMktFdFMwTDlIbDdOZU1ycmVMd2k?oc=5",
+    "local": "BR-040 • Nazareno",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.21627,
+    "lng": -44.61263,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 436,
+    "data_dia": "2026-10-23",
+    "titulo": "Vazamento de gás provoca incêndio em padaria de Divinópolis - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0VQdmhRZUFoRng4RlpWRzJqdXFGOHNYZ3IyUWhhaElKV21yWFMwaGc1dUJLSWhXWTZFSHRwQjlfMmhiXzF2Nnk1NTI0dzJCRXVKRmFPS2syaTJ4UlhvbnROZWo4ZXdLNDVTOC1QdjlUa1liX0FQUkZNTmtOR2g5WnRaMXdXTTNDMWVSYlRpR1VIOXhYYklj?oc=5",
+    "local": "Divinópolis",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.15756,
+    "lng": -44.87465,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
     "id": 434,
     "data_dia": "2026-10-22",
     "titulo": "Bombeiros Militares de Pouso Alegre atuam em resgate na Serra do Cabral durante combate a incêndio - Terra do Mandu",
