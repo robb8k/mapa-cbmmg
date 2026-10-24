@@ -1,5 +1,18 @@
 [
   {
+    "id": 448,
+    "data_dia": "2026-10-24",
+    "titulo": "Prédio da engenharia da UFMG, em BH, é atingido por incêndio causado por bujão de gás - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXZUczcyU1JHVGhncTZLUWUtOE1DTDhURzFzbzgxMmhxV013SkhsY3c4QVpKNmkzUnJCVUYzQUZYX1gtWmNQekNhM2pfdUNSWnJITE9YN0ZNZzVHOWpvQ1hvelMtWXpqX1g1UjlNdGtoNGF3Q2ZuVk5wZERqYVJ1cU5acGlaY1JWU3ltdzlPclhPX3RRUVVldkxpUm84ZmxNQUs1Qk1VQjRYbFFwM1ZYMTRmZHdPbldXR0tpckhKU2s0OHg2dHpza05n?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92488,
+    "lng": -43.94701,
+    "hora": "Há 35 min",
+    "recente": true
+  },
+  {
     "id": 438,
     "data_dia": "2022-11-21",
     "titulo": "Bombeiros militares concluem curso de salvamento terrestre em Minas Gerais - ba.gov.br",
