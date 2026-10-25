@@ -1,5 +1,31 @@
 [
   {
+    "id": 472,
+    "data_dia": "2026-10-25",
+    "titulo": "Deputado eleito Pedro Rousseff sofre acidente na Fernão Dias em Minas Gerais - CidadeVerde.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDhOT3RudVZ3czY5aFVsQmFWUDZiQUtodHg2SEt3a2RjejE0Z0JBM0VQSjJKeVJLYnBYWC1PdzNJVFYwWXpjUW9sT1YxRnNPUVNLNEVFN1pMSWs4MGtsYlhUU1h0Y2VlUm9leUgyelgzanNzNmt6d3hyMU1LZi1pWG1SQV9vRHpweTdaOGdfVGt0YkNPVXozdXAtWE9tN1Z5UEx4RnV3Y3hISUFsX1NLM0xEQUtvNjg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92216,
+    "lng": -43.9449,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 473,
+    "data_dia": "2026-10-25",
+    "titulo": "Deputado federal eleito Pedro Rousseff sofre acidente na Fernão Dias - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUdpLWR2eWhwZ05EWTRNRVdBbTYwcGcyVEo2U3pNQUVwQVlZVjVWUGNvTk5XNjFFWFA5ZWVMNlhHUDdfSEF4ejRVdUwxX0RSNVIyb1NmRjQ4UjZURFUtU3dRSXdrakJySWhwQWYyUmJ3QzBpejZ3M2J3S1VPNGF1dnhuajB6ZWFnR09ob1ZRUk1ZcWJIVW10ZXhlRlozX3JNN1p4eTc2U3lMNldtTGdhQ0dB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92171,
+    "lng": -43.94725,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
     "id": 470,
     "data_dia": "2026-09-07",
     "titulo": "Imóvel é interditado em BH após surto terminar em incêndio - Estado de Minas",
