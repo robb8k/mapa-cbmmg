@@ -1,5 +1,31 @@
 [
   {
+    "id": 470,
+    "data_dia": "2026-09-07",
+    "titulo": "Imóvel é interditado em BH após surto terminar em incêndio - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDBORFpHQU01R09Nb01jOFBYWEllMXJvVURWcHU2WVNHeTI4XzY3aHBRZjk4VEZ2QTkxSnpWYlNLYjVrdWV5SkZIWXpHX2lOYm5OVG4xWXlQbnpwTDlMbVQzUkJEOWlIVVNXYVpmbjNMNk9LVXVBYWpqck9oWmFwVUR2MzdrLS12QXU1WEZ0SjFOaFZaTXJVc192R21HdTZ5MFFHUUdKMm5IQzcy0gGyAUFVX3lxTE5odFdFSkRkZm1KZGZDSFBHcWtHOGRMNGRRWUZjZDVReXN1MkZwVUVrRnRqdUVzdzZHd3BkMXFObV9zQUNfLTBQc3o5R3JGa05lVVBGR1pzNWhpX2FRbjFFaXVrNVpGaUx3cW9GY0xSWGlHdmhPWGpPc2lvUDEzb29IQlBfaTdpUFN6X3JsMVJhQmJCRWhqTVUyQjBLa3UwVV9MTVBJMTJ3ekR0LUx6cnRPZXc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92378,
+    "lng": -43.94799,
+    "hora": "07/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 471,
+    "data_dia": "2026-08-18",
+    "titulo": "VÍDEO: Veja momento em que idosa de 95 anos é localizada por cães em mata e bombeiros fazem resgate; animais percorreram 8,3 km - G1",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYWRYYWtrTFhsUlc3QzVpTlZkVVgtSDB1OFdiS0dpakdQWmFKVHJrY3dlU2t1b3E2QUlfSC1jdE9oY0VTZzZ1c2ZrQWtKZHphaHdVbVN6YjNhWlVTQVdZUWxSNjBRc3BBVmNERVRHU2hWTFBlRU1CRnJhWWE5aUdBNEtxc3plRTFYRDFVazg4RW03V2VjRlY3U0dlY3JjZ3RqQVBpdm0zUmJxZzNWLWhRSElxSFYwd1JnZWs5NXBmUWt0S1J0SUtFblQ5SjdUbEZUbEZWLVJNTEQ3MDFSVXdjVzJuV0ZoRE55VUNWNDI0Uks3YzF5THdIaEw3MFF3cXpycm9JZFBTOGo4S2tsYTVEQThaRELSAaMCQVVfeXFMTV9IYXREWUxfWG5Wck12U1RZOW5mbFNUVzBDR1lmT2JIbW1TZEpYbFBZZkZmRkhPVmJlN3M5d3o0VUtuTVJYeDltenM1aW9hcmVRUUFaSklzeUp3cFd1dW53MDhraEVNdHh3enFyVFUyYzVYcEtQdUF2ZVlQaElYakdGcTVIMWhGbWpwekp5c1REcjJnMlN6bW43c3pyU0xZbW1TQzlWcFRhQ0kycmI4aEtOZk5RU0lUaFRnaVJQeHp2d0JrNzh3V1RtNUVNd2ZoS001U2VLc3lGeEJGU0pINGltWmVSOHBXTDB0aG9QSTE4bWtwU2tRVXZCRmxtY1FoWnliZTd1enF1SDhza21kN0kxemtWa21LSU9jLThRTC1wRGRB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92258,
+    "lng": -43.94362,
+    "hora": "18/08 04:00",
+    "recente": false
+  },
+  {
     "id": 463,
     "data_dia": "2025-08-27",
     "titulo": "192 ou 193? Diferenças entre Samu e Bombeiros vão além do telefone e da cor dos veículos - G1",
