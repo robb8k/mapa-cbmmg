@@ -1,5 +1,18 @@
 [
   {
+    "id": 475,
+    "data_dia": "2026-10-26",
+    "titulo": "Incêndio atinge residência em Presidente Olegário e mobiliza Corpo de Bombeiros - patosja.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTW9TOUxneWxDZ0h2cXliQU05UjNWMVhBMmRyX1dJUEpoMHhDN3hwYnNUNHhfZ25MSjdXdTF1dUJEMElubjVvbHJvbmNZRGs5c1RYMk91UDlYR1hodjIwTGlUSjFhVVczRndYUzNxSHZQTU5hZk9vQ3UxTVdTTlJ2NDIzZUFOeHgzcVJkc2pOTFFfMG1FZlNkcXdaekVoSXZlRDg3ZkxhWUt4VjFsZWxYTnNPR0JBeFU?oc=5",
+    "local": "Presidente Olegário",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -18.41514,
+    "lng": -46.41672,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
     "id": 474,
     "data_dia": "2026-06-26",
     "titulo": "SP envia bombeiros e médicos para missão de ajuda humanitária após terremotos na Venezuela - G1",
