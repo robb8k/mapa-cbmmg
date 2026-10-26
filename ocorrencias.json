@@ -1,5 +1,31 @@
 [
   {
+    "id": 476,
+    "data_dia": "2026-10-26",
+    "titulo": "MG: caminhão tomba na BR-262 e derrama 15 mil litros de óleo vegetal - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVg0Q3ZyZTR3MHBMYWNKaW5nUWh1eVFBb0sxTEloMGFwcW9ENGtPajdPYkR2djVIWUE4bXBxT0F4UFAxUzRDSXEwREJ0MHhPcmFubi1sSGVuSzdHWTVIU2VDN2NPT3JOZmtuX0R6OFY5dUJqWEJ0cTFiME5YVWQ4UFRScFVTMi0wSUFpV3RxeU1OemNTa3VldUhHTFFhSDJiNHRGTjBvSlQzZlJqZ1pEQlRQdmw?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.89299,
+    "lng": -43.9762,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 477,
+    "data_dia": "2026-10-26",
+    "titulo": "Motorista morre após carro cair em córrego em Contagem, na Grande BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZkTnNta1ppSmJyRVVBN1JraHFJVE9fcTFDV0dwemptckE3QkxFaE01SlozMzd1eUNoajFXbHdVblRzVWd5Xy1kQWdHem8yTy14eml5OVd1dVFBZ2JrTEE3ME9MSGNrQ1NQUzQ4NzI1QmJJQTVsdXBuckFSWFU4S1dnQ09qMmdRY3NLSkdVZTUxYVJQcjUyRVhadk10WGdHbGlrU3pPeG1WVnZDMEgta2x1U0g?oc=5",
+    "local": "Contagem",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.91179,
+    "lng": -44.08267,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
     "id": 475,
     "data_dia": "2026-10-26",
     "titulo": "Incêndio atinge residência em Presidente Olegário e mobiliza Corpo de Bombeiros - patosja.com.br",
