@@ -1,5 +1,18 @@
 [
   {
+    "id": 489,
+    "data_dia": "2026-10-24",
+    "titulo": "Incêndio com botijão de gás atinge cozinha no prédio de Engenharia da UFMG - G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUU5UNGV0WC00VTJVUUppMzNnckN6Slo3UjBSZWEyZl9tNXRsWGw0eDlDbHdZa1A5RWtHdVpvV0daNHl2TmMxSFlxMVVPZUQ2UHdXaUNHYmVUeXFNNXpCYktiRnpRQnRTTGF6NE5kNW81Z0V2RTFDemFWU2gzbXZJREhsX1NyUzYxZjFKMmNsY0MzZktVTXo2QmVJNFJBNVlsQlcyVGxpWGJqckNIN0ZWZ1h5Ui1HQ0JPUFNURHJ2Sm1TdldZMlVMR1dHeVpRMHpybmfSAeABQVVfeXFMUDRCRTVVMkJxTE02alFjWnI5ckJabVljWW9xQ3ZjVzVvajdtRTBXc3pZdUdTUXpDWXhMV0Yxei16S25sODBuM19hS00yNy16ZXotbnNXRFhZcFhkVGpnc1VhRDUtWGhLZkdzOUtIS0tkWjE3TDU0NUdPWDBvM1NSY05icWpybWxjY0JJOGZwOUIyd0hlQmJzYUQ5VS1RclRheU9QeXlTSWdVRlR4SWZrcXpWMVlMWEdfWGpIMnhSTXdPaXdRUFJicTlCUXJfNTZ5V25rcVRUWnBlRGpxVXlCd00?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.91982,
+    "lng": -43.94299,
+    "hora": "24/10 08:08",
+    "recente": false
+  },
+  {
     "id": 485,
     "data_dia": "2026-10-26",
     "titulo": "Adolescente é encontrado morto no Rio Grande em Rifaina após acidente em passeio com moto aquática - G1",
