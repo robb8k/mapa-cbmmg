@@ -1,5 +1,57 @@
 [
   {
+    "id": 485,
+    "data_dia": "2026-10-26",
+    "titulo": "Adolescente é encontrado morto no Rio Grande em Rifaina após acidente em passeio com moto aquática - G1",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX0hHZTlITEM1WGxUNFYtaHVlSVIxdXJ2eVVnNWdQSWNOSlViVXFRWDhKbFg3N3ZEbEw4VDZDdnV5dTZ0TVJQRUw3Sk1GcndYV1VST0Y5SmlaLWxXTXV1OXMxZFVjbUJ6YnhBTzVKNmN0dTZjVkV4YXpGbHgxUzYzWFZGSEVqN19oV3RvUzhCSzdDYmIycFQxWnBKTTFwVXkxM2dRUGJQd2hublZjWHI0U1NVb2RDQWpvS0swNkxlRzRNajBCcFpCUXRaXzlsc3JNem1zdHBkQTd4N081Uzk0SXR0a3M0bVhMbmg1QjJhdFdnZW5Y0gGDAkFVX3lxTFB3T3ZYbWZvd2lFYkpvczVFX3ZJajJjeGZfdWU4N240cGVMTlZyb0NGNUVsWC1kWVkxWU15OG5US3dDZW51V3pRNHJlWkhwSlJ6QlVadkdHYnNKd0RBal9BRWtZWU02LUwtTFAzcTNWQ2prOVNrcnZRNHo5M0dBSTROTFoxelktRVFNZVpObWlWREVpWXdJZXdlX19BamlVeHRSR0ZHaFVnVTk2THgyNlFycFE4VkxlTi1Pd3BlN3dXaWdsTy1XQlhCTWJpRXJiRTJidmladTZtOWZKcGlCU1hQbHFhYVNDd3FLMWVIeUk0eWlwenFTa19hcDRvWHoyai1rejg?oc=5",
+    "local": "Rifaina",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.8639,
+    "lng": -47.44745,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 486,
+    "data_dia": "2026-10-26",
+    "titulo": "Acidente entre carro e moto mobiliza bombeiros em Alfenas - TV Alterosa",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEVsWXlzMmhEcWFTNXZQMlBiNTZXTXFDbWlIbWw3Q2RkS1p0WlplcHRWVTZNM3FrU0YtazEteEQ4X1RkOGpOYUZhWG90VXlwVi1McGpORzd5ZEtZa2dkTnhBWTBYdzc5S05TU2lLTlhpVWhmbDFoYmNMekJIMTMwS2pVZ3p1MHJvZWFlVmlva09mLVpaSGlLRXZkVkV3eTg3RXdoUzVvMGNsWWpzRncyQVdOX3dWTS1BU01GYzVDZl84MWVK?oc=5",
+    "local": "Alfenas",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.42674,
+    "lng": -45.94879,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
+    "id": 487,
+    "data_dia": "2026-10-26",
+    "titulo": "Ônibus pega fogo e fica destruído, em São Gotardo; bombeiros de Campos Altos apagam as chamas - TV KZ",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRkIzcU9ZMGg0RmZVRlFlamVjSG1lT3hnRE11N0NPYVdPVkxqUFV2ZnpjemQ1bm93MDhjcVNtaG80U1RMS1cyS2hoZmFIY0Y4a3d2Mk5pWHV5ZzFDSkJURFVaMUh3RmltcmNLZTYzWmpsNjhZWG5JdktIcmtMTWNUZkYydjhHYnNpVGNjRElaY1p4Wmk5UktVTTIySTJqN3lKbC1NZ1pzcUpleFlucFVVamFjdGFwWTljRmpPQnE1aGhaaHUxQ3dJaG93WGo1VG5JUDdXcy1NVHVzYUE?oc=5",
+    "local": "São Gotardo",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.31486,
+    "lng": -46.04632,
+    "hora": "Há 16h",
+    "recente": false
+  },
+  {
+    "id": 488,
+    "data_dia": "2026-10-26",
+    "titulo": "Trabalhador de 35 anos morre após ficar preso em máquina de triturar gelo na Grande BH - Plox",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGIwSm5zWXc0am9ULWNKUVdaOFotY19GRTdDMjd6ZUtEYUtpS21JTG90V0ZDcmxySGtFSzllWkdwMjZMVFJHVTd3djBmN3h1S1lhWF9Ud3BuaDFWV21Db0NqUDNUdG9mbmY0c1c1VWk1WEFPTU5PS25CTGFJaGVNdFdCTzhCeXFhcGJ2U29zSVk2VEph?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92309,
+    "lng": -43.94497,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
     "id": 478,
     "data_dia": "2026-10-26",
     "titulo": "Fogo atinge pavimento superior de casa em Pouso Alegre, mas bombeiros evitam que chamas se espalhem - Jornal Gazeta de Varginha",
