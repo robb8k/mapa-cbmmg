@@ -1,5 +1,31 @@
 [
   {
+    "id": 496,
+    "data_dia": "2026-10-27",
+    "titulo": "Duas pessoas morrem após o desabamento da marquise de um galpão de uma empresa, no bairro de Pirajá, em Salvador, na tarde desta terça-feira (27). No total, cinco vítimas foram registradas até o momento. Os dois óbitos foram confirmados no local por - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15eTJoVVNWYWw2T0NpTHdqRVRqTkFzY1pUOWowRkg1dGZ2cE1HcEhnWlNMYWF0RkR5a3d3WE5IeE5kcmhZOU5uVklkM2Rqckg4Rnc?oc=5",
+    "local": "Salvador",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -22.52355,
+    "lng": -45.40489,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 497,
+    "data_dia": "2026-10-27",
+    "titulo": "Incêndio no segundo andar de uma casa no centro em Pouso Alegre/MG mobilizou unidade do Corpo de Bombeiros de Minas Gerais... - Rádio Difusora Ouro Fino",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcEpIUjFPaW4zNnJaam1paEphYUl2TWlUaklMQlhnb2t4SkRiM0twUV8tVmtBU25ETmg1aGptYVRqLUxRazI3RVZwVnVtQWVXVU9wSzc4QXpUVnN0akNyRGl5Q3lFRFdOdWNsUE96QW9TczM1RVJ4bHpubzBtR0ZfQUJIVDdrT2FYRHBhclVUNGVWemRic1ZXOWtQVlJNRUE1cXkxcXl4MlhiQ2RIT1lyNGRwTml3U3J2c1hOOHlESkhSamx6SkJWekpSeVFxYUFLYnVzZUdxaEVRVFJKUEd6dkJWckNYR1dWM0Exbk5ndU9EdnVmZktmc29vcw?oc=5",
+    "local": "Pouso Alegre",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -22.23302,
+    "lng": -45.93325,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
     "id": 495,
     "data_dia": "2026-09-23",
     "titulo": "Corpo de Bombeiros atua após incêndio em edificação comercial em Bambuí - Jornal Correio Centro Oeste Arcos",
