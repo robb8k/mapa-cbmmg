@@ -1,5 +1,44 @@
 [
   {
+    "id": 501,
+    "data_dia": "2026-10-27",
+    "titulo": "Bombeiros têm novas viaturas adquiridas com taxa de incêndio - Agência Minas",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFJ3aTB0WkJRckI1YXRyTW8zS2FBZ3FOS0szbk4zcTZ2REs5MkVteVN3S1BSZ1VZQU5RbnYzaTJ1Q3FTeGM2LV9BeGJndlNUVU9SeDk2UnBBM3RaSFROckpDbVRBUTdaZENwckF1TXVEZDR5dUpIMGQzRmFVd01oWS00dDdaMVZiVWpnWTZHbDNBVHlnYjdHRThVRjllclNPRFV4eEhjNWt1aDVZNjlvZTV4czI4UDNyY2c?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92474,
+    "lng": -43.94599,
+    "hora": "Há 23h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-28",
+    "titulo": "Restaurante pega fogo no bairro Santa Efigênia, em BH, e mobiliza Corpo de Bombeiros - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdnRqWFR6MVNLZHROU2R5TVYtUk5KRDFJSF9jRHNJQ1VTU2hBYnV2ZUhYMkxlMC1XQUxDOXY3M1c0ZzRiaHBicVNrRjRwd2U2Y2xTei1MUEFDeUVLTG9YaVZidDFUZEIxVkRwRUhwWmdhcEtjYlpzTU5MRzMyWTBXWGI1R3Y0VFBhZEJzSkktdG93NF83Q1A3WDNYaUQyajc2bkU5c0psTnRBLTdjTW13OUY1YjZMaUJFN1JPcnJwN3NMVjBwNmdGMA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92444,
+    "lng": -43.94665,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-09-16",
+    "titulo": "Bombeiros combatem incêndio florestal há 4 dias no Pico da Formosa, em MG - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUlXN19CV0d4WWJJQTlmTWx2LW1iYUxMRlROdlFfY1NDRmRfZXJTcUtPN3M4bEdac3hmTEdfaDlWX09jQ0VQRGZqd3JfM0w2cDJYWUxwQXZtVmc2ckpyazdySjk0bjdaQlRUMm9MQWkyUzN4RXo4QXA1bjQxU2V2VVQtbVM5VC1WQ21rVjduM0JfRDg0T1ZJeUNfajJGdE9RcUczTURfOHZ2M2tXZkEyelFB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92388,
+    "lng": -43.94518,
+    "hora": "16/09 04:00",
+    "recente": false
+  },
+  {
     "id": 500,
     "data_dia": "2022-11-21",
     "titulo": "CRT-MG e comando do Corpo de Bombeiros de Minas Gerais discutem acesso dos técnicos industriais ao Sistema de Informações do Serviço de Segurança Contra Incêndio e Pânico (Infoscip) - CFT - Conselho Federal dos Técnicos Industriais",
@@ -6410,33 +6449,6 @@
     "local": "Trecho BR-116",
     "lat": -18.87799,
     "lng": -41.9582,
-    "hora": "Recente"
-  },
-  {
-    "id": 5,
-    "titulo": "Carro é prensado entre dois caminhões em acidente na BR-251 em Minas - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1JqX0NGdTlKd3oyaG9OamdRZ3BVbGVhTXZEZnhoSFNkN3JUaV82NFJNUHFXWjhhcm9VdWdkaGNrU3pXSzhSYjhYbVpCUGNMNjNjYk94NFYyRW1qY3pxUEJ1TGlzUm5xOXBQaHIzRUxSWEZNMWVzeV9uSzg4bnl3eDRiZFZRNmdJemlhZlcyX1BHa1hNNXBHVjNnQjZpVkdRbDdmVUk0eEFiM3RSMjdGMG9qQURxUkNBckHSAb8BQVVfeXFMTlZxSjZIdXpnc04yYXlscUVJWkJvRjhCM0t3UEJxdC15RlFzQm1DZlcxSnY0a25OVDB0dlNYWVBhY0djT0s0MVp6M0NmRTFQbTZkbDN1VkpFaEhyRjhneXZCWFh0b0J6NU9iSmxSWENVZlBtQUVCcUpVbXRmbTlzc1NoVWxHV3FhcU93WUlFNUNBMTJPaDVmTG1uRGRRb1daMUxmcWsyWUxuS2VqOWFGVW5vVkFodFE4ZzZKVlNIVmM?oc=5",
-    "local": "Trecho BR-251",
-    "lat": -16.59254,
-    "lng": -46.84258,
-    "hora": "Recente"
-  },
-  {
-    "id": 6,
-    "titulo": "Incêndio em apartamento mobiliza bombeiros em Contagem; moradores ajudam a conter as chamas - ncnews.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnIza0E1M0VwbFRiQ0xhLUpndXhURUg3QjduOERtTFV0cjdPTzZEcExSUUFxZmFGM3ZMYjZQeFQyMzFsN0JuSUpGNFAwVU44QWcydUpzTHJKTGE3cjcwTDgyTENDNEVkUWFPWVUtZEd6aW8yNGtBWVZ1TV9hTnFfa0NzY0VTOGRHdTZFUFFGcUl0ZXBva0xBMU8xT21tZnpibzVIM3JOblg3U2laN095Qzc4LWtmYXF6WS1WM3V5dDlHUQ?oc=5",
-    "local": "Contagem",
-    "lat": -19.91168,
-    "lng": -44.08372,
-    "hora": "Recente"
-  },
-  {
-    "id": 7,
-    "titulo": "Caminhão-tanque pega fogo após colisão com betoneira na BR-262 - Impactto News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzE4TVpwMUlva1NfVENZbGs1ZnpYMXhpenpuLUotQW5rSGI0Q0R3eUphNjVZSzhRWFpRYkNtZzM4OVhFOUZ3VXlodDlsbFpHVWZ2ZkxJdGdnek5NUks0MTU2QVB4ekxrTkc3elhYMGxwVVRiQ0cyUmM3UUVhY1h1cXF2X3JEaU5SbHlUZ2x2MFJES2EwQzR2WHQ2SE5pWmpHeHZ4TUVSeWlBdw?oc=5",
-    "local": "Trecho BR-262",
-    "lat": -19.86426,
-    "lng": -43.89522,
     "hora": "Recente"
   }
 ]
