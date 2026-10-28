@@ -2,6 +2,71 @@
   {
     "id": 501,
     "data_dia": "2026-10-27",
+    "titulo": "Barco afunda em barragem e deixa dois desaparecidos em Bocaiuva - G1",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdGxQUWpQLUs1aUYtWWN6djdCV040VFowcnNJY0UzS2JzUjIyMGhuLXVTc1NSQzEzdjhfX3JBVnllTkRwUUl4aEF0U3poSjBwOTh6TURnOFNsaHVDeXltRURIUzdMa0dWQzJ6TFVMS2NBSmEtYkdROXZMTnFPTkdZenpvSG1EeWxoODdkQjdBdmV4Z1lvOEk0bS1tSXE1R01Cb2I3OUVqc2tvSEktVGRrTXJLU3ZreG5ZNFc4ZmVDQkxZbk3SAdIBQVVfeXFMTV9CRTBhOWN2dnBQWnRRb1dxdks1b2FKQlhCOXJ1ckV3bkRiYlNMa0h3Tk11a2pvNFQwcnhIdzRJdHhHM1I3UEhfMUM3Y1h0SXBrTy01Q2xRQlozWHppcHZ4UERYWFNvakFEZTdYMFprTE9Qc01zdE1pNWd3cWtUTDFKSWtZeXp6MmFXTlNpcHVmVms0VS1Rck1keDFNUGpidlU3T2dLNFpLckZCdGZRbTZXNkp3Zkhsc2EzOTFaZWZ6Z3l2ZjlIcTgyZFZ5Z2NXazZB?oc=5",
+    "local": "Bocaiuva",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -17.11824,
+    "lng": -43.81464,
+    "hora": "Há 23h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2013-03-21",
+    "titulo": "Bombeiros de Minas Gerais treinam militares cariocas para salvamento em desastres - Agência Minas",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnk1NWRrOXAxRVJ2eDlZeVRmYmFaeHYtbW44YVNsakhFcmNIWFAtTTlnaktaUkw0NHYzS2c5cUxKM3RRYnJadW56Qm1FT1hNQnVnNXd0SXpVcnV2RTAtM0JzV1JRMW43VUZlUWQ0dlE3REd6OUl6QjlXVzBYMkhlblZCNGZ3VVBEY0I0cWlESXRoLUpiNXlZb01fdjNTR3VaQzhaVEtkZ0QwdnY2VFladFIyZ1lLeWJLdFk3RXhBazEybFlHVGV0RV93?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92118,
+    "lng": -43.94795,
+    "hora": "21/03 04:00",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-10-28",
+    "titulo": "Colisão entre motos deixa mulher ferida no Centro de Formiga - Portal MPA",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVY0SmJLUVhCek1XT21ZMjRiY1EwdVpYMEZ3d2ZIeUdlYmFnRWN3dXpoek5GOWpnQVRfRkpHUTBZNkZ5UG1ELU4wamJmTnRzUlZhMzNjdGd0UVZ4bGQ3VjVHc0t3aXZZX0MyN1lzUXlucERDM0xIbGU1ZWV5cTZYWWxzZEZVX1NKSHdiT0RRaHNvcElpTHJIVG81b2RGU0FtOGlXQmJ3SFc?oc=5",
+    "local": "Formiga",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.46543,
+    "lng": -45.42542,
+    "hora": "Há 10h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-10-28",
+    "titulo": "Colisão frontal entre dois ônibus deixa motoristas presos às ferragens em São João del-Rei - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTJOeVFEQ0piTFY2QlZaU2ROekl2M2Nic253aEJzblRQekl0YUpxS2d6VXExWUU2ZXFwQkp5YnlIelJYUDZPLVBLaWYwTmRJem5LQ1VFU25LU0FOUkJSbVhIOGJqdnJSR2ZlVm1SZW1LRkpWSC1zcnlvQWRrd1hiXy03NFVxTHhBVDk3S3NLMGZPaGxqSnBnb3pTeFk2WGM2SjdoTVhCUkExY0VpR2VhRFFWcU1Xckc0d2VfLWNUR3VGYmpCTG9DSGRyeWM?oc=5",
+    "local": "São João del-Rei",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.13089,
+    "lng": -44.25668,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 505,
+    "data_dia": "2026-10-27",
+    "titulo": "Incêndio em apartamento mobiliza bombeiros e deixa duas idosas resgatadas em BH - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzUtZHMweU1YdGFzcmp5X3A0aXpQdFZsWk1GNjRHd1BSd2hUZC1WS0p3X2VJOFJlWHlPMWpwUjVlRVh0MThLamd5UGIxSF9YVWJGN1lZV3FUNzRoNzNFZmxMQk1DYlVzWmRyVzFkQWZsb013TWZEemVoc01nZGpMal92S0o5T25HQzVsZkdxT1BYMG84WFM4Y3RCZnZhZDZDX0hGalpHWjRhZmEwckdmQ1J1b1llVGxGa0E?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92232,
+    "lng": -43.94707,
+    "hora": "27/10 14:35",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-10-27",
     "titulo": "Bombeiros têm novas viaturas adquiridas com taxa de incêndio - Agência Minas",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFJ3aTB0WkJRckI1YXRyTW8zS2FBZ3FOS0szbk4zcTZ2REs5MkVteVN3S1BSZ1VZQU5RbnYzaTJ1Q3FTeGM2LV9BeGJndlNUVU9SeDk2UnBBM3RaSFROckpDbVRBUTdaZENwckF1TXVEZDR5dUpIMGQzRmFVd01oWS00dDdaMVZiVWpnWTZHbDNBVHlnYjdHRThVRjllclNPRFV4eEhjNWt1aDVZNjlvZTV4czI4UDNyY2c?oc=5",
     "local": "Minas Gerais",
@@ -6402,53 +6467,6 @@
     "categoria_label": "🔥 Incêndio",
     "lat": -19.92429,
     "lng": -43.94678,
-    "hora": "Recente"
-  },
-  {
-    "id": 25,
-    "titulo": "Bombeiros apagam incêndio em mata no Buritis após 7h de combate e 25,6 hectares queimados - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnNjeGZjR0lndHJMYXFuV0U4Zm84eVZRZjNrbUNwOXhKNWp4dXBjcnlPQ01KZjR3ZVd6aU9TY3NGM3BJRjdjWHlmS1VKcDNlc2xhcENCSXBxUHd2a3loZkVHRTFTYzJsUXJtclpNMjMwQnRJY3lJdVNMcjRDN2NBQ0RBTlFRSVI0Wi1obEI1MmFKaUxweTRud0M4YkI3c0QxSDhuR01DQU9YbjBpazgtOHl5OXRIR0JoeXYwcU53Z25HNlhpaktLLWtaejFRUl9z?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92565,
-    "lng": -43.94696,
-    "hora": "Recente"
-  },
-  {
-    "id": 1,
-    "titulo": "Bombeiros resgatam ouriço-cacheiro acuado por cães em Formiga (MG) - metropoles.com",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjVsYkM4M3RQRlNQaS1zellnVnBZLWhnSllvdG1BT3JYX0FpUlFtWC0yMFNUaFhqVjBrQ3ZzeklOcEVGMmRhdGNENkgxMDNJNzRXMVBXNktWRUFsVEI1M1ljWjhKbDllZUFkVURWcmVEb3YyQ2hoSDZkVTJVQ3dHNkxXYVM4N2xFNndyZXhfZzRqY1REbWZJNW9ZSTY5SklWeV9uREsxTQ?oc=5",
-    "local": "Formiga",
-    "lat": -20.46716,
-    "lng": -45.42857,
-    "hora": "Recente"
-  },
-  {
-    "id": 2,
-    "titulo": "Motorista de Uno morre após batida com caminhão na MG-238 - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDltNkIxWVlXaXhNNDgzRlJ1c2dvbTZrZXJQTnc3YzVzcjVQZE9QQmQ3ejdoMl9PTjBPOS1RYTNudHRsNTVLQVJtZXNpekpEMnhGSU9JT1ZSMG9WT2ZkZXMxWHJydEtZOGxLWUNhUl9FdWs2VW9Za05HS2U4eU1sdWFRT0tVWGRac0QyZ09ieTdQV1ZTU1JoQWZ5S0U2R3lmZkxoTE1mcw?oc=5",
-    "local": "Trecho MG-238",
-    "lat": -19.41013,
-    "lng": -44.20985,
-    "hora": "Recente"
-  },
-  {
-    "id": 3,
-    "titulo": "Ônibus de romeiros que caiu em ribanceira e matou seis pessoas: veja o que se sabe sobre acidente em Cruzeiro, SP - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWW1HYm52a29ZbXQ3VmZ1NEl0MTFLaDk0X3hTTXFZVmxLMklnWDdDaVdvd3pKRkpzWlMtMWZWaU5oemVjek85ZW5wc09hN2loT0g4d1ZuY2x5QTR3d3UyWXpoZGlhTmltTjAwbGg5bjZ0UzlQOUVFSHdQOW9LNFhENHgyazhodGtlR2s1RnJ6VnhYaVZzcnp6MkxIVVZXaDFNWndGaWp6dTVxUGdwZWR6aFZUZHVndGhfZ2lzSzNoaU4wcnBlNzJmY21tWWxacTVfYTVPZ2lUZ29TRDZWYXJzQXR5ek91bEVnNzdqenA2ekxGZHlMQzhtTWRCY2hreEZJanE1SHRSaUZWRlR3NTc1RtIBnwJBVV95cUxOMi1Cazk0MWNadC1fRW91TGpLYjFoWVBFTGpPbXJ4VW5OVkcxQUhqVGxJNmVFT0p2MzN0eTlITldrU2tLQkdjajk5QlhFVVJmeWpsSGltaF9XdHMwazNtcUhReGgxbl9ObXdPOWF2dGdZYktXeUVvZFpRdlhMWm44Qzl0NXVxZm1ZdnUxbmotTUFyTVBHcExZdGxZekJ2dnhaX3VVZGNJRjlMSXJhcGFfTGpyUHFCYy1zOUpYVUxfNldZMndGYmxVbmJtN0NUYXhrWXBIODFWZ19kSjFyRndEamYwbk9xR1Q4TlBXLUtaTGlaUlNVMVFTcEFhOEhqaGtLVVFzVmhoMmdud1dQa0VtUnoxVlFaRmJUUklacGRSVQ?oc=5",
-    "local": "Cruzeiro",
-    "lat": -21.20465,
-    "lng": -45.74533,
-    "hora": "Recente"
-  },
-  {
-    "id": 4,
-    "titulo": "Acidente entre ônibus de turismo e carreta deixa seis mortos na BR-116, em MG - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSW1Oc01yd3c3aUktTklHaF9rY2pfcVFmVXhTZ0lxSnFTRkJkMkpVLXhTcU5rRTYtQW1Ib1RlRVdWNF95RmtaSkhVRDlZTndLTWZpXzNtcjlYdE5Ta3hHbFZ5U0ZyQ0k5TWc2NktnMEhMZHhsNGMtd1hoQktMcWlQQnJqMzY4blBMUXZHZXB4Zi16MkQyUU11eE56SXNjMFBzbVlCMndEcjd4M1FfLXN6Qkx0VVpiUlRZNkxCWFhLbjdJQW5ULS1GSWRn?oc=5",
-    "local": "Trecho BR-116",
-    "lat": -18.87799,
-    "lng": -41.9582,
     "hora": "Recente"
   }
 ]
