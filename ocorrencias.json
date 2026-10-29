@@ -1,6 +1,71 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-10-28",
+    "titulo": "Condições meteorológicas e decisões operacionais contribuíram para queda de helicóptero dos bombeiros em MG, aponta Cenipa - G1",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQam9Kb1ZGa3NMQlBuZllyemhwc25QNXU0YU1DczJrMVBmMDk3ZFFMcGRYUTZNU3RUekNVYXBxaWlFZmZqUl9RMlZiUS1PSHYtT3NRUDZWN2dEX1V6WkdDY0ROWU1jTk1DRm1xLU1kbG0yNTNtOTY2UFpqUWFfMDF1N2VFWUcxdkJjNEVnQTNuYXp4bE4xY0Z4azIzeHJRYmFGUWN4bDBSSWJqczJwMXBaMnBHdjF2OFlGejB0cFc3aGdUN2FOczJUV2EtMVZNUG5oYzVlZkJWNUU4ZUdWc3hYYXdjeUpodlJRQnNzemoyQnZlZHpzMFdwZFRUTmFtZ9IBjAJBVV95cUxPYWIybTVYd1ZOUHEzMlhuSDJCYjJqRU1IVkhNZzlmYllkTExLVjBfdTFraVhwSVFCTlVwdE8zbGNoY1pLS25qQmlnejBfUVFnS1haTW9XcVZMMjFRaVhjUlIzVl9XTEViMzFLcGwwMjRPU2FNRGVVbmpNRVZIa3R4VnRYektoQXo3Sk5rVlRIbWY5NDVXeDA1eE9UWFQ2MUhQWDFURmk3R3VtY2xmTlRxU2RIcC1peDF0bHd2RDhCN2NxdHpPakstQ2JHOUhrUXdqanJIVjU5bGdsb1lpXzlyLUFKR0lzbGhQcVRGbWtmVHgyRnY2dVBsRGpheWdkVUZIZ0FSR3ZMVTMybE03?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92557,
+    "lng": -43.94341,
+    "hora": "Há 19h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-29",
+    "titulo": "Vídeo de celular registrou voo de helicóptero dos Bombeiros até a queda em Minas, diz Cenipa - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVJZdWM2VjktVFlFS0xUY2JiNlFteFcxOXBRai02Y2VLZGFMR1pXYmJtZ2gtU2Y2cDRFbXNQd3JHbWVGeTAzZklTeHVoREZXSnJkbjNEZGpoUW01M2tka0sxN2Z6aXI3NEVINk5UdnUzRDJhNTd3SDlrRE16MllJQi0wQjZWQUZURlpmRk1WTTNZOW45R2otTXZYRHRqYlotVVdF?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9254,
+    "lng": -43.94337,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-10-29",
+    "titulo": "Incêndio em botijão de gás mobiliza bombeiros em Araxá - Araxá Agora",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONURRa2JaeVA3TnhtLVd4VXdPNDFGR2M1S0NhV0E2MXRwUVV5UXJ6OWozZWtwbE8yeHdzemNTY3dzc1Y3cVNrVEZYM2VlMnE0WkROdkhUZllfekNMR3lDamU2MXJQY0ZNTXBZZC1IRWMzX0hfVHJONGpOWWRnRGtCUEhNc1NwRzNaMjJiNkZWUUt0T2czaG44?oc=5",
+    "local": "Araxá",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.60151,
+    "lng": -46.94093,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-10-29",
+    "titulo": "Bombeiros resgatam homem retido em agência da Caixa Econômica Federal em Formiga - Últimas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXVlWmVGS29YR0FqdHZBeTVIUzBGRm4teEhfX0o1aEttQXpTU2tkRU1KQnRjYzZydThYX0Zad1RleDZTZkMwT3ZpbnpPUGM1UHM1Y3Exdl9WdmpiTW83aktFX2pmdEdwQmFmMEt2V0ljUml6eE1pdnRsR2hlVG1BcGtyWkpHS1BHM2VGVnplNExOaHlGREJpWU1XbnJHRzlnelFXMXJJOHdObzNnVzNkNnVvYklVeVJuaWFCSg?oc=5",
+    "local": "Formiga",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.46719,
+    "lng": -45.42648,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
+    "id": 505,
+    "data_dia": "2026-10-29",
+    "titulo": "Colisão entre dois veículos termina com morte e deixa três feridos em rodovia - Por Dentro de Tudo",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzUxX004QVZGVmxtb001cVFSaVNxNDZ5d19ZeE0xdHd5YkcxdE1ET21jcjFvaHdXVmx3bFN2bUZVVlN1NmpvYUtvdDBZN0dxcTUycW1SRm5GcjRkVDJVOFMwVmFrdG8tWW5sT003YkFCdmpmdUVrNGdTY0dSN2VtbEJOa1RSaF9RWEF3N0VsVF9JamR3bFlIMUNaaDhMN09aaEprV2JXeUYweThMVHc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92472,
+    "lng": -43.94484,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-10-29",
     "titulo": "Colisão entre veículos deixa um morto e três feridos na BR-116, em MG - Metrópoles",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1k2VnNyMmVGbWE1dEltbnY4S29FU3E2S0s4RHpobVVwTFhLbktqNHNpVVFpbXlnZ2lJcFc1RGItYl8tQXk4RVVyc2tCeGZGZTFwazdVdFc1clJBRFcyM2wwYWY1bEtTUjg1NWt3N2NxZG5veDVyNHNGRzA2VEVMTk11T2hHV0ptRGpfUjBFSGk2Q1pHaTBEWDROMF9IendCTDl0N0dhXzR6Z0NT?oc=5",
@@ -6431,66 +6496,6 @@
     "lat": -19.92478,
     "lng": -43.94632,
     "hora": "27/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 27,
-    "titulo": "Incêndio em loja de móveis em BH persiste nesta quarta-feira; combate às chamas já passa de 24 horas - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdUFLTzNraDRVNGo0cjh6OXRiOERRTFFrNkF5dGhLd3V5d2dXTUVFZkszdURRNmViZjZHNHgxV0RERXpIUFBxQzFSUDU1ajVZa0pkbWcyOWx6R3lKcURWa1pSWC1qd1c5Um9NWlEtekZOQ0g2cE5Ia1RzblNieDZHMDlSb09oV1otUGM1WUc4MVRpRHQzVzhIc1RFeHdnQkZ5VVU4NUxxS3VSQ2ZEWTRiVjVWMnNaY2QwMGtTZ250NzlET2paYlRmZ2EtNFVNM2RjV0o0RHhNYUZBQdIB6AFBVV95cUxOYUFhSE1hbWxMby1XOEVkZE5xWmdHdGtCUFVGdC1YVTQ1Z1hkaEtaWVZadVdRYlpRZXo0ajE4bmY3M2VqZ0VRd3U4MlJfM3N0UFRNQTBtVG1lRUNNN3pYU1Q1TTZVajUxWUhpbDhVSm42d0dQa3Y4VGVzMlE4allzZ05mcEk4VzBfQm44WmQxbElCY0FlUjR3RnlNdmtEbllST2JGazJDMGZrcDM2bVhqbTJJTkVJZHZZQ0FSSkRUTmY0WXU4TjlCS2NMRklZd1hjb2lST0lBam1XaXBabHF5WTVuSnUxTjg2?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92496,
-    "lng": -43.94314,
-    "hora": "26/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 28,
-    "titulo": "Paraná e Minas Gerais enviam bombeiros e cães para ajudar no resgate de vítimas dos terremotos na Venezuela - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHRubElSTXlYNkZhb1JYUWdSQnJTZFU5RFZEMTRDb2JIb0hlMTR6OG5XR0c3dFNCMHVBN1ViTUxMdUUyUE1BdHFwMlVMYzZCUjdoMzJwcldNbXhKYXFQR0ZkajE2Tm5VM2dDTGh3U3gteXJpN0ItYXRxaWRjLVFCM040Z2EzMEZLQXFqNUMxSjFEelBkN1poaW5WYzBIaTlaeGN5ZDlNa0ZJRnlJbEN1dk8xeC1Jd2hEUWhBR0x4SFY0SHNKSWxFOEw4b0NleEY2U1ZKS2ZqOC10cEpKQzV2S9IB7wFBVV95cUxNVDZUb000RDYyejB0eW41VEJRa2lpMVVhdmdCZ3d6ZERCaTY2TmprdDBvX1M5S1dLbllUbGR6VTRiWU5ISXFoN3habW5BT18tdDd0WjR5N3hFVFVUSHpmaVFENFFabXBGVmExSGYwNDlwME93d3VJb0N5THhLOEdjdGV2ZURvTllmbWF2MmQ3TUJpd3phZVA5VWpVbHFPaEFLNS1ib1g1enhvajFqa05vTUI4dkt5emp4ckt1bnBPTXFKN3B6c0xzaUJ4ZlNoSGp4dEFVVWNzZnFKS3QtOGZ0SlliLVgycGdlaVpWeXY2bw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92347,
-    "lng": -43.94711,
-    "hora": "25/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 29,
-    "titulo": "Incêndio em loja de móveis mobiliza bombeiros e esvazia imóveis em BH - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0Y2Rlg1d1BPdHZKd0NmNzNRUHRoQkRhbER6bktCMm9UaU1YbURLVXVWZXFrXzZxZUtlNVo3R3VNeEczSXlMR2ZycnNBUkptalRLXzg0bHNqc2dBdm0zVEhmTkhfMlZCMmJObzliWW9fRU9hM3I0R2pvbTBJRGlkODdUc1ppR1R5MDZTaUNITy1NYlpzQWJqYlp1Zkl1SXlZVHV0NnZrbDFsRFRRd2lIQTlLVVBsSkZCd2Q5ZWpDY1g2M2_SAdIBQVVfeXFMTmhIQmxHWUhoM0twWmxEeldhZGxYSy1aQlp4V2d4enVHZ2dLZGZJbE5aazROUnVyZVFCREw2RGFvYVRWaktIMXB2b1FKcDJ0Y2hWejRCMm40dE5oTVhrb1FJRzFzUGxqLVBYZEdWZWdITWJ3MEF2M3FVMmhjVmJnYXFFSERyM2RhZnRDQmtibnk5SzQwQlZCWG5pbHIxcXBPLWY0Tk51VUcxZi1GakdLQUs5OEhyTVhYeVlicnRvU0t2aVJ4bWtmcjFtaXVOUlpONkJ3?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92405,
-    "lng": -43.9442,
-    "hora": "25/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 30,
-    "titulo": "Incêndio em depósito de móveis de BH entra no quarto dia de combate - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmlKOHN0R1NOSG5mQ2FFLVFXclh0Z0liOV83SkVwSVdVNVlOemtDV1V2RUVZblNjWWFaSE10SGgxSzlaWDBqZmpFd1dMX0VHdlFuUnUtbUhJNGxUamE5eS1pV1hzSDhvcUM1UXE3OEZkVklRdGg2Z1hicWw4aFNUUi1nNzU0SENYZXp4OEtqSVVCUjB6LXhlSVhFam1QbDZYdFpkYjNjc3hqdUFlVk9la2RtWGFsSEdKQjVxRjk5V0JWZlJtRFJvONIB1wFBVV95cUxOenFsa3I5UzhXTjhheEY0WjJZRVA4TDBtbVNKRjhyUW5kbEhQTmRrdnBOaWxRY3VLVmtDcFdJMkFsWnVYSHkxdzJSNjY5NUM3bjBFanV6WGxwUlZRTnF3al9JQkhZV2hBekY2bWk2aWJlVmFNcnVDWE9xWk9FYjZnN1laTEFBWmdGZGVHZTNKMGJIZnR0MTdhSzh4cDJEV2x1Wk9NUzJjUVN0V2Y3U3F1b055WmRCYXlZbVRiMF9yNzhXeHNKOEJlS3FLdTNuM1RPR3kwczBUOA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.9203,
-    "lng": -43.94765,
-    "hora": "28/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 31,
-    "titulo": "Bombeiros de MG encerram missão de resgate na Venezuela após terremoto e retornam ao Brasil - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWGgwanRxY2sxcTh1dFZyTnRodEJzcXVPb1ZCX2FzYms1a3JCSWFEcmFQV0hneVdaaDd3d1JWMm1sT2toRkxSOGRSN0dxcVB1Y0dNQnAzX3RxenNoZEh1bUdrWG83anR1M3kxT3o1aWNPVkNELW9QMmhFcG40a0FxMUVBWmIxMVU0UmpEcVplcW5yZXBnVzVHRWphdElQNTZFTkFoWTBaYUthelUtYlp5REdHOVRpOXQtaFNidFpxdEFuUnFYRWkyRkU3TkRSalo2aGhCX3VVVEtOUFp6dmJ3dEdkTThXM05N0gH3AUFVX3lxTE50Z0lYQU1meWE3QV9hQnNabWp1dU5zQmwxT1NLWUR3Tk1rQXozYnFOLTRTV2NJZzl0SnF4cjNtcngwZF9CUURiMGg3YWxPWkdaVFVuUUo0U1lJcWJPbkdhaVNKbGdBMXlXVVN6a2Q0QWkxSE80WUNQSjFqNHNZRDJldTlfYS1QZkJBQ19qY0s3UEVRaHdNUUV3Z0dQTVVNQS1qLTFVd1RQUElNOTdXb2dGZnNiX0lhdmtCTW1uVmlhTEVTUHV2UnlmSWR3ckV1aWhTb1pkUHloR2hYdkJ2Z2FONlNQUmNobTlYb3FIbTltYWZ5Y1c2RHM?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92018,
-    "lng": -43.94211,
-    "hora": "10/07 04:00",
     "recente": false
   }
 ]
