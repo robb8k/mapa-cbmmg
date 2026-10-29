@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-10-28",
+    "titulo": "Cenipa aponta causa de acidente aéreo que deixou 6 mortos em Ouro Preto - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWMzdGpTbUxLRWNKdTRKYlFCb201WFJjQkQ0MmwzaldRSlBNeTdHbjFpWjQ0bGtmWXA0YjZSS1pxelZmNy1rSE1ycU1iZ2hYUEp0OFBSYXEtS3VDZ205eXdxS2otOUZtLXdpeXlVNlJIcnNtQkItUjluTUNzNlpvdUVlSU56NHd6Y1JFY0ZXUEtsU2lDSWJ5T2hCVUtTYXUwZmp5a19XeUJiZ0JBZi1ZdGxJU1A2Y3Z5SE5EZk5R0gHDAUFVX3lxTFBvWkk2U0t5SHpCcjd5LTdYNDVyQnF4QmRLbEp3YS0tdy13NnplejdyTWt2VnowdGk3TkY4d1VtZlFadHRVajNhNlJSMGFCVDhWTlRwTDFWTW5TbGlhTGJ1UVkzTFBieW4xM2pRYV9RY2hhZVZQMGZGY3ZzLTlxYXY3VmR0NHp1NDVBSDVLa0FYMXl6RmJ1OVI4UFY5elRVdGVqYUtCMnFNMDVjY1RvV0dvUW42dlhiWnVOOWZ3YkhIMUljcw?oc=5",
+    "local": "Ouro Preto",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.38695,
+    "lng": -43.5028,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-28",
+    "titulo": "MG: motorista de carreta de fraldas morre em acidente na BR-262 - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX25LeWtzZTNfZlFuUmxTR0MydlVqenRnaVhLa3pia0hSaWFUQ2FWcFVWOEVRRTNQRWZvOXNsckJoM1N4Y1pKUjF4SGZYdG5YUV9UdFlobzVySGVBV2s4QjVia25IaTVoaGFLeXZBRGhmRUFIbTFGN0xtZHZ5NzBISDdjSjF1THhpcnJwbGpqelBKZm04YnhyeHVUUTZucmJjOThpYmh0OHV0M1dMZlJONUFn0gG3AUFVX3lxTFAtNHhVbUhNcTBhcGpxTXdDaGdPQW1yQ01zUlAxYXJFR3VLbkxxVzNzbmlTTE9RTTJMUVlveHdZYWdwR2RMWEJOSkdta3B1TVM5d3hsS0dIS29VXy1XbVFZTTBqSk9BT3lIdjFDZ3duQWowaFYyNDk2OGNlLXFxWjNUR1EzT1pwWjRtMU1jN2FaMndqUmg1X0laNFpwZ0dYRHEwWFZPeGpmSFNuZkJmOUFvVU5oN0tVTQ?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.86552,
+    "lng": -43.89478,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-01-25",
+    "titulo": "Brumadinho: após sete anos, bombeiros encerram buscas por vítimas da tragédia - G1",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNY3FIMXRqbkluaXNTSktpd3JBZUhxc2d4NkZTN3cxNEltMHNTdkVrU1FabzhRWFoxempGOVd4MlZuX2E5aUNWVTBySk14dWg4MEN5YTNacFFZc08xdkxGaDE2amNkQy0tY19XaHZsTXZLQWtfallOWl95a1kxbTlwVGdmZUpLZWNqYkEzUFVGWmJ3LVVoZ2tBOFN3VUpTSWdGTGdtcEVjZTQwNlhDaGxoWVdwWmZQV2l4NEgtdHpKSFlud3JCYVBpV2s3QUFjQ1c2dVVTTXVfN0Y3X0w0STY5bDdRbWN1a2F3X2lFV3Jsdnk3V1U5bkJiTERNcjduUENSQ2fSAZACQVVfeXFMTXhMbHpfM1N4YWJuQVBodUJ2dTdoYWtzV0FJT3c3MGhVUl9EWXU3N2pxWDljU0s0ZldxYmR6T0RtTXN1NXpnckNwOWVHMUlsQUg1eWtWb0dQMl9PMVoxbWdWU3BiUl85dDU1bVF6QzVOZUJFcUlEdTlMblVpdU5EV0UyQmdNbnBEY3Y5ZHloOTVSZHZkbmRodnhodVVaaFZ0OHBqeklYUy1lTDM4T0xmdXJDNzI5VWw4SnMtYnRkRTdfVDBUdE1NcThEOXlFQW9ZR2hOMUJCWGxNR2xTOS1rRThhWEt0d3NTRGFZVjdoZm1VbHZhNWU4eE1zRTRmQWtvMU50aEQ3WFlVTXdLQVIxRWQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.924,
+    "lng": -43.9474,
+    "hora": "25/01 05:00",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-10-28",
+    "titulo": "Explosão de botijão provoca incêndio e deixa mulher morta em Contagem - Por Dentro de Minas",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVRQeEVKdTBGZE1NaGFyTkxlZFNpM0FPX0pnRENPSHpfZHdUYy1JY0U3dS1RUGpjNWtfQ2ZRNGtkZnNHSERkWUFCdVgtX2lselNXZGdjVExnczNqa1NZTzhnempYeXJvWHBXR3lsZ1VER1A1T3FoTG0xS0tESHlyTXlnQUZmYVJkUUI0YnZfcy1Pa3p5Ukt3WmFHdnpHcktQbldMUWNDX2JoSGhNQlgyR3B0SjBIVllQdjllUnhlT0x3Sk5X?oc=5",
+    "local": "Contagem",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.91161,
+    "lng": -44.08673,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-10-27",
     "titulo": "Barco afunda em barragem e deixa dois desaparecidos em Bocaiuva - G1",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdGxQUWpQLUs1aUYtWWN6djdCV040VFowcnNJY0UzS2JzUjIyMGhuLXVTc1NSQzEzdjhfX3JBVnllTkRwUUl4aEF0U3poSjBwOTh6TURnOFNsaHVDeXltRURIUzdMa0dWQzJ6TFVMS2NBSmEtYkdROXZMTnFPTkdZenpvSG1EeWxoODdkQjdBdmV4Z1lvOEk0bS1tSXE1R01Cb2I3OUVqc2tvSEktVGRrTXJLU3ZreG5ZNFc4ZmVDQkxZbk3SAdIBQVVfeXFMTV9CRTBhOWN2dnBQWnRRb1dxdks1b2FKQlhCOXJ1ckV3bkRiYlNMa0h3Tk11a2pvNFQwcnhIdzRJdHhHM1I3UEhfMUM3Y1h0SXBrTy01Q2xRQlozWHppcHZ4UERYWFNvakFEZTdYMFprTE9Qc01zdE1pNWd3cWtUTDFKSWtZeXp6MmFXTlNpcHVmVms0VS1Rck1keDFNUGpidlU3T2dLNFpLckZCdGZRbTZXNkp3Zkhsc2EzOTFaZWZ6Z3l2ZjlIcTgyZFZ5Z2NXazZB?oc=5",
@@ -6423,50 +6475,6 @@
     "categoria_label": "🔥 Incêndio",
     "lat": -19.92334,
     "lng": -43.94756,
-    "hora": "Recente"
-  },
-  {
-    "id": 21,
-    "titulo": "Incêndio em galpão de móveis é combatido há 3 dias pelos bombeiros em BH - metropoles.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzU3T0JJTmplR1ZxZVpmcVB4MzBjWUZGOUJRN21TNVdhZk45eUdCNTdabEdnVmRGRDZpQ2FiS1JLWWV1eTk0QVlOV1VTTl9rMDE1RTB0dGZCMHdiNllQQmd2NFU0Wnp2cUpjZ1c4b3hfOVlPS3JmSTVJY2c3eHExeUc5ajZJMXVHZW5QZU1HT1NReDZLcXhZUmVuWmlmQVhVY183ZE5RakVOVlY3c1c2Y3BB?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92159,
-    "lng": -43.94357,
-    "hora": "Recente"
-  },
-  {
-    "id": 22,
-    "titulo": "Incêndio que começou na terça-feira, ainda mobiliza Bombeiros em BH - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVfSFFCNEZlMTRjU0NjVExiZWRsTUszT25CNVF5akczMWQ4YVRkbS1OTWxrUXpsVGZwWlNZcXA0c3NIR3dleFNmYVdKdmMwaURFSExXZFU3Tjh3SkdpaXg1WFhtcUowRXhlQ2x0RGF6SnlycnZPRVZRQXR5ZmlSV0M4N0RObV9PQzBYX2JDRWJJSFgzZDRzemRMa3JoU0t5eW9WRFdqb3FDMjVIeHlKSE1peHQ2Mkp3ZnFoMklZbEc3dTkzbDdpem10VFNERlhQbXhkSNIB4wFBVV95cUxOaW1xai1CVEVKdDM3X0RnVmhDeG4zY2JDa2NfVm1odDFVVkhtWlNoczZrckVWMkh1TTI4UVFZQjlOUUFYVnhKS3FKS0J3MHF6WXpwbm5IakNKTWdWQ01pcWNfclp1MkNPdlYtWXNLaGdmc0ZYYWwydXUzaWJXUjZ3S1p2MDZuMlBpVE9DZjhUd0U1bFp4c1lCODNfVHhwSERTSTI5YXJDVGlyb0pWRHhzTGdyNTJfRFB0dnpxX2VxWkNXRUFlamdjcjNJZUFpakJiMzNXWlN5U3FVb3NLb0pfVFZmMA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92019,
-    "lng": -43.94395,
-    "hora": "Recente"
-  },
-  {
-    "id": 23,
-    "titulo": "Incêndio em área de mata mobiliza bombeiros no Buritis, em BH - metropoles.com",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDd4WmFTc0t6M3VKSEpvM1Bmb1hkMGp1THFNWW43dmhUZXROS1hKM3lUWms2Qkh3a1IyN0pIWElxRjFhM0ktNXFIbm5vY2VsbXB2dE10SGpRMHdQS0RsLXJLUTRlV2l5bHp2c0NXS0pIU19QM0x2MnNjaUVkaFdUTFk2YWxXbWNDYlNYMVMyNG8wNUE1SnFLc05TbHhjWGtxb0E?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92563,
-    "lng": -43.94544,
-    "hora": "Recente"
-  },
-  {
-    "id": 24,
-    "titulo": "Após incêndio de seis dias, Defesa Civil interdita depósito de móveis na Grande BH - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXQ4UWU3UGljZktKZzlJakhvNWNjWktLWmFSb1EydkhfbFZsOGNHbkJHQWVDWnQ0M0FtbEcwdGJNX25uZUZzNjl5aDJYUTJveVJRVGozS3JQOEtsaVREQm93Z2VDTTE5SGJhOW9GU3lwLUhHOEhWWjdFZmtEeEtMTXFwaUFUUG5zcmxDRnQ2eXZ4R0xjMzZkMENnNERqYzdXSWxfMk5SLUJaeTBKV2x2RkplNklyMHFieDlxc05tZHNsSE8wSlN0VnlUS2liaVpGSGs5OVJ2TFVwX2vSAeoBQVVfeXFMT2o5NjJwbTlmUkhXSUJfcDc2VUxnMzU5QTBpeTZ0LXRDMDB1bkpvSmpVZDZ2b1BESm9ocGwxSlF6UWxVaTFwVmlDWjM1ZVpiMC1yc2ZNTk85NHJpNjhKQUdjYnVsMDZoS3otdFpHbVJiLVZCVjhVX1kyOUlxTWhTaVJmQmdhaDVla2JfaFZPc3UtUTZNUWRWTENqT3k3aEVuQU04dXI5VE5YOU9PcTNIdmZjZEhZQmFGVVo2MTFkWjE3Vkc1bzE1d1dsYUFnTHVtWDZyRGZaWExVR05XQmJJUUluTnVFay1Rd2Rn?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92429,
-    "lng": -43.94678,
     "hora": "Recente"
   }
 ]
