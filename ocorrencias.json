@@ -2,6 +2,32 @@
   {
     "id": 501,
     "data_dia": "2026-10-31",
+    "titulo": "Corpo de Bombeiros realiza simulado de incêndio em Patos de Minas - RCWTV",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnZRbWVtQThjSXJOQk5JYWtBTFQ3VFVncS1WVW1ybEtUU09LamZXYVdZUUdid2Vnbk03MTRGMVhnX1NjYkJtZ3lSMk02X0N2NUVPb2V3a0RjUnVYd3NIa0drSjFjQzhZaFpGZEdtTm92UFVyT1h0NUZZU2FmbHNkbG94dUI1Smw4VkxaYmJuWDlzcTU3YXhHckVXUUdwTmM?oc=5",
+    "local": "Patos de Minas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -18.60437,
+    "lng": -46.50905,
+    "hora": "Há 26 min",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-31",
+    "titulo": "Acidente entre carro e caminhão deixa dois mortos e dois feridos na MG-410 - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1d3aXJNbWtudTlQTDY1WmFJTGRHSGN3WXhHaEd6R2hhUHZQNVM3d0o2VjdFeUk0ZUM4eVVPNzk1TGJ6bzk4Q2E2VExKSklwcmpTOTRSVEFiTU5LdkJDODhJZ0pzODNNVzR4eXBsZHZtYTMzVVJWU3NvMkY0UjFrODhXUFdrdE8tQTFmekl1LWxzOTFuSk9jeGZwN1lGVE5kZHRfRHhoVHhWM1kyRlZONHVRM2hKT0tVelg1ZVpR?oc=5",
+    "local": "Trecho MG-410",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.9182,
+    "lng": -43.93357,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-10-31",
     "titulo": "Colisão entre carro e caminhão deixa mulher morta na MG-135, em Bocaiúva - BHAZ",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREJOdDl3cXc4RGM1dF9hbVNaTDhVVEI1WXQyVHY4QjFDU0NBaVFmRUZOTW1RNzg1VGdmMUJINDBncU5WZXNCRGFxY1lNaE5qdWtBV296d0VjaEx5MUZxSlZDYkkxUlFMQ0lrajhiYktGa1F1djhQN2JuSlpXWFp0MmhHM3lEMWs2NHAwTlF0amlfeWRrMF91Zzd2ajUwRmFtRFE?oc=5",
     "local": "MG-135 • Bocaiúva",
@@ -6472,31 +6498,5 @@
     "lng": -44.00793,
     "hora": "25/07 04:00",
     "recente": false
-  },
-  {
-    "id": 78,
-    "data_dia": "2026-09-22",
-    "titulo": "Incêndio em lote mobiliza corpo de bombeiros em Monlevade - Jornal A Notícia",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVE5mR1d3aGdVNnRkems0Vi1qVk41ZW5uSXB2SndqVHllUEpnc1BnU28yN080ZXVwUko1QlJYdmlSanMzdmRQb1JTNEdBMWdfcjBGX1NEZzBwY1E2RzVnNmhEMEwycnBnSC1EVkJveWdmSUdLbjFZMEFBUzZibEQ2VTJUQ0pkbmFoM2NnTFJjLTh0LVpSN25oQXZhaGU?oc=5",
-    "local": "Monlevade",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.80981,
-    "lng": -43.17364,
-    "hora": "Há 52 min",
-    "recente": true
-  },
-  {
-    "id": 79,
-    "data_dia": "2026-09-22",
-    "titulo": "Cabine de carreta é arrancada em acidente na BR-040 e deixa motorista preso - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVRINUpVMm5wOUhnbk04bVpYNGlMaXhsSl9PVGJZWEtQdmE5QW5KSnFFUkRsYS1mR1RxbDh6SGZ5UHVjTlVmNXlDUWM4VEJPM3lkeW9LcGFwWmsyb0ZtS3ZsczdMWjc2MjFGdDlZRURmdnZuTnFFdzFoMWdTX013U1luM1pxQkpFbDloNlZvT3JuakZuUkNhV3JVbmJnWmFwYnJieTY3Y1AybGxLenpRRWZxQXVhUUUzdzA2M3RkcHowOGvSAcgBQVVfeXFMTy0xSWN3VThuTHFsWl94R0gwSU1NeDZrRHJyTGZtczU2bHpHQ2JLZEhkMDl3MTdFckxyODZCWnVvOEdPZXdCZmlmV0FGZDlhM2Zpdno2TW5kWGJMeGdiOE9ITG1vajYzLXM1MTN5TmVYa0R5LW95SkFZanoyb0ZKTU9DQktxZUI5N2dUWVBVTXhidzZ3ei1JRmZYc2FWNUpaVG5wUkFkNkJ6Q0JfVW9Tcm9UZHZfNUwyWTI1eHBIX0JMdm5XWHp3LUM?oc=5",
-    "local": "Trecho BR-040",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -17.20221,
-    "lng": -46.91038,
-    "hora": "Há 3h",
-    "recente": true
   }
 ]
