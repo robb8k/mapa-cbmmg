@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-01-27",
+    "titulo": "Laje desaba e deixa dois feridos em município de Minas Gerais - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUU3M1B5LTBBNTBSR1h4NUVCeVR5RVlfTnl2TjI1VEMxZU1WcDFoTHZoUHhGNWNkbUFRZVczdEhOejhHbVdsc2FsX3hDWG5ZSHNXb25rX3ZNYnNXVE9hdEtZem8yY1VfOUVQMWxqbmVRWURpVlV1QnIzZlBSUFpJRGVzMnJhYmRIMzFWcFhjTi1fREpWZFltYkY5SWFrZ21NNGE4TjdQMjdhQ3ZCT2hFZA?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92362,
+    "lng": -43.94618,
+    "hora": "27/01 05:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-30",
+    "titulo": "Incêndio atinge casa em Juiz de Fora e deixa moradora com queimaduras nas mãos - Por Dentro de Minas",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnRONlhiLWJDNUo2RDdNU3B1a1dLOGU1VktBUWh3UUFxcXdjSjRzc3BqTTJzUE5LTTRxdDNoWEk1QXo4UzlHMjA1NENEOUxSZEdwN09DdDFFWEdTSjJVOFdMdVhBTGtoaWlyTzVHSGdsVkpvcGs5R3dIM2dJa25OYTZjVkVYY2pyVXpHaWlGSmJ4SUc5WHVESkdjQkR2cURZc25uVEM1dU1CV09PRll4dk5hY01IdFR3aFdMekpkd3VPb1ZqM1d0NU5hX1g2djQz?oc=5",
+    "local": "Juiz de Fora",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.75847,
+    "lng": -43.35007,
+    "hora": "Há 16h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-06-20",
     "titulo": "VÍDEO: Acidente envolvendo ao menos 14 veículos deixa um morto e sete feridos na BR-262, na Grande BH - G1",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0p4YWNUTTA4dkNwRVVsR0J3U05pNFJiTXQ0SE5Sb0c5QzAyekkwclNSVHFDaGhTa201T1VQdXlHZHpmNGtrSjcxckIwRzMwNTVqYkw3RGxUYXk1YjUzbXRTYlA0Ny14SHF4ZEkzZlJ2Sm9xUGVJZEl6LV81ZTN4ZEMyU3g1Z1ZpOFdlSnpPZWtCOG5UdjYwOS1DclY3TDFGd0lXbXRsMXdZMVNJcERlTGlWTGo2MlpRYWNhcXNyejV3Vl9RenpQT1d6NEEzY3lwXzlWM1haSFRoWmpUb3FaYU9KUEvSAfMBQVVfeXFMTktiUnBwbDc1Zk9GYVFzV2JVUjhianNnUlVoYXhHUFBPeFJDRHBvT2ZmTjRWTEZ6N093TmJZMVFnYms4czBBYWhkSTRkVmx1Z3R6Z2I1ME01UzVkWGUtQ2hYMW9EbDZfTU1rNmlPOXR3ZWlicFZkMnZhS3hmZTRvY3p5SjZQSGhGNlBlaDViZWVaTXU1Y3ZZMlZqUWotM2UwVEw4OThXVzgzYjVQSVhVSndCQllfZVZlQlhHRHRyQkdfbkd2LVhEMTNadHJnbkZiaFV3WFNMUFkxYTROczlPQ3FrXzBLT1lPd1NUeEVzczhtSUlB?oc=5",
@@ -6471,32 +6497,6 @@
     "lat": -19.92031,
     "lng": -43.94409,
     "hora": "15/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 87,
-    "data_dia": "2026-03-05",
-    "titulo": "Desabamento de prédio onde funcionava asilo deixa ao menos 8 mortos e 4 sob escombros em BH - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaWtxZTRnVFI4bnVxc3cxanhaMF9NWW9CVjdzMWJHOFNCb283WGxUel9sbXoyT001dDlxM0lWcU1rTjF0empTblJSb2FxeTcxRE1CbURPblFpNC02SW9BQ2M5UHlnOERLTnkydUZ1MWVmSjVFdGJEN1JVeFFCVW1vU2k5TUt4Mk95cGtVR25USnc1VjZNdDk5dU5JMlRlSDBpRTQyalJLMlJhbHpabS1qWEFWSEJ0Tzk1MzVCdFhUQVQ2X2Z3NHZTWlFFTk5KYlJYczFqcWhDTEhfckRGcEUwRHRMeFlGeEZtQ3hURzJB0gHzAUFVX3lxTE9Heng5djZZUnRxdUtFeFVHRFFob3RoM2JoMGhGTFR3SnE4VVBOTmc1ZVdJYXJvVjNVRzJZSnlFZDYxN0w3VkNjS3NGNU1EOG05Ym5reTBGRUhrWFZ3NXUyZVotLVF2OENOMEVJTlhmTTdTcERPQk92RWpiMGxKSmZBSTJRandXTnFxWlBUR1BnMm1nUnM4cjdoekJNYkZKWXVvWUkzNWN5MlZQRnBWT25mUG0tWklRakdEVTlPZzhCVzU0dGRaT0tIekV6YVUtZnNrQXFyakV1OHZ2QzBSVjcxQlQyVkI4RlFCWUNFaDNZMTdmbw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92129,
-    "lng": -43.94641,
-    "hora": "05/03 05:00",
-    "recente": false
-  },
-  {
-    "id": 68,
-    "data_dia": "2026-03-06",
-    "titulo": "Bombeiros encontram último corpo após desabamento em BH; são 12 mortos - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjd5OHdyV2hsM28wcVR0c0NFNnJmR3B2N3hIS09PM3RuUWQ5V0JxRjg5QzFzejZXZ2s4TERNejNRakNONXlRR3pvS1hzSlpURHJJWWw4ZGozdUYzdVFTUXZ5NXAyZnZCeVhEaTY0Ylp2ZDE2WWJ2cXp5dW9sT290cGRGdXFmR2RHYXh4S25BcU1HM2gtOGtBYlR6enNKZXhNYUFRX2dzaG9yRW9XYWc?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92321,
-    "lng": -43.94717,
-    "hora": "06/03 05:00",
     "recente": false
   }
 ]
