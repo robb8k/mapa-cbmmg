@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-10-31",
+    "titulo": "Bombeiros combatem incêndio de grandes proporções em galpão na BR-040, em Ribeirão das Neves - G1",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWdVdzFVdG1NUERQV2EyUl84TDhKdW1LbVNhQVdaUHFaOEFzaEZBN3ZuNGtLRnJQQk0wWjhidVpMOXU0UjVFZnV3RXBCSFNHVVpqVVJFbm5McXl2UmxTaWVRdGhsX01CSXQtbWVGTWZ3VHMwVzlrSnk1UENqS1ZFcFREYnJ5azJHSGk0Tk94b1lmMDlJei1hN3ptZTPSAasBQVVfeXFMT2VCQk1kVVZuRWIwNjFiNzJnWkNlVUdyN0U4cUpFelBkMFhCMHZYY0hZcFE0bWFMSC12dmQxenRYVkowOFNGdzY1OVdoWkVreXZRMElJOXR4OVV2amIzMGNERU9GbXEzeFMxaUNPbk1XcEVvb3U5NFFSY0kyajkzM0JCWUhmY2hyWDRBc1FUTkJwbGU4bExLSFN2djYxeHBsNFRzYkFac0NaVzRr?oc=5",
+    "local": "BR-040 • Ribeirão",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.83373,
+    "lng": -44.07954,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-10-31",
+    "titulo": "Incêndio destrói galpão de empresa às margens da BR-040 na Grande BH - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmZGX2QzdnJUbHVmVkhyTU91Vzdab2R1RlpzeWFmX0JORDhTcm1yZnNVTVEyTUVEenRzYXA3cnBla1Y0cFJFVnFDeUVYTXRDTzNCcTZJWUtEN3ZsU1hhS0JMbTUwUDFQUVQ4bEUxUjJ1dmlEODRUSHBzdEZXek94bjhST0hUTUhjb2hod0VZcllQRXR2VndmR2NzMTItQmdGODNQTXhxS3BscVIt?oc=5",
+    "local": "Trecho BR-040",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -17.20118,
+    "lng": -46.90724,
+    "hora": "Há 25 min",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-10-31",
+    "titulo": "Incêndio atinge galpão em Ribeirão das Neves, na Grande BH; veja vídeo - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2RCdnRTNlNITEpoc2lGdkFVM29JNDJlZlhLNDllQkY1bEQzdzd5LUc3OTdDMkVuT1ZKVjRMdWQxMzZUT2ZBN21SSDFfNER5RGRxRTRsaE9zM3pjYlRrb3ZtbUFPcTYzRUhxaWllcWs2Ny1uMDZhNDBhZDFLSVBWQjhoZzNVVWFJLVhwNHptd0wyNFVkaE9TVUx4Q0tDR2pxLWhicGluN2J5eVcwbGREeHVEcUJtUQ?oc=5",
+    "local": "Ribeirão",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.12381,
+    "lng": -42.92801,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-10-31",
     "titulo": "Corpo de Bombeiros realiza simulado de incêndio em Patos de Minas - RCWTV",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnZRbWVtQThjSXJOQk5JYWtBTFQ3VFVncS1WVW1ybEtUU09LamZXYVdZUUdid2Vnbk03MTRGMVhnX1NjYkJtZ3lSMk02X0N2NUVPb2V3a0RjUnVYd3NIa0drSjFjQzhZaFpGZEdtTm92UFVyT1h0NUZZU2FmbHNkbG94dUI1Smw4VkxaYmJuWDlzcTU3YXhHckVXUUdwTmM?oc=5",
     "local": "Patos de Minas",
@@ -6458,45 +6497,6 @@
     "lat": -20.14545,
     "lng": -44.20113,
     "hora": "27/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 95,
-    "data_dia": "2026-05-31",
-    "titulo": "Vídeo: mulher cai ao descer trilha em Ouro Preto; resgate levou 11 horas - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblNSZEJZRUF5dUtmczgyaDdENVFjZHliNHA0VWYzVUFBU0ZrY1hsQWY2bTdpMXlsaUZPb1ZabE1rVkl5WndVWk9SSk54UTBoMHd1OEZxQnU5dEdRa2JZd3p0OWtOSjBsT1RST1U1SWNJM3hLUWNscW5LQkY1LU15OEpZVml6Mi14YllWbnZQSUpQeTZXSkpFSi1nbTVtVGtOQmhDTjFidGpsUFdoMUpWWkdxY3Fmck9iR3A4?oc=5",
-    "local": "Ouro Preto",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -20.38836,
-    "lng": -43.50643,
-    "hora": "31/05 04:00",
-    "recente": false
-  },
-  {
-    "id": 96,
-    "data_dia": "2026-03-06",
-    "titulo": "Sobe para 12 o número de mortos em casa de repouso que desabou em BH - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNm1LRWE2TUE5N0pGZHRnZ3F3ajNYVnQyeXNwVjB4aDJPZk8zcEp0bGpPNW56b21kaC1yOEJSbVZtbzdMdGNLQnBWZS1qd09KekZ1ajhmdDg5LW5GRnVxQVFSOWRfS1hmcFNiajNtR001MnJTaDBfTkxGWUg5eld0MTRiUlNhOW1EM2FfNEZZdjhibmViZDhvRTRONE9ySEQ5clhVdUUxYzZ0T1JGaDJibWZxbFFscndLb3c?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92433,
-    "lng": -43.94226,
-    "hora": "06/03 05:00",
-    "recente": false
-  },
-  {
-    "id": 97,
-    "data_dia": "2026-07-25",
-    "titulo": "» Incêndio atinge residência no Parque Minas Gerais e mobiliza Corpo de Bombeiros em Ourinhos - Negocião",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnBJQWZISlozR0ZhbHZJanhsZ2oyb2NsTmZFdW1ZSjBHWmpGNnpQOTdVN1RzM3htYzZhelR3b0FBQ1pYa3dibGtrZVdseHg0TFBiQ0g5THY4RFN5dk9iWFkxT3RGVFJrcjBUVkhBVEJYUWI3ZHRSdDJXeWx2SXpRWW82SFlXcC1PRW5SQXlwTUtOa2M0QUJsZkJJYmNHaGgxMnNDYlFkRUh3Wnk3MDFxNXBoamx6UnZoY2FScFp3bWVDNk4z?oc=5",
-    "local": "Ourinhos",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.88185,
-    "lng": -44.00793,
-    "hora": "25/07 04:00",
     "recente": false
   }
 ]
