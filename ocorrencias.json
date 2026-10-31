@@ -1,6 +1,45 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-06-20",
+    "titulo": "VÍDEO: Acidente envolvendo ao menos 14 veículos deixa um morto e sete feridos na BR-262, na Grande BH - G1",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0p4YWNUTTA4dkNwRVVsR0J3U05pNFJiTXQ0SE5Sb0c5QzAyekkwclNSVHFDaGhTa201T1VQdXlHZHpmNGtrSjcxckIwRzMwNTVqYkw3RGxUYXk1YjUzbXRTYlA0Ny14SHF4ZEkzZlJ2Sm9xUGVJZEl6LV81ZTN4ZEMyU3g1Z1ZpOFdlSnpPZWtCOG5UdjYwOS1DclY3TDFGd0lXbXRsMXdZMVNJcERlTGlWTGo2MlpRYWNhcXNyejV3Vl9RenpQT1d6NEEzY3lwXzlWM1haSFRoWmpUb3FaYU9KUEvSAfMBQVVfeXFMTktiUnBwbDc1Zk9GYVFzV2JVUjhianNnUlVoYXhHUFBPeFJDRHBvT2ZmTjRWTEZ6N093TmJZMVFnYms4czBBYWhkSTRkVmx1Z3R6Z2I1ME01UzVkWGUtQ2hYMW9EbDZfTU1rNmlPOXR3ZWlicFZkMnZhS3hmZTRvY3p5SjZQSGhGNlBlaDViZWVaTXU1Y3ZZMlZqUWotM2UwVEw4OThXVzgzYjVQSVhVSndCQllfZVZlQlhHRHRyQkdfbkd2LVhEMTNadHJnbkZiaFV3WFNMUFkxYTROczlPQ3FrXzBLT1lPd1NUeEVzczhtSUlB?oc=5",
+    "local": "Trecho BR-262",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.85363,
+    "lng": -43.89355,
+    "hora": "20/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-05-26",
+    "titulo": "Acidente em MG: vítima desaparecida é encontrada carbonizada em ferragens - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFZwMzZrS2NkdFdYUUhHVmhObDVLMm1YS1NMX3VvRmVzY2FaYXY3cndhZjMxMnhBX1RVUVhyVWhQcXRMVkNCOTVpTTVKaS1Sc0dJX2xCZXRsSXpuWWZ5bFVKUEVuc0VrWFdPWmpNOHNtc3RnX0xSVVJNd0xMaE9rVkN3S0tsSnp6b2NCRF9yYVhFVUFjNE1uZ2M2SVJscU9xX1ZnR29XUmdBVHk3ckJ1b1YzTTlCV0xfWS1FWElQSQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92104,
+    "lng": -43.94313,
+    "hora": "26/05 04:00",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-08-10",
+    "titulo": "Defesa Civil aponta danos após incêndio em prédio abandonado da Oi - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUk9hWFhaTEk4WnFMTW9VRGdybGhSdkpCaGY5b3dvdWoxdmlERTZUTjBHejRmUnY1X1ozcHEzQjRidFVvZFpKRkp1TEpBNklhQWFlQlBvU19NMk5kUjNrVVFzUEM3WjhoTTFSOVh4aDEySm1FR01PQldBMkhfNGZ2NTV6Q3ZDUldESmxCN3RvS052dnNQWUtObGU2R1RZRUlaSFpwaWYteU5FZw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92367,
+    "lng": -43.94541,
+    "hora": "10/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-10-30",
     "titulo": "Defesa Civil vê risco de desabamento em imóveis atingidos por caminhão em BH; idoso foi atropelado - Rádio Itatiaia",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGt1UjVpQ1pjaU8xLUdFdFV3X3hocnVMNGpVYklzQ2pXSC02eUZkWXdXVzJud09hTVNIQ1dFVGVzMk94dFNrZTRQWnppRmZfQnJsS2VsMlNISHZacmhKYU5KQnRZYmpiV0lzVlVzRTM1cWJ0ckdMWXdBZkwwVTkxRmhmZ2E2MHgwaE1HY3Utb2piMjJ2MjlVLVBQbWpUdGZJY3VJVERGOUNPQmxCcUVhTFVlVFhxQV9yLUJnOGhRaFRsdTJza0kwWlRFRVc3WUVtMzFwakZ0S1VyWEky?oc=5",
@@ -6458,45 +6497,6 @@
     "lat": -19.92321,
     "lng": -43.94717,
     "hora": "06/03 05:00",
-    "recente": false
-  },
-  {
-    "id": 69,
-    "data_dia": "2026-06-08",
-    "titulo": "Vídeo: Incêndio atinge apartamento em Belo Horizonte (MG); uma mulher é socorrida - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0hYSGwzZ3JBbC1aSWZhNVBLUFJkMnJpUmpnNkdybXR6WExQRnZyY0FsQnVBdjVKU0VHS2VvZlFtYm5OQWRlZENuVFFPblRiLXcxd0h4YWw2SW9VN0phNGZHdkFsTFNfZmFma2VWTGVhQVBoSmltMXRkbG9DTnJmak5RbmZpbFNYbnliLWp1T2NRUDduTjVCbTRFcFVMNWliS0lKaDd0M2wtWFNmbXBqUEJuMDktUXEtRnFycG5Yd0tWX3c0NVBTTk4zeFJqQdIB3AFBVV95cUxPV3hzVlVMdDZ2b283Rkxid01lUDFXMl9ORnJaSFgzLVVlaDZNY1d3VWJ2aTVEQVlrX01hdkJxVVdzN0dGRk1odzdjQ2M4M0NkX0JqbE5HZFF1VWlaNlVOcWNLNkNDMVE2em1YOXdmaVM1enRZUVdkNXdEOVg3TUNRTWtzQVRHYmFrOFlad2x1bzNyZHU4dHVOT19FbGVRODA1bFZWbTJhTWZfUkdKaGRSbkNFclA4Sjdzbm95V19NRUhLZ3lOQmViSDhiQTc1cEFCOTZZWm40WVBxMldF?oc=5",
-    "local": "Belo Horizonte",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92147,
-    "lng": -43.94548,
-    "hora": "08/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 70,
-    "data_dia": "2026-05-25",
-    "titulo": "Motorista envolvido em acidente com 8 mortes em MG está desaparecido - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3VWLThhUGFxOHhiaGJYX2JGMjE3akp6V3VVRmZyNkQ2YkpQLWdWM0tzc2lxTjB1LTZra0RPZjF5YUkwNVlURHEtdVZXNm12TEFJQ05iNkZJcGF0TUxHR3JEMHo2UHVFeVZCRGVpSkRxalRzWUNwbWVTZ0Z3ZENFUk13eWZSQl9jMWFSakpkTENucVhqWWlrQmdxY2xCZHg1VEJnNXNDQVpJQm1NM1B1Y2VUdWFNclZuWmc?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.923,
-    "lng": -43.94505,
-    "hora": "25/05 04:00",
-    "recente": false
-  },
-  {
-    "id": 71,
-    "data_dia": "2026-07-10",
-    "titulo": "Bombeiros de SP encerram missão na Venezuela e retornam ao Brasil hoje - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlJwN1VIVUhQbG9ncDJ5UVVlWE5mN0pGZXVJRUpET1FCU2FpMEx2VHFVdkpaTGtXZzBmZUczbS11N3p5ZHFsRTlOVFZySzczSkxqWnF1SkI3Zm1PYmJXWlU3UW8zY2F1elUwSFBqbEtYTVZYcUtvWTh5TUZGVXZNOUJnc0xQRDNwNG1DTDhHY1paWHZJRG9meWdOUGg3TllIeEoxME1rbTJ5dVBzWno1U1N3cjNpR2o0cXowWA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92274,
-    "lng": -43.94573,
-    "hora": "10/07 04:00",
     "recente": false
   }
 ]
