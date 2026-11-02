@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-02",
+    "titulo": "Incêndio destrói casa em Poços de Caldas e Mobiliza Bombeiros e Polícia Militar - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVW9sQzR4VDJJY1RXakQ5WFNMbmV3aTlob09wM29Ldm1LamJQNG1PaThZUUV6OEhBbGNvbU9mTWVMWUZjWmt3Y0I4ZDBOdnZWdERuaWZxOW5iS0xaczZrMUQtU0dEQUtWNFFKZGgxenhUamJCcm1iZlVfa193QnY0X0RoZmFxRWdvZzlyUWgwUmVmeXV3Z0NMR0hBRmdUc2FhZGwyZnp3T2RUUTZRYUR2N2xIVERzNW1SQ29n?oc=5",
+    "local": "Poços de Caldas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.79182,
+    "lng": -46.56673,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-01",
     "titulo": "Quatro pessoas morreram na madrugada deste domingo (1º), depois que o carro em que viajavam capotou na rodovia AMG-1205, na região conhecida como curva do Borbinha, em Ferros, no Vale do Rio Doce. As vítimas são dois homens, de 26 e 24 anos, - Instagram",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90YkJnZnZYdEdTYmhla3JLd0lnMTlScktWU3ZjZkF3eEo4X2V0ZnYwVHJJaFJwb0Y2VG5FMmhNVkxVeDFhRENlbWxTTG9obzNSbVE?oc=5",
@@ -6484,19 +6497,6 @@
     "lat": -19.92246,
     "lng": -43.94434,
     "hora": "24/05 04:00",
-    "recente": false
-  },
-  {
-    "id": 121,
-    "data_dia": "2026-09-23",
-    "titulo": "Incêndio atinge residência e mobiliza bombeiros em Porteirinha - gazetanm.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmJqVHZaSURhdGdoUXJpcGI0QUEzU1doR182a3FEYXI2NDZlbGFoTnRSMldkZ0R2MHhRYm8tRURJcVUweUxtSGdQZnpDRTQ0Q0JFczZBbmxXaFlBbjk3cjV0MjBvVmVqSXlTb1dSbkNEYUJuU2ZiT29nUG84eHhWTTctTDdYSkphaEF5TV9qTlc?oc=5",
-    "local": "Porteirinha",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -15.74358,
-    "lng": -43.02845,
-    "hora": "Há 8h",
     "recente": false
   }
 ]
