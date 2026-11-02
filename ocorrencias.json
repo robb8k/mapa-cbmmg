@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-11-01",
+    "titulo": "Quatro pessoas morreram na madrugada deste domingo (1º), depois que o carro em que viajavam capotou na rodovia AMG-1205, na região conhecida como curva do Borbinha, em Ferros, no Vale do Rio Doce. As vítimas são dois homens, de 26 e 24 anos, - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90YkJnZnZYdEdTYmhla3JLd0lnMTlScktWU3ZjZkF3eEo4X2V0ZnYwVHJJaFJwb0Y2VG5FMmhNVkxVeDFhRENlbWxTTG9obzNSbVE?oc=5",
+    "local": "Ferros",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.23744,
+    "lng": -43.01669,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-01",
+    "titulo": "Acidente na AMG-1205 deixa quatro mortos após capotamento em Ferros - DeFato Online",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTU5nVkR3Y0o3amllSHdrWGZkNFJieUNldEt6N2I2bEk4SjA5TWVCcHlLdk45TzRXZUhjVnFiMzhiOHdmNkpxMUV1eXRMT1JVX2NYRXJ1ZkhsUVhFU19oTTVQWmpxOWRTRVZJWlBFa1M3UGVzZkhvX3VDemdta1V5SWxWZHFjOGtLNlYtbWw4NW5fQTlxSldUUjk0ZVc?oc=5",
+    "local": "Ferros",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.23352,
+    "lng": -43.01857,
+    "hora": "Há 15h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-01",
+    "titulo": "Cão Napoleão é resgatado pelo Corpo de Bombeiros após cair de barranco de 12 metros em Alfenas - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWV9nM3o5bVNjOG5OR2J0U2tzeVFwTThEdTF2ckxkOTNiZTNWUllFRmRteGxkd2p4SnQxalB0X0hxdDNzaGltak54cVRhZWpnbHZPMEQ1THFtU25teXMyRm0zRDJNUC1XRTdUUWo5Y0xNbm01aHM5UXBVSVNGS3pXdXVweS1mVHZOR0tYNGxMRFIyay1HenFWNkRCRGdxcU1wTF96a2tsNE8wVzlSSUZBcHA5a2dTVlJqTENfeE1uZXI0ME9aYkRudDA5Y3hvQQ?oc=5",
+    "local": "Alfenas",
+    "categoria": "animal",
+    "categoria_label": "🐾 Resgate Animal",
+    "lat": -21.42845,
+    "lng": -45.94925,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-01",
     "titulo": "Um incêndio de grandes proporções destruiu um galpão de uma empresa de revegetação ambiental na BR-040, no km 514, no bairro Nápoli, em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte. O fogo começou por volta das 17h30 de sába - Instagram",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUlgya0FYZ3lXc3V2X3duOWtyY2x1aXI0dWxzVXdmOHBPVXdUSlNwYWliNTh4YTRXUGlPRGVlbUl6RWE1dVBPcjdjQWRybnc4RlE?oc=5",
     "local": "BR-040 • Belo Horizonte",
@@ -6458,45 +6497,6 @@
     "lat": -15.74358,
     "lng": -43.02845,
     "hora": "Há 8h",
-    "recente": false
-  },
-  {
-    "id": 122,
-    "data_dia": "2026-09-16",
-    "titulo": "Acidente na BR-116: Corpo de Bombeiros confirma seis óbitos e 43 feridos - otempo.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1psTUVnUDhNZHZPTFBnRzZ0NXpENjNiZGVOLWhkUnBKa2lQaWo5cEt5Q0E3R0l6T2M2RlZINFk2ME1BcE5tR0JhV2xVOHFMTkNIMFhyQUs2VnhkRG80X1FDeXlQSHBLbVVyOGVMV3B6R1FQZ0hXaGxkQld4ZXJuSGJNM3VLVDBMZWlObnVEeXY0MmxlaG1hUkFIeDRGd0Z3QmpTXzdES3U1TGRWN21WclM0bXNWQdIBuwFBVV95cUxONmNwVndVTE0wU2l5QjRvREtXQUJIcTRUODlrR05Rcm5pMmwtR0hOVUYySER2TUZGZE1tMFRRN2RGSkVKSkIxS1k3ejdQR0hSclNKQzZJaGt3Z0p6ZkZwVHplanFreVdQRlZidV8wYjJHakdnajlqYVJ1WGEtaTZyYkRfOWpBNUlRUzdYZjd6NGdVeWIyNjFCSTVGbUV0aVJ2Z0lqRUZLMEVmNUhNcUdfZGxrNDdjMmVQT01R?oc=5",
-    "local": "Trecho BR-116",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -18.8849,
-    "lng": -41.94334,
-    "hora": "16/09 08:25",
-    "recente": false
-  },
-  {
-    "id": 123,
-    "data_dia": "2026-09-12",
-    "titulo": "Carro cai em ribanceira na Serra do Rola-Moça e bombeiros resgatam corpo de motorista - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3gydXZMSDB5MHE5V19QMjJxT0xPSzBmd2RXS05QSy1YQ1pSVlVzLUxuTmRCeFFsQ3Z3YkZmUFk1WUc4OEdBSXNDWXJBQWxqbXo0SWxkNG5JQjZYTzBYMmNBNld6MzRnX0dfeFBiaGxoaGNZeFltdmJyMVp4MHVnOWFnYUdFZWlMMUNEQ3FGODhNZV9JZDhHQ1RKaEk2cC1fMTZyZVNtMGRWTEZ4TXBlNl9qUG1aeTk1U0d6ZHQyVHZBZzhsZkVxSkhKM0hBR29r?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.9234,
-    "lng": -43.94636,
-    "hora": "12/09 04:00",
-    "recente": false
-  },
-  {
-    "id": 124,
-    "data_dia": "2026-09-02",
-    "titulo": "Incêndio próximo a Igreja de São Francisco mobiliza bombeiros em Sabará - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGZsajZMUnB6UUpWVlhZWnVtX1paNnBzS1NnMWp4UjZaNURZcmdudzNQbFBtU2R0UG9xcVZnRXBrcUdCVlVhX0M2T3VwaUxWcjJxdEc1ZkpqT0c0VURGdEhncXRSUEpTNFJhLWpJR1ZLOUlOeTRrYkRJS2VnNlowZm9JSnlZNUJvTFBOMmwzTGlnVXVYVEV2ODcwLXlEaEVJVVF2cnF0YVc4TmhqUkkwNUZRc3NhTnNWLXdDY3BR0gHDAUFVX3lxTFAtblhXVHlSM2ZVN0xTdEsyZV85TlA2bV9Xc3ZUX3huNU5FazZSVDJkVDlaQ3lyRnZWUmkyQ1pFM1RtOHpJcUh1S3dKUElvUGU2Z3l4VEQwN3lKelZvMlRDU3Q1MmRpY3R0M202VC0wUzlfQmtqZTVpb1JJVE1Vd1dwVC03QmU3TG9HUXQ5LUtBY3lGUTNkbDBIZTlHTDQxV3B6QkZHSnkxeFFyc3JPQ09EVUhENHNvWFMtOUwyRmFwYld6cw?oc=5",
-    "local": "Sabará",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.8901,
-    "lng": -43.81336,
-    "hora": "02/09 04:00",
     "recente": false
   }
 ]
