@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-02",
+    "titulo": "Uma mulher de 42 anos morreu na tarde de domingo (1º), em Itajubá, no Sul de Minas, depois que o carro em que estava bateu contra uma edificação às margens da BR-459, na altura do km 177. O Corpo de Bombeiros (CBMMG) foi acionado por volta das 1 - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hbUFmUTJfWm1iMThQSUx2TmtPWDBMX3B2RlRrWEswN29FSWI3RVo2V1FiQ1FlM1dXd0VNSzF0S3RIQWQ3VjlNSEhYN1AwWm1rcVE?oc=5",
+    "local": "BR-459 • Itajubá",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -22.42222,
+    "lng": -45.48853,
+    "hora": "02/11 11:15",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-03",
+    "titulo": "Bebê de 1 ano é socorrido de helicóptero após afogamento; Veja vídeo - O Matogrossense",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORTNpcnRZYjhFbUZvXzRuZFExVk5CWnFnVUk5U1dfNVY4djVxcFB0bzBXYzdwX0ZPa29aRUVfZFhWN2J6N25oS2E0TThxTnhkcGtEb1NiQ0Fpck5qTG5EQ3c3RmEwWFgtSWVIMldXMEJhbmI3TFpWakxHUXFGa1phMFF3aG5WYTRJdkVMOUI3dnFwRTVLWnA1RFNLX2FKbzhaU3QzM2hITE5vNVVwdzdRNDJ2UUlqSi1nQTRsQ2lVRjk2Rzd2Nk5vMUR1NEJuWjVrZ0xZUHVxUGpFb1VzYzNFVFAwQzlVZEVLZks4ME9LOGVzcmlsQ1pKbGp3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92563,
+    "lng": -43.94471,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-03",
     "titulo": "Helicóptero dos Bombeiros de MG que caiu durante busca por avião acidentado decolou de rodovia com baixa visibilidade, aponta CENIPA - AEROIN",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSlZYcWZ3TjJOWUZ5SWJNUmxBV3RhdlVuaGtja0x2YVgycjZLNEhjSVF0TFNULWVTSnFnV1VPOVIwYUk3Ul9rN3ZRWURkcTBQcnEzeE9ZUXROQ043ZHJCZjM0YkY4eE1xMUVfUE1kZFZ0OTZFY3psZEZwcXktVlluQmdXMlZ6d3FqWXFTZDg0LVZUTXdCOEhrZnpGeXExMFV3T0gtN0dYeHN4c2tHTExlUGt1aks1YmFQd0pkTXRvcjBaejBoaVloUEVOcjRreEZRVGVQTDYwaGQwdFlfMXFiczhRYzZmd9IB5gFBVV95cUxQSlZYcWZ3TjJOWUZ5SWJNUmxBV3RhdlVuaGtja0x2YVgycjZLNEhjSVF0TFNULWVTSnFnV1VPOVIwYUk3Ul9rN3ZRWURkcTBQcnEzeE9ZUXROQ043ZHJCZjM0YkY4eE1xMUVfUE1kZFZ0OTZFY3psZEZwcXktVlluQmdXMlZ6d3FqWXFTZDg0LVZUTXdCOEhrZnpGeXExMFV3T0gtN0dYeHN4c2tHTExlUGt1aks1YmFQd0pkTXRvcjBaejBoaVloUEVOcjRreEZRVGVQTDYwaGQwdFlfMXFiczhRYzZmdw?oc=5",
@@ -6472,31 +6498,5 @@
     "lng": -43.94405,
     "hora": "26/06 04:00",
     "recente": false
-  },
-  {
-    "id": 163,
-    "data_dia": "2026-09-24",
-    "titulo": "Uma pessoa morre e sete ficam feridas após desabamento de teto de fábrica em Brumadinho - rede98.com.br",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGFJd3lKc3VTQXFNaFhFWmo3LTJuZzFPMFFXcEpjQ09IcEl4X2l4MGxGUXkwV2hEMmN1TFJ0LTgtRHdRT2RZazZ0TFFNbmZ0M19MNFI3a08ya25YcW9vSzVnLV96VElmSXltWkhySE1uaGc1SGlkM1NTNFl4YjMtdHlYenBNNW03a01FYkN4eXJGNTBFTzlqUldibnpSa0VWRFFwVDB1ZGJ5Nk9BaktVcFpsSzNrQXFrNV8zUTJpcUhvODNoRUZKMnJEUWM?oc=5",
-    "local": "Brumadinho",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -20.14082,
-    "lng": -44.20006,
-    "hora": "Há 17h",
-    "recente": false
-  },
-  {
-    "id": 159,
-    "data_dia": "2026-09-24",
-    "titulo": "Frigorífico onde teto desabou em Brumadinho não tinha vistoria dos Bombeiros - bhaz.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkRxQkZlWFc2M0dhalN6ckViazZDWGk4X1JOY3hYVGdISWRHMmZRWElfOWxBckpVT1N2M19sSDZnbHJpQUpyaDA5dEtNWXowQS05anRfNTFwRGtnVjJzb0lFOGpBX25qNjV5M2RzdXJnYTFpSThsd2JPdjQyZWJFMndsalhNQ196ME52czVoR3c5V0s2MnBlRlRxeFN3UWxZeldCQXdJNC1Dazk5eUNteFZyRnI0eVNHeVVj?oc=5",
-    "local": "Brumadinho",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -20.14313,
-    "lng": -44.20135,
-    "hora": "Há 46 min",
-    "recente": true
   }
 ]
