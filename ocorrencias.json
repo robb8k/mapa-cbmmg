@@ -2,6 +2,32 @@
   {
     "id": 501,
     "data_dia": "2026-11-04",
+    "titulo": "Bombeiros usam trator para resgatar vaca de 700kg que caiu em piscina no interior de Minas Gerais - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREZHSUZrV1pVVkVkTEI1UF9vX3hWdF9fbWY4VGFpVzZvOUJEbXFudWphNXNpSzBhSXpjbDFFZ3p1NFNXa0VqbmpyYXBYRENqbHhzWm1GR2pYN3pQTTF5WUJhemVaWF9yUW9ZVU52VER4SmRYQ05LY2VIR1NoRG02QjE0N2d4NHozdXlwTjZkc3VoVWFIMXJER1RueHVDOW1wMXIzWHVQYjhLZEFZc3U3SWFR?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92105,
+    "lng": -43.94798,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-04",
+    "titulo": "Tamanduá que caiu em cisterna é resgatado pelos Bombeiros no Sul de Minas - Jornal da Região",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXBhQy1EeWdvTEp3WlBob18yaUVITVB6U0Z2OGc5cGhxV0wwbHBTcUIxR0w2dmx5M2tCbjY2a2hUZTh5clpKZVotUC1VSlFtcm1qNFY0dWRfZ1dfUG9QNjY1NnlHZ0N5ZDkyYm5TTGtEeDllbzZjdzlSeUtpT2JaZHNwaklGVUFVUG0wMl9UVkdoTnJ3LXRzQk5wUWZBRDNkR1FfZHBMd1d6cHZjREVFajhCTQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "animal",
+    "categoria_label": "🐾 Resgate Animal",
+    "lat": -19.92404,
+    "lng": -43.94328,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-04",
     "titulo": "Bombeiros usam até trator para resgatar vaca de 700 quilos que caiu em piscina em Janaúba - Rádio Itatiaia",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjZjcGU4Q19ta0phWlFCQXM2WE95OUcxeUViUnZDcmNNdkdrSU15blp6QVBOQ2hEd1ZIeXk2UW1nMnkyVnl0clAxblJiVFJuNEFTMDdFTVdlY2VYN0NDQTBmeVZsOE9BNVN3UDI2UzREemgybE5IRjVudGJ2VDloQmNHZmNoOHBCc3hGcHJQNUp3WW1WQ0ZDZ3k0eWVBaUo0VjE4dm1GUTF3bmo4aTczbnlXMTVmTkVkM0FISUFRbmQzYVNHT3BDay1TQ2VCejI4Zmc?oc=5",
     "local": "Janaúba",
@@ -6471,32 +6497,6 @@
     "lat": -19.92024,
     "lng": -43.94743,
     "hora": "22/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 171,
-    "data_dia": "2026-08-03",
-    "titulo": "Incêndio após queima de lixo danifica casa e imóvel vizinho em BH - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHBCd3puenBxR285QW5WdkQwYWhnTFZHemdUYnIzeEh5R0VhNEtXQW1DX2NRbF9xNnpPZGcxajh2Yzk3cW94VFczcTBTQ2dZb280aVZNOWEzbkkzVkVEY3dlNkg5QmtPOVE2ZHFUUEpkNTZUOTR6TkVQYzVIckhfRS03M0dMc0VjVzUzLV9aanVlYTRHQlVEWWFRMHIxbm9OTW5YZGpiZ0Q?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.91996,
-    "lng": -43.94421,
-    "hora": "03/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 167,
-    "data_dia": "2026-03-10",
-    "titulo": "Atuação de bombeiros civis e brigadistas em debate nesta quarta (11) - Portal CMBH |",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQanNUVDA5emsydEZtOFBjWC02c3FKdXhGTVNsOHkwTUlXelotczVuNGF6bE9Pd3A4emlpTXV0VmtNSnlGdkI0UVJ6cmVPX0R5WkZlQW9KS2FnY2ZmSmJ1TjA3cXBEeWI4dkZaWkJHeDNGQ2ZmOGVabUM5dmhqZ3U2T0tzNGN3em9zXzNWandOOHVpS3BGVTNHU0hxZ2NWYU1DTW96LXNjckpjdVpOaHo3dzVEeENEZWszbjA0Tkt1ZC1ucTNLbDAydWpNMjRLNlp5SmxGYTYwQU81RzhUWE9yYg?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92317,
-    "lng": -43.94384,
-    "hora": "10/03 04:00",
     "recente": false
   }
 ]
