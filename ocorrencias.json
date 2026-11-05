@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-04",
+    "titulo": "Tenente Pimentel assume Corpo de Bombeiros em João Monlevade e visita sede do Sevor - As Notícias Online",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnJaSHRMQTk5Y2xPb1B6a0Y4ZGlreDZVM1dRdGlfaW8wdlpHWkxxVldzZGJpWThBNXNsczRTbTBNVnNzRUJBNktpVE5LWG40eEFuUmo3WXBSRnFCb241WUJfMW9rX0VzLTF4VDVHUnY5Z3h2azQyYUdQZmdQejJSYkRrNC1iOXItX1k2WVh4VjZFVkJnU2xrSnpsVHVrTzVvV3B0Q1l4a0RCYU1GOVZiZkpSMDVxUGlJMmJPa251M0V4US11TkE?oc=5",
+    "local": "João Monlevade",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.81012,
+    "lng": -43.17621,
+    "hora": "Há 10h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-04",
     "titulo": "Bombeiros usam trator para resgatar vaca de 700kg que caiu em piscina no interior de Minas Gerais - BHAZ",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREZHSUZrV1pVVkVkTEI1UF9vX3hWdF9fbWY4VGFpVzZvOUJEbXFudWphNXNpSzBhSXpjbDFFZ3p1NFNXa0VqbmpyYXBYRENqbHhzWm1GR2pYN3pQTTF5WUJhemVaWF9yUW9ZVU52VER4SmRYQ05LY2VIR1NoRG02QjE0N2d4NHozdXlwTjZkc3VoVWFIMXJER1RueHVDOW1wMXIzWHVQYjhLZEFZc3U3SWFR?oc=5",
     "local": "Minas Gerais",
@@ -6484,19 +6497,6 @@
     "lat": -19.92114,
     "lng": -43.94234,
     "hora": "10/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 170,
-    "data_dia": "2026-08-22",
-    "titulo": "Bombeiros atuam em ao menos nove incêndios em vegetação na Grande BH neste sábado (22) - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVJiQUQ5OExSeDdqcFNUc1B6Z3hfTWNiRm05djlOLWtSTjJEaThvX19Yd3ZTZ2lJNU92Q1prQzlmQTlKZWo5UVoycEw0cEQ2ME9wS1RPQVZHNGlfWWZxZzZHbTlJTUJkdHJVbUQ5ajhZNklWZlU0YVp4S1BZZm1mbW5kQ1lNYjhsdE9TQ2UwbzVnSndLX3ktWUlzenF0Tk1EMFpJaHlzckFLdGxmeDRBVk1ybDViWlYwQXkxeFRvdUtuYVFvU01oaTk2QQ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92024,
-    "lng": -43.94743,
-    "hora": "22/08 04:00",
     "recente": false
   }
 ]
