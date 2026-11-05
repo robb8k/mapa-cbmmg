@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-05",
+    "titulo": "Corpo de Bombeiros Militar de Minas Gerais realiza Workshop de Salvamento Veicular em Araguari - Gazeta do Triângulo",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNRRUFqdDlIeHNzaVRNSVBCTEhvdVF5UlB5WmhPUy1UbWhoUkdWcWpRZUgtVEZxOF9kemtFeW1WbDFKY3I2YXBYU3cyMm11MFFfTHA4Z2hGNHBQenBEdUp6ZXM0RmN4b3I4MzJPQTJiSFQyOERCbFM0RFd2WEFoaFp2bFJWaGpHME5hT09SeTI5eHBkRlQtWEJvMmcxWk1vSDhPMXN5dDZwOFJ4MW9CSGpVUlhCVE5icnFGUWxPOWJBSWotQTV3?oc=5",
+    "local": "Araguari",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -18.65042,
+    "lng": -48.19632,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-04",
     "titulo": "Tenente Pimentel assume Corpo de Bombeiros em João Monlevade e visita sede do Sevor - As Notícias Online",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnJaSHRMQTk5Y2xPb1B6a0Y4ZGlreDZVM1dRdGlfaW8wdlpHWkxxVldzZGJpWThBNXNsczRTbTBNVnNzRUJBNktpVE5LWG40eEFuUmo3WXBSRnFCb241WUJfMW9rX0VzLTF4VDVHUnY5Z3h2azQyYUdQZmdQejJSYkRrNC1iOXItX1k2WVh4VjZFVkJnU2xrSnpsVHVrTzVvV3B0Q1l4a0RCYU1GOVZiZkpSMDVxUGlJMmJPa251M0V4US11TkE?oc=5",
@@ -6484,19 +6497,6 @@
     "lat": -20.27948,
     "lng": -41.78116,
     "hora": "14/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 174,
-    "data_dia": "2026-07-10",
-    "titulo": "Após resgate de 23 pessoas na Venezuela, bombeiros mineiros deixam o país - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXJxN0MwZjhScVM2cnZGQjZ2eG5sbURDTlhvVXNvbDJDTnhkS3Ztc3NzLWJ3YnI4ODU5MDM4dmVJMkZMc2F2NUJBd3pyWHdLYm94NmI5OFNwMUFpdTdibWwzUVNXLVJYZHdUSTQ2eHZqZXRVU1JIZlk3TVFBRk1Kb2ZXcXM5cTZ4SXdpb3dzY3JKUmdiN1ZiNGNvYlNMYzU1QjZGdzRPckRJR0tfRkZJNEtVdUpmNDZZWlFDenVzNNIBxAFBVV95cUxNS2tBX1B0TmxkQ2s2dHU0SzN2Yjh0VEZ1R01mZmY3WWlOaWpvY3BieHRBMG9VNVU5Uk90VFU4V2lERkJCaW1Gd0JDLW94VkVLaUhqNGZKNFhYbktJamdTWkhKZlZubU1lTDdnd2wxRTdiRzkya0dWRHpHbFlFaFNfMzhNcjNLTzVfVk1YRi1sTGcxSXJPbU9hcnJmUjY2c1h6Z1NCeWljYVJCVElLdElUNk5XWm5DT3JiNzVlNlNZdVVSVXhE?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92114,
-    "lng": -43.94234,
-    "hora": "10/07 04:00",
     "recente": false
   }
 ]
