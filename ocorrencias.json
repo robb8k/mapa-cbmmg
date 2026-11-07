@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2011-11-04",
+    "titulo": "Incêndio na Serra da Canastra é controlado pelos bombeiros em Minas Gerais - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlp3dGxZZ3RpaWZxb1pEeGhDbmc5aHJLTE93Q3JTUTZRQ3FIMzM2Q2l1US1kTWZoR2U0YmdOMmhiU1FQVXBLZzM0Q1luLWdrR0k4SmdIek5fQTZhOE9Gb2JSRkhRaFRUVURCSlowdGZPZFBQUDNZLUxCdXJodHZnV1hPbU5Jcm5rYkRzb0pfN05ZeEZveEF6QjNMM3VVTC1wNTBDMnQza3FZc2w1X2RkcXFBTmw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92397,
+    "lng": -43.9463,
+    "hora": "04/11 04:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-06",
+    "titulo": "Bombeiros encerram buscas e descartam queda de avião em Muzambinho após varredura de 30 hectares - Jornal da Região",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0U5dmRPd2VleDAtMTlqREdBTUYtTVZudlJhR1l5SlVET1FDNm16NlJ4cnRmb0hhb2QzNzllR3ZaODY0Z2RfZlpodmxEUFpnNE5vWFdCTWNHUm1XZG8tUWF3ejA4WGRiWjRoalprUHFZd3p2UFg5aXBud210UmMzcXNEWWFvTTFGOWYydUp4QVZTaHZLYW5TdVN1bHNYX2tSNWVXRzI4MklUbENWUlNoaGl4Z3djNjRPZXpranVYSWVVN21abUZMX3RzX0t6ZGc0UkE?oc=5",
+    "local": "Muzambinho",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.36959,
+    "lng": -46.51971,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-05",
+    "titulo": "Carro da Secretaria de Saúde de Nova Aurora se envolve em acidente em Cascavel - CGN",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVhwZ2pHdnhfMU91Nk8xZkxjZHJETjlVTmR3ZEZQWmhSSDNZS1h0dDNHcFd5eHA2U1NZODFvN0tPQUpGbkdBOTliOW5HTFptTU9rcUE1cG1GZ0tBMzd5d3JxQkZzY2d3YU5CbS1CbTBtbnpsR0NpRkUxQUVYNzJMdXFjdEl1OUxDWEZrNEFROHRXN3lBNVhQZmI2dENFMDJLRUdjdm9TU1kxNExEVGFrWXdyWQ?oc=5",
+    "local": "Cascavel",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.96344,
+    "lng": -45.54841,
+    "hora": "05/11 10:54",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-06",
+    "titulo": "PM desaparecido é resgatado pelos bombeiros após carro cair em ribanceira na MG-050, em Minas Gerais - Oia Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDFuSWdoTEd0VFJSQjFINFlnOW40cDV6ZUtiODE1UzIzVnROQ0VtaEpuZDZJOHNnZHNDLUszVC12R05hQVhTSDR0SUhLd0lfanhxMHJIdnJRSTVYMFJtZmZrcXFYWEtOVGNXVjdsNnZ0TmVaUjVKZjYzUXJUUVVINExxd2dqaTRzWjlrTS1IYm53d0VLQkxSaDVIeEJpS25MeV9Pa3Bla3lIZXVNMnlwOFRRNklaank2b2ozWmkzR21ORlhKUXJn?oc=5",
+    "local": "Trecho MG-050",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.1127,
+    "lng": -44.85716,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-06",
     "titulo": "PM que estava desaparecido em MG é resgatado pelos bombeiros preso às ferragens de veículo - O Tempo",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWVjR19ndndpWmR2YmJ0WWU2VWVJWGYwTjZ5dzRxUnM3NzBDUXhjZlhIOWpKR2VXV2ZCd3NmQTc1Z2lXNlBqRllhdnc0TGRzdEpfRTdMaFBFM1dvTFlEVWtLMlljcjc3WkxaN3hGN3dPbU5iMTJWWFNBWHZiVWRUby1hdXR2QWlxeFEzMGhnUUptdWdtbTlBTjZaOWZ2dUpIMGxKbUJyWjVydDlaSTF0ek9yM3NGZV9ES29qRmswZG5XNlgycHptRVZicklLem8?oc=5",
@@ -6446,57 +6498,5 @@
     "lng": -43.94505,
     "hora": "13/09 04:00",
     "recente": false
-  },
-  {
-    "id": 203,
-    "data_dia": "2026-08-22",
-    "titulo": "Acidente com 4 carretas deixa 1 morto e 2 feridos em MG - SBT News",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzA1R0VheXBQNFJ5V0lQTVBzMGkybDZ6RU51cEJKdENIODFLQXA3MGQzQlcwbmdqQXpVdHJXT1dUekJQX1FzQ2pHX29GbkV2NFFqaXBweHZCWGtjUTdOOXdhSzlDdFdTWnloclJCQ2FVV2l2NkU1TnpZN2tKeGVkampmbXZ5OVRfRktXdk9nelRlcnZIenZGWVBXQkp3dw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.92318,
-    "lng": -43.94429,
-    "hora": "22/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 196,
-    "data_dia": "2026-09-28",
-    "titulo": "VÍDEO: Incêndio atinge galpão de reciclagem na Grande BH - G1",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTBoOW1NbWRQMXFCeTRBeUxRc0VhMlNYWGlmUDRvUG4tZWZJS0dsc2JZbWZ1a19WdzQ3Um5yZzRhQ295VUU2V1JKODF0YUVOM2JZazBXTTc0Q0RRWkhoaTJuU0xJSy1WVjhCSVBKZFVlTU9EeVNPX2RuTHdLb3BwREFoYUk2Y2NFck9aOXpsOTdsVkxVbVQ5a3ZvVVQ5b3lqQ0gwZlFDa3p2ZzlGbk9UdG5FWk41WVEz0gHHAUFVX3lxTE9LUE5TUU9zLUZsTjNYeEdxeFhoM2lfRjRGU1NkclJFTm5jRWZVZll0b3o2U1RnbC1TaThLckpKdzRVWlFOY3dDREptV0JaeFhjb3FOMEUwRE1Fd2FkUGdBNnlCUjM0UzVIOS14Y0xVbXhmYXdyQ1BQVnBiVll1eXRmMWEybTloS1dCS19wa0M2U3FMbDNjMmdRRzJUM3J2UkFVb0kwSGw0N1pUd0JLN0pyOXJ3dDZXLUZ0ZHRGek5CUkZCSVZJV1k?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.9234,
-    "lng": -43.94695,
-    "hora": "Há 8h",
-    "recente": false
-  },
-  {
-    "id": 197,
-    "data_dia": "2026-09-28",
-    "titulo": "Incêndio atinge galpão de empresa de recicláveis em Betim, na Grande BH - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmJKUjFpM09ZZ2M4T25wZElodEFwU0doM2p5TDlCejBEbF9lTUdKcVFiVXZNT0haeUtyYmkyYkI2dld3aDJCMW9ONWpnWDhmbDZSeXV3U0hKWHJrTEpneVFxcks3Z0h6Y0JDQVNPQlNZbzlmaGRvMVpqYVFxaTFmYWstanJ2M2FtdTVhem5CamxyOXJpMXdjSXRScjRqUzVHa0ozM0x0eExpcWY0ZWR6aHJSSGJJeUQ4?oc=5",
-    "local": "Betim",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.97073,
-    "lng": -44.20855,
-    "hora": "Há 6h",
-    "recente": false
-  },
-  {
-    "id": 198,
-    "data_dia": "2026-09-28",
-    "titulo": "Bombeiros combatem incêndio criminoso em floricultura de Barbacena - O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHRrcVpNcW5fX2wzMHZYVWkzMzZxbGdSNjhraHZsalJ1Znh4TnhMdjYwaUFuOVpYR19CeUNGbHFRdmRGSmkzTGMxR2VYYmlVT0F6YnUwRmhyakVpV1B2YnY2OUNxVmR1NmxHbjlZdno4bnJCSl9pLTFYcWJYMlNQSW5xdzZId2w3a0FZUExuMUNRdFl4RUN4OVJhMUdGYXFZNW1QbFhGRS1FT1AzTnd3?oc=5",
-    "local": "Barbacena",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -21.22249,
-    "lng": -43.77648,
-    "hora": "Há 2h",
-    "recente": true
   }
 ]
