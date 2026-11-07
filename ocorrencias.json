@@ -1,6 +1,45 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-07",
+    "titulo": "Incêndio consome veículo e mobiliza Corpo de Bombeiros na MG-050 - Tapiraí TV",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWJQWENJTlBhVFlVWExpTWFRcVNYeUJXaXZSVE1jVDhjLW9tVHdRb29BaUZhOEVxRmdFdWJBR3RBWGJkVk12MUxlRlp4RlduWjZNaFFUY0p6bGNmX1RDWWZHWXpkMndhaE9xbThuOGtZZmFRa1I3dVNUNVpWMWZnMzRIa1dCWGhubTZ6S2VLTGduYVY0c0djX2JoQThULUhTMUg2cTJYSXZHQVpoUlE?oc=5",
+    "local": "Trecho MG-050",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.18791,
+    "lng": -44.96943,
+    "hora": "Há 5 min",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-06",
+    "titulo": "Com desabamento de cortiço em BH, sobe para 99 número de desabrigados em MG no período chuvoso - O Tempo",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTdQRUlwTjBGV25vdExBOTFYN1lGWUowTzZsdEd3Qmlad2VFZXB4ZDJ5YVlPVUstcUx1eVlpTWRSendHMWY0MHBEZU5oeEtDbU5Lc0VLcGZpMW1PeFVqbTg5a09fYVotYmZERWM1OUpFdXdtb0NCRDB0T2VkZXhpYVZ4Vy1YOXhjQ3dRN2ZrZXhwalJQN2VLZ1FwNVlGWkl5VmtRT2pkX0lXTzI2VkpxVlRwSFBjN3lrYmpmQTEyS3JBUkRCQVhLSVNUanJrVjhGZ1Z3?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92088,
+    "lng": -43.94715,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-06-21",
+    "titulo": "Homem morre em acidente entre caminhão e caminhonete em mina de MG - G1",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGRCS3ZCTzNtREhpZExTRlNXSFhKOU1JVFJsaUJzTWw5dDJVVkhtM1dnNXFjNWFRNVFqdXozYmt4S1VncWl5aTlDWUpJTGxlWHRhN3ZRaTFZUTFubEdiZWltQU9LR3k1UTRpTXB6UTM4R2N4TEZzYWVQYktHeVk1a2xpS0lEcHFlTU5aWDdTREU1dWxUQzRvVmRULVhlZ242d3BCaUY4VDg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92033,
+    "lng": -43.94745,
+    "hora": "21/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2011-11-04",
     "titulo": "Incêndio na Serra da Canastra é controlado pelos bombeiros em Minas Gerais - O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlp3dGxZZ3RpaWZxb1pEeGhDbmc5aHJLTE93Q3JTUTZRQ3FIMzM2Q2l1US1kTWZoR2U0YmdOMmhiU1FQVXBLZzM0Q1luLWdrR0k4SmdIek5fQTZhOE9Gb2JSRkhRaFRUVURCSlowdGZPZFBQUDNZLUxCdXJodHZnV1hPbU5Jcm5rYkRzb0pfN05ZeEZveEF6QjNMM3VVTC1wNTBDMnQza3FZc2w1X2RkcXFBTmw?oc=5",
@@ -6459,44 +6498,5 @@
     "lng": -43.94618,
     "hora": "Há 3h",
     "recente": true
-  },
-  {
-    "id": 205,
-    "data_dia": "2026-09-28",
-    "titulo": "BR-262: veja quem são as vítimas do acidente com ônibus no ES - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTU5Ty1NZHRsTURMRHlBcWFWRWdsZkpIVy1nc0lwUFBCbW5ablhjSXdzdlY4ZDg5b1ljQjVIdGN5WGhROTBZX2ZrNU55eVp0YjZMbVdTcTBmOEo2N0FsMUhaRnVNeDVONlE2ejc1MXotRlRFSk9TNVg4SHdZNWNSQUZXVDdnemV0VUJ1S2RCazJCbEVtb2E0b0FPVEVlZFYwVUNGM1Vqd041dTQ?oc=5",
-    "local": "Trecho BR-262",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.87128,
-    "lng": -43.90582,
-    "hora": "Há 14h",
-    "recente": false
-  },
-  {
-    "id": 206,
-    "data_dia": "2026-09-28",
-    "titulo": "Vítimas de acidente com ônibus de turismo na BR-262 serão velados na Grande BH - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQampyRkJrUnd6YkFabzZNNUxqOGM4ZWNNOE85MFZHczAyMWtSV3BSNmQtMzBOcTE2cktzbG9PTkdhamhsS1JDN2tlM1dzZ0pGNzRkb0RXb3JqLVYzUDFzLS1qcFpXRjc0RGZQMVJ5TUxhQXFOdFd0d0NBV2pveXRwLW9jUnBMcG9zb2V2dENfMUg2LWlBZk5kR0U4VHJ3eWVfYWw2N0hXRy1ieWpYbUJlZzJkNUZqSW1EVGdnaTRjcEpuakU?oc=5",
-    "local": "Trecho BR-262",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.87147,
-    "lng": -43.90306,
-    "hora": "Há 9h",
-    "recente": false
-  },
-  {
-    "id": 207,
-    "data_dia": "2026-09-13",
-    "titulo": "Bombeiros combatem incêndio em residência no bairro Madre Gertrudes; veja o vídeo - Impactto News",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemI5d3RVZU04R0lia3RNdS1wekdIZU1SRFJ6S2xhNlUySW1yNmNOLVNSMFFMMmFzaEJyYzJNT1hGcEtQN1ZoQ09rcGVmOW5rU0xTZXRGVGpDVTBkakxma25uVWNHa0FGS1pYaXlFR3dnYUtfUzJzMjYwSG81MTZpX2JEdDd4OERaZC1VV0MzU2JMdTRaQVVCdHZPWFdYZ2pXMEYwV0RlUlhjOFdNLWdzY2ZpOWV6VHJFOWdnZmJmMl9MUQ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92399,
-    "lng": -43.94505,
-    "hora": "13/09 04:00",
-    "recente": false
   }
 ]
