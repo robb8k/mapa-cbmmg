@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-08",
+    "titulo": "Incêndio atinge pátio do Detran e destrói cerca de 51 veículos apreendidos em Divinópolis - O Tempo",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFJZam43cnF2RlAxdTlSWkFlemV1TTlPSk5HVjNVZ0dIMHB2TnRaNzJUeG9jcG50YzRYSjZLNENRVEVMWUhvSzFPbERYU2ctM0t1NTlsRzdQcEd0MEhwYlJ5dGN4YnM5bDB3UkV1emNBcjc5TXdCWm9XeW91RzluRVJPa2s4bndFTnQ4dlVCSEUzMlluV3MxbkhBZFZEbEVMZTQ3S2x6cjQ3S3JJaUVyRFlKY19raGwzOWd5RFpaSnQzLVhkWlpnNWtycWRLUQ?oc=5",
+    "local": "Divinópolis",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.16259,
+    "lng": -44.87391,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-07",
+    "titulo": "Feridos em queda de helicóptero em MG estavam a caminho de casamento - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTBYMVRFODNSQjR1eVhjZjFCeWVjdVNZS0pJRXVHeDh6NlJhZTByZnNFYUd3dnRoaE9lSWlabGluU3VkTHJBTjllLVpUNkcxWXVQdUhrNmxPN1pISzBsci1CQ1FRanI3WjE3alFSQXdpZ29fZWFEN21DNlo2MjE2S01sVHVNaE03SWdqYlY2TkhVa1NtbDQ5REVSbnYzN0I2X0l0ZGx1cDNyS1l1czIwMmtsWnVlWXdkZVE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9225,
+    "lng": -43.94291,
+    "hora": "Há 14h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-06",
+    "titulo": "Suposta queda de avião mobiliza buscas do Corpo de Bombeiros no Sul de Minas Gerais - O Tempo",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkd4clFPcXNjU3ZrZHJ3eFBWMDcxdlcwLTBRcUZnd25PeHF4R0dkTHBzY21aOEY3UkdpOEJqZlA2VnprVWxobDZQeHJDV21TckxUaWJ0TUdLQnNRNTY3djBmU1YtR1hTNU8zRWtKS0pGU1lpYXJpQTRud2FhS1RWVUlId0Rqb013N2Vjell5YW5HMTJjeExHdVMwaXJUT0xnY0tWZG91cjdxRWMxNkh5RUw0blZKRXdrb3hnV3FrTnNnNXZxbnc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92229,
+    "lng": -43.94246,
+    "hora": "06/11 00:00",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-08",
+    "titulo": "Jovem de 19 anos morre após colisão entre dois carros na BR-146, em Poços de Caldas - Lavras24Horas",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWxWcmQ2VmVCZFQ3YWZVaG5YRXBMNDdKTkFpbFZxRUdkZHc5UmpLQ2JRXzd0SlVBZGUzMy1nanVVa3JxdHA1X1h4X1RzcFNsTDFacHNMZ1ZIbHAxTk9KRFA4VFk4SzFxaTIzWXRCbk0xbXBIb0pSNWhrcFlzX2lQVHZVRC1FcGV3MUhVZ0MyU3EwaHkxWHcybWVTQXF4eVVOQkFScDBOckRTZkdGM3dnSzQ2eGlMR2FNZGdOOUdydnQ?oc=5",
+    "local": "BR-146 • Poços de Caldas",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.80599,
+    "lng": -46.4722,
+    "hora": "Há 41 min",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-07",
     "titulo": "Trabalho de corte de metal em veículo pode ter iniciado incêndio que mobilizou bombeiros em Janaúba - Gerais News",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOW9WZkxVUldzcFhUWG9IZzlRTU9kdGQ5RnJpVmZCSWpPLV9UMDNGd2NiYlg1aWpaTDU0X0U2bDFjUk42SFZVeGxFZ3FOcms1ZFFwaXFfRk5YejdUTDk5NUtzSXhOR05mS1RycE5wTVNlOEduV3IxLUhORFJzX1BFWURFWmFodzdCbEY3QmpXdUs1eHpGZDR4X0N2UXVwamhBYVRXREtKckYtVzYzeU9sS21jRmZHLWQtTkVkRTdvNlVtQ2lIRm1wWjl2REpuUmQyTTlz?oc=5",
@@ -6445,58 +6497,6 @@
     "lat": -17.19857,
     "lng": -46.90948,
     "hora": "24/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 221,
-    "data_dia": "2026-09-30",
-    "titulo": "Incêndio na Grande BH expõe salto de 48% nas queimadas em Minas Gerais - RibeiraoDasNeves.net",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJVTWNiTV9vYXNKQkt3RFJZc2xySGNPeDUtUGluU043QVBMUTlhRE1femtIWnVMaXB1SGRRSVZhUFBxWTdsTk55ZWJDM3llYXV1NVpjMXh2T3FIRW9jVzB1T2pVM05QdUFDR1dNUHFCTzgzUEVGbGRrbUZ2SEVwd3R5RjRuajFrcHRaSUFGSDJzTXV2N2dQaUdnMGZmUVRZOTJ2RzE0eVJMcXpBb1FDcEd1cFI5b2FkZkhMbXh6cUQ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92425,
-    "lng": -43.94765,
-    "hora": "Há 1h",
-    "recente": true
-  },
-  {
-    "id": 222,
-    "data_dia": "2026-09-30",
-    "titulo": "Celular superaquece durante carregamento e provoca incêndio em casa em MG - ncnews.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmZUdVZBdHFISnhxVkxOWDJ1aklqSnY5Q09PZVp4VzJlako0Rm5JQXIyYTVwYTRoMkh6c3Y3aVJ0TFlvX1h2aEZ4UDNiRkVHOWlETlRvb0lKY2V5UEdYbGdIUFFraHQ0Yy1MaThiUXBxU0Q0R01PaDRFVWhmSF9mbDN4WFc?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92241,
-    "lng": -43.94623,
-    "hora": "Há 7h",
-    "recente": false
-  },
-  {
-    "id": 223,
-    "data_dia": "2026-08-30",
-    "titulo": "Bombeiros resgatam com rapel homem que caiu no Ribeirão Arrudas - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhVRDlyWGZKMkxkQTR5dnNEeUV3cUxiaFU0V0hVWHA4c1A0a3NJV1AzVm5CRnRmOEE0ZE1MNF9HRXpfd0pLaUYtdjBwNjVMWFZZT1pkc3lIZkp6ZjZ6WFN0SF9GWHJZZXRMRFdtSDNSUlZILVpSZGk5TGg0bHQ1RW1ZLUx2YnRVaDI3bGZXWkltYmRSWk1Db3VMdkdIeVdrcXloSGV3?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.9246,
-    "lng": -43.94334,
-    "hora": "30/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 224,
-    "data_dia": "2026-06-26",
-    "titulo": "Bombeiros do Paraná integram missão internacional de busca e resgate n - jornaluniao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRGpvLUxfTXZjbEF0MlBwOTNhS1dVQjYwWm1nUVlQQnI2ZE5IRHkzSWxQcmpQaU5rbFlOX2VVQnV3dUdvQjRBRUVmcWlHckhnYWpDS2xRN1VaYkVCRmNyRDlCeU1lMkRzN2JRWTJHZ1liNlQzNmJuYlZwTkp0a0ZQTVNZdmhBaUlkVU5DLW9GclVxTnJDZlZTVGNSaXlNdjNneDNyYlhMdXdFVjBKTVlIRWFGNkJnMXdENnpBMGdTQmpCQ2xnakZlSlRkVUlJSHZ2WjdkeVRTd00wU1U?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92208,
-    "lng": -43.94489,
-    "hora": "26/06 04:00",
     "recente": false
   }
 ]
