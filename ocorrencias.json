@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-07",
+    "titulo": "Trabalho de corte de metal em veículo pode ter iniciado incêndio que mobilizou bombeiros em Janaúba - Gerais News",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOW9WZkxVUldzcFhUWG9IZzlRTU9kdGQ5RnJpVmZCSWpPLV9UMDNGd2NiYlg1aWpaTDU0X0U2bDFjUk42SFZVeGxFZ3FOcms1ZFFwaXFfRk5YejdUTDk5NUtzSXhOR05mS1RycE5wTVNlOEduV3IxLUhORFJzX1BFWURFWmFodzdCbEY3QmpXdUs1eHpGZDR4X0N2UXVwamhBYVRXREtKckYtVzYzeU9sS21jRmZHLWQtTkVkRTdvNlVtQ2lIRm1wWjl2REpuUmQyTTlz?oc=5",
+    "local": "Janaúba",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -15.80945,
+    "lng": -43.30559,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-07",
     "titulo": "Prédio que desabou no Brás, no Centro de SP, não tinha Auto de Vistoria do Corpo de Bombeiros - G1",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTQ5MExDc0w1b09TMGZEMHNXRmVLdllyclZaX3Y4OV81UFFQMUpIamlJVXZEZERWb05KcXNjak9WcEM3eEtudTU0VHBtSF9TbTlYb0NQQU5KbzZ2eHZfd1kzVV9QaWxNby1HTGhGMVNENlp2c0szZDBVQmFKNlNZcFVnM3VOcm5qWGd6c0JZUThNeEtsMVdvMHBJaWk3SDdsb3dZSU5NZTk3QzdqeThWbVQ3bGdOY0o3VTBuS0JVUlhJYkk1SUxJbEh1U0lEb09lNV9FRDctUTVLSnBSNEtISDdka2bSAfMBQVVfeXFMTnZMQUJCLWJkd1E0TVJkVkt3LVVnbjlzVnUxRTI2N3p6NlllUWo1bmY2Zk4xTXVpNDZRbmpYUFVyOWNvcnNCcVMyV1Y2WEhfUU05MVY3UHNNTm1jbHNDU25zam1laFBYX1BSSjRkaGZvVWEwcmFEa2FNeFFzVnFSOWJZbnhKV2daNHdPRTd4b3BnN0xsdkV0Z29sUU56cEE4RXRDM1Rqdnd2U3BXRl9DRzdyMUdJcWw3c1RfMjRMcUt4THRqa3JlSWgyTHZlYVdLdFgxekhhMWFBcXhVY2pCMTZ6dHhTaDd0dE5ySWZxVlc3ZWxV?oc=5",
     "local": "Minas Gerais",
@@ -6485,18 +6498,5 @@
     "lng": -43.94489,
     "hora": "26/06 04:00",
     "recente": false
-  },
-  {
-    "id": 218,
-    "data_dia": "2026-09-30",
-    "titulo": "Corpo de Bombeiros de Unaí atua em incêndio em edifício - portal iluminar",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnhIUDhUeXBaaUkxSjlFNnJ4ZndUOWtlRDBqbkhtQlRJbFpIeUhXVDZvQU9mem1kUVRXRVFOT2hGWV9zRjhaVmxBT3pyUzlONk5XOWZIUGVjTkRsMm9JcFZwUF82WlkybUxiRTlETi12N2NXb0J1eGNxd0xWZGc4dnQwSnRJTlVpOEJiaTEzTkxCd3RZSmhxVENjYzV1QQ?oc=5",
-    "local": "Unaí",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -16.36153,
-    "lng": -46.88989,
-    "hora": "Há 3h",
-    "recente": true
   }
 ]
