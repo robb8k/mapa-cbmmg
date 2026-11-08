@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2016-11-18",
+    "titulo": "Minas Gerais torna-se referência no salvamento em desastres - Agência Minas",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHBGclVPV3hEOFdGZ0l1LVZCd0pIN0h6RWlZcUo1UHJTVzZJRG1EczZRcm1ud3RiRUJ5MjVxb0FPYlo5TWJMbGdsN1NjWmlDWUlrd3JDd2ZDT2tUTTFKamRkeFA3N2ZhNkVySlRXM01rZmhueG5OX3k5S09LdXBxMWowMmltcTlHLTVRUUE2eVNOdm5NNk9MMlZGbVZvWEI1V05yVy1JblNYa1E?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92487,
+    "lng": -43.94603,
+    "hora": "18/11 05:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-08",
+    "titulo": "Colisão entre carreta e caminhão provoca incêndio e interdita BR-381 em Itatiaiuçu, MG - Plox",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQW5fYWUtSVlrVVc4dWtjS0RUaVNIamtmMGFoM3JDYzhXRG9VVkFDQTdKako3ZzdZRktLS2Zfcm02VzVFLW1uNFgtTzJ4ZHBjeVZlTURLcF9uemJPSjZxdWw4am56Rm9vQXJBbTU0dXNySGxMMFl2YmtzUXpoQms?oc=5",
+    "local": "BR-381 • Itatiaiuçu",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.28675,
+    "lng": -44.43339,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-08",
     "titulo": "Morre piloto de helicóptero que caiu a caminho de casamento em Minas Gerais - ncnews.com.br",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wYkxSN2x6d1dtMzJtU0N3XzVHSlhRNk5GMmtuSFpUODZOZDZFeTJMYWJOcmhXdlpJVmppTXdjS0R2VkdXMElCbVZHT2RJSXhTeDRQRjdDa3JHbU9WZmxuWkpVZ2pYLVZyYktuU2FBX2VZOWZsT1VrME0tNA?oc=5",
@@ -6471,32 +6497,6 @@
     "lat": -19.92532,
     "lng": -43.9449,
     "hora": "31/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 228,
-    "data_dia": "2026-06-28",
-    "titulo": "Quarto voo brasileiro para Venezuela decola com bombeiros e donativos - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTZHVDR0dVRodlhHV3V5R0NSVW5uNDNqSkYtMzd6ek1HNm9vLVc0Y0lZUGdOZWRRR0ZFQlZHRHk2TmE0VUdxZDE5VkRrRUNtcUNIdXdSZTAzdmh0Tno1WGZPTk1WcHV2Sy00dDEyZmM0Y3ZoMENxOFk1OHN6RTJGZ3NwU3NZU3ZZZnpDYllYSUlsbURrMHFaYWp0d2M1M1E3dUlMMkpvck9JZlBQbzdhS0Z1UVJKQnROZmg0RjNUbjhNZUFZQ1RXMnJyTjA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92391,
-    "lng": -43.94698,
-    "hora": "28/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 229,
-    "data_dia": "2026-08-19",
-    "titulo": "Incêndio destrói casa e deixa dois feridos após desabamento em Votuporanga - A Cidade de Votuporanga",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1Nrcm1ycHQ5Y211SnpWQUROLVo1TUVPZ0dkNHZxZnNHSGtTX2ZCYURlWUxoQ1dnNm5pU2VBT3g1WF9sOTlGWFNXXy1Md184SlZaVmtEMFY5VUNkMmt4SXpXSE03eGd0VENkYWZlREk2Q3NPRVVqblhqcE5obXlucDB2azJlMllJTkdkMExtVFE0azJWaE1USi1BeTZ6VlZhVTl6MGVDekRORk0xZENodXIxLVdBajNPYjhjU2RrRW9sNWlQbFZwSF9HT0w3blk?oc=5",
-    "local": "Votuporanga",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -20.42427,
-    "lng": -49.97707,
-    "hora": "19/08 04:00",
     "recente": false
   }
 ]
