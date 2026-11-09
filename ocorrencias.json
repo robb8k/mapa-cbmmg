@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-08",
+    "titulo": "Colisão entre caminhão-baú e cegonheira provoca incêndio e interdita BR-381 em Itatiaiuçu - Lavras24Horas",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODdlUEtEUXVoU0dxYlZzaHFobEs2aHhWY3JFMU9lRjNCcTQ2RVZrSktlOEpROE1zU1RTOHlPSmpvTDZOa0VYbG91OENPQkk5dEhUaXd1TENkMV9UMHc1TEFJd0U2amxTTElvQ3daeC1vX1IyLWtoMTJlVlVXVmYtaGJSWElpVFI5TzlyRHBUOW1JRlNoeWZ5eGpVSnJYakV1U0ViQW1VN0VBUTZUNHoxWTdLYi1WczBLOVlCQXJ5dnMtZGlOcTlLeV93?oc=5",
+    "local": "BR-381 • Itatiaiuçu",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.28981,
+    "lng": -44.43498,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-08",
+    "titulo": "Helicóptero cai em Passos: vídeo mostra queda; piloto morreu - 40graus.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tM1NMUHpqX2tXLTF2X28zaUM4dWdmSE56NkxLZXRRYlRYZG5rOTA1Vm12UGk0X1M0bTlVc2oxNG1TWUl2M2JQTkU1cWl5eUx6NWN4bDFUbXRSZTJOT2hKN3F6aEJMZG82REdvRXAyNHZuT002WUJZWjI5VGwyQQ?oc=5",
+    "local": "Passos",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.71406,
+    "lng": -46.61516,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2016-11-18",
     "titulo": "Minas Gerais torna-se referência no salvamento em desastres - Agência Minas",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHBGclVPV3hEOFdGZ0l1LVZCd0pIN0h6RWlZcUo1UHJTVzZJRG1EczZRcm1ud3RiRUJ5MjVxb0FPYlo5TWJMbGdsN1NjWmlDWUlrd3JDd2ZDT2tUTTFKamRkeFA3N2ZhNkVySlRXM01rZmhueG5OX3k5S09LdXBxMWowMmltcTlHLTVRUUE2eVNOdm5NNk9MMlZGbVZvWEI1V05yVy1JblNYa1E?oc=5",
@@ -6471,32 +6497,6 @@
     "lat": -19.92075,
     "lng": -43.94491,
     "hora": "15/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 234,
-    "data_dia": "2026-07-02",
-    "titulo": "Bombeiros de Minas enfrentam desafios em missão na Venezuela - Rede 98",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXRBaXNGbFBXZTI2M1BQdFhvMW94RE1LaWtkMEZSNlhCQ0FXQUJaT1VCaWtjdTRZM2VQMnhranFrV3hycC1jXzEtdmtZX05qOE5BMm5faHVvYU1ic1RPVlY4SENNanF6cV9NaDdLNlozSHdtTUpSTWphVzdyc3lUUGRuWWJoeHBVbThLTW03UGNqVEhRWlZ5WXhoMGE4QlRhdXVGVkRmRkg1Y0NPUlNhcjBOLUJDXzBOSjZTaGkwSEI5ZkhFa3lyempyMENwMF9hXzhKVEhxN08tVkFwNkdJcWNUcHFpQQ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.9209,
-    "lng": -43.94479,
-    "hora": "02/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 235,
-    "data_dia": "2026-07-31",
-    "titulo": "Incêndio na Serra do Curral, em BH, mobiliza Corpo de Bombeiros - G1",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNFI0Q3BWNzlWSmxLLXZWbTVmZEpDSVl3NVl5Vk1CQjhRV0lFWU9iLW9RLWRJaXNENk9zR1JZQlVFWnQ2QW9EN3NzYjQwUXhoRGM3djd0WG1Gcm1WUlhOVmE1YVJzdzBBODNfMUlkTlVEV1QzNUZ0dWUwZ184QmRyUDBCUjlsbUFpM0MtSzZsN3hSOE5XOVJGWmdJWUR2aGtZNmRUWS1hNnNhdEpIbEc1bFh3N0pnazdmSldQU2MxTlRxYk9jT3hrOVpEUmNmLVBMdUhCNzRBcHBsT2I2dkE?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92532,
-    "lng": -43.9449,
-    "hora": "31/07 04:00",
     "recente": false
   }
 ]
