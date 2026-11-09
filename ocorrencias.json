@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-08",
+    "titulo": "Vídeo – Duas carretas cegonheiras pegam fogo após acidente na BR-381 - Itabira Online",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVURIS2t1dkhTTWtkdGFydTVqeXo3WVpCVTZ5dVZtcnpvQmk1bF9iUTVpRU1RcXdZNHNTeFJHc2hwQU1tWktNMTd5QzgzZS1qeDQ2VzcwMjVwc09Wb1pvaVJJdGF2NTdNaEszY0drR3doU19RU3NXVDR1RlNPajRGUEdQclZreE1meHhNMzJMRGRLSXlUNkZ4dzhyM1JmcWNiaV9IanRWbEhHOTA?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.85456,
+    "lng": -43.89694,
+    "hora": "Há 17h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-08",
     "titulo": "Colisão entre caminhão-baú e cegonheira provoca incêndio e interdita BR-381 em Itatiaiuçu - Lavras24Horas",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODdlUEtEUXVoU0dxYlZzaHFobEs2aHhWY3JFMU9lRjNCcTQ2RVZrSktlOEpROE1zU1RTOHlPSmpvTDZOa0VYbG91OENPQkk5dEhUaXd1TENkMV9UMHc1TEFJd0U2amxTTElvQ3daeC1vX1IyLWtoMTJlVlVXVmYtaGJSWElpVFI5TzlyRHBUOW1JRlNoeWZ5eGpVSnJYakV1U0ViQW1VN0VBUTZUNHoxWTdLYi1WczBLOVlCQXJ5dnMtZGlOcTlLeV93?oc=5",
     "local": "BR-381 • Itatiaiuçu",
@@ -6485,18 +6498,5 @@
     "lng": -46.91032,
     "hora": "Há 2h",
     "recente": true
-  },
-  {
-    "id": 233,
-    "data_dia": "2026-08-15",
-    "titulo": "Incêndio em galpão em BH atinge associação de catadores no Prado - G1",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnpNWjN1NHJmc1E4MmF5NDhHbndZZVBscDVQanJfYTc2SElsLUdralNwWHpBekFlaWwyQ3FnbzJRYnFDTDluZW8tRUxZSTdGMkxPT2ZOdUJnNllrV1h3cnd6ZmwzSTZpdGFyMm8xSzdkOXRQTjU2bHpGZjVyZ09RbDBwd2dkUWN0d2FtaTZLS2pUWlZUMS1JVHE5TWdyU0xQQ1E1cnZZYlpuUDMyQldXUkRxd1JlNzc5dm1fV0hDSWJFbTRoUmlyRk9IYnRoQjcxbUFoQ1hqZlNUdw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92075,
-    "lng": -43.94491,
-    "hora": "15/08 04:00",
-    "recente": false
   }
 ]
