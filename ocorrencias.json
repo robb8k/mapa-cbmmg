@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-08",
+    "titulo": "Acidente na região da Ponte do Coalhados deixa uma pessoa morta em Oliveira - Portal Gerais",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXRqeHJBWS1oUmlLc1QtMFk3c2lpXzRkaHBnQjdEbFowaV8wUmNYdkk3VGVjR0Y2RUVPZ1BNWHQtR1dZUlItZ3dlVzV2NFpCMjB6bE9zYlduWEdaSGhJZG1LSFU0QkszM0FuendMazdVdnVtOWhlaUlaZ2dJX25pVGtZNThTanYzbi1uUUg5cXNBMmZqTW1VYkptVU1ZV2tIZzdr?oc=5",
+    "local": "Oliveira",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.69632,
+    "lng": -44.82633,
+    "hora": "08/11 06:57",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-09",
     "titulo": "Incêndio atinge residência abandonada e ameaça imóvel vizinho em Araxá - Araxá Agora",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGpfbG5iaVN5WXU4UmVQQmN1d2hxUVJXbFYwUVZJSVBaTk56M1pWa3N3bUZjUmJGTGJMeHpTbDBJODhqeDN1TGtVdUxRS25DSWlNLXJ2U3owMnMyajFMMWlVa1Z6bHV4U2ptQkNJb00wSXBDblFQRzZDY2VkbkJ4d3lLYVJid1d0b3ZmUDh4RTJWS1BKLTYwVDNUSHF5T19Lc3FsY3M4WWRXTG53?oc=5",
@@ -6485,18 +6498,5 @@
     "lng": -43.94675,
     "hora": "Há 2h",
     "recente": true
-  },
-  {
-    "id": 246,
-    "data_dia": "2026-07-22",
-    "titulo": "Vídeo: incêndio em fábrica de palmilhas assusta moradores no interior de Minas - itatiaia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3BFOXo2YmpBRVN3UFdJd2s0eFJvZVhQU0ZZLVpVVllYVzliQ2IwSWJBeVlLeHNITVg4MFJrNWNIckg4N0xWM1JEem1CNk1iUkprNng0aldXTkNYczFON21KYjFIT1BlSzV2ck5aWFJVQmtFN3ZvcTJ2Q2JSanBOaW5CaG4zelp0dmlwUm45SXZhRXZxa2xJcUx0eWNuVlpaVWNjR2JwQlhzSnlPQ0RBM1BEVDVGUXRTMjdCYUJWMERwdw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92249,
-    "lng": -43.94632,
-    "hora": "22/07 04:00",
-    "recente": false
   }
 ]
