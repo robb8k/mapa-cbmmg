@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-11-10",
+    "titulo": "Crianças usam técnica do Corpo de Bombeiros e evitam tragédia em incêndio em BH - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXdpNlhmbUsxbDI5N2hIQlRBTTI2SElmUDQzR0piVVhWZ1hON3hVREhUVmFpV0pFUzNuS0VfWEVjallfZGgyX0JpN1d4TnJmeUNHbXpGVWhWM3JEc2ZrdGp1OHFmbmtkRG51aXJiQUpDb3MwMTBUWFcxWXpRaG9XcGZLOWt6ZFFIZ3FLbzBjTHIyQTcwS1dMWjFQQXZYQ0VFX2pLTmRtTVBBNTNyaUU1Q183RHk3bmdQeGFMX0Vyb2dnd3hM?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92441,
+    "lng": -43.94501,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-10",
+    "titulo": "Desabamento de estrutura mobiliza Corpo de Bombeiros em Coronel Fabriciano - Rádio Mundo Melhor 97,7FM e 93,5FM",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamVsYzdaV3RLdDFMU3pBWUR0MFJ2NFlCUGwwZG9oVlhGRmwxU0xxMmVORVhiOFZiYlBmenRLc1NjcVdiUjRpWlVUeG93YTZaR3Bxb2lzTTlxVnRqUzJ5dEZvRmZuVWhYYnEtbGJhM1ZrcjV1TUQ3OUVzM1gxRWxiY21SUV9QMndFRWxXMVZkakZtZTJlcmtNMU5TVkZZTDYxa2N3Q2Z1UFFpRWc?oc=5",
+    "local": "Coronel Fabriciano",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.51794,
+    "lng": -42.62713,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-10",
+    "titulo": "Bombeiros resgatam urubu preso em residência no Centro de Formiga - Últimas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IYmE2WUJvVHFVcVlQN0hiNGVhSzkzZEZuLUVCZ1g0Qm5CclpVTkt3ZjV2N2JpU2VMTGREOXVNanU3ai1WekFEUlZ4WWNtZ0xNaHBUQjF2NlRrY0ltU25yYjF5QU9oZjNhamp2QjNjdTY?oc=5",
+    "local": "Formiga",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.46542,
+    "lng": -45.42553,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-10",
     "titulo": "Motorista morre após caminhão capotar e cair de ribanceira na BR-356, em MG - G1",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFFUR3NRVGhOZEpPMERKeHRlRjdvSVN3alV5bUdwa0g2V2F2WVFQZkJVb3VEaWRUT3JhMDYtNU5pUy1KekVJQy1fUHI3MndtYW4temwzNmhDbmdneGNZVDROMVhfRzFmRkx3ZlhHSks2QWRzWGxaM3FtMnZaSHExQUhzSHZ0Z0RXekpDeXhNeWZ0OTZYSTVZRWtkdGc1Q1FxUXpsSVJxZ3k1cTdhdlRTRmpLdHFIWHpZcGt4dVNsOTNzNzdoQWVRbllSdGpBSFVwNnfSAeABQVVfeXFMUEx1WVA4TlFMVEFTYUprLWwwdm1GcVBUajZhSzZWcWNaeHBQaVI3a1BWVDU2bDhTdi1nTGtZN3J5ZU9sTE5sQkU4a2VkN3ZESThub3loSWtqS3JtNGtHMHdkR3dMbjFoM0JvWVZ3Q082ejV6WGxtcHVQM3kzbU05NE4tMGdmNkY3OV9JUl9VUWJ5YjBQNk1lNEp0RnVwMGZBV2RMMlJHc2R0MW5RVUNRekUxT2JKYzdIUFdfeGVaWGJtTUpwNFNjdTNnTVRJb3h0MnJ4dUxpVDJsaGNWYVpDQmM?oc=5",
     "local": "Trecho BR-356",
@@ -6459,44 +6498,5 @@
     "lng": -45.25025,
     "hora": "Há 1h",
     "recente": true
-  },
-  {
-    "id": 257,
-    "data_dia": "2026-08-20",
-    "titulo": "Vídeo: incêndio em mata ameaça rede elétrica em BH e mobiliza o Corpo de Bombeiros - itatiaia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2h2XzhHNVZxX1dlZDRsbGFGRHJaV1RIZFhvLVpYbGdFaWRaNkxqaHhLUko1YkhKTjYtM1JYNW9NVVY2SjViZVNNc0xWdTdlM1l6QmRuQUNXVFdqQk1ZQzdVV2R4T1c4cUlEbW5vR3lHdS1SQWE1Ui1TYjRDVmdvN2JUVG5oVWFuMWlLWjVyZXZtemtFTWZNa0F5aTdzcW1uOHpwNEV0X3dpVUlMRGRubkF5Z3A3UUZyYjdnQTBMWGh3NnFGcUJB?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92097,
-    "lng": -43.94758,
-    "hora": "20/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 253,
-    "data_dia": "2026-08-25",
-    "titulo": "Princípio de incêndio em relojoaria mobiliza Bombeiros no centro de Araxá - Clarim Araxá",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQThBbGRYLU55MmFud1IydVBmalUtbC1GZjVKalRtbVhnMkprTkFoOGp3SG9GcTV5MC03aXhGWmJsWjMwNE5uU0l5a1U1Z2p0a195bmx0anBvVkpiUV9VbnpyNEYxWlBrajcyaXoyLU1kaEp5cWl0TmpraFA2NDY1VHR2RHFwNXZUUHBTNmVubWtNS0lrNlNUakZpWHE?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.9205,
-    "lng": -43.94672,
-    "hora": "25/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 254,
-    "data_dia": "2026-08-17",
-    "titulo": "Bombeiros combatem incêndio em galpão de armazenamento de café - portalimpactto.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWE1UWZjZjR1MXJoR3kyVHp0ajU1VXlBdFdINTlja05vckZpelJfdk9KS3NSMnVKTlVPNnFTWmRuSjR2NWNSbFQ2SmhEd05RLUxkbm00OHF0V195d20xWWx2MmdYMGRoZzJuZzNCVllsanV6anYySHkzQkZ0Ni1KQVcwdWVWNklSMGpaWlI5N0EyTFM5RUxkV3BySUV0OEx1QjJTNldVVUgwdw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92395,
-    "lng": -43.94339,
-    "hora": "17/08 14:19",
-    "recente": false
   }
 ]
