@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-07",
+    "titulo": "Desabamento em circo de BH deixa mãe e filha feridas durante chuva forte; bombeiros detalham - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbERPLVMyWjVyTWFqaGRaRGZ1QXZaWHpPRm5HQVA4WENfRkdkZHE4SFloWlRTLVRIVkg5NUpqU3JYN0I1a2E1VFpoTTRMV0k4bmxwamdUZmpnRHM5UkEtdzFDZmhfS0RnbWU2ZHJ2VTBhRzJKNWFuVlJaMU9IS0N6SkxLdUlydjZ6YV9CWDVIbWNwMjRSa3N2ZHRKbUxTRFZLaXV4eFUxYkQwQmx1eEVKc3lrbVdrXzY0R0wxREJHU3YxUGlUSXVaYWRLY3U1ajFMNXkwag?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92138,
+    "lng": -43.94553,
+    "hora": "07/11 18:40",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-09",
     "titulo": "Fogo consome parte de imóvel condenado pela Defesa Civil em Juiz de Fora - JF Informa",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTzV0WGhHc0x6Vk5XMURiVGRhUHBDUk9pNDVwdloybl96S0Z5aDE2akd0QWdHNGd1OWZhOFJTM0dlUGprUXc5LWczN01jR1JWYjZTUFBHOXBNWW5qQnV4ekNyMk44SXNKZlZRMzBB?oc=5",
@@ -6485,18 +6498,5 @@
     "lng": -43.94571,
     "hora": "16/06 04:00",
     "recente": false
-  },
-  {
-    "id": 255,
-    "data_dia": "2026-10-04",
-    "titulo": "MG: Corpo de Bombeiros combate incêndio em local de votação - itatiaia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkI5a1RkSnU1TjE1akFEbGFjcHJ2T2NDZUlfNUNXSmYxbzY3UVR2MER6VUdHOWIxTmwtT0RCMFp5NVlGd3ROdWVuekZ2bVI2ejFaQ28wVm5CSmtWTXFoNUJDZXMzel9EelluT2J5VHJTeHZzeXB2QnNLSHYwM1J0dU5Wa2QycmJlM2I0dXVKMkNadktxbHpJdU9INUJXSjE2RVRtalRFQ2g?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92299,
-    "lng": -43.94366,
-    "hora": "Há 3h",
-    "recente": true
   }
 ]
