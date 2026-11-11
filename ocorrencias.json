@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-09",
+    "titulo": "Fogo consome parte de imóvel condenado pela Defesa Civil em Juiz de Fora - JF Informa",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTzV0WGhHc0x6Vk5XMURiVGRhUHBDUk9pNDVwdloybl96S0Z5aDE2akd0QWdHNGd1OWZhOFJTM0dlUGprUXc5LWczN01jR1JWYjZTUFBHOXBNWW5qQnV4ekNyMk44SXNKZlZRMzBB?oc=5",
+    "local": "Juiz de Fora",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.76285,
+    "lng": -43.34763,
+    "hora": "09/11 11:30",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-10",
     "titulo": "Crianças usam técnica do Corpo de Bombeiros e evitam tragédia em incêndio em BH - Rádio Itatiaia",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXdpNlhmbUsxbDI5N2hIQlRBTTI2SElmUDQzR0piVVhWZ1hON3hVREhUVmFpV0pFUzNuS0VfWEVjallfZGgyX0JpN1d4TnJmeUNHbXpGVWhWM3JEc2ZrdGp1OHFmbmtkRG51aXJiQUpDb3MwMTBUWFcxWXpRaG9XcGZLOWt6ZFFIZ3FLbzBjTHIyQTcwS1dMWjFQQXZYQ0VFX2pLTmRtTVBBNTNyaUU1Q183RHk3bmdQeGFMX0Vyb2dnd3hM?oc=5",
@@ -6484,19 +6497,6 @@
     "lat": -19.92299,
     "lng": -43.94366,
     "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 256,
-    "data_dia": "2026-10-04",
-    "titulo": "Local de votação nas eleições, escola pega fogo em Bom Despacho; bombeiros controlam incêndio - O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2ZkVlB2MEdoSEJoZGZmUW9tekRXUHJnSTNVSHVYZzlqZHM1d1VhQ3BZOTB3Sld5TFJwQzJDNkFianpTMWFSWUc0bnA0YkgxVF9yQWNFVXNqcHpDdUduUU1HcFhNZDc5ZFpycnhwVmlNNlVfRTFtTTQ5T3cyY3RmbWhTYzNBRFhxVlVYQTVqUGx5bG9qX3JlUjlGN1pjOXRNM1ZaRG8wQnU4aGNzNnJFdC1GVVNiR3ZXenV5UDJha28zUVdCNFNHVDBJSHBUMHdS?oc=5",
-    "local": "Bom Despacho",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.74002,
-    "lng": -45.25025,
-    "hora": "Há 1h",
     "recente": true
   }
 ]
