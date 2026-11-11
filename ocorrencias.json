@@ -1,6 +1,45 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-11",
+    "titulo": "Batida frontal entre carros na MGC-491 deixa quatro pessoas feridas, duas em estado grave - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMXNEQ2xPWXlJcHBTaEJzTlVqS0liUldhQ2FVOUZueDB0VS1EdU9NZVdlS3NTWldvaU4yVUY4LUtJZHk2NVlpd1k1QzhMLVZNUVp0S2FKWXlLbUxOVXlVWmFzZjR4QzZVUE9YcUJWUEE4R08zNHYyNWNESTBmNzFaeDUyQ2NjUHVVWXhEQ1BtSkk2aWtKYXhwVlVKRVlJQWFIWG01UGQxSlpmZ1huaHpwT3Zid3FZckFXZkVIc2o5azcxR3REYWtRNzh6VVJHRHZI?oc=5",
+    "local": "Trecho MGC-491",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.42932,
+    "lng": -46.14078,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2023-03-29",
+    "titulo": "Bombeiros militares e civis defendem norma municipal sobre combate à incêndio - Portal CMBH |",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOU9uM21wSXZVTnd6Nm5EaFNvdWd2OXBuMl81MnFDdThNaGU5SHM1WkNmWk85NndYdFdkbTJJdl84MkFLWDVzOU9ReF9ZUkR0UEhXZEQxVVp5Z1NDR2pEQXRFdGE2ZXcwRmlfa3RtX0h5SGlqdU5zVTNtUGZRSUJPQ0pFUUZCUzVUQTlnMnZRdHJZRTJ2U3R0RUhjeTZTUHU5TjlPS1ExWFR1QUQyR0ppTjR1NXZJUHVBRDk4TWJFNWFRa2dZU21kTVJtTm9Rb1pONlIxdHpjcTJfd2kt?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92428,
+    "lng": -43.94684,
+    "hora": "29/03 04:00",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-11",
+    "titulo": "Corpo de Bombeiros combate incêndio em amontoado de lixo às margens da MG-050, em Formiga - Últimas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVVmYU5ReWZXSW9OeUpyam85Unlpblo2MmJCLTBLZm5GSHlHUVZMR21DNFp5N1hwSzhEYldzZG1RTTlVYWFvODcybnNvZ2VUS0pKSlZfaXhranhmQXl1dzhJLTkxVHBGYTVyQkptOHZ3XzRWTWF6X2lLbTctZE1fRTdyeWlmWnFmNjg2c2l3RzdzclczT1dUT2tibVBjcU1obXRxdzVpN285OWF4QzBNUmFocnRLOXM0YjNWT0F4SU9mY0FzcjUw?oc=5",
+    "local": "MG-050 • Formiga",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -20.44841,
+    "lng": -45.45686,
+    "hora": "Há 6h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-07",
     "titulo": "Desabamento em circo de BH deixa mãe e filha feridas durante chuva forte; bombeiros detalham - Rádio Itatiaia",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbERPLVMyWjVyTWFqaGRaRGZ1QXZaWHpPRm5HQVA4WENfRkdkZHE4SFloWlRTLVRIVkg5NUpqU3JYN0I1a2E1VFpoTTRMV0k4bmxwamdUZmpnRHM5UkEtdzFDZmhfS0RnbWU2ZHJ2VTBhRzJKNWFuVlJaMU9IS0N6SkxLdUlydjZ6YV9CWDVIbWNwMjRSa3N2ZHRKbUxTRFZLaXV4eFUxYkQwQmx1eEVKc3lrbVdrXzY0R0wxREJHU3YxUGlUSXVaYWRLY3U1ajFMNXkwag?oc=5",
@@ -6458,45 +6497,6 @@
     "lat": -21.42996,
     "lng": -46.13368,
     "hora": "04/10 13:21",
-    "recente": false
-  },
-  {
-    "id": 259,
-    "data_dia": "2026-10-05",
-    "titulo": "Incêndio atinge depósito de recicláveis e mobiliza bombeiros no Nova Granada, em BH - R7",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3lJenZMTHhOaUNPRHFLV1pxbldWeVlvcm51ZjJ6RFJHb2NMNWlPanEzWFduTEhJd1RLSktyTU9jMEdyZ2ttMVRGUEFKa2NXTm1sejNBYXZMUTBGUGFHcVE5SEdiTlB4YW12NmFjdUNrZWdIbUczMEJpSXVBY05SWjVSemVoVV81RldkNWxxUnE5UHJocV9ZQ0xhSE4xSzQzSTFKSS1xMEsxdEdMaU9Ja2owQlF6ZEZaMk1QTnpNN1RUclZtejJEbw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92215,
-    "lng": -43.94618,
-    "hora": "Há 1h",
-    "recente": true
-  },
-  {
-    "id": 260,
-    "data_dia": "2026-08-08",
-    "titulo": "Suggar dará suporte a moradores após incêndio em BH. Rescaldo continua - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlpkNklwb0VUY3VVYXktWU9IdVNKSllsZzJFR1U5OXYxb1NiX25kTDdjellCX1dzNHJPRTF3RS1RM2JhZDlGTXlfbUFBckoxblRlZGpOMkFpMGRpdjJvNlpFSWRHMnFMUXFCdGo1dFkyZk50c0RZZ2pLQzNPX25rdjlXZ1JMZ1ZRSUEtQ05XSGxKaGxmNHRJMkZfWmlEUkR4dFBjN3QzX2RWblJYX2c?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92286,
-    "lng": -43.94656,
-    "hora": "08/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 258,
-    "data_dia": "2026-06-16",
-    "titulo": "Acidente entre viatura dos bombeiros e carro deixa dois mortos no RS - G1",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXJsWEhzSGVuWnVkLUs0dHlkRjJpdTNjSkF0NG5JQk83TlpUTGlBNEdoWnRHN2tiYThod0V4U1pGbUtva2dXc3lrQ21CcXJ0bXVESEdKUUJUUzI1Zkt2REhud3RmWmxMOGc4NlhBSXBKd2hNTDdvMmxpMmdLcnlkdFdNSVNzWklxak5iRWM3eklQS3h6RWp5elpGaGNyNHFxX3NmQzVLVm9CZ3Q4Ty13NS1sOW9nQWVmRTFuN1lMZlVlcUVhUGZ4ak1QTXJPUUFy0gHfAUFVX3lxTE9aZzVnZE8wZHNKdHU3VTY4b1NSa2lwU1JiVUlwQ250aFNfZG4tdFNmdGVNVmhKQjBXcEN6d3VDLWx2VFJQcHI5WExHTzUtYWhnMlF3VkxjMDI5RDJhN0JsRFNDblhhU1NsdXdKUUQwMTRMTENjZnlhRlNCdGZITTR4cjRHVldVOF83QkE4cHhfRnFaTGhnQ3RIeDk3SGF5NXd2VGktZ1JwZ3AwRk1BTlp0LVVVd0EzdHJvakR6TUh5c2Z0SWxjcGhiUVBGMDktTEtNbkNJNnJISERzSGtJV2M?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.92435,
-    "lng": -43.94571,
-    "hora": "16/06 04:00",
     "recente": false
   }
 ]
