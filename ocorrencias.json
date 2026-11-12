@@ -1,6 +1,45 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-12",
+    "titulo": "Uma mulher morreu e dois homens ficaram feridos na manhã desta quinta-feira (12), em um acidente envolvendo um caminhão e dois carros de passeio na rodovia MGC-354, na altura do km 172, em Patos de Minas, no Alto Paranaíba. A vítima fatal era ocup - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNk5wNmEwQjlKR3NzMkY1VTN4Y2VqY2d1N0xHbG8wSGdoMVBsdG9YUm1qYlZDckRFbTZ0Q2hkRUNSV0tadjY1Ym52S3B5WVJGblE?oc=5",
+    "local": "MGC-354 • Patos de Minas",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.63396,
+    "lng": -46.47162,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-12",
+    "titulo": "Mulher fica presa em veículo após capotamento no Centro de Divinópolis - Sucesso FM",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlBJNFJjYmVHcDNSVDladkFfc0NqOVBBNlBENFZVc3piSWxucVc0SkNCd2FIN21POUxsaFpqTlNSSFpxbVlUZEdwcno4X090X0tobXFDYTE0YmQ5WE1EX2tLbnFWaUFmNmh1U0Fna3dTX0dBZEdaVWwxa2FCNm9CQklWQ2RFdEpMYUQ5bllqM2lLX2ZQd2p3TFBVZXNuRVRmSUYtQTlUT3poRlFy?oc=5",
+    "local": "Divinópolis",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.16064,
+    "lng": -44.87474,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-12",
+    "titulo": "Mulher fica presa em carro após capotamento no Centro de Divinópolis - Portal Gerais",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzJ6bWt6Q04xdTU5bUpNQjlwcXRORzFWeU5PRnV0eEtZdEc3YjR2dEhYZ1R4OENsWkNheWVvRzU0Z05KSU8zeDhFbjBiTndmRkhZcXJGSXhnS2QyLVRqMnlPNVpUd0Q4NUdRall5d1l6UzAydWNkckxRSlF4ZXZzQUxNUU0zbVU3WnllR3NmM19GQm5rYU9Uc1Zn?oc=5",
+    "local": "Divinópolis",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.15712,
+    "lng": -44.87374,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-05-04",
     "titulo": "Acidente aéreo em BH: Defesa Civil faz interdição preventiva de prédio atingido por avião - G1",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdjZUX3NfWThEOGk3QnB3eXBZazAyT29uOWpxQjRGakxWOVB2M1JOOFlWNEktRzZNX2xCeGJIa1VuVzJOQzlfcUhhQm9YZGg0bHFxSjUxRmt0TmhKMzVscV9HbDJHQzNySWdXY0hsRDNmZF9PNUtCdXd6eWpwS0pjTkE5YVowQkFUeE8zZ096WlpEYk9uMjROZXVYYzBhNmVLaExEZXFTMW5saVVGaTVmc2swaHhaZnRkZEdkdHBpS21ua3JhTGNiNHpWcGpMZlJFeEJFWkFxMk1pTzFSakhTUXl3NVTSAfMBQVVfeXFMTWlqRXpHMFVsakQxOEFCZ2xuNkVhWUZ2M2lNNHZIQ0hhSFlrUG5PVDgyNWIwaUlnbEY5ZjFoODlVenN5QmJOYTE5NUtWNkw3b2NSZ0kwUzNxZ0NvaEEtSjROMmJzRzFvUzNuRHNVdjlQMmt1emhBekJVd1haM0RPNXpBWW1wNVZGd2RGM3hrclFkU2JmYjZaYXJYVmdkZS1heldyQ1B6MmpoZWVjUDZvMUhmNV9Rc2tRVDktMFJXckRiMnRvc2ZoWk9tR2MwLVZPZEsyRDRFTjFKcG9xT3N3VWN3WWdYajlXUm1HN1pKemdaaVVz?oc=5",
@@ -6459,44 +6498,5 @@
     "lng": -43.9454,
     "hora": "Há 1h",
     "recente": true
-  },
-  {
-    "id": 266,
-    "data_dia": "2026-06-26",
-    "titulo": "Bombeiros de Minas serão enviados a Venezuela para ajudar em missão após terremotos - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzhnUDhrV0gyWE9GMUI4a1I1Wm0xOEFxSkhZQjJhcVRpZUNwcEE0d0VyU2JnV2hiZW1EV252a1U3QmZtRWJqeEU5a0JuZ21MN3ZESXpwYzRUTDY4MkNJQjlsUW5jYlhXcXJtN2g2anoyZFBZU2p2NllUcDVZaXM2VWlyRHltRlg2Sk83UmZ3NEIxM1RhTEVlbkRFSzBHTERTaXNqbzBfQTVPSXU3WlNXemlXaXV3VnpycWpVUk53TWE3YXhsWDBTXw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92538,
-    "lng": -43.94654,
-    "hora": "26/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 264,
-    "data_dia": "2026-10-05",
-    "titulo": "Acidente entre micro-ônibus com pacientes, carro e carreta deixa feridos na BR-251 - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzRiN3MzQ3FuTlJFbk5jX3JYUXJHa0FSdUJaMGViUUwzd1Q2TjVRalhkNTBNT25vcGZNVFNpR2l0Q1RaQkhjck9FWkgwbGE4YS1OUmpUOWhYRE9xZEpsSkdUNmxiMjB4S2RaNE1Fb1pPcl9fOVJnMHlpUWlkZXVCT1hDcUVVQXpCOWxfWHJpcHJxaUxqVmczTEFnRXRFcl80RDJkemkxdmZZdFZWZ1ozYkdQNkFzc0lhVGpHb2hoLTdIX01BTG9v?oc=5",
-    "local": "Trecho BR-251",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -16.32813,
-    "lng": -46.94285,
-    "hora": "Há 11h",
-    "recente": false
-  },
-  {
-    "id": 265,
-    "data_dia": "2026-07-22",
-    "titulo": "Buscas por vítimas de afogamento em Araguari entram no terceiro dia - Impactto News",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1c2SjhmQ3pFNUVfeHNmTTBTRGQ5aV81c05WVTJaMHFGUGMxbjIzZlhpU2M5Z0NaOEp0c3hwOGc1NExJMnQyVUZmSFJIOFh4V3VTR1lyWG9rTEVmZjUyZDJlMHIxUUw0YXhqcWFKN3RadXBneGRycHAwQkR0ZzZ5TnRzdTFuTkdSQWgyazQ5RDlfcnBldnViNDhaS3RYZTF5anVwajQyeTI1MmpFMjllQw?oc=5",
-    "local": "Araguari",
-    "categoria": "aquatico",
-    "categoria_label": "🌊 Emergência Aquática",
-    "lat": -18.65139,
-    "lng": -48.19086,
-    "hora": "22/07 04:00",
-    "recente": false
   }
 ]
