@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-05-04",
+    "titulo": "Acidente aéreo em BH: Defesa Civil faz interdição preventiva de prédio atingido por avião - G1",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdjZUX3NfWThEOGk3QnB3eXBZazAyT29uOWpxQjRGakxWOVB2M1JOOFlWNEktRzZNX2xCeGJIa1VuVzJOQzlfcUhhQm9YZGg0bHFxSjUxRmt0TmhKMzVscV9HbDJHQzNySWdXY0hsRDNmZF9PNUtCdXd6eWpwS0pjTkE5YVowQkFUeE8zZ096WlpEYk9uMjROZXVYYzBhNmVLaExEZXFTMW5saVVGaTVmc2swaHhaZnRkZEdkdHBpS21ua3JhTGNiNHpWcGpMZlJFeEJFWkFxMk1pTzFSakhTUXl3NVTSAfMBQVVfeXFMTWlqRXpHMFVsakQxOEFCZ2xuNkVhWUZ2M2lNNHZIQ0hhSFlrUG5PVDgyNWIwaUlnbEY5ZjFoODlVenN5QmJOYTE5NUtWNkw3b2NSZ0kwUzNxZ0NvaEEtSjROMmJzRzFvUzNuRHNVdjlQMmt1emhBekJVd1haM0RPNXpBWW1wNVZGd2RGM3hrclFkU2JmYjZaYXJYVmdkZS1heldyQ1B6MmpoZWVjUDZvMUhmNV9Rc2tRVDktMFJXckRiMnRvc2ZoWk9tR2MwLVZPZEsyRDRFTjFKcG9xT3N3VWN3WWdYajlXUm1HN1pKemdaaVVz?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.91465,
+    "lng": -43.93377,
+    "hora": "04/05 04:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-12",
+    "titulo": "Colisão entre carro e motocicleta deixa homem ferido no Centro de Formiga - Últimas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjI0Tkc4WWZBM0RzTWJKeUM2NEVYZVJOdTRtaWQyV0J0TVUwZnh2VFVCcElSOGtjQmxXLWY4NnRITHJPdzRmNUZmSG1WMzJlSkJGUEwxc0hRaEZjeERMNnBrelVVMjZRcGxYRGVKdmg2X2pLS01HSmRzOGhJVm4xOFJWODc3R2lqZU96TmRyOGtUdE1wVWVET0RteUFPaUo0YVRNc0dpSl9mMmdfSnl6cVl6QQ?oc=5",
+    "local": "Formiga",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.46768,
+    "lng": -45.42873,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-11",
     "titulo": "Incêndio em amontoado de lixo mobiliza Bombeiros às margens da MG-050 - Jornal Correio Centro Oeste Arcos",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2NNVFRxaFpRU3hWbWx2ZkpiODZUSjYzMldqRF9SN3Y0QWJYaUxhN21nNzdQRGwza1lZMzFwc3hqR0xTZDY1S3MyMFFNRHRpWl9BQW03bDZCR0RPdlpKNVFGQjhHMmFDSEk2Rlc4bElTa09UMWhyeUhkcGRlZlhtT0xtZTNVbndINjlZY2hVOHdYd1llZG9NTFl4Ykl5NzA?oc=5",
@@ -6471,32 +6497,6 @@
     "lat": -18.65139,
     "lng": -48.19086,
     "hora": "22/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 261,
-    "data_dia": "2026-10-05",
-    "titulo": "Incêndio atinge galpão de materiais recicláveis na Região Oeste de BH - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdW9vWlp3cG8xa0FoNDJGTjB2MmVndU1IWkxlYkZnekhLcUphR3pKWlFpSTZpakhJaGExV1c1R25WN0JjRGVaLVpHTDZPSWxfNHBIVTNxajFYNGtubHllU1VQODhFd1NKUEcwX2NmQzNhVmtkSzVNdXpQbzQtdk1JMDhCQ3dFM0NqeVp2UVZBLWFhelhnRjhwUm9hMUlVajdOcUJhNmE2cm1WX3h1aXJxdEJMRkEzT28?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92547,
-    "lng": -43.94691,
-    "hora": "Há 14h",
-    "recente": false
-  },
-  {
-    "id": 262,
-    "data_dia": "2026-10-05",
-    "titulo": "Caminhão perde freio e bate em ônibus e quatro carros na Grande BH - BHAZ",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pEUGNqYkJvSXN5QU1FanFsUGNHRTBTWHJSSVdQVTJ1dGU1UXZMV1dQU3BmRVpzbERuU01SeTNsbzBxY0NtYlNzbVczanhpZXlUX3U1UVk5cEhEXzNZLUdsYloyNjVtSGl1QmEzdnhHdFVxM3hMc0NmVFhkb0hlOW84UGI5cHVZTkhEaC1DM3RHTVN5anh1Sl9sRXlDMWV6N2N3?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.92174,
-    "lng": -43.94724,
-    "hora": "Há 8h",
     "recente": false
   }
 ]
