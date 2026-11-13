@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-02-23",
+    "titulo": "Tecnologia amplia alcance e agiliza fiscalização do Corpo de Bombeiros contra incêndio e pânico - Agência Minas",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV1h2RjdrQ0dzazZ5QkR5LWVPZG9hWHozcWlDeTV4QzdUN3c5d21WSllsYkZyUl9TQ2E2SmZRRVNMVXVVWWs1M1IxMG9YaWdidzVjckNPem4tVkFMUUFVbDhBZ1c5WWl0a05WUlUtNG9UYVV3OXo4U000T25MSURYOHJQWkNabTlyenVfUHA5SmphVVZxaEFoMmNURGlEQXFuUHI2SDBVS3R5MmdKOWp5V2hQY1ZEZjJRUE80WDFkc0phcDNJOTdhMkV3c2p5S2MxZWpVYlVicXo2S2Y5RUE?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92219,
+    "lng": -43.94692,
+    "hora": "23/02 05:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-12",
+    "titulo": "Mulher morre em acidente entre caminhão e carros na MGC-354, em Patos de Minas - Por Dentro de Minas",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVJTcVkySHh6bGtlVmZMT05BN21EQVE3LWQxUmR5eWZKTDd3MVhLd2pzelh4N0ZPTEx2UUc1blh5amlpWVAyU1V2a0ZGdklhejJURE5BN2VMLTk4UkZJejlfYzZqM0lZMUg3ekNCcm9DdWdxNzJyRWpTbW5GLWVad0ZhT3ptTDNiYmFXd3poWmRuZHhKSUVKOHBQTFM5ZHhzNmYyaWxNMEdyN0FzM3dQWlh6c2JoT3FKRFVDV2xQOG5mSlg3a1dta09DaWZQdTg?oc=5",
+    "local": "MGC-354 • Patos de Minas",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.62268,
+    "lng": -46.46918,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-10-31",
     "titulo": "Bombeiros combatem incêndio em galpão em Contagem - G1",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3NqV08xLUtlNVFZLWRJamRrNExuRnNWS0ZvXy03bmxlbEZSVG1IeTM5b1lEd0JHLTZIc3p3eWZoWUNCN0dTUXhMQk9DaHpnckUySFYyZGhROGhYekZKMENSOGZ6NU1JdEN0VWphVjlkZnZUeEhVSEtzZTBjYXVmVlZXV2tVTWd0NmtxbVNBcmxGM01wWWdZaHRBSmo2VHlPZlh1VEEzNkx2c01IMktwa9IBvwFBVV95cUxPdFV4bWNTQVhmQWtXUGc4aHdwUlpEbzdMWmx4Z1dqbG10Wmw3YzhVQlVISHgxazBHWlh5c2ZvMnhRQ3c1Snc0VGhtY1ZZNXNUZGlXX1hnS0RLTTE0MFVRTHowNXhhSUlFa1RsSGlXRmctaVpmcWFFaGpVbjR2alJWeUVFZUlXMG1Nbkc3RDZOTHlVNWlaWEZlRXRsRF9VYXhyOHVMRjBsSWFkNGdVS19YZ2x0SmljQmsxYXFUeU5NYw?oc=5",
@@ -6472,31 +6498,5 @@
     "lng": -46.9081,
     "hora": "Há 1h",
     "recente": true
-  },
-  {
-    "id": 273,
-    "data_dia": "2026-10-07",
-    "titulo": "Acidente na BR 040 em Nova Lima mobiliza Bombeiros, PM e Samu - Jornal Voz Ativa",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjlsWE5hckQ4S1FXcUh4QWREWTB3Ym1JM3BBbE1lc0J0LVl1WFU4cW9Ud1F5UFF2Nk5zTHpsMGF6Z2M4YUd6OUgzd25jNlJmWlEyenozYzdWdmlmR2xwVHZsdThjSk5qZk9vRC1RSzE5Y1FzZFBnQk1Cd29fMWcyVUdR?oc=5",
-    "local": "BR-040 • Nova Lima",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -20.00788,
-    "lng": -43.96715,
-    "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 274,
-    "data_dia": "2026-10-07",
-    "titulo": "Carreta perde os freios e atinge vários veículos na BR-040 em Nova Lima - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLU5tWGVyWWNJaEl3Wk4ySl8wOTFKWlgybEZyR09PQ0ZBX0VETDlXYjZidW5XSFZmbGFpNThJT25xY0pSejk5MXJMellPeGdxZU5kWVBYdUo2d3JPZHByV3hEYWNXV1VNOHZxSmdPU3NoNjRyWDk0R1ZRYmZ6V0l5NVZ5YTB4Ni13MWZrT09pWHVjS3lWenpxaGJoRlQzbF92SDVFd1hyT2loTFVUeGRCTlhoUGpwU3J3elE?oc=5",
-    "local": "BR-040 • Nova Lima",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -20.01146,
-    "lng": -43.97007,
-    "hora": "Há 5h",
-    "recente": false
   }
 ]
