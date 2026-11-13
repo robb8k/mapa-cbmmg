@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-13",
+    "titulo": "Motociclista morre e carreta pega fogo após acidente na BR-381, em MG Vídeo - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGtJNmNNaHdyVXpsRWN4Z2FCejFKT01kdXhfdFg3RV8xYW1peFg1Qzlhb2RPS0JqQzhsMkFmaGU2OFhuM0ZrTkh5aG1Xa2VCXzdjcm5iRDVKMjVPNG9pZXFqSHI2bkNpVTdCcHN5d1I1ZlFObG9CZUozdFBxb0tqdWxuSGl4dzlURVBFRWxIZVdTWFZiOXNreGJYelAyNnZUbFFhYjFwRnRGeUdT?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.85277,
+    "lng": -43.89219,
+    "hora": "Há 5h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-13",
+    "titulo": "Incêndio atinge apartamento e provoca interdição de prédio no bairro Parque Jussara, em Três Corações - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHpoWUd6c1FkVGotSDdpOTcyQzFWUVJJOWJDQ1R2QmV5czl4aUY5X3dHN1oycDZUN21YVDhMTjVsbTBIb2ZuUk1yTEhEVW16aC1LLVZJUDFnTTVSTEhQQUZzbkRUbjVKYW82RFFjV1gwdU5BWjJISjRoMDBDT3hjNEdmcC1FR2lVLUhGdkpLbVFuRzBVRVpXWjNKV21nXzNrc3pJeTBEdmxvQjB6YzRVRXAyS3hka2poTWViRmJUbEtZY1BhMGs1U0V1S3NueEc2a1owUGpjTQ?oc=5",
+    "local": "Três Corações",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.69634,
+    "lng": -45.25681,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-13",
+    "titulo": "Defesa Civil faz vistoria em garagem de ônibus incendiada em BH - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSi1IMjN3X2FDbm5rd1gyU2hobF9JY2Q3UnMxZVYyNFZaUTVySGNkcTlNSjlsX2ptcmJPTW5KQ09MXzNfNTNxbGNjZkhIeVFhdDE3Z0d1QWV1ZnhUbjVPSDVRS2JpMmdCci14RlZxUXhxS1d0bjlnODZkU2NJVzU2QXdTcWNvYUN0Wk5LSXBKNGpXWEJSMVZxbXhnS19TdTZVanU1cmhLQWtERUVmdVZGcHd5Z9IBuAFBVV95cUxNQXFMangzZ2o0OGZYaExRLWYwN1ZxOWJ4cG92TGxQRF9JUHJ5bm5KZDkwY2dhWjBISFhiQ01OZk9ZQlhIdHFZV3pWMmRFb2Fia2g3c1JfUGNidVJNZU4yTHA1UjlsQ1FrTHU5NHJXOTZ6Z3lYTU12amRuOUdiUGlBXy0tanFMWjc0NWtkejZoVkZBZnpQMkQ2dE5pWnBiYnhxQW5vMi1JTFhxejFMWHZfQWxmai1YQ1lB?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.9223,
+    "lng": -43.94702,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-13",
+    "titulo": "Incêndio atinge garagem da Viação Fênix e destrói três veículos em Belo Horizonte - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGRKeERBTFBlQVNpZjNfdUZEV1A3N3pTcWlvblBWNzdkREN2TnhUdnNlcXRNZTUwSENLQmxoTTA2a3J4VnZrbGZyVEYyUVVqTld1UzBBVkdJZGVRWmNDWlZlVmpMUkVwbDhYMlNzenFFU2lpanlKbDFPRTV6MkRwaTdqdV9zWGs3T0ExYWNLX3M3c3Y5cnRvYVlsSmtxaVpodXFNd0pEeFBWdFZIMHdoNG93Y0Q4Z0JKbS12NA?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92528,
+    "lng": -43.94798,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-02-23",
     "titulo": "Tecnologia amplia alcance e agiliza fiscalização do Corpo de Bombeiros contra incêndio e pânico - Agência Minas",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV1h2RjdrQ0dzazZ5QkR5LWVPZG9hWHozcWlDeTV4QzdUN3c5d21WSllsYkZyUl9TQ2E2SmZRRVNMVXVVWWs1M1IxMG9YaWdidzVjckNPem4tVkFMUUFVbDhBZ1c5WWl0a05WUlUtNG9UYVV3OXo4U000T25MSURYOHJQWkNabTlyenVfUHA5SmphVVZxaEFoMmNURGlEQXFuUHI2SDBVS3R5MmdKOWp5V2hQY1ZEZjJRUE80WDFkc0phcDNJOTdhMkV3c2p5S2MxZWpVYlVicXo2S2Y5RUE?oc=5",
@@ -6446,57 +6498,5 @@
     "lng": -43.94578,
     "hora": "22/07 04:00",
     "recente": false
-  },
-  {
-    "id": 278,
-    "data_dia": "2026-08-21",
-    "titulo": "MG: caminhão cai em ribanceira e mobiliza bombeiros em Itabirito - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0M5U01aUzN6TWJGaFRQd2hNYWx5RklUZ0pJUUNaR2s3MXg2Tk1LbEZ6V0hTemowTWgxWEV1RUdwRXRiUE1ESTBUVGhuaDZEa2VzQ3FmanEzQTI3ZGxXNk5jemR3akJyV2toWW0zMnRDQXhvY0paSlR5ZUtuVTFpTjV5UUlYT1Blc1BqcXhTS3ZZRjBHbW02RDNPR1o4RkJXQ0lzcFhn?oc=5",
-    "local": "Itabirito",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -20.25082,
-    "lng": -43.80219,
-    "hora": "21/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 275,
-    "data_dia": "2026-10-07",
-    "titulo": "Carreta perde o freio e atinge 20 veículos na BR-040, em MG - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODktZWJBVXI4Y3IwZ1FyR01UMjFjNzNCeGYzTkZGSFlBYW9IR0ZpdnQ5TUxucmd6dy12TDFjSGQwY3c1MGFjVlNlV0kwYVAtUXhyUE1TWGNhalhuRUFzdnFQblZrMGhLN25kX1FyM3Nkay05RV9zVTNDRHRKcWRDYzZnUlE5My0zcWNKWlQ5WG9vX0h5alNOa0ZQXzF2N0hKUXd2UnRtUDU3LUF4?oc=5",
-    "local": "Trecho BR-040",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -17.19929,
-    "lng": -46.90697,
-    "hora": "Há 5h",
-    "recente": false
-  },
-  {
-    "id": 276,
-    "data_dia": "2026-10-06",
-    "titulo": "Caminhões batem de frente e pegam fogo na BR-497, em Uberlândia - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHNnWHZGdW1paUR4c29kRzVWRHYwUzRRUmhzT25HOGZVd0RLZ0Jld01FdDBlRVhCY0I1aC1hcnhURl9hTFAtTlFzdEdnMS1zT3VzSUt2bGtRTF9KczRvSGIwOFdwbmFkdXVmdGhBMXdNS3pCS0g1RW5hZWFMVnk5WXlyT09mSTVxSWdTREZWZlhnMExzSXZmd0xyTkhGXzZkUlpkRg?oc=5",
-    "local": "BR-497 • Uberlândia",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -18.95004,
-    "lng": -48.34291,
-    "hora": "06/10 14:05",
-    "recente": false
-  },
-  {
-    "id": 272,
-    "data_dia": "2026-10-07",
-    "titulo": "Acidente com 28 veículos na BR-040: tenente dos bombeiros detalha quadro das vítimas - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUJJVUhGdUhxd3Z3OTVaOXFFUFkyT0tDME15U2RydHJKVFA1RzFqMWlvaTRkS0pmeEN2ZXNXMmlIbzRaenZfOUpiRlJ1ak04bWF6VHVjeXNzUGNVaE9DX3pHSkVZS3FhTW1YODVQTkk5Q3liZ0d5Zl8tdXVHMTQ3QTB1Qm1ycjVKbEVhdXpscDBpQ2FXSU8zWWlDNXlSdlh4UkpjcVRzN19hY1dSZV9UQkEwU0tpai1TbkVRRFdrSm5GS0l6NkdpU0t3?oc=5",
-    "local": "Trecho BR-040",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -17.19856,
-    "lng": -46.9081,
-    "hora": "Há 1h",
-    "recente": true
   }
 ]
