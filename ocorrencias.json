@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-11-13",
+    "titulo": "Acidente fatal na BR-381 em Minas Gerais termina com carreta completamente destruída - DiviNews",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzlYdlVwQ19nc2J0VS1peXpzakUtRW41czBPeGZYdjBwN29wd2FoOFpkTUVLYmNjV1VrN1VFb0JnRXUwQU9sUnU3ZlpWWDhPRHVFeGUzWHRsemo0ajJUNlJfUm9DdGc3Ti1vTnpJdVZTbUZtMW1yTFl6MUgyYXpGakJfN3BET25SUElkbUs0c2NNV203NXlfUE50djlfT2xlYkpvOW85Rk0tRXRkVVcyMWZLZ0pocG1h?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.83876,
+    "lng": -43.88373,
+    "hora": "Há 8h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-13",
+    "titulo": "Avião sofre acidente ao pousar em Curvelo (MG), mas ninguém fica ferido - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTQ2RjFQLWdzc3dyWGUyZkNiOW9BQ3VheGhVc0lLQnpGeEFHVGZ6N0s4WWhNNmZ4aDduT2ZXa3BCLS10b0ozcTc2WWlPNGN4WWI1cUdvWllOXzR1cVFHamZaMnk3TkRmaGU5dW16RjI4QUtteFVwclRja2FZTlRGRWdCVlUzM2E4VEpmRk9JMGhCbWlKaU1TMXhqTUFhWVBpZjJOdUdoSWJpSFZT?oc=5",
+    "local": "Curvelo",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.75614,
+    "lng": -44.42932,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2024-10-12",
+    "titulo": "Grave acidente com helicóptero dos Bombeiros de Minas Gerais - Revista Forca Aérea",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0wtclNwUTVacWVCV1luXzlvTVBINkliak43R2YyVkNIMk5vdkhleW9MeTczdndaTGtRRF9icmF0M2IzVnNmT3plODFJM1ZyTWhOMW5yN0VTcVFlZGpPWFNQS0JHNGYzdDFSMTdVSTZaVXRJeG4xY0x0SlVrbS15UDNJTTZZemhsVjZ6SXFNX1o?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92052,
+    "lng": -43.94437,
+    "hora": "12/10 04:00",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-13",
     "titulo": "Motociclista morre e carreta pega fogo após acidente na BR-381, em MG Vídeo - Metrópoles",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGtJNmNNaHdyVXpsRWN4Z2FCejFKT01kdXhfdFg3RV8xYW1peFg1Qzlhb2RPS0JqQzhsMkFmaGU2OFhuM0ZrTkh5aG1Xa2VCXzdjcm5iRDVKMjVPNG9pZXFqSHI2bkNpVTdCcHN5d1I1ZlFObG9CZUozdFBxb0tqdWxuSGl4dzlURVBFRWxIZVdTWFZiOXNreGJYelAyNnZUbFFhYjFwRnRGeUdT?oc=5",
     "local": "Trecho BR-381",
@@ -6458,45 +6497,6 @@
     "lat": -19.61934,
     "lng": -44.04083,
     "hora": "25/05 04:00",
-    "recente": false
-  },
-  {
-    "id": 287,
-    "data_dia": "2026-07-23",
-    "titulo": "Bombeiros combatem incêndio em mata próxima ao Alphaville Lagoa dos Ingleses, em Nova Lima - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pGeURDcjFIaDJxUE1VWXpkclhQSVQ2M1IzV1FYNy1WSHBQSm9ndWd4SlZsVi1qYTNFZW00eGlQRktNUXFXWlZKWWFqTkhibVpVcjMzaS1lc2w5Tlk4cngxZ1hYWGV6a0lZc28yMUQyYXNHVjBUVG95eDAtaUdTWEMzWlpTbGh3LUFNNjFlZWZqODFFaGgxRG9vWGpobS10eTNhUk13ZXlDWFVGZm92ZU5VcFZobUtMWE1qczZ6TC1RRXV5RG1RNDEycUNfTE95YUE?oc=5",
-    "local": "Nova Lima",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.98708,
-    "lng": -43.84637,
-    "hora": "23/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 288,
-    "data_dia": "2026-08-22",
-    "titulo": "Acidente entre 4 carretas deixa um morto e dois feridos na BR-251, em Minas - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTVPd3dfc0tSLVdYcVVzM1k5ZTdLOER3bjNfMW4zS2J2R08yYW55NlN5MU5tRmZfdjJPZmVhVzc0SkE5bUg2Z0Fpc0wxVEQ4M3hvZ2tFSGtxUUhjUGdpV18yVk02amlaaG9EQzFRc3pFRTA0dVRkZFZJZGp5MWxJYmFucFZhNTNQZkhnYTR4N0FLenJlSFlJNmg4N3RwMnZLQWpRcFJfaVBBbzdJTjN3cFZkVGdUdDl2YmQzNzcybVptd9IBxwFBVV95cUxOMnJDMm1UT2RuWDdRWWxTNlN4TV8yMV9xendQY3N6QWxhWEp0dnI2RUdHY0FkMmx4OHVOa3AwR0hrVjUzVUtxVkJHVTNvc3A3Q1JvSW1IOXFmVHE2UklacVpRMXBfUi1hLTQ2d0FSOXFLazhFeEhjUTJjUVdhb19mY0l6UERpT1JtZkh6dzZaeDlmZVp5alQ0SFFwb1BCeVBsVEVWMTI0ZjR2aG9OUndjMHBFT3g5cmd1Z0NSM1FwUW9aOS11a0pz?oc=5",
-    "local": "Trecho BR-251",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -16.34822,
-    "lng": -46.92355,
-    "hora": "22/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 277,
-    "data_dia": "2026-07-22",
-    "titulo": "Explosão em fábrica de EVA provoca incêndio e deixa feridos em MG - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlE2OTlpOU5lMmp0RXdMblBIZUUyb0diblA5WVE0Ny1MZnFGTlBaS3hTaTJ1ekR5NklmdGo0NzRreVJGME1YcWo3Rnp6Vl9pdmJiS3B4Q2NVZ19weVNXb1RQREdBNDR6QjFlb2xDTWpvNklJR2JsTzgxQzc2NmZtWjdoYWtMaVdid3Z4MW9FVElIWUdlaTVWdFBrUzBjaEFuOFFsRnQ4MXg?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92345,
-    "lng": -43.94578,
-    "hora": "22/07 04:00",
     "recente": false
   }
 ]
