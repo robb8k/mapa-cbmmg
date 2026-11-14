@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-14",
+    "titulo": "Ônibus com 45 pessoas capota na BR-381 e deixa 12 feridos em Minas Gerais - Folha do ES",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDdGaHU2aG5uRERUNjVpNWtqUTN4d1JoVTk3NF9TaXk1N2h6bi1tVVBnV1JKaHFIWEY5ZFZlbkY0UTYxYklqMElRbEg3VEVQelVEc2ZGR1BQdG9UMUF5aUpGQnJzNUlfdlhvMlp4bkZIT0ZlTUxNalV4YkdPanNuZWxKR0ZfZ1ZI?oc=5",
+    "local": "Trecho BR-381",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.91441,
+    "lng": -43.99143,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-14",
+    "titulo": "Corpo de Bombeiros atende colisão frontal entre duas carretas na MGC-418, em Carlos Chagas - Portal Teófilo Otoni",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejlVNnowTnlzSDdTSTdWTFY0c05xVi0tbDRlcUt5MEZkc0wxUDRrQkVoLTdOLUs2Ykg5NEFlUXF1X24xTk5PTlIzOHlsV0owb0cyTDhHOTVWS0N1R1VvOG5keEluVmtrWVpUV2ZxckN2UFVyVUNESFRlU09GSmM4UXpVX1lIbzVuVzhrbHktazJEOGthTDRGRUoxb2NYa3JXeTlyU2hXUDdEN3FSd2dhU1ZkY0Z0Sk9qY2J5bkEyNDRaUQ?oc=5",
+    "local": "MGC-418 • Teófilo Otoni",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -17.84632,
+    "lng": -41.47682,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-14",
+    "titulo": "EPR Triângulo realiza simulado de acidente com mais de 30 vítimas na BR-365, em Uberlândia - Imprensa e Mídia",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcW9rVy1QZUlDWnpGT2tRSXN2U3A1dDBrbm5FRmd1QkgyVHlhWEZfR2FlaUtEUUVIZ1RsS2ZONU9jN2hfaXEyekJ1Y0FibWxibllsTHNOZEtYVmlrT1hZSWgyTU1NQkNzNW5uSWowM1Z6RksxNjlqSzl4UlRRQ2ZxSjZXaUZyekdyRHVHZDM4RDkxa0x4YXl0OGFVeXZscG11cExtYkRWUEVDSlY3MDNJaXpmMzBJY3duS29oM0ZDX2wyajFKMXc?oc=5",
+    "local": "BR-365 • Uberlândia",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.88711,
+    "lng": -48.26921,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-14",
+    "titulo": "Bombeiros retiram égua atolada em valeta de escoamento no Jardim Girassol, em Guaxupé - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMUtaZmFJZlFqQlI1MF8wdjMtUUNLR0lIZFUyb2FfcVhreWtfVndYQVFyYnFmNUJSNGZtOGhHbGlSbnBJNTRCLUtWc3laYmUzOVU3ZHNvTjI0SEloNGJoek81QnVyMW5la2RXV3NTc0JSTld0cnhsbmtHWXp4QlcxQlVONl9qMXNNSnJYRnI3Qzh2dGhMbTZRRG45MVdfTE1rRlByYk5CWEFOZTl6Mm5zLXdmdGZzcTNvUzl3Yno0WDJiQmtibjl0X05oYTl3M0J4TUxLek0tMHE?oc=5",
+    "local": "Guaxupé",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.30978,
+    "lng": -46.71871,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-11",
     "titulo": "Dois motoristas morrem em batida entre caminhões na MGC-491, próximo a Itamogi, MG - G1",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlRhZzF5UHBqSkpmczVMbFdTcGtNOElQSFU1UFQ4QWRrSHN0QndTXzI1MGVobXZVOHlIUGxMMHBKQnJXQmZfTU93V0NjZTU1X2x5N0k1UTZqbDRSR2NxSjR5d2tOVWdFT2U4Y1V6Z3dZN3V3TWVSMFZKa2tGTkFWMVJXQTdtdm1xSi1ySEJuaVBaR3FXSnJRVG84bW1fQnpQRmtFSWhXTnJGb0RfeDlId2ZqcjdCZFVkSXo5UWc1WUQ3SzcyVmkxVndBYWd5MjgwUl9qQk5MNHFIUdIB6AFBVV95cUxNR2FULUVFWERQcGhpbExmZGNXRTdLdVJ0WG5VSGNLbllnRmRDYzVlbXFmdG9tRmMwMjZzN09mUURZTVExNVlodGJsZTZVNEZXRFBPdGx3dVlZZ3QzdVlMMFdiQy1xbmdVU0JFNktRNktsdzBCQ1J2Q09PWHdQRmlacWYzM00tdkdMMVQxdGctM0hMdThweTZWbTlWVUQtNU5yb3Rxb1NzTW5xSUdLT00yaVpYSTJWNGtMeWlROGJYQWxGN0ozRnZOMmR6WnMyaGZYYlI1eXZObWU5YzlUN1VNTUxRVGRrdXpF?oc=5",
@@ -6446,57 +6498,5 @@
     "lng": -43.94779,
     "hora": "Há 4h",
     "recente": false
-  },
-  {
-    "id": 292,
-    "data_dia": "2026-06-29",
-    "titulo": "As equipes do Corpo de Bombeiros Militar de Minas Gerais (CBMMG) iniciaram, na noite do último sábado (27), as operações de busca e salvamento nas áreas afetadas pelos fortes terremotos que atingiram a Venezuela. Os profissionais integram a missão - Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HdVhzTkpiTERyeG9QNG9XMW1SdF81cnM2VllQZm9VdlpSaGk3cEtTWjB6bnU2YlJMeW94X00ydFBmczVXSy1vR2Qzeml5QmtOaTRrV0NB?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92373,
-    "lng": -43.94332,
-    "hora": "29/06 04:00",
-    "recente": false
-  },
-  {
-    "id": 279,
-    "data_dia": "2026-10-08",
-    "titulo": "Motorista de prefeitura de MG morre após acidente na BR-251: \"Grande amigo\" - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1VrTjhta09pY3VQYjFwSW9kTzN0eUk0dzlrdGVEdzFvTDlxOWdzRl90NGFCQVU5eVBEWFhXcGlkaHB4TDM1a3JiUHp5UW5wNTM0WEFjRl83S1RYemRIa1BlODBXeXlhNXdTSWg1blNQTnhfZkhqR3V2MTc0cnBRdlFZbU9BSm1OVU01anBtTGhxeDhkUHozQmFzblZJVGZPZHhMV21LX2cwa3hGaml3Q2N3?oc=5",
-    "local": "Trecho BR-251",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -16.34287,
-    "lng": -46.92104,
-    "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 280,
-    "data_dia": "2026-10-08",
-    "titulo": "Prédio na Cidade Administrativa é liberado após acionamento de alarme de incêndio - Impactto News",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQi1lVGN0ZVM4ejUtVTRwVWQ2QVBmeG1qTWcxZzA3SVl5T2VPWE9KTlI4WDM5NzcteThSYkdUZ2lWT3ktZldTVGJPSXNMcUdGNlJGM1F4aktJckY0SWZ6MjdNdWJyOUZzNXZqcVBOWFhiSTBzZnpNcHV6dXhZcjY2NW5ueXJEZ2tVTXNINjdCdjl2SGt5NGI0QzNfN2l2dVdaeV81WnhLSnp3SGtycVU0NExkcm82M3MtNUN1dXVRRmVzbWs?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92518,
-    "lng": -43.94401,
-    "hora": "Há 2h",
-    "recente": true
-  },
-  {
-    "id": 281,
-    "data_dia": "2026-10-08",
-    "titulo": "Incêndio destrói casa em Formiga e bombeiros são acionados - O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2xyTXN3UlJMeWdpMFJOZ0ZZUjNzcFpkMWdOal9jVTdqeU5ZaV9VcmlhdlVRZHhQZUlobHdUZHJYeEVqVGs0TUd1MF9LSHhOdEdIdm9vUm9tTy0ySllxRG40eThmSXVZMjN4a1hTSVZZNFg5NGF3VzhubUJqYTFRZ1pyNjBFR1d6cHRfR1hrRkJ5XzVtZGVfc2NXYVZfNnl5akhESQ?oc=5",
-    "local": "Formiga",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -20.46597,
-    "lng": -45.42881,
-    "hora": "Há 1h",
-    "recente": true
   }
 ]
