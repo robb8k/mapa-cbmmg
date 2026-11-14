@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-11",
+    "titulo": "Dois motoristas morrem em batida entre caminhões na MGC-491, próximo a Itamogi, MG - G1",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlRhZzF5UHBqSkpmczVMbFdTcGtNOElQSFU1UFQ4QWRrSHN0QndTXzI1MGVobXZVOHlIUGxMMHBKQnJXQmZfTU93V0NjZTU1X2x5N0k1UTZqbDRSR2NxSjR5d2tOVWdFT2U4Y1V6Z3dZN3V3TWVSMFZKa2tGTkFWMVJXQTdtdm1xSi1ySEJuaVBaR3FXSnJRVG84bW1fQnpQRmtFSWhXTnJGb0RfeDlId2ZqcjdCZFVkSXo5UWc1WUQ3SzcyVmkxVndBYWd5MjgwUl9qQk5MNHFIUdIB6AFBVV95cUxNR2FULUVFWERQcGhpbExmZGNXRTdLdVJ0WG5VSGNLbllnRmRDYzVlbXFmdG9tRmMwMjZzN09mUURZTVExNVlodGJsZTZVNEZXRFBPdGx3dVlZZ3QzdVlMMFdiQy1xbmdVU0JFNktRNktsdzBCQ1J2Q09PWHdQRmlacWYzM00tdkdMMVQxdGctM0hMdThweTZWbTlWVUQtNU5yb3Rxb1NzTW5xSUdLT00yaVpYSTJWNGtMeWlROGJYQWxGN0ozRnZOMmR6WnMyaGZYYlI1eXZObWU5YzlUN1VNTUxRVGRrdXpF?oc=5",
+    "local": "MGC-491 • Itamogi",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.08166,
+    "lng": -47.04697,
+    "hora": "11/11 17:17",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-14",
+    "titulo": "Colisão entre caminhão e carro deixa duas pessoas feridas e mobiliza Corpo de Bombeiros na MG-167 em Três Corações - Rádio Itatiaia",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVJCNG1LMGF1YXYxbmhtSEdrMGFhbWtfZk9EZU1SMEdTQ19nNWtyRkNkWkh3TE5BbnBzeXY3c3ZQODhSR3UxZWt5amhUYnhDVjZOYkRTNVk2MnJUbHRoYUlDcS13YTJCZHphdnJPbkpsWmFXcUx3Ynh1cFJ3RHNXOVdFc0FUM0FYRlVUM3liTVVOV19YcGtzX3g1WFQ1aUJQNW51OXNBYmxvSlZwRkNhZmc3R3d3aEszb2Z1cUptUE5SRzJnb2JfbjhNeFJqNVk4bWZUSTlfNGg2OV8yaGdHUWxSU3doa2dpWnc?oc=5",
+    "local": "MG-167 • Três Corações",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.63452,
+    "lng": -45.38225,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-13",
     "titulo": "Veja quem são os feridos em explosão de fábrica de produtos químicos em Salto - G1",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEZNR0Q1eE0wM1pVRDVDakdRczA4RXdMMnJsQTF1MWdlTjYxdGFFUEU1NWRfczZBcklKNXZrWnhXcjUyVnMtelB6Rzdkc0V1amJrUDFLQlVsbzNkdTFtZDdMU2kzZkF6YUJCM2dURjFuQUk4NXdiOW1PVGlvSnBfNXNhd2RPZXFrSUxCNWVBTktkVzR3RVhaMWUwcE7SAasBQVVfeXFMTXhKYVcwMldpT253ckt6OE41Q3p6dXo5QndwWjlLa3ZmbzJIOWJmQWtoNjJKcWxNQUZSMjRIeEhnV3pZaUpaNlg3MEdTa0tRNU1HcGYyRzRHcEtoY2UwNlVUM2Z1TGN1Q3NnTS1Fc1Q5Ylo4NnpHU1NpSVZ2NEJzaVVYRU93VnRadXgyVVZnYVAyZzg4NWRuQUdPOVZ5TVE3d3NYQ2c0RHl3a2tj?oc=5",
@@ -6472,31 +6498,5 @@
     "lng": -45.42881,
     "hora": "Há 1h",
     "recente": true
-  },
-  {
-    "id": 282,
-    "data_dia": "2026-10-08",
-    "titulo": "Acidente com Carreta carregada com papel pega fogo após tombar e deixa uma vítima fatal na BR-381 em Santo Antônio do Amparo - DiviNews",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeFM3QzJ4M3Zucmd0akdsSjZKM01aWHNsTnFKTkVhUVFXeHQtaXp4LXgxMkl0VTZ3Y1oxN1JuQi1qYkFpVVhJbGhGVF9pQlJhRWVyY2xwSVdrcHQ2UnJLaXlWV01IR0dZaXM1MlRBV3c4WE5GcHowbDJTenBCbFBNckxsRGJ2Nk9DNEFjZFFiQ1BPQm5fdlhwaDN5Y1ZQbGNhc1h0RFBjMlpGbkZtYVJUeHZnZkxrTGFvcVAyY1RZYmdudHZLWnZ2ZXdvZ3FZdi0xaHo4UHF4bVluMGlnazA2b0Y5MzFvTHk5VTlkS2tR?oc=5",
-    "local": "BR-381 • Santo Antônio",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -22.60642,
-    "lng": -46.06288,
-    "hora": "Há 56 min",
-    "recente": true
-  },
-  {
-    "id": 283,
-    "data_dia": "2026-10-05",
-    "titulo": "Homem morre após ser atropelado por empilhadeira em Santa Luzia (MG) - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTVYa0lSV2pXU3FWdTlKWms1NmZROWZpUnk3TVZJczVBckhFYW1RaVFvRVlPU1JYd0NIMEVlZmxNYkpfRHU0MXFqNTI5Ukt5WUI2Yzk0NVJiREdhSFR1b2ppaGxqMzBpUzZiTjViTXp1d00tQXZFaXpOU2RRWmFFYmFFRHY3UXRmLTlBZjRWVG1sZ0JodFRoWlB5UUxpbHdEY0pkWUxnVHhiQQ?oc=5",
-    "local": "Santa Luzia",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.76869,
-    "lng": -43.8516,
-    "hora": "05/10 16:13",
-    "recente": false
   }
 ]
