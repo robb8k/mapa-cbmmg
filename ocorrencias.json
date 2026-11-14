@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-11-13",
+    "titulo": "Veja quem são os feridos em explosão de fábrica de produtos químicos em Salto - G1",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEZNR0Q1eE0wM1pVRDVDakdRczA4RXdMMnJsQTF1MWdlTjYxdGFFUEU1NWRfczZBcklKNXZrWnhXcjUyVnMtelB6Rzdkc0V1amJrUDFLQlVsbzNkdTFtZDdMU2kzZkF6YUJCM2dURjFuQUk4NXdiOW1PVGlvSnBfNXNhd2RPZXFrSUxCNWVBTktkVzR3RVhaMWUwcE7SAasBQVVfeXFMTXhKYVcwMldpT253ckt6OE41Q3p6dXo5QndwWjlLa3ZmbzJIOWJmQWtoNjJKcWxNQUZSMjRIeEhnV3pZaUpaNlg3MEdTa0tRNU1HcGYyRzRHcEtoY2UwNlVUM2Z1TGN1Q3NnTS1Fc1Q5Ylo4NnpHU1NpSVZ2NEJzaVVYRU93VnRadXgyVVZnYVAyZzg4NWRuQUdPOVZ5TVE3d3NYQ2c0RHl3a2tj?oc=5",
+    "local": "Salto",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -15.73846,
+    "lng": -42.25555,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2020-09-06",
+    "titulo": "Bombeiros combatem incêndio na Serra de São José, entre Santa Cruz de Minas e Tiradentes - G1",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1dfQThBd2YtaXhEcE5JWDFyVTBqMEN4ZF85a0xyTHRuSzU4MnRLcnNDZVVDRWQ3eGF2RllEYTNrTVBtUUJ2N1ZUZGU1dVIyWG1Nd0NSLVNyTkxjZlRFZlhLREthUVNsMmVvaFlBMGFjdk1pRFRGTWI3U3BCTFJpWWJycHlET1hIZ1g1Z19HWHEtTklzOVMwTl96N21kZHZscGo5a19WNGR4SVZ4MHRfdmh6THo0RVRBZW1ER3puOWNIWEtDTHpKSUZQQ1FGUmg3NmpEQlVaUzY0V1RrRlUyZnhrY9IB8gFBVV95cUxNdDdIWnBINFkzaEJIRHNUVHFqU3NFRm1reUNCSTQtZXVhMWlnWURLTWZUOVg5V0YzUVpNa0pra1cxRl9MZVA0eHJYTmx1VFFpd0NGSmxfVkQ2dGhnZmhaazI4d2RteTQzb0FPdkk4ck1UcnNIUkJLYUdPLWYtU1RmVnhTNXFjblhzVU5MNnE5QTd1ckkzbzVrUDBybXFzS1B1X0Y4SGhrY3hkTGR4ZFZEQjZIS24zYVRJZTV1cDlHbzlTTFpCTm5zMXZyS181aGpSQzNrNGlSTzFnQk15T1RPU3hVTzFNZlRIRlZDOW1QOWUzdw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.9206,
+    "lng": -43.94581,
+    "hora": "06/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-13",
+    "titulo": "Bombeiros alertam para riscos de afogamento e reforçam cuidados em piscinas, rios e cachoeiras - Mega Cidade",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDhPVmx6Zy04a2pJekhxQkJmY2tGNkpmaVdMbFRONlltX1Q5aHNWTHlWcWFqS2YwN0w1Ync0UDN4Q1hOUG9FR0o0MFdINmdOWEZxTjlUOUp5RG1MWlhnRVR5R2R2RGxEM2VPbWVYNU9ObjFGcEFxVjgwYXNoc1J5bmwyOGFYZUg3UGdrc3hQWUdIX3VVNkNaXzdBeWlMWFdRQlZENGZKdVZDOEJzSDF4SWdDVW40QVpoTmZZTUZTNVdMU0VFMjBjeWxyYTBkbGs?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.9213,
+    "lng": -43.94485,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-13",
     "titulo": "Acidente fatal na BR-381 em Minas Gerais termina com carreta completamente destruída - DiviNews",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzlYdlVwQ19nc2J0VS1peXpzakUtRW41czBPeGZYdjBwN29wd2FoOFpkTUVLYmNjV1VrN1VFb0JnRXUwQU9sUnU3ZlpWWDhPRHVFeGUzWHRsemo0ajJUNlJfUm9DdGc3Ti1vTnpJdVZTbUZtMW1yTFl6MUgyYXpGakJfN3BET25SUElkbUs0c2NNV203NXlfUE50djlfT2xlYkpvOW85Rk0tRXRkVVcyMWZLZ0pocG1h?oc=5",
     "local": "Trecho BR-381",
@@ -6458,45 +6497,6 @@
     "lat": -19.76869,
     "lng": -43.8516,
     "hora": "05/10 16:13",
-    "recente": false
-  },
-  {
-    "id": 284,
-    "data_dia": "2026-08-10",
-    "titulo": "BH registra segundo incêndio após 10 dias na região da Serra do Gandarela - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkZkWDJTU3p6NHRIbnhBeHlrcmloZnMxUUl6NDFiQjVmSW1MclRlb2lwdm1BUy1faEJQeVNLR21scUJ4RTRTVnNwUmtWTkV0OEZvWFFNS3UxVkYwbVJqU3h0Qkl5X1IxTERuV0UwZEVaOGJ5b3NJSXVJQUJybVcwQUxwbl9KTEZjY3ZCUTB5b01saVpPR1RCT3Y0eXRiZldsWDJlaGR4TEtSNnh4a3RnZktFbTVLc0FrSXdUbWVvTEY?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92292,
-    "lng": -43.94603,
-    "hora": "10/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 285,
-    "data_dia": "2026-08-08",
-    "titulo": "Motorista morre após colisão entre carretas na BR-116 em Minas Gerais - CBN",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUx4SS1mbkc4aWZoOExzTFlMQTEyM3JhcDRIX1BUd003YW9DdXFqU1BZVHpuOEpiTnlFLXQwVXZmUnc2OTJfWmUtLU4za2JPOXplTGE0bVZPc3d5SmZ1WkVyT1JQZy1Kakc2XzBnMjJORzUwQjFGdXlCZ1k5ejZfNDRKSHZTUEpTa3JJbm5oQ1FwaXpubnhoN0V4N1E4anEtenpGQUxTbElMZW5QRW54V2pyeWQ5ZXQ5TkdkaUphOHRqNmh3ZEl0SUdWb9IB2gFBVV95cUxOTXoyQzBWWlBWc0l5eFZQWkRlajN0Y0lzQ2ZvNDRkNkV2Qkd4d05xbVkxM3dhZGJpVFhaTG9JT3REaVI1LVlPbHotT1daZlVQWm5qbTNNWktsWUVldld5amlJajdIaW5jWlZxTWJGVVZZNGF2YnE4U2JkUnM5SU1nUzh4Q2pDdVExb0JfaGJqMk1aeHpWYnZYUENIQ2MzdTZpWUxUdXp2X3dTbGQ0Ykp4dURDYnVVaENOMU5FcGp2TDBMOUhwQUIxcGVNVVY1aFp3UENkaURJVlFuQQ?oc=5",
-    "local": "Trecho BR-116",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -18.88345,
-    "lng": -41.94422,
-    "hora": "08/08 04:00",
-    "recente": false
-  },
-  {
-    "id": 286,
-    "data_dia": "2026-05-25",
-    "titulo": "Militares do Corpo de Bombeiros Militar de Minas Gerais foram acionados na tarde desta segunda-feira (25) para atender uma batida entre dois veículos no bairro São Pedro, em Pedro Leopoldo. A colisão aconteceu na Rua Um e envolveu um Volkswagen - Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81d284emdqMkZLSXlzZTZKZ3llbXR1eU11ZVdrakxtXy1NMko5cVVfUjdhcV82MS1pR2NMNThQMVBuY3Y5amJiU2NXcGdoWWFUNFE?oc=5",
-    "local": "Pedro Leopoldo",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.61934,
-    "lng": -44.04083,
-    "hora": "25/05 04:00",
     "recente": false
   }
 ]
