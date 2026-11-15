@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-15",
+    "titulo": "Colisão entre dois carros deixa uma pessoa morta e duas feridas na BR-267 no Sul de Minas - Impactto News",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzBnS3hod2pPLUJYSF9zb3J2eEItRkt0NzVFcUhZaXJGbkdKaFJwaW9vTG54cnY2NFJOd2lxNXhwZ1RpSjZmQ1MxQk55aFg4TXBza3hZN20taTVYU0hNSlNFVklvbHc3TGhEZGJJV2hFYnAyS01VTDJDdDdOeTdlWGF0SEVkMDlTTDhDcVlfMXA1OXNGMF9nZWRaTHNjU1o3NVk1WjJMN3JfU0NRd0pIbXprb3dpZEJzTk9JQ1FFQXNtTW5OTzNoSEN4Ty1ydw?oc=5",
+    "local": "Trecho BR-267",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.76923,
+    "lng": -43.33009,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-15",
+    "titulo": "Colisão entre dois carros deixa um morto e dois feridos em Minas Gerais - vox97.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPam45WUMyLU9RQTNnSFhDOGhsR0hkQlpsa1BOOXdXd3R5NWlGRVRpU0FGSmo1WFV2Qy01czlYVUxfZmFtX2dZaGNsdTktX0w5OUxtOGJRcUVTMlFIX1l5ZGhub2R2eTdtQjF4SUplZUN1YjY2RmtpSWhseklBem16dTBGVWxWV0JjOWVGcE92VVZvVFRWY2F3VWFwZUUtNlVhekZnNVNnTndFQQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92063,
+    "lng": -43.94768,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-15",
+    "titulo": "VÍDEO: Carreta pega fogo e Bombeiros combatem incêndio na BR-262, em Campos Altos/MG - TV KZ",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUd6ZVViQVBIMFpURGpzT3NITUFFUDltZmxWZWI4RWZkZkVnQmRnUEIwcjkwdzhRNWZRYmRWWGxxdFBTRmpacmpxWFpva0tVX19aWFFEbjNncF84MVlVTGlUdXZrcUtQaEJwa1UwUEl3V3drTXN1NTNZd29KVExlRFpacFJFSmZQV19iZndQRVROM3N5MkhWbFRuYVFkRklZUUkzSWl2QmxrdnRHeHVPU25QaGxOa0g5VnZMVlRwT2FLSlNC?oc=5",
+    "local": "BR-262 • Campos Altos",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.65265,
+    "lng": -46.22631,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-15",
+    "titulo": "Carro capota e invade pista contrária após acidente na BR-381, em Oliveira - Portal Gerais",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVNJN3RISkJFNW1FNExaWGo0M3VQV0hsREJLbFJrUDhpNkFfMkFFSndBaGxSVDNpcTFxd0JoQ2JLMFkyVHBKOWMtaTlfZzN1QVVUd0hITjV5cFhKNGZzVGdYZWNtOUFoWUczeEZMZ2o3YnFkNWZubUNBVFIxQ21tU1U3TjVFOGUwbkNrV19vTVFMb3hBQmdIWlJPNU9sUmR3?oc=5",
+    "local": "BR-381 • Oliveira",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -20.84847,
+    "lng": -44.83768,
+    "hora": "Há 15h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-14",
     "titulo": "Colisão frontal entre duas carretas deixa um morto na MGC-418, em Carlos Chagas - Plox",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZG5YSFRtZ0NUS2w5UEk0SlcyNXlqdE54dEd1YzlhZ0tWTHFXQjJDWkpDRkV2bG5tWVVOcXBsR0lHQnlReWFFYkdwNkRPOUdmZ19VUTNBVTBvc0xqOXJvS3pLNDJCWDkyTVZlSkljbWhTSGZVXy1Oa2lsTDA0S1FNWVZjSQ?oc=5",
@@ -6445,58 +6497,6 @@
     "lat": -19.9218,
     "lng": -43.94308,
     "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 298,
-    "data_dia": "2026-10-09",
-    "titulo": "Queda de avião no metrô de BH: Bombeiros monitoram risco de explosão - Rede 98",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmk5bjAxRkhmU2JpaDBhUjRaajVFSzJZQWNBbU5OZGJGVVVUZnl0ZVVfQk15Y0NJdUFQMjVfMllVemxYZUQwWU00cFBUNURyT29Fb3BsVm9aMHR5NUZ6SXZMT2dTdDhtM3JXUjlwSzlfTk1xY2w5NWY4TW14MVg1OGR2NzhjV0JOazhFeDdwYXVxUXVzM2RF?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92105,
-    "lng": -43.94454,
-    "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 299,
-    "data_dia": "2026-10-09",
-    "titulo": "Bombeiros controlam incêndio após queda de avião na estação São Gabriel, em BH; piloto morreu carbonizado - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDJSTVFUYjhwZDNvUHlZTzJMcnJPQzZsbEZDVjF0aDhRRDkxNi04Z2FNMDRpcU5KYmdORWRwV2gtWXZ0bTJ1Q3dKUDRNcVA3R3NFeV9BMzRpcW8wQjFjeHJGbHNmVV9EeHpybHZ4YlI2RWRwRDRHcjhPWHVHeF93YTdKcHFlYS1IY2pwRFNtbk15aVdBdkIyTmFxWmswVGh5dDh6cVYwWGFmcVp2bHhrNE1abHItcGFYMF9qUGtGTWhKRWNmU1hMSnozUVE4ZGFLa1lYZ3pucDQzSHY2eVNfdnlycjc?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92426,
-    "lng": -43.94557,
-    "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 300,
-    "data_dia": "2026-10-09",
-    "titulo": "Piloto que morreu em queda de avião na estação de metrô São Gabriel, em BH, era o único ocupante da aeronave, segundo os bombeiros - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVDhPVFVEeHFQSmdPbUFGbm1FaVhFRXd2cG9GX1E3ejlQcVBKX1dpWGpHVzZqUGhFUjdwb2ZkY240ZFhCMTd6VWRMQnZmREp6eHgtdzVBbnN3ejhnUEE0N1NRYjRmSVkwaVlLemp5MUdQWF9UWGtzTWNQOGN0YmhoNFBnOWJWWGdCVlA1d3JBT0dvVS1CWUY5dGFkTXcyZGp0UWFtQm50d0xWZWo4dHZETnpFVWllMTdjZ2FGVVdHS19pVUljNmpSNnVLYWJPZ0E5WWM4RUpaNVFEem5EaW9VLWVxM0NJQkRJMWk0MjNFa19MSTN3R0NjR1BuVmJTNFAzRWd6cA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.924,
-    "lng": -43.94615,
-    "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 301,
-    "data_dia": "2026-03-13",
-    "titulo": "Governo do Estado anuncia edital para o novo concurso do Corpo de Bombeiros Militar de Minas Gerais - Agência Minas",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObXB0bVQ5ZWVscGd3MHR0TlQzb1dUeGo4SGVmU082bGhPaU03eDB4dE9uWGhEQnNGdVE2eEtIMnZUZE83bjFXMGduajUwZm1qdlF0c0ZOSEpybFFLRkFtdHhqTlJlMlNMYmR6Tll3bngtUFNsa05fVVZyRmlPaUJUa0xGMVNhcFNqUXU2eGcyd3M3WllOQTZ4Nkh3RHdXUmVSV0M1X2xpM2xtRzZ6eU11UzVxdEMzWXltcF9hSlJlSkNXcDRrSW9vaW1BN1VEWDdNMlFGcWVoSGl5Zm91R3JuTEYxZw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.9246,
-    "lng": -43.94557,
-    "hora": "13/03 04:00",
     "recente": false
   }
 ]
