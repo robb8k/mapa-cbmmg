@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-15",
+    "titulo": "Colisão frontal entre Fiat Argo e Honda Civic deixa três feridos graves na rodovia MC-369 - Notícias de São José do Rio Pardo",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNExWMmFZeDZmbzQ3dWN4SkpuR2hfcUFnSVZpcktTU3YwdzBPbEJicmZQUHpQNXViUXV5UEpjZUFfM1NIS19HdFItUVBsVDBsWEMwWjY4SlYyT0xIaGdHQkFIVE5UMzJ6SjcwR1BWanVvOUN1Q3laZFV0aENsZHd3R2FYYXJNQU1MNGpDLWJxTlVEYnJzT1oyMXV0M1p5aWJmVHk3bnc1SWY1bUE4VW5zajFKUmRnUUtjUVJjYg?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.92015,
+    "lng": -43.94616,
+    "hora": "Há 49 min",
+    "recente": true
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-15",
     "titulo": "Colisão entre dois carros deixa uma pessoa morta e duas feridas na BR-267 no Sul de Minas - Impactto News",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzBnS3hod2pPLUJYSF9zb3J2eEItRkt0NzVFcUhZaXJGbkdKaFJwaW9vTG54cnY2NFJOd2lxNXhwZ1RpSjZmQ1MxQk55aFg4TXBza3hZN20taTVYU0hNSlNFVklvbHc3TGhEZGJJV2hFYnAyS01VTDJDdDdOeTdlWGF0SEVkMDlTTDhDcVlfMXA1OXNGMF9nZWRaTHNjU1o3NVk1WjJMN3JfU0NRd0pIbXprb3dpZEJzTk9JQ1FFQXNtTW5OTzNoSEN4Ty1ydw?oc=5",
     "local": "Trecho BR-267",
@@ -6485,18 +6498,5 @@
     "lng": -43.9432,
     "hora": "Há 1h",
     "recente": true
-  },
-  {
-    "id": 297,
-    "data_dia": "2026-10-09",
-    "titulo": "Vídeo mostra incêndio após avião cair em trilhos de estação de metrô em BH - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalFFeHFRS29zejFJUVRZVlNMd2ZxcXRJNjdHYXVHSG40WW5lWnFYUGQyOUpKV0NsVV9SNmhrWWNNd2g4WXlfM1RRSG9TWjdLRlgxVjdkQklSSGlveHRqUW9RMFY5VXN3SUptVmdJMGpXaktkcmIxbGU1QkdBWGd6cGd6THRsQlBiSks3Z3N0QVdPbzg2WUhhMWsybzlOMkhjU196N0JEdU40dlUzV05VWGd5SmJNclNrcFJ1M0dn?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.9218,
-    "lng": -43.94308,
-    "hora": "Há 4h",
-    "recente": false
   }
 ]
