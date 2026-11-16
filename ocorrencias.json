@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-15",
+    "titulo": "Acidente entre Fiat Argo e Honda Civic mobiliza Bombeiros e SAMU no Sul de Minas - Gazeta De Varginha",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQXozWWQtM3hqWmhRNU9Qc1VGZllDTm1QNnBmZ1JpS3R2OG5NYmtUSWxqMUc0b2RkejBQR1BwVzNhN1VQSDJndFpiTnhJSFJpcmVURmlnOXpqOVRJOTFwU2g5TXFjSVFEZjFHclphNlo3WklzblN0ckRHOGJLMkpTUlo3aGZ5OFRPdVZVVEFCeDZWM0VacjdoT3d4eG9IRjNTMkpKSzcxVFpXZld5Nk1INVg2TVlwdEctOGRxbTNn?oc=5",
+    "local": "Varginha",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.55512,
+    "lng": -45.43325,
+    "hora": "Há 2h",
+    "recente": true
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-15",
     "titulo": "Colisão frontal entre Fiat Argo e Honda Civic deixa três feridos graves na rodovia MC-369 - Notícias de São José do Rio Pardo",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNExWMmFZeDZmbzQ3dWN4SkpuR2hfcUFnSVZpcktTU3YwdzBPbEJicmZQUHpQNXViUXV5UEpjZUFfM1NIS19HdFItUVBsVDBsWEMwWjY4SlYyT0xIaGdHQkFIVE5UMzJ6SjcwR1BWanVvOUN1Q3laZFV0aENsZHd3R2FYYXJNQU1MNGpDLWJxTlVEYnJzT1oyMXV0M1p5aWJmVHk3bnc1SWY1bUE4VW5zajFKUmRnUUtjUVJjYg?oc=5",
     "local": "Minas Gerais",
@@ -6484,19 +6497,6 @@
     "lat": -19.92444,
     "lng": -43.94658,
     "hora": "Há 2h",
-    "recente": true
-  },
-  {
-    "id": 296,
-    "data_dia": "2026-10-09",
-    "titulo": "Piloto morre após queda de avião em pátio de manutenção do Metrô de BH - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzNLNHdFcFYwMFljVDllc1BxTFZPU1g1QVI1NGR1emFjMWRjUVlmaXVPUEZndmxUU1FjR0xLenlWMW1hTHpybU5valFQNVFYNUlnY0J2czhXMG9ZaUFlVEJwYnlxMldzQ0E0WW83NVhMMFd6TG9ZZlN5empacUdmUzZrMXhOZWx0YXgwUjNIckdSWXZBQVJ3ZlVzM0xQYWktUlJRTFFqTDM4ejhMeFFjYjh1MGN0Q2x0Ql9kTUVQajhDc3M?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92028,
-    "lng": -43.9432,
-    "hora": "Há 1h",
     "recente": true
   }
 ]
