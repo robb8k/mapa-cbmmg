@@ -2,6 +2,45 @@
   {
     "id": 501,
     "data_dia": "2026-11-16",
+    "titulo": "Cadela e quatro filhotes são resgatados de manilha de águas pluviais em Pedro Leopoldo - G1",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRGZ4ZkExUTFFU2tRWnJRS3VMVU96ZTkzOFJVYnE3b3lNaE41ZlJ0V09Cd1dKVjJObzVhUVVTeHNycDlOd0stVGYzc3c3MThFaTRPYUp3OUJ6VF9RUFV1Qm9SckxacjRMSzlLdU9FWF9QaGQ4UHY0YVJySU9VQ1c1MlUydXlybG1aVW5Scy1EZ0lDWWJmS3hUVEdnVlVyQzBCYUJQUGlLbXRFQmxMNkxjQm40UkJxQXZfMHpWY3c0dnMzb0ZHS0FFNFF4eTMtS0M3YnpMV1ZMTmFkMWRtMDRCd1ZmNmhpdXVRZDlMa29qS0XSAfABQVVfeXFMT0RmeGZBMVExRVNrUVpyUUt1TFVPemU5MzhSVWJxN295TWhONWZSdFdPQndXSlYyTm81YVFVU3hzcnA5TndLLVRmM3N3NzE4RWk0T2FKdzlCelRfUVBVdUJvUnJMWnI0TEs5S3VPRVhfUGhkOFB2NGFScklPVUNXNTJVMnV5cmxtWlVuUnMtRGdJQ1liZkt4VFRHZ1ZVckMwQmFCUFBpS210RUJsTDZMY0JuNFJCcUF2XzB6VmN3NHZzM29GR0tBRTRReHkzLUtDN2J6TFdWTE5hZDFkbTA0QndWZjZoaXV1UWQ5TGtvaktF?oc=5",
+    "local": "Pedro Leopoldo",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.62042,
+    "lng": -44.04036,
+    "hora": "Há 18h",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-17",
+    "titulo": "Bombeiros fazem buscas por jovem desaparecido após afogamento em ribeirão de Santa Juliana - Araxá Agora",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0xBNWJvWS1tUVpTUHAwS01GTk5IRWFuODM4NEUxLUQ3d0YtLUNwRG41LXZFcGwtbnJfSmVRWXRncEc0NDVNMS02MlB6RXJFNmpURUhlNjdfZFRJaThnOXlSWlRtRkoyMlpwcmptV3BJSEhIYXFaYm1fR0kyeFlBLWJRRWFGSmZzaGFJZWVqdFpjSEtVSmJwb3B2ZWRoSXl3SU4wS29iQ0dCYVVfc0JmQzdrNHZzd1I3N2FReDkwNHhpeUlib3pr?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92212,
+    "lng": -43.94749,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-16",
+    "titulo": "Acidente entre dois carros deixa 2 mortos e 5 feridos na BR-365, em Minas - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnVzYmlhdUk1UU9YOTF5SUhoR1NlZlBweXhueWw0b0JPeXJVb1RiZTVtdlNRbmphQnRYMXpyNEhibDA5ektUYmt0Y2QxcFdTcFlhVWZBSXhWRW0tdU1tbk9oU3hzZTdWVG9Yd1pPampfc2JqeVVHTEIzNE1mSWVoaHdfZk1CSDI3SWxMeDU5YWJ0QkZKOUp5Rll3YUZoWVlfOTZTa284NVNyWkRVYTZDczRyTHVRNHBNRDFFOXhYUdIBxAFBVV95cUxOSnU1M242UV94QXZjN0J1aWJCQlJWek5tRzhzaHJTZjdwbjdoakdfNy1FRzBnMVdrSzVoOEZFSW96Vm4tUjJsOU83elJHZEVhZTdfSk50c2Vfc3VuWHZ4YzdjbVNxOEpsX2U3VktlWlg2SlFUNFRBOGhFeHdBTVB6bGxaanJYaTE1TTFQSnFHOFJKQ290dUdQc0w5Vm5QUFVTVF9HOXVRS3V1Tks0Z3A0Y0pzR1JfUWJlUVY3QlpmUExmNnQ2?oc=5",
+    "local": "Trecho BR-365",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.9004,
+    "lng": -48.16193,
+    "hora": "Há 17h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-16",
     "titulo": "Bombeiros resgatam 5 cães presos em tubulação de água na Grande BH - G1",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVnh2ZVVOLV9KN0Z5UzBKb216V29YVm04djExZ0RYTHk4ZWtxLXd3SC1HNFhBVGFWUTZ2b3EweVBKdTlBMTk1czg4LU1fYVNQd0d2UGpYNjBKM0UxcXlvTFQwZVo5RGV3dnF1TlpzOEZDM09JWWdXWTFXUzhORkptYkN3N2xwZ1NYNXc2WGVMenYwODlyUThtUzZrSnVudFBvMmxPVTlvcnZwd0l6OWlTZDhXWGlBOEtlN0RYa1lvcWgyMml3Z3JhdWNYblJJX2VBWHNDRnNudm9zVDF0SEZtdHVR0gHwAUFVX3lxTE9EZnhmQTFRMUVTa1FaclFLdUxVT3plOTM4UlVicTdveU1oTjVmUnRXT0J3V0pWMk5vNWFRVVN4c3JwOU53Sy1UZjNzdzcxOEVpNE9hSnc5QnpUX1FQVXVCb1JyTFpyNExLOUt1T0VYX1BoZDhQdjRhUnJJT1VDVzUyVTJ1eXJsbVpVblJzLURnSUNZYmZLeFRUR2dWVXJDMEJhQlBQaUttdEVCbEw2TGNCbjRSQnFBdl8welZjdzR2czNvRkdLQUU0UXh5My1LQzdiekxXVkxOYWQxZG0wNEJ3VmY2aGl1dVFkOUxrb2pLRQ?oc=5",
     "local": "Minas Gerais",
@@ -6458,45 +6497,6 @@
     "lat": -19.9236,
     "lng": -43.94672,
     "hora": "Há 6h",
-    "recente": false
-  },
-  {
-    "id": 316,
-    "data_dia": "2026-09-27",
-    "titulo": "Restaurante em BH e área da Ambev são atingidos por incêndios em MG - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV05ERWZFMXRsX3hvTTZod1AtWmZhLU9ESWxEdHU4QXphODBJR0FLQkVhbFRsVFk5MU5zdUcwcFFUZkNtZkEwRm4tbFdRZDdTcVp4aUwyeGRzb1dsWnBicjNhUXpmN3ppWUkzeEdMT2M0YXdjQnVZTDFGMDNSblQ4OE81UWtpRzh1WGFvNFdDeDV2bWFEZ1F2anVDa3VERlR4M1BZUHJMRE5sWFU?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.91998,
-    "lng": -43.94613,
-    "hora": "27/09 04:00",
-    "recente": false
-  },
-  {
-    "id": 317,
-    "data_dia": "2026-09-16",
-    "titulo": "Acidente com ônibus de turismo e carreta deixa seis mortos na BR-116, em MG - UOL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnJJQ1Roc3dqa2ZCNVNfVHV0b0NrT2JTZDdRM0VRcjlHM2N5a1hlSk93RU9qT1dsY3g3NGgwUXV2WVNTUWh0dHJyYVJXajVLODFweVhkakZzb2hxM1BEQl9lemZJeEx4bjM5cVAxaDFFa0RlVDFiTXd5XzU5THdsNE1HUWZSeVcxbkcyaUxwRXJRUW1ZVXJYUy01a2hfenpQdThTNg?oc=5",
-    "local": "Trecho BR-116",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -18.6689,
-    "lng": -41.9837,
-    "hora": "16/09 04:00",
-    "recente": false
-  },
-  {
-    "id": 311,
-    "data_dia": "2026-10-09",
-    "titulo": "Acidente entre ônibus e ambulância deixa três feridos em BH - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONUoxZy1tbFc4SWlSMWtKNGRBVTRnMVZnN0NpbDEzeDVpMG5HbFB3bzNxR2l4c21ka0VncHIzcVZSMVdEOWZ0MFloeV9yX3k2LTliTUc0SXdicFg4ZGIzMWk0Y0ZoQl83a1ZrTjhkUEVaelh6azZsd1h2WVpyWlg2VFlrUm00ekpyVFktMHRVSHluR0RwekdoLUJFRHRDY3FJ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.9243,
-    "lng": -43.94251,
-    "hora": "09/10 08:38",
     "recente": false
   }
 ]
