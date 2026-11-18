@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-15",
+    "titulo": "Uma pessoa morreu e outras duas ficaram feridas em uma batida entre dois automóveis na BR-267, perto da entrada de Monsenhor Paulo, no Sul de Minas, por volta das 18h30 de sábado (14). O 2º Pelotão do Corpo de Bombeiros (CBMMG) de Três Coraçõ - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdTBrd1JNalZiTmFoR2NZUlM0eTVWYXRmcklJOG9UY3NWVEhzQnpoajZrcnBXNkVzRnJBVUNET0pHVmVHYWx0VUktN1ZHeDlkdmc?oc=5",
+    "local": "Trecho BR-267",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -21.76936,
+    "lng": -43.32948,
+    "hora": "15/11 10:10",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-08-07",
+    "titulo": "Histórico do rompimento das barragens da Vale na Mina Córrego do Feijão | Pró-Brumadinho - - Portal MG",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFlnQjZ2Ml9fSUlmcC0tOG9hanZ1ZXlHUFpNcl96ZE9GTk5DcVlkcWJHWlJCSmd0VlhidC1CVE9iZFowNjJlbW1YSHNibFJtU2cwSTRoemlfT2RheHlwVkN4S0RmaS1JYlBVdTBaMkRfOWJHUnRDdWFyeFp4S2Fnc1V2TEc4cWp0ZGxFR2ZaNVZ0N3pwRTVtRkVCNEE5eHVzejZzVmVyNEx0Z0hMRE9PcVdXc3g0UQ?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92264,
+    "lng": -43.94305,
+    "hora": "07/08 04:00",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-17",
     "titulo": "Incêndio em carro no Centro de Lavras foi controlado antes da chegada dos bombeiros - Lavras 24 Horas",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblR6Uzh1SC1JNzNBekhjRGc1TmhBcEtHUndWVVAyMGd1Rm0yaDNpVjRzMnJCVUJXVGxueWV5ZzduMDgzR1hfWUpFRy05dE0tVmFaMm9NZ0xhemltcWZkWHVyOFpZdzdkOE8xTTA4VE5yTGhjOWhVc2ZYLXgydTE0dTlrRnZGcHZfcDdJWGtTUHp0c014SVdWTnZsdU52SDY4cVVlYlVFOVY0c1BvVnB3NFRLcUZ6Z2lNQUZmMF9wVzVsUQ?oc=5",
@@ -6471,32 +6497,6 @@
     "lat": -16.38996,
     "lng": -43.18842,
     "hora": "01/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 313,
-    "data_dia": "2026-10-10",
-    "titulo": "MG: motorista fica preso às ferragens em acidente com caminhão na BR-381 - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2lybFdxeUpwWVdGVnZLTWNQZHR0VEs4YXpHWnFtOEZaS1YtcFVqVUxNb2tweldVVTVLQTBzZnhCVTlPTDA4a0VvZWZiSzlvc1RPWG1FQkEtb196QWZrQ3N6NUNweEtwODN2TlYxVDRoTWNLYWoyMnpWekRxS3hUSGFWYUZwZUlvVFRfdEhsUzJsSzFHRkppbl9Cel9yRkxjc2Nxc050eElhY2JTZVJ2bTI3UGRkbzU2V3ExWTFB0gHDAUFVX3lxTE13YXIyOTVrX3pDZ09EQmhaYXlubjhFZVVDRnlOd0Q1ekc2U3h2TEtYSTRWbWtKaWIyczNUV1EzWVdzdU9EZFRYWjJOUXJwd0pGM0JRSlFrOVoySk1pVGVzS2JSZHpSUXZleUZyN2dPa1YtZ3YxTURiVGtPbzdudEljZ2N6c0JrWE5oSXpMUExnaUNYQVE3ZFRKYkVIa1F5SE96YnNEU2FCX1lXSjBFQU1CbUZyQzBNcEFSUzI5bFRXTlNLYw?oc=5",
-    "local": "Trecho BR-381",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.91263,
-    "lng": -43.99172,
-    "hora": "Há 9h",
-    "recente": false
-  },
-  {
-    "id": 314,
-    "data_dia": "2026-10-10",
-    "titulo": "Incêndio atinge baú de caminhão na MGC-135, em Bocaiuva - Gerais News",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSktIM3RMc2NtTEJoMXBpUUwyYnVwdEF4UTRPcHNMWFJOVHdNYy1qdjgyQk45NWNLRUVKR3QxMU1ITktsU0M0cXdNUTNwbjMwLXM2ZVlpRDFXRkZvWWZJWnNhdEpYaENpYmdscmdISk9hMlNtZG1GT1BqcFhtYlBPb0hQYk0wTm1IWTFYVDlSYWMtcDJZdC1n?oc=5",
-    "local": "MGC-135 • Bocaiuva",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -17.03061,
-    "lng": -43.84031,
-    "hora": "Há 11h",
     "recente": false
   }
 ]
