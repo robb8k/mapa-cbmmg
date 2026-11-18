@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-18",
+    "titulo": "Carro capota na MG-050 e mobiliza Corpo de Bombeiros em Pedra do Indaiá - Últimas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTBvQk9hOWE1dGtRNXNxTWxucE0wTVJUY0lzVnpTZjBIZE1tX3RaeU13SlpqUURpd3dqVXhZd0hqYXowU2Q0OWJJYnJPcnYxQnVHTjNROG1ieGVJZXBKWG9mY2lRZUFaMUlqYmpaM1pORTR1WU1ZNkhGWTc3bXR0OHJYTGxPaXBQY3J5SXB0UWE2dG85WGE0ZWRXaHJ5MG9FdEp5dEVMMWRzZFFOSFppYQ?oc=5",
+    "local": "MG-050 • Pedra",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.29741,
+    "lng": -45.16176,
+    "hora": "Há 7h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-15",
     "titulo": "Uma pessoa morreu e outras duas ficaram feridas em uma batida entre dois automóveis na BR-267, perto da entrada de Monsenhor Paulo, no Sul de Minas, por volta das 18h30 de sábado (14). O 2º Pelotão do Corpo de Bombeiros (CBMMG) de Três Coraçõ - Instagram",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdTBrd1JNalZiTmFoR2NZUlM0eTVWYXRmcklJOG9UY3NWVEhzQnpoajZrcnBXNkVzRnJBVUNET0pHVmVHYWx0VUktN1ZHeDlkdmc?oc=5",
@@ -6484,19 +6497,6 @@
     "lat": -19.92151,
     "lng": -43.94773,
     "hora": "09/10 18:03",
-    "recente": false
-  },
-  {
-    "id": 318,
-    "data_dia": "2026-07-01",
-    "titulo": "Três pessoas ficaram feridas após um carro capotar na BR-251, entre os municípios de Salinas e Francisco Sá, no Norte de Minas, na tarde de segunda-feira (30/6). Segundo o Corpo de Bombeiros, o motorista perdeu o controle da direção e o veículo saiu d - Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwNGtROWZrVE1Cb3FSMEtaSUh3UGFtRjZ6Qm1aQTNVUTNlOHN3b0FSWHl5em9iVEdLSUhQRHZJc0gyMXFlV25FTUtneV9IU1B3a2c?oc=5",
-    "local": "BR-251 • Francisco Sá",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -16.38996,
-    "lng": -43.18842,
-    "hora": "01/07 04:00",
     "recente": false
   }
 ]
