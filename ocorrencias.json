@@ -1,6 +1,19 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-17",
+    "titulo": "Incêndio em carro no Centro de Lavras foi controlado antes da chegada dos bombeiros - Lavras 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblR6Uzh1SC1JNzNBekhjRGc1TmhBcEtHUndWVVAyMGd1Rm0yaDNpVjRzMnJCVUJXVGxueWV5ZzduMDgzR1hfWUpFRy05dE0tVmFaMm9NZ0xhemltcWZkWHVyOFpZdzdkOE8xTTA4VE5yTGhjOWhVc2ZYLXgydTE0dTlrRnZGcHZfcDdJWGtTUHp0c014SVdWTnZsdU52SDY4cVVlYlVFOVY0c1BvVnB3NFRLcUZ6Z2lNQUZmMF9wVzVsUQ?oc=5",
+    "local": "Lavras",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.24282,
+    "lng": -44.9987,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-16",
     "titulo": "Cadela e quatro filhotes são resgatados de manilha de águas pluviais em Pedro Leopoldo - G1",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRGZ4ZkExUTFFU2tRWnJRS3VMVU96ZTkzOFJVYnE3b3lNaE41ZlJ0V09Cd1dKVjJObzVhUVVTeHNycDlOd0stVGYzc3c3MThFaTRPYUp3OUJ6VF9RUFV1Qm9SckxacjRMSzlLdU9FWF9QaGQ4UHY0YVJySU9VQ1c1MlUydXlybG1aVW5Scy1EZ0lDWWJmS3hUVEdnVlVyQzBCYUJQUGlLbXRFQmxMNkxjQm40UkJxQXZfMHpWY3c0dnMzb0ZHS0FFNFF4eTMtS0M3YnpMV1ZMTmFkMWRtMDRCd1ZmNmhpdXVRZDlMa29qS0XSAfABQVVfeXFMT0RmeGZBMVExRVNrUVpyUUt1TFVPemU5MzhSVWJxN295TWhONWZSdFdPQndXSlYyTm81YVFVU3hzcnA5TndLLVRmM3N3NzE4RWk0T2FKdzlCelRfUVBVdUJvUnJMWnI0TEs5S3VPRVhfUGhkOFB2NGFScklPVUNXNTJVMnV5cmxtWlVuUnMtRGdJQ1liZkt4VFRHZ1ZVckMwQmFCUFBpS210RUJsTDZMY0JuNFJCcUF2XzB6VmN3NHZzM29GR0tBRTRReHkzLUtDN2J6TFdWTE5hZDFkbTA0QndWZjZoaXV1UWQ5TGtvaktF?oc=5",
@@ -6484,19 +6497,6 @@
     "lat": -17.03061,
     "lng": -43.84031,
     "hora": "Há 11h",
-    "recente": false
-  },
-  {
-    "id": 315,
-    "data_dia": "2026-10-10",
-    "titulo": "Homem finge se afogar, afunda e morre em balneário de Minas - Estado de Minas",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHlfaTI3UXlOUlRuVFJUUFlnQ0RTU1MwSkZMLXZHUHAzcU5SZFF6bkZYaGI0dFR6QzV1b0JBcGVWNFpmZUx2TllRY29lTXRSVm9WekplRHZWZDRXdnBFM1VMdHdVMUNZWkp0QlozQTZxbkdwNTZxUGpSUHRVdWl4U3VqVDROVHFXT1BmYkxrWDFNM2V6SVMtMW9HVW5TR29UdHg2T0pKNjJ1V3N40gGyAUFVX3lxTE05ZC02VDhiT1Y1SWZheW9WM2xTeHlRc05jdGlWSTZkRllrNGNLNDJVem9LR2dUNmxvR2hfTlFSNVpNRF8yT2ZLa1hxM2EzSW5JT2k1LXpKWl9vN1dGYlJiN2QwaUFWOGV3NVdLNG5kR1cwYVRYeUdad1NOMHRybWZaX2VuVTNjeGIyTWVLc3NFb0ZtOWtKNWpvX3REeVA5bTN3Nm9yamV3bXlITnZMSXBnUVE?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "aquatico",
-    "categoria_label": "🌊 Emergência Aquática",
-    "lat": -19.9236,
-    "lng": -43.94672,
-    "hora": "Há 6h",
     "recente": false
   }
 ]
