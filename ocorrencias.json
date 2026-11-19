@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-18",
+    "titulo": "Desabamento de laje deixa feridos em BH - G1",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXZUOFM2QkR3X2doVXNNOXVkNmN0aEx3Q2phb2hxc2tEam1uRDJyeUlLQzlnWGcyWUlHVm9aaTNubXBRc1JRZHBSbkdKZ01OY1NqcUpod2FOcFhRV2I1em1CeGNMWVZnMW1Jd2FmZlJyNGtuMHRmME5OTDFmcnQ5c0p3ODBjNTgyLTBCRlBzQktObUxsVWhVU2c4Mm9kdG1VNDA5dl9Rem5fTFVobi1oMVNxTDN0SWPSAcYBQVVfeXFMTWYzbmNnemlQVHQwZWVQWnNncWFqcFlpVGtsTlhBaThUOE5xY0tycHhJeGFhSDNHSHlsUFFCLVNZcjctbDFDZ2xYOHBOSkxvdFZOd0hFZ0lBbldyQmFtd1M2WkZ1YzVPQTc3WDJGQkotRzA3X2haR1lxRktwLV8wWjFvR3QwcXhWUTQtTGNxeWNRblBCdmNzd1kxcnVESTlGTEFuaU9pbzI3Sm0yMHVWUktOOWphM3Jrc2I2d1BqTjYyT01OTU9B?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92557,
+    "lng": -43.94359,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-18",
     "titulo": "Carro capota na MG-050 e mobiliza Corpo de Bombeiros em Pedra do Indaiá - Últimas Notícias",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTBvQk9hOWE1dGtRNXNxTWxucE0wTVJUY0lzVnpTZjBIZE1tX3RaeU13SlpqUURpd3dqVXhZd0hqYXowU2Q0OWJJYnJPcnYxQnVHTjNROG1ieGVJZXBKWG9mY2lRZUFaMUlqYmpaM1pORTR1WU1ZNkhGWTc3bXR0OHJYTGxPaXBQY3J5SXB0UWE2dG85WGE0ZWRXaHJ5MG9FdEp5dEVMMWRzZFFOSFppYQ?oc=5",
     "local": "MG-050 • Pedra",
@@ -6485,18 +6498,5 @@
     "lng": -44.91581,
     "hora": "Há 2h",
     "recente": true
-  },
-  {
-    "id": 322,
-    "data_dia": "2026-10-09",
-    "titulo": "Queda de helicóptero da PM deixa três mortos em MG; estado registra segundo acidente aéreo do dia - ND Mais",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmJEODA4dlMtdzJpZ21OYTg1N1ltVHpGWllUem5PQy03djkzZExXcHphTldfR2RXU09NeDZCWlJ5NF82Qi0tTDRMSUJzZjhSRUFHV24wS2Y4YXhQTTl3NWhneFdZZXhYdzhfWTdOdFM5U1pRU0pGRDZSNTZyaHgwWVdVOHo1NUwwTnFv?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.92151,
-    "lng": -43.94773,
-    "hora": "09/10 18:03",
-    "recente": false
   }
 ]
