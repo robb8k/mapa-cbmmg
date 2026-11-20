@@ -2,6 +2,19 @@
   {
     "id": 501,
     "data_dia": "2026-11-19",
+    "titulo": "Bombeiros socorrem dois envolvidos em colisão entre moto e automóvel - Gazeta De Varginha",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGJVeGE5d29mYVpjem9tRDBsSjZtTEpUcFVxTzA1WUFLd2V4VEZXMUN3TXU3ejNaWUdWMjN6dnpYUlFMSjVTM0ZsOHpqeFRzM3hkRVdiaXlaVTQ4TFp0QkhNa3ctb0ltbjJMTUE3bHJrbFpZSGgtcHh6OERGTFlFMUVMNjR6WFNWZWhaR0V1UE5aTk9xcnlKb3NPbWtxT1EyNXlTcEMzNjdqc1BCVE5oSFl2a3BLMTEtNDl3?oc=5",
+    "local": "Varginha",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.55517,
+    "lng": -45.43631,
+    "hora": "Há 15h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-19",
     "titulo": "De volta aos braços do tutor! Bombeiros resgatam cachorro em Minas Gerais - Tribuna do Sertão",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUk5ZzV0ZVI3YzVYd1pXY0RwZnhMRUxBNWpHa1BKYWdmSWxpQVJmUE0wRDlRWWZUTjFiQVhRa3o1TXVkLWg4VnFCSjdxTldENmVrdUNkLTFfaWxjS3Foei1GRWMzWGhESF83aUw0R1RXdEVvbVdyam90b0xJRFdXQmNrUlNkRnQ3TTc4ci1nckVrSnVOZzhXb192RHByZHJsTVVNT0ZqOHR1cjIyZDRzXzZmOUdvZzJlQ3BhN052MF9odUU2Tk9ObjQ4bTM?oc=5",
     "local": "Minas Gerais",
@@ -6484,19 +6497,6 @@
     "lat": -19.92103,
     "lng": -43.94769,
     "hora": "11/10 09:12",
-    "recente": false
-  },
-  {
-    "id": 327,
-    "data_dia": "2026-05-14",
-    "titulo": "Um incêndio em uma casa na rua José de Alencar no bairro Nova Suíssa, em Belo Horizonte, mobilizou as equipes do Corpo de Bombeiros Militar de Minas Gerais (CBMMG) na tarde desta quinta-feira (14). Segundo as informações da moradora, uma vela d - Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1adlBpemFHTVRta0tnN0o0S203eUtadFU2cWNzUmhvdzROaTROTGtRekNZSWxYUjE1MXBDR0R0WkZYdXhtNVZMWkZLUW9XTE9fWkE?oc=5",
-    "local": "Belo Horizonte",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92279,
-    "lng": -43.94552,
-    "hora": "14/05 04:00",
     "recente": false
   }
 ]
