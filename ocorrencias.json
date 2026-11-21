@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-09-24",
+    "titulo": "O Corpo de Bombeiros Militar de Minas Gerais (CBMMG) foi acionado na noite dessa quarta-feira (23) para atender a uma ocorrência de incêndio de grandes proporções em um complexo industrial na Avenida Joaquim Dias Santiago, no bairro Vargem Gram - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbVNNT1FMcWpFaEdjREYyYVI4MkwyMTg4bXV1NFNmZ0p0ZWlVaDdRZE9GdjhNeVBrNTg1cW80VXNGR3BNcHV5TlJPSFdQSzlZZXc?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.92038,
+    "lng": -43.94553,
+    "hora": "24/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-20",
+    "titulo": "Incêndio iniciado em veículo atinge galpão e ameaça estruturas vizinhas em Nova Serrana - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0J0SVRfX28tc0dpRGVaaldINFRhWmxwOE4zRGU0S3A5ZTdZemtnYmlmcnNweDVyd1pHN1RBWFkxNkcyV2FNVDlUSXRXa05NTmZORl9TOTVsUndsWnJ4V1YzYWlkZTdGekg3blNQSy1qc0RER1cxcUhZbm5aNkYyOEtKc0tJS0YxNDhRdUp0UTc3OV9DRHlvX3ZmN1ZnT3l2OVJPdGg0dDhNQ2xqYjFRQjZvM0R6UXhoTWZiRF9KVVNSOTFX?oc=5",
+    "local": "Nova Serrana",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.8772,
+    "lng": -44.98354,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-20",
+    "titulo": "Motociclista morre após colisão com carro na MGC-491, próximo a Fama - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWY5bFJTWkNYbXNRNkZUTkZfcGliWnA1ZlExamhRVzlxRS1Fb0NLelczVnQwT2VnaEtNQ3RZNHJtbDRLR1NKZ0tiSFRFbWViZkVNczZxb05ZN20xTEtOWEItbzhtUGdJeWJlN3UtVEtwY1REMS1lQUtHRHFqSkNaVGkyTndxZl9Dd0l0Rng3U0M1RS1ZYWttLVlRUk9fRHJ3bUdZY1ptdTlYUQ?oc=5",
+    "local": "MGC-491 • Fama",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -21.40877,
+    "lng": -45.83142,
+    "hora": "Há 4h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-20",
+    "titulo": "Incêndio destrói ônibus de turismo com 18 passageiros na BR-381, em Pouso Alegre - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUFjeGplY0s0bVJkZHVWanlUVHA4Nm5QeVpoSGVyOXY4ODlvYXNsSVRIR1hiMWI2R1B0OVE2YzZDTnBUMXRXOExYVXFaRklCOFh0aURINTljbDhOQmdzSmVYZ2wyT2l2Z21YcDNfczViajhIY3lDa3FrM19MZ3VXWmNGal9MM09Geks1a0d3dHBmQmJnN3B4dHFyaWhRQS1UNUx5Uzd6ZVY0TVhtY21pVUNDaG83d0dxSkE?oc=5",
+    "local": "BR-381 • Pouso Alegre",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -22.24115,
+    "lng": -45.88008,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-20",
     "titulo": "Incêndio atinge galpão industrial e mobiliza Corpo de Bombeiros em Nova Serrana - Tapiraí TV",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZEFjWHRoY2MwTVhzal91VnJmVTN2dFRpUW5GMnRyb3ZpQ3hoUk9DMVdQanVxN0RhYTVuTzF0MkxJR1Z3WUtBTnpmdlpXT3FmaWhjc0p3SEtIQTlmbzduQWNENjUzR0hWWE9jZWRDbmgtRi1yTTNYX1U1cThyUm5XamxtODRsUkdqVXVFZVEyLWpqLXlJeTN3R0dxOHRVVG9kbEZ3WUFHcWFQNEttaW14bUlaQ2pxWG9VdEUtZTd6SXJaUQ?oc=5",
@@ -6445,58 +6497,6 @@
     "lat": -19.92336,
     "lng": -43.94463,
     "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 347,
-    "data_dia": "2026-10-13",
-    "titulo": "Dragão do Oiapoque aparece 'cuspindo fogo' em vídeo dos bombeiros após incêndio em ônibus do MOVE em BH - Rede 98",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOci14SkNnOVpxOHVoZVVCYTZNQmdjcW03SXg0MkNhWGNqTWNLZVFYWDFsRktpbEtCVUJlcDBZTDBOSmxUUnRVNzNVVWlmZ1FaNU92SEZHWE0zcU9BT3FjZkh2SEdZVUpVX0NQbTB1NTRuWGF6M3V6cEZBUGI2MEFRUWZsYmJrVjRYWllKejdvaG9lbUY2U2E0YVRNSmxsN0hrNkVJbEFUY21xUWVnalhtSHhXaDg1eFIxMFl2czVVUEtRV1QwNEE?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92451,
-    "lng": -43.94403,
-    "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 340,
-    "data_dia": "2026-10-13",
-    "titulo": "Bombeiros atualizam combate a incêndio na Terra Indígena Maxakali; fogo segue avançando - O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVVOZThsdXVJejFIb2V4YnBnOXVHWWFTbm9aQTVuR0lycU9xcS1fbzc0Mnp4TDhNRy1IdzFuRC1NQjByZHNLdWViekRtZVNfcGpZQ2U0M081b2pFaWtheU4zSTZOZEVrQUFMT3VHbXd2TVZzc2RPNk1kS0stazYzT0VBdXY0VW54NUZNc2dKc19IQlhIRzRWY1ZhNHE5Q0ROVnA4TmRUYUtCSS0xUWxkZTQ2M2wxVWVTN0plSE00VUJoWGtNY3c?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92231,
-    "lng": -43.94679,
-    "hora": "Há 1h",
-    "recente": true
-  },
-  {
-    "id": 341,
-    "data_dia": "2026-10-13",
-    "titulo": "Bombeiros esclarecem demora no atendimento após incêndio próximo a evento infantil no bairro Altinópolis - Diário do Rio Doce",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVJYYlhnOTA1akE3MEtDOXQtdVR2eF9vaWxMcGVyN3NFLUdwbm1OdjBiWVFvb2JoNXVobHBkVk1hWU01RnlLcThBejNKVjBXTUJQTlZBM1MwTjNBT1F5UU9pUnlETXhTQXBjRnhHY0NEa0w5Sko2dHhTMi1QWEZHXzl5bDhZLUxZTjFPaGphOUY2bUdYNURGRkdsdmtEMjV1akxoN0pQM3pBZW80UklBX0lwLTEwSXlKS3ZoNjhvMGpRdw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.923,
-    "lng": -43.94489,
-    "hora": "Há 5h",
-    "recente": false
-  },
-  {
-    "id": 342,
-    "data_dia": "2026-10-13",
-    "titulo": "Incêndio florestal avança na Terra Indígena Maxakali e mobiliza força-tarefa - Impactto News",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1Jjb2d2azJwWXA5R0M5dEFSbUpqWDRCeWFDeWpzMFdjSG9sM3pUMVVEMy1MWkZXMzd1X0hOV2JoTEFRblBMemlaUW95cFFXS3JSQTd6aDZmUkZVc1VlaDBwZVpFSjVHX3FGaXlONUtfSThsT202SHBNc3BscmlUd1d2U0cyTklWWFNiRVNIdXBJSkdQMmJ3ZmxkTjQzUmQ3QlZDRVZDdDl0Wm5kb21xUjlQZTllTTJWTTNCWA?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92331,
-    "lng": -43.94519,
-    "hora": "Há 12 min",
     "recente": true
   }
 ]
