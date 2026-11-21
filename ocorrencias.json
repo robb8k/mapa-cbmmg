@@ -1,6 +1,45 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-21",
+    "titulo": "Bombeiros realizam resgate devido a enchente na zona rural de Aimorés - O Tempo",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFhuVFVFeEN3YWRaSXBQWlg3UmV2QTRVU1BGUWZrd2Z0blIxMUpJWkJmSVhtVVlWUEVTejlQM3k5M19KanpGR0FEcDNNTm5DWVNtcFhPMnZ0SDBVZVBPWE5YUXVQb2JBUzBHMWh3V21yS29DZW1jRTd0d25ZWVJwOVh2RUFVa09fNHVsVGFacDNaSWdNZFZiWVlpTXpHakd2SDJXbG1sa2MxbzFXLXZwOUk0NDM?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.9221,
+    "lng": -43.94346,
+    "hora": "Há 54 min",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-21",
+    "titulo": "Acidente com capotamento na Avenida Imbiara deixa uma vítima em Araxá - Clarim Araxá",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSGdIYkJPNnFBYV9wd0ZCWDhyYy1lUUpFOEkxR1VzUm10MEZUNXo0aVUzZG5PYXB4YXdWcTdBQ0tYOVpIX0w0QnZPRVpzbXMyaWU0bA?oc=5",
+    "local": "Araxá",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.60052,
+    "lng": -46.94144,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-21",
+    "titulo": "Colisão na Avenida Imbiara deixa condutora ferida e provoca capotamento de veículos em Araxá - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWkpmd01hT1RwUWhHQ2lMbUZCQS00NGw2M3p3VXZtMU5DWEFnZHRVamR3eGNUMENKa2FCYWpIX296YnJSeXNkQVdpeHM4WTBUZ0IwS0pWNHFweUlZUHN4Rk9kakVfd0ZIQ1IyX0JQOWZCNHpJVnY5Q1M3aHNxYmgwdVNrdFdCaG16ZWlaMWpuU3dQc2tiU0doaWpiTDMxVDFHWXZGQ29oMXE1WFdjSHZHSWtCeUFuSG11Wl9ldlNZUVRMQi04ZWNRTWVmUQ?oc=5",
+    "local": "Araxá",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -19.60062,
+    "lng": -46.94105,
+    "hora": "Há 1h",
+    "recente": true
+  },
+  {
+    "id": 501,
     "data_dia": "2024-01-24",
     "titulo": "Defesa Civil mantém alerta para chuvas fortes em Minas Gerais - Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXdWOTZBbWhha1VtOGxWTnBQUGVnbHlwSkFlNXkyRmIybk5ZUnlUNmlvTUdjRW04bEs4Skh4NnR6VHVjcGR4Z0FWMG5tRXFNR0ZtZ24yaXBQVGZ5LXNpcUMyZnpaeWlMXzRBcXQtaTJSeFUxdHRIdUR2YzFsNFVyVThydVh5VVBxUWs3a2QwcmNRWTdJZlYtSWpLOGVaZmhlQlBoRmtRZnVQd0ZsZngyNDhWeW01R0E?oc=5",
@@ -6458,45 +6497,6 @@
     "lat": -19.92329,
     "lng": -43.94427,
     "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 352,
-    "data_dia": "2026-10-14",
-    "titulo": "Motorista é carbonizado após colisão entre caminhões na BR-116, em Muriaé - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQi12VWVMOTBBbzRaSHo2X2RvVWpoaWdHdTF3bnRSNl9hc0wyZ3N3NTcya0xrelhUckE2Mjlpb3VZY2tNTkpzNXM0cnpobjYxd0pEUUN2ak1RckRwMXd2UjhlVU94XzhCRHVqdTNLeUhleGpQN3Z2LW95dWQ4ZVZQOTR3c0czeWFsRVdTRGxEcDBXMkhFWWZwNVRYZzc0V0JoT09hOTNLTmpJclYyODl2WnA1blNNVHBNSDZ3?oc=5",
-    "local": "BR-116 • Muriaé",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -21.05779,
-    "lng": -42.36612,
-    "hora": "Há 1h",
-    "recente": true
-  },
-  {
-    "id": 353,
-    "data_dia": "2026-10-14",
-    "titulo": "Bombeiros combatem incêndio em fábrica de móveis rústicos e pallets em Divinópolis - Jornal Correio Centro Oeste Arcos",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWtXM1dadFdNUEk0dTNqRjhmSnQyaWVZQ3JwMURDS2ZScWxhUjIyQXg5UE1xNVE1eHlJTHhnVEQ5bkhYMTQ5empWVUYxWkNDOWVEY05JTUF2aTlab0lnYWFlYnV4YS01bk5heS1yYUREZnZKbnkxWXY4a1BBZEtsa3Z3YVZrRExGSnlIWmQ4WWtfT1VrZVBNa2FOM19rbXZlZ3RJX1g4cWwzQjYwRldESw?oc=5",
-    "local": "Divinópolis",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -20.1585,
-    "lng": -44.87141,
-    "hora": "Há 4h",
-    "recente": false
-  },
-  {
-    "id": 354,
-    "data_dia": "2026-10-14",
-    "titulo": "Vizinhos salvam idosa e cachorro de incêndio em Uberlândia (MG) - Patos em Destaque",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3STRUc0JfblNBQmE5NlBwZmIzUF9QM09wT2NNcVJtcVJYWFNDbnZPM0Y3cXF6WWFtS1dJdHl1cDN5RGx3V2owYi1RTXh6UXIxSVdaR1c1N2NhWXVkTjhsTUt2WQ?oc=5",
-    "local": "Uberlândia",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -18.91936,
-    "lng": -48.27972,
-    "hora": "Há 26 min",
     "recente": true
   }
 ]
