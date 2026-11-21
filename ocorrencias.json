@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2024-01-24",
+    "titulo": "Defesa Civil mantém alerta para chuvas fortes em Minas Gerais - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXdWOTZBbWhha1VtOGxWTnBQUGVnbHlwSkFlNXkyRmIybk5ZUnlUNmlvTUdjRW04bEs4Skh4NnR6VHVjcGR4Z0FWMG5tRXFNR0ZtZ24yaXBQVGZ5LXNpcUMyZnpaeWlMXzRBcXQtaTJSeFUxdHRIdUR2YzFsNFVyVThydVh5VVBxUWs3a2QwcmNRWTdJZlYtSWpLOGVaZmhlQlBoRmtRZnVQd0ZsZngyNDhWeW01R0E?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92245,
+    "lng": -43.9462,
+    "hora": "24/01 05:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-20",
+    "titulo": "Incêndio atinge galpão em Nova Serrana - Estado de Minas",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3QtVHByVlBuUk9KRW84LV9vd3ptOWV5VlNBWG5zeUhONVRXVURFSVJQU3g0T0tjc2FuSmJGcjh6NDdJQi1tQXdaNTdLZnBJdDFyeHgxVEVzdVdvRnBUUVpvdklPVGJfcGdZM05lb21hemZxUVlFclRsNVZFVkEyWDhOX2tjZXE0V1pwTmF3RkFCQdIBlwFBVV95cUxNXzJNbTlFelZXcjdqeGc5bWhFZDlFbk1GMW1LWTAycThHS0pNNlc0SFNRRzRZMFlLX0F6SUVkSUxPTXdqcTBDUlJEUHZRLW9OcjFkT3cybkhxUDF2aTJIV0ZvY3lDWm4tY1lzc0JyN3FJU0F5RFlCMHVXa1J3aEZGa0tZVUhUdUY4UDAtZFlXOS1jSjJaZEVB?oc=5",
+    "local": "Nova Serrana",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.87577,
+    "lng": -44.98516,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-11-20",
+    "titulo": "Vídeo: Incêndio em galpão mobiliza bombeiros e ameaça imóveis vizinhos em MG - Sete Lagoas Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUJlSENNbTd5d3JHZnYtYzVpVjlJSUVjQjlFMmNEZkVubVd1MDg2eGJBcmc0RTUzT0VLMXNBYkdVZGM0R2VmZnh6UWk3WF9xQW9TQ3I5bzg5bjZWRHVGeTQ3VjFkdll3MmtFR0gtMG5XTWR2dmMycUJQV0lLZ2ppZWpDblp2S0tLbkJDb3JxYWdpeTZCbWtFNkU1dk9oc0lZQW9DaVdSRU42emdEOFdFalV6Q3Y5aUNueFNCUUJ4TklGVi1ZazdESkZNb1otWEQ1eFhF?oc=5",
+    "local": "Sete Lagoas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.46517,
+    "lng": -44.24962,
+    "hora": "Há 16h",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-11-20",
+    "titulo": "Bombeiros retiram coruja presa em fosso de elevador panorâmico em Cláudio - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFgxamxJUEkwZWtGai1HbjZyYlhjZEJNcUlPSTB6OGl5V2UxaTAxeHZJMXJWZ0l6cjBvZDR4eWtNWUxlWGRiVXBDX29YOWVMamN0bjFycldFVkxzb05zTEMzV0lnYVUyclZ0Y0pwMXMzNUlwUmppcmgxSmxGV2JFeUFZMUZGYzdKaHAwRFFvTC1jRHZ4ekFfM2g1ZDdvdWFDSlN6RzFGaVMtaUwyMUlBTXB3?oc=5",
+    "local": "Cláudio",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -20.40041,
+    "lng": -44.76027,
+    "hora": "Há 11h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-09-24",
     "titulo": "O Corpo de Bombeiros Militar de Minas Gerais (CBMMG) foi acionado na noite dessa quarta-feira (23) para atender a uma ocorrência de incêndio de grandes proporções em um complexo industrial na Avenida Joaquim Dias Santiago, no bairro Vargem Gram - Instagram",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbVNNT1FMcWpFaEdjREYyYVI4MkwyMTg4bXV1NFNmZ0p0ZWlVaDdRZE9GdjhNeVBrNTg1cW80VXNGR3BNcHV5TlJPSFdQSzlZZXc?oc=5",
@@ -6445,58 +6497,6 @@
     "lat": -18.91936,
     "lng": -48.27972,
     "hora": "Há 26 min",
-    "recente": true
-  },
-  {
-    "id": 350,
-    "data_dia": "2026-10-13",
-    "titulo": "VÍDEO: mãe e filho ficam gravemente feridos em incêndio no bairro Prado, em BH - Hoje em Dia",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQk9vUlR0ekJhYWFJbkc3VXVnQy1UaUJ1c0M1RW5TZE94UVMxLXhUZjdZM1FFY0p2NmxscE01bDUxWGpyV2pqcGlrVmtoNUtvRFRUUVhaMEtlemZnOEFKb3NEbFhBa1NxeHdMZjZhSUJ4ZUpUOS11VlJNWjBBVFlEUEg0d2REbHJyN0dLT01FOWlyaUZaNGpKUEs5OHVnM191RGtmR2tSRk81NUlLVVdYd0RNa05aY0RwMFJwUl9n?oc=5",
-    "local": "Dia",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.87744,
-    "lng": -43.99564,
-    "hora": "Há 20h",
-    "recente": false
-  },
-  {
-    "id": 348,
-    "data_dia": "2026-10-13",
-    "titulo": "Incêndio atinge Morro do Pires, em Nova Lima, e mobiliza bombeiros e brigadistas - G1",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZWhfUXQ2YVFwa3NGUHF6V1ZWcXo1RjdlSUhld253c25CVlFKZlp4VS1tdnkzS2I0eWhxekZGbWFOVS02T2NmWlllaFlQWkFUYnpWeVZwYUlVSS1sbVk5RlZpcDZleHdwSHFhNFE4RmdHYzVNQjhQX2JNeDJuRHlYV1RXU2pHTHY4eDhSV1ZGa0VVQVhlNHRWb19iYm1LT2dvaWZYMktQZGhPNk5SY0RyejFzbU1LTEdyVVV6Y0tnR3RheWg3QzFhV0V5RlB3SEFqRUVzVXA2Z9IB5gFBVV95cUxPVGpEbjVnS3pKaG55M0tZU1FkMnRUUHg0YVdDZUY2MElFT0pMYXV4Wm16SjZEMDVyTGpkSEYtcUR4a1JXT0NRYUpyTTRxRXlKVHpHZjdMQ2JTX0doMVZTb2NIRDRsdHhfcWVtTUQ0eDRjalVOR1I1MUVYeFk1RlRyRVFxNTF1MjQ5b3REZ2J1OFVrUV90anZaOGJNNzJJQktKUHBRdmp3aHNSR3V5WGhqeUc0Z3hBSzVrUUJST1l2XzFCTFNDWVdta3JvT21nV3ROUG9MRnZfN0ZvSzdGcURQaXNSZ0NCdw?oc=5",
-    "local": "Nova Lima",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.98715,
-    "lng": -43.84492,
-    "hora": "Há 2h",
-    "recente": true
-  },
-  {
-    "id": 349,
-    "data_dia": "2026-10-13",
-    "titulo": "Incêndio atinge casa de três andares na Região de Venda Nova, em Belo Horizonte - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0FNYkRJZnMybW1fMWxFQmRpOGt1WXdmWUdueV8xQU1SWE52OEVzbFJpU1NuRzltR0xWcXFBU1NlcnFMcVlYYXhuMkd1T3VHRWpPSWV0MEZESW5hVE1paFprUTctOExDMFVKNWhrWFkwWEFUWmZBMENQNF9EZjQxOWx5M3JoV1FETDFpMVZ5RC1EejdUZWJ2aVpKZmZWQ2N0SnBwX09YTG9QOU1wVm0yMjJWeVVhQ2hnUmI5OFA5MktDLTg?oc=5",
-    "local": "Belo Horizonte",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92179,
-    "lng": -43.94279,
-    "hora": "Há 40 min",
-    "recente": true
-  },
-  {
-    "id": 346,
-    "data_dia": "2026-10-13",
-    "titulo": "Vídeo: incêndio atinge Terra Indígena Maxacali, em MG, e mobiliza o Corpo de Bombeiros - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFFTSFR1NzRHdlJuWjJETF9DeENKSlNieUxCTDRQZ2NXSlZzTTRqZGk5bDY5OERBWW1pZERlRzhsY1NIUi13TnFXRWVRcXl5MHpGNktxblFXTTYzZWxsY3U5ZjhuakhQZUNHZGk4Umg3LUc5ckNGS0RQa18xT2lTTW1VX0xKWUVEQzk5SExRelU5SC1fQ0VwR1oteklxVWNTLTc4OXpmV3NsdWNvRmRXWlUwSnQ3SkJTX19CcmNXU2FPUGo4MDZDUGF3?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92336,
-    "lng": -43.94463,
-    "hora": "Há 3h",
     "recente": true
   }
 ]
