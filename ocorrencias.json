@@ -2,6 +2,32 @@
   {
     "id": 501,
     "data_dia": "2026-11-21",
+    "titulo": "Incêndio em residência mobiliza bombeiros no bairro Vila Betânia, em Alfenas - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRG1EbnZqdjFabldoMHJZeVE2VjBTVDE3eHBIb2R4Q1kwM2N6dTNWdzVYVDBYeTVwZElHNkIwdGNsSVpLS0ludnV3YUFWX1h5WnF6MWlyZmRBRzBOSkFoclZrQXdQeEJwb1FUMmJ4ZGl4Y21zTXdhNUNnZzQ0bGVUbUZJenhGMUdWQWQ0enVRTzR6REN3MlJneEtqbzBQdGJLd0Ewa3owRXloNmJaYjF0S1BxU2s?oc=5",
+    "local": "Alfenas",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -21.43043,
+    "lng": -45.94844,
+    "hora": "Há 3h",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-21",
+    "titulo": "Três pessoas ficam feridas em batida frontal na Rodovia Padre Libério, em Minas - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGlBOWRYc2tWUjRIX056ZFBqRXZKbkc0LUJmX2lnTHY4aTZvcmhYdzRycXBDVUJWODdCaTZ5Wld5NzcyNlhGOWV1VXpNTDB6VDlvblphdFJDNzVOeTN3dVRTbE5GdjRQN0lPajJhb3VoRlB5LTNoRDU3NWh0c1hENzhXcHRtUjREMW5wWkphVVBtU3lSTlBiTldlQWtTeWQyOVpQdVRMaDRtcEE0WWlYMHBkcGo1QkZp?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "aquatico",
+    "categoria_label": "🌊 Emergência Aquática",
+    "lat": -19.92011,
+    "lng": -43.94272,
+    "hora": "Há 9h",
+    "recente": false
+  },
+  {
+    "id": 501,
+    "data_dia": "2026-11-21",
     "titulo": "Bombeiros realizam resgate devido a enchente na zona rural de Aimorés - O Tempo",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFhuVFVFeEN3YWRaSXBQWlg3UmV2QTRVU1BGUWZrd2Z0blIxMUpJWkJmSVhtVVlWUEVTejlQM3k5M19KanpGR0FEcDNNTm5DWVNtcFhPMnZ0SDBVZVBPWE5YUXVQb2JBUzBHMWh3V21yS29DZW1jRTd0d25ZWVJwOVh2RUFVa09fNHVsVGFacDNaSWdNZFZiWVlpTXpHakd2SDJXbG1sa2MxbzFXLXZwOUk0NDM?oc=5",
     "local": "Minas Gerais",
@@ -6471,32 +6497,6 @@
     "lat": -17.69457,
     "lng": -42.51712,
     "hora": "Há 2h",
-    "recente": true
-  },
-  {
-    "id": 358,
-    "data_dia": "2026-09-18",
-    "titulo": "Incêndio atinge estabelecimento comercial na Rua Amazonas e mobiliza Corpo de Bombeiros - Folha Patense",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkUydS1jN0tRMlBtX1c4ZDVaNXBZb3JTcXVCR0JkR2thVHgyVTJfNEtjUTNSbjhJLVZ1TjlSRVFzMVEwR0dPbU1kYlpyd2NJdlFMT2tPdjVhQW9PcFl3T01OR0l3NzZva1U0MjZMZW80ODZXRVVTZ1AzS2JOUkR3VXllaEhUUHNycHVKaG1YVHpzNEN4aTVRUDEydlVZbW1KTnFqTVJDRGl6NE81b2ttYlFJZ3hpVFdIU0Jr?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92128,
-    "lng": -43.94478,
-    "hora": "18/09 04:00",
-    "recente": false
-  },
-  {
-    "id": 351,
-    "data_dia": "2026-10-14",
-    "titulo": "Incêndio em fábrica de móveis mobiliza bombeiros por três horas em MG; saiba onde - O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHduOXpSU3AyLVdabFV3OWVveV9IbFRROTV4T2lmMktZckJ6ektCNEtPemFyV29wdXlYcmlqaHh6VUxZTXV6X19xZXB5NV9ncHFGY3pFdXZ5eWlQcU5Tb3A2ZWZUSi1wQmdYaXdqWHRQNmdScTJETi03R21nMVBKZG1VQS05NWd1YVZYV3BZenlHb0JwOE9zVWt3SDBsOXZEWnNwVm5TX2VxY2tVUXhudjl0OWF6Smw4Q2tsM3ZYdTVtOFU?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92329,
-    "lng": -43.94427,
-    "hora": "Há 3h",
     "recente": true
   }
 ]
