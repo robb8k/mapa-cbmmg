@@ -1,6 +1,32 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-11-22",
+    "titulo": "Veículos batem e vão parar no pátio de posto de combustíveis em Araxá/MG; mulher fica ferida - TV KZ",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUhEcTE5QmhMako2amZ6UnNITE1ORWg1WmdjMU1TVUJDTWRyZkFmcnAzb2N3ZkRfTG5KRF9GSURVTExlMzJMMWtQZXlzaG9pcU5BNTFoOXFtVU5nUVhnc2cxODRpN0NETlNQd3MyTDgtVU1MaVZ4OHRmckJxS1E3VU1YYzJQeEtSMUtRUVFEVDhUZVdGQXdpWDVnM1hzdHRQVXlqSEJ5cDItUXlLYmtqWURfS01XT3ZpVHZkcjNWMEVSTE15ZTl4NzlNenEwTm8?oc=5",
+    "local": "Araxá",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.60008,
+    "lng": -46.94365,
+    "hora": "Há 33 min",
+    "recente": true
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-11-21",
+    "titulo": "Colisão entre duas caminhonetes deixa três mortos e dois feridos na MG-410, em Presidente Olegário - BH 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3JFQTFWWnE5aGttSmhSZlUxNGtQenRNcW11VlBEem1WZElLRE9qZ2RwMUllc1dzaFZvcUQ3Yl9kd1p0QnZTcGN6Q3ZNc01NV1FLWElxbkVfRUdUSExVOVZHUlh6eG1BbDJtUXNQY1JyZ1l5QXBrU0hLcy02aVNzWTNwLXBVaEpHMTA1Nl9XM1ZteHNwbnNJVno2Qm5YcHZiOUZ2RG84bk95azBfZW5BX2ZuRDhod0xWcmdoQXhBNjY0OHBCNzVCbzNnaDdsU3hHRUE?oc=5",
+    "local": "MG-410 • Presidente Olegário",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -18.07637,
+    "lng": -46.45472,
+    "hora": "Há 12h",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-11-21",
     "titulo": "Incêndio em residência mobiliza bombeiros no bairro Vila Betânia, em Alfenas - BH 24 Horas",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRG1EbnZqdjFabldoMHJZeVE2VjBTVDE3eHBIb2R4Q1kwM2N6dTNWdzVYVDBYeTVwZElHNkIwdGNsSVpLS0ludnV3YUFWX1h5WnF6MWlyZmRBRzBOSkFoclZrQXdQeEJwb1FUMmJ4ZGl4Y21zTXdhNUNnZzQ0bGVUbUZJenhGMUdWQWQ0enVRTzR6REN3MlJneEtqbzBQdGJLd0Ewa3owRXloNmJaYjF0S1BxU2s?oc=5",
@@ -6470,32 +6496,6 @@
     "categoria_label": "🔥 Incêndio",
     "lat": -19.92107,
     "lng": -43.9427,
-    "hora": "Há 2h",
-    "recente": true
-  },
-  {
-    "id": 356,
-    "data_dia": "2026-10-14",
-    "titulo": "Carreta tomba e pega fogo na BR-381, em Caeté, na Grande BH - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2lwNXE1UHRDRzFTZDYzSUplUDJwSXg3SHItLUZtVFVYTzU5VFB3QVItZnRRZUNIUHJqYlZTMUFNZTBoNnlkdzdJMEQ2UnFFUmg0Q2d2cXBFV0Iwel9vT1p2LXBFcnc1ZzdPVDJFaWtPRnZpV3JrUFFpNmlVbzBuTEVfQnA2NzBnVHQ4dDlRbHpUZW1KeVd0QTcyQWlOUQ?oc=5",
-    "local": "BR-381 • Caeté",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.78937,
-    "lng": -43.6827,
-    "hora": "Há 3h",
-    "recente": true
-  },
-  {
-    "id": 357,
-    "data_dia": "2026-10-14",
-    "titulo": "Prefeitura de Capelinha lamenta mortes em acidente entre carreta e van que transportava pacientes - Rádio Itatiaia",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOUVGbHNWWUpPY3JVTm5STU4wU2tveGNEZXpnY0hRT1cwbnpVVWxDUWl5WmZlS3duek5Td09wUkN3Z2xZTExLcmUwNFZzV3k0bGFIb25YcVB1eVROdklIakNUYks2bEJtb2w0VnlnNmotSml5T2NoeXAzY3drRzFpRkVjbDJ0eVVwQV9RMlJEZ3kzZzZNS0hJYXM0eVN1Z3ZwcnRQRHRZaUVua002RVZ1RjJwUVJJXzZVR1c2UU44WFplQ1VuM2xldXItRm16RTZST3l1MGw4UmlVZW9v?oc=5",
-    "local": "Capelinha",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -17.69457,
-    "lng": -42.51712,
     "hora": "Há 2h",
     "recente": true
   }
