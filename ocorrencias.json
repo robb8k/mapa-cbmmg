@@ -1,6 +1,58 @@
 [
   {
     "id": 501,
+    "data_dia": "2026-09-04",
+    "titulo": "Incêndio atinge bananal de 12 hectares e mobiliza bombeiros por nove horas em Janaúba - G1",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdC1HUEp4NUVJZVBrQWZncUFjekRPVnhsbzJGX243Y3hSWlZfWnlSeXQycEZaUkRHcHp2eXJTUjNmQmgtbG1zWG96YWpNVzBZVEVZbXRvSjdjeXRSV01UenNWU18tS05zRWRsM3hXUTdvdDRUVDd3WFdRaE9LODRGeGp2MlViMFZFSUtCOEE2ZnU1bEdERWxuV2h2NXJ3eTBFaXl5M2swM2p6anRvNVZrNWVoZEQ1VDE4T2Z6TmEwSlB6RWNEWDlzVFNDQzQtN3NnczFWR1YwU00tczc1Qnc2b9IB7wFBVV95cUxPOUlUTFRyMEMya2s2YThOV0lCY0JVRDZYeElPUUJTV2lHT25kY3BHXzlpd2hqUlNER2Q1eVNXek9vN25qdzZxYkJTU3JGQ3BjWHE2UU5nbmlyczVxbHZJbEV6dVZCX0JDWlFaWlBwQWxGX3pVOHk1Tk8yU2FOMkRUQldSWnl3b3NBcTFkMjdESUFZMFhmTFJwWmFZb205RzYyNEZTWThkUzZyQnkxWEJvLVRSN3o5Zk83Q0tjeEtVVEJBbnl1bE5aSzRtZzRCZEt5VGlZNy1PcGtnVlBLNjVaMkxVdXZnbVpfbDhqTE1oYw?oc=5",
+    "local": "Janaúba",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -15.81109,
+    "lng": -43.30721,
+    "hora": "04/09 04:00",
+    "recente": false
+  },
+  {
+    "id": 502,
+    "data_dia": "2026-06-26",
+    "titulo": "Bombeiros de Minas embarcam para missão de busca e salvamento na Venezuela após terremotos - BHAZ",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSE55UlE2UkdRNlZpeVFXV1dDczh5djM3YTdFRUV5VjdJZEJWUzJIbE9UMVBrQU8temZ6bDZJVzlORkhOcDFXQnpoUldqQ0NpVkI5dXZKOVkwbW83dzF0R0lsTUk0VW9SSVBtamNhQWw5OUxVR3ZhNHR2RHdSdWpjXw?oc=5",
+    "local": "Minas Gerais",
+    "categoria": "geral",
+    "categoria_label": "⚠️ Emergência Geral",
+    "lat": -19.92224,
+    "lng": -43.94379,
+    "hora": "26/06 04:00",
+    "recente": false
+  },
+  {
+    "id": 503,
+    "data_dia": "2026-04-21",
+    "titulo": "Seis pessoas da mesma família morrem em acidente na BR-251 em MG - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejV1WnNtalpxaVQtQ25remdvU0dRMlNVOVZhelNqS0hpdFNFWHFQeEtuekdSY0swMzFpbG83U3ZKbHY0ajltQ0RPSDgzZlBrczhmZ1kwbUUybXZGRXlqU0NoX1RMY3hVS05LLVdJUDJMZExBNE9kVEJyMmRESm1INGRJVXl6N0hNQTVERWVrQ25wOVM4TUFHR1RuRWZCZjloTmFYS1BPVkZjNTVCaXJVTmJOa25CTzdRMlc4?oc=5",
+    "local": "Trecho BR-251",
+    "categoria": "acidente",
+    "categoria_label": "🚗 Acidente / Trânsito",
+    "lat": -16.32978,
+    "lng": -46.94014,
+    "hora": "21/04 04:00",
+    "recente": false
+  },
+  {
+    "id": 504,
+    "data_dia": "2026-05-14",
+    "titulo": "Um capitão do Corpo de Bombeiros Militar de Minas Gerais evitou danos maiores durante um incêndio em uma Kombi na manhã da última sexta-feira (08), em Belo Horizonte. A ocorrência foi registrada na Rua Expedicionário Raciopi, ao lado da Praça da P - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MZEF1UkZERURoaEdENE44cGhCVjE2Q3N6UlhKc2RCLWZiQklfUWU3MVhqUHpJUlZPUDhqTzNqN2ZRT0FjaHliN01uNkVZb1JiZVN3dFRR?oc=5",
+    "local": "Belo Horizonte",
+    "categoria": "incendio",
+    "categoria_label": "🔥 Incêndio",
+    "lat": -19.922,
+    "lng": -43.94541,
+    "hora": "14/05 04:00",
+    "recente": false
+  },
+  {
+    "id": 501,
     "data_dia": "2026-10-27",
     "titulo": "Bombeiros socorrem feridos durante as manifestações próximas ao Mineirão - Agência Minas",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQjlVbDJNMkFDUEJmYmtrVkw1QWxvbUtESklqSzR3cmNpYnV1TmI3QUZMYlVJYkJndFFYMzRDdFVpY3BXTnR1VUdQdmV4bnE0MTlteE1RWS1xZ0lQanhQLVU5WjRUalh4R2VNYUVxaG0tb1dSY0R1UGVhRTVQeFRBVEktZ0gwcngweUI4OFV0U2wzRVItMEVVV2NDdEV2aVlnNWpIZzFqQ2tlVHZQZk83SVBYWkZmUU0tMkVEd0dTSk1HSDI1cTZKWUY5UUtNLTg?oc=5",
@@ -6445,58 +6497,6 @@
     "lat": -19.97329,
     "lng": -44.17981,
     "hora": "18/02 05:00",
-    "recente": false
-  },
-  {
-    "id": 444,
-    "data_dia": "2025-04-08",
-    "titulo": "Acidente de ônibus deixa ao menos 10 mortos em Minas Gerais - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHkwZzNtODdxQ2ZfbjVQc2pJc01haE50U1NvOFZrZFBMcW5RVnRPam52NEFBZTlia1I3VzdmcEQtS0VOdFV3V1l4THpfeU54bldlbmZnNDFNQ0xxYUZtUFBva2VmZUl1b0JULVVMMGZwTGF1UmNCeWw1RVdxV1BSYjZad01LaHZhV2ZGaHN6aExveDVBQnZPRzJ5bkg0cVlmUkZodm91TTVsTDlSN0V2ckhYc3M?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "acidente",
-    "categoria_label": "🚗 Acidente / Trânsito",
-    "lat": -19.92103,
-    "lng": -43.94265,
-    "hora": "08/04 04:00",
-    "recente": false
-  },
-  {
-    "id": 445,
-    "data_dia": "2023-03-22",
-    "titulo": "Incêndio atinge Instituto de Educação de Minas Gerais; escola é uma das tradicionais de Belo Horizonte - G1",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOGg5ZHdwY1FfRmhVdEt3TW1hMkVyRDYwT2pnRTZPTzBRVExHRV9jZUd2VVNZbzdnVjc4dW1Uajh5cDl5UnhfZFByLTZGMXJKUjBOMFpIT3NlRWFTcjkyWTlwd0ZMRHN6d3RqRVM2TVBlZDliaTVzZVlLUWhLalE3WjgzZHozTGNnaWh0eHZOV3d5Nk1sdDVrZW1tRnN2RG52a1VWaldmTzlJZzY5bTFsckNzOWx6NDNBekJTbUpvdjFleElMQmxKczMxSmNPZ0RLVW9TQ1J2MXlDdEZINlJZTHBQY05vdlE5Z1hZLTRfaFF1TzFfOHlIaVdkRi1KN3fSAY4CQVVfeXFMT0FLdzhKajBlbjd4UkR6elVfQ3R1UGdmS1BJY3pBSWF4bWFGc0lWT3p5b2g5UlZjbFdvUVdjYTZQaXkyNVpUSnFQTEtORW8zMVRlcjlTb2h2NVpQc2Y0d3gtQzdkUW9wNDdrb3A3ZFdveDV1dmlYeWkxYjdxSDdyMVdXNjhEMm9OZFhwbXJJWV9fc2wxVjVQMlpkSUNBamJZNUpVb3FXeWJCWEJDWnJWdWQtZUd0Vk5ueDN6Um93MDhqS243d3ZOYzJzWFJlWFBfUGRTVUlXRk9CXzZaeXd3em9BcTA2S0hnWWQ2TTVhMmpzYUtSY0JVcU5zSDhjcHFROXMtR1JPMzZkWU9DcFR3?oc=5",
-    "local": "Belo Horizonte",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.92123,
-    "lng": -43.94427,
-    "hora": "22/03 04:00",
-    "recente": false
-  },
-  {
-    "id": 446,
-    "data_dia": "2019-07-09",
-    "titulo": "Bombeiros terão EPI para combate a incêndio - Portal da Assembleia Legislativa de Minas Gerais",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWJzV1ZyeFNMZlljWlRQeXVlX29wajl6WDM2M0d2aEtaNGhiXzAwTV85TFdYa0hwWF9ldVpiNUtlRlpzYXN6dm1EMDVhRTV0RmhaUzVIeFpCeVdhQkZGd0ZBQzE4alQ1MlBjY0pIbWJxelZ3aFY0TFJNZW5Dc0ZBYmt3UTIxSHFTTnlzVEIxMWV5WElKMGVnZXVNczYyZw?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "incendio",
-    "categoria_label": "🔥 Incêndio",
-    "lat": -19.9239,
-    "lng": -43.94275,
-    "hora": "09/07 04:00",
-    "recente": false
-  },
-  {
-    "id": 447,
-    "data_dia": "2022-01-09",
-    "titulo": "Capitólio: Corpo de Bombeiros confirma 10 mortos após queda de paredão - G1",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXhLQ2hGTS1xUTZjYXl6d0JLNHVJbGxoLXhjTzhzQlQwaEkzZ3o5UVBCaHhvdDg4enZIczQ5aUs4WUJpOHVEUFhOQWtjSUpWLVpnZW54UWdlM1V6NG1xa3lLaDRiTmxkbU9DMWY4ZHF0Tk42VUtQZEVfYkQwSGVkSi1fSHhtZGFFUG1VcFFBRk9SNTBCYW9oQ1AxQlRmWUNCUlRqUVg0RUFNT3JROUlpX09vM2h0RVMwRElUMk9obC1XV25sVG1fZ0J6Z9IB2gFBVV95cUxPbWFyeDZpdjJwNVBDS0V2SmtyNWJUUzhpQlBvQUFtU0piZWFGS0NFOEkxZ1VDc016Y3Y4a1A2YUhkY2lEdDJiZE91ZE4zV3VZcU1WVWd1UEx2aUQ0UDNTdlRJbHBxbldlUjA5LUZoUXhubk5MajBwWHlXWWdHc2pIWTZWS3p6TUV2SFVaZFlCYUFUU1FQTjlIV0tjdThFZnBvSzJFU1VrUzItMXF3SEpHbDI0Nk9zN3J6Si1taDA3ZTRGOVJWbUR1cVVJTFk5QUM1Y0tPMl9rN1dTQQ?oc=5",
-    "local": "Minas Gerais",
-    "categoria": "geral",
-    "categoria_label": "⚠️ Emergência Geral",
-    "lat": -19.92146,
-    "lng": -43.94353,
-    "hora": "09/01 05:00",
     "recente": false
   }
 ]
